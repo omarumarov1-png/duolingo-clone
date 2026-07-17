@@ -21145,6 +21145,1622 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tj-a1-topic-81",
+            "number": 105,
+            "title": "The Mountains",
+            "description": "The Mountains — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Кӯҳҳо баланд ва зебоянд.",
+                "options": [
+                  "We set up a tent at the foot of the mountain.",
+                  "We hiked to the mountain.",
+                  "Mountains are tall and beautiful.",
+                  "I love the mountains."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "There is snow on the mountain.",
+                "bank": [
+                  "Дар",
+                  "барф",
+                  "ҳаст",
+                  "кӯҳ"
+                ],
+                "answer": [
+                  "Дар",
+                  "кӯҳ",
+                  "барф",
+                  "ҳаст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо ба кӯҳ сайр кардем.",
+                "options": [
+                  "A small river flows from the mountain.",
+                  "I love the mountains.",
+                  "We hiked to the mountain.",
+                  "The mountain road is difficult."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The mountain air is fresh.",
+                "bank": [
+                  "Ҳавои",
+                  "аст",
+                  "кӯҳ",
+                  "тоза"
+                ],
+                "answer": [
+                  "Ҳавои",
+                  "кӯҳ",
+                  "тоза",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дарёи хурд аз кӯҳ мебарояд.",
+                "options": [
+                  "A small river flows from the mountain.",
+                  "The mountain road is difficult.",
+                  "We saw the view from the top of the mountain.",
+                  "We set up a tent at the foot of the mountain."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We saw the view from the top of the mountain.",
+                "bank": [
+                  "аз",
+                  "Мо",
+                  "дидем",
+                  "манзараро",
+                  "кӯҳ",
+                  "болои"
+                ],
+                "answer": [
+                  "Мо",
+                  "аз",
+                  "болои",
+                  "кӯҳ",
+                  "манзараро",
+                  "дидем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Кӯҳҳои Тоҷикистон бисёранд.",
+                "options": [
+                  "A small river flows from the mountain.",
+                  "The mountains of Tajikistan are many.",
+                  "Mountains are tall and beautiful.",
+                  "We saw the view from the top of the mountain."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We set up a tent at the foot of the mountain.",
+                "bank": [
+                  "задем",
+                  "дар",
+                  "хайма",
+                  "кӯҳ",
+                  "домани",
+                  "Мо"
+                ],
+                "answer": [
+                  "Мо",
+                  "дар",
+                  "домани",
+                  "кӯҳ",
+                  "хайма",
+                  "задем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Роҳи кӯҳ душвор аст.",
+                "options": [
+                  "Mountains are tall and beautiful.",
+                  "I love the mountains.",
+                  "There is snow on the mountain.",
+                  "The mountain road is difficult."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I love the mountains.",
+                "bank": [
+                  "дӯст",
+                  "Ман",
+                  "кӯҳро",
+                  "медорам"
+                ],
+                "answer": [
+                  "Ман",
+                  "кӯҳро",
+                  "дӯст",
+                  "медорам"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a1-topic-82",
+            "number": 106,
+            "title": "The River",
+            "description": "The River — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дарё аз назди хонаи мо мегузарад.",
+                "options": [
+                  "Children play in the river.",
+                  "We sat on the riverbank.",
+                  "A river flows near our house.",
+                  "We take water from the river."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The river water is clean.",
+                "bank": [
+                  "дарё",
+                  "аст",
+                  "тоза",
+                  "Оби"
+                ],
+                "answer": [
+                  "Оби",
+                  "дарё",
+                  "тоза",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо дар дарё моҳӣ мегирем.",
+                "options": [
+                  "Children play in the river.",
+                  "The river freezes in winter.",
+                  "The river gives life to the village.",
+                  "We catch fish in the river."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Children play in the river.",
+                "bank": [
+                  "мекунанд",
+                  "бозӣ",
+                  "дар",
+                  "Кӯдакон",
+                  "дарё"
+                ],
+                "answer": [
+                  "Кӯдакон",
+                  "дар",
+                  "дарё",
+                  "бозӣ",
+                  "мекунанд"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дарё тобистон хушк мешавад.",
+                "options": [
+                  "Children play in the river.",
+                  "We sat on the riverbank.",
+                  "The river water is clean.",
+                  "The river dries up in summer."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We take water from the river.",
+                "bank": [
+                  "аз",
+                  "об",
+                  "дарё",
+                  "мегирем",
+                  "Мо"
+                ],
+                "answer": [
+                  "Мо",
+                  "аз",
+                  "дарё",
+                  "об",
+                  "мегирем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дарё дар зимистон ях мебандад.",
+                "options": [
+                  "The river freezes in winter.",
+                  "The river dries up in summer.",
+                  "Children play in the river.",
+                  "The river water is clean."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We sat on the riverbank.",
+                "bank": [
+                  "нишастем",
+                  "Мо",
+                  "соҳили",
+                  "дар",
+                  "дарё"
+                ],
+                "answer": [
+                  "Мо",
+                  "дар",
+                  "соҳили",
+                  "дарё",
+                  "нишастем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Оби дарё тез равон аст.",
+                "options": [
+                  "A river flows near our house.",
+                  "The river water is clean.",
+                  "We sat on the riverbank.",
+                  "The river water flows fast."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The river gives life to the village.",
+                "bank": [
+                  "ба",
+                  "Дарё",
+                  "медиҳад",
+                  "зиндагиро",
+                  "деҳа"
+                ],
+                "answer": [
+                  "Дарё",
+                  "зиндагиро",
+                  "ба",
+                  "деҳа",
+                  "медиҳад"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a1-topic-83",
+            "number": 107,
+            "title": "Simple Prepositions",
+            "description": "Simple Prepositions — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Китоб дар рӯи миз аст.",
+                "options": [
+                  "The book is on the table.",
+                  "I go with my friend.",
+                  "I am at home.",
+                  "The school is next to the market."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The cat is under the chair.",
+                "bank": [
+                  "курсӣ",
+                  "аст",
+                  "дар",
+                  "Гурба",
+                  "зери"
+                ],
+                "answer": [
+                  "Гурба",
+                  "дар",
+                  "зери",
+                  "курсӣ",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман дар хона ҳастам.",
+                "options": [
+                  "The school is next to the market.",
+                  "I am at home.",
+                  "We go from home to school.",
+                  "I go without hurry."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The school is next to the market.",
+                "bank": [
+                  "Мактаб",
+                  "дар",
+                  "бозор",
+                  "паҳлуи",
+                  "аст"
+                ],
+                "answer": [
+                  "Мактаб",
+                  "дар",
+                  "паҳлуи",
+                  "бозор",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо аз хона ба мактаб меравем.",
+                "options": [
+                  "The school is next to the market.",
+                  "I go without hurry.",
+                  "We go from home to school.",
+                  "We go to the garden."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The flower is between the books.",
+                "bank": [
+                  "Гул",
+                  "дар",
+                  "аст",
+                  "китобҳо",
+                  "байни"
+                ],
+                "answer": [
+                  "Гул",
+                  "дар",
+                  "байни",
+                  "китобҳо",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман бо дӯстам меравам.",
+                "options": [
+                  "We go to the garden.",
+                  "I go without hurry.",
+                  "I go with my friend.",
+                  "The flower is between the books."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We go to the garden.",
+                "bank": [
+                  "боғ",
+                  "ба",
+                  "Мо",
+                  "меравем"
+                ],
+                "answer": [
+                  "Мо",
+                  "ба",
+                  "боғ",
+                  "меравем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мошин дар пеши хона аст.",
+                "options": [
+                  "I go with my friend.",
+                  "The cat is under the chair.",
+                  "I am at home.",
+                  "The car is in front of the house."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I go without hurry.",
+                "bank": [
+                  "меравам",
+                  "бе",
+                  "Ман",
+                  "шитоб"
+                ],
+                "answer": [
+                  "Ман",
+                  "бе",
+                  "шитоб",
+                  "меравам"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a1-topic-84",
+            "number": 108,
+            "title": "My Grandmother's Stories",
+            "description": "My Grandmother's Stories — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Бибиям ба ман қисса нақл мекунад.",
+                "options": [
+                  "My grandmother has a gentle voice.",
+                  "My favorite story is about a hero.",
+                  "My grandmother's stories are very interesting.",
+                  "My grandmother tells me a story."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I listen to her story at night.",
+                "bank": [
+                  "ӯро",
+                  "Ман",
+                  "шабона",
+                  "қиссаи",
+                  "мешунавам"
+                ],
+                "answer": [
+                  "Ман",
+                  "шабона",
+                  "қиссаи",
+                  "ӯро",
+                  "мешунавам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Қиссаҳои бибиям хеле ҷолибанд.",
+                "options": [
+                  "She tells about her past.",
+                  "My grandmother has a gentle voice.",
+                  "My grandmother's stories are very interesting.",
+                  "I love her stories."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "She tells about her past.",
+                "bank": [
+                  "дар",
+                  "Ӯ",
+                  "худ",
+                  "гузаштаи",
+                  "мекунад",
+                  "бораи",
+                  "нақл"
+                ],
+                "answer": [
+                  "Ӯ",
+                  "дар",
+                  "бораи",
+                  "гузаштаи",
+                  "худ",
+                  "нақл",
+                  "мекунад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман қиссаҳои ӯро дӯст медорам.",
+                "options": [
+                  "I love her stories.",
+                  "My grandmother's stories are very interesting.",
+                  "She tells about her past.",
+                  "I listen to her story at night."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "My grandmother has a gentle voice.",
+                "bank": [
+                  "Бибиям",
+                  "мулоим",
+                  "овози",
+                  "дорад"
+                ],
+                "answer": [
+                  "Бибиям",
+                  "овози",
+                  "мулоим",
+                  "дорад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ҳар қисса дарси хубе дорад.",
+                "options": [
+                  "Every story has a good lesson.",
+                  "My favorite story is about a hero.",
+                  "I listen carefully to my grandmother's stories.",
+                  "My grandmother tells me a story."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I listen carefully to my grandmother's stories.",
+                "bank": [
+                  "мекунам",
+                  "диққат",
+                  "гӯш",
+                  "қиссаҳои",
+                  "бибиям",
+                  "ба",
+                  "бо",
+                  "Ман"
+                ],
+                "answer": [
+                  "Ман",
+                  "ба",
+                  "қиссаҳои",
+                  "бибиям",
+                  "бо",
+                  "диққат",
+                  "гӯш",
+                  "мекунам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Қиссаи дӯстдоштаи ман дар бораи як паҳлавон аст.",
+                "options": [
+                  "My grandmother has a gentle voice.",
+                  "I listen to her story at night.",
+                  "My favorite story is about a hero.",
+                  "My grandmother tells me a story."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We listen to stories together on long nights.",
+                "bank": [
+                  "дароз",
+                  "мешунавем",
+                  "якҷоя",
+                  "Мо",
+                  "қисса",
+                  "шабҳои"
+                ],
+                "answer": [
+                  "Мо",
+                  "шабҳои",
+                  "дароз",
+                  "якҷоя",
+                  "қисса",
+                  "мешунавем"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a1-topic-85",
+            "number": 109,
+            "title": "The Fire",
+            "description": "The Fire — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо дар ҳавлӣ оташ даргиронидем.",
+                "options": [
+                  "Fire can be dangerous.",
+                  "The fire is warm.",
+                  "We lit a fire in the yard.",
+                  "The fire cooks the food."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The fire is warm.",
+                "bank": [
+                  "гарм",
+                  "Оташ",
+                  "аст"
+                ],
+                "answer": [
+                  "Оташ",
+                  "гарм",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо дар атрофи оташ нишастем.",
+                "options": [
+                  "The fire cooks the food.",
+                  "Fire can be dangerous.",
+                  "We sat around the fire.",
+                  "Fire warms us in winter."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The fire cooks the food.",
+                "bank": [
+                  "хӯрокро",
+                  "мепазад",
+                  "Оташ"
+                ],
+                "answer": [
+                  "Оташ",
+                  "хӯрокро",
+                  "мепазад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Бо оташ бояд эҳтиёткор буд.",
+                "options": [
+                  "The fire cooks the food.",
+                  "We added wood to the fire.",
+                  "Fire warms us in winter.",
+                  "One must be careful with fire."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Fire warms us in winter.",
+                "bank": [
+                  "мекунад",
+                  "дар",
+                  "зимистон",
+                  "Оташ",
+                  "моро",
+                  "гарм"
+                ],
+                "answer": [
+                  "Оташ",
+                  "дар",
+                  "зимистон",
+                  "моро",
+                  "гарм",
+                  "мекунад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо ҳезум ба оташ илова кардем.",
+                "options": [
+                  "We added wood to the fire.",
+                  "We sat around the fire.",
+                  "Fire can be dangerous.",
+                  "We lit a fire in the yard."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Fire gives light.",
+                "bank": [
+                  "Оташ",
+                  "медиҳад",
+                  "рӯшноӣ"
+                ],
+                "answer": [
+                  "Оташ",
+                  "рӯшноӣ",
+                  "медиҳад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Оташ хатарнок буда метавонад.",
+                "options": [
+                  "The fire cooks the food.",
+                  "Fire gives light.",
+                  "Fire can be dangerous.",
+                  "We added wood to the fire."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We put out the fire with water.",
+                "bank": [
+                  "бо",
+                  "хомӯш",
+                  "об",
+                  "кардем",
+                  "оташро",
+                  "Мо"
+                ],
+                "answer": [
+                  "Мо",
+                  "оташро",
+                  "бо",
+                  "об",
+                  "хомӯш",
+                  "кардем"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a1-topic-86",
+            "number": 110,
+            "title": "Water and the Well",
+            "description": "Water and the Well — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дар деҳаи мо чоҳ ҳаст.",
+                "options": [
+                  "There is a well in our village.",
+                  "The well is in the middle of the village.",
+                  "Water is important for life.",
+                  "We save water."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We take water from the well.",
+                "bank": [
+                  "чоҳ",
+                  "об",
+                  "мегирем",
+                  "аз",
+                  "Мо"
+                ],
+                "answer": [
+                  "Мо",
+                  "аз",
+                  "чоҳ",
+                  "об",
+                  "мегирем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Оби чоҳ хунук ва тоза аст.",
+                "options": [
+                  "Water is important for life.",
+                  "We save water.",
+                  "The well water is cold and clean.",
+                  "We take water from the well."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "My grandmother brings water every day.",
+                "bank": [
+                  "рӯз",
+                  "меорад",
+                  "об",
+                  "ҳар",
+                  "Бибиям"
+                ],
+                "answer": [
+                  "Бибиям",
+                  "ҳар",
+                  "рӯз",
+                  "об",
+                  "меорад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Об барои зиндагӣ муҳим аст.",
+                "options": [
+                  "There is a well in our village.",
+                  "Water is a great blessing.",
+                  "The well is in the middle of the village.",
+                  "Water is important for life."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We put the water in a jug.",
+                "bank": [
+                  "Мо",
+                  "дар",
+                  "обро",
+                  "мегузорем",
+                  "кӯза"
+                ],
+                "answer": [
+                  "Мо",
+                  "обро",
+                  "дар",
+                  "кӯза",
+                  "мегузорем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Чоҳ дар мобайни деҳа аст.",
+                "options": [
+                  "We save water.",
+                  "The well is in the middle of the village.",
+                  "My grandmother brings water every day.",
+                  "The well water is cold and clean."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We save water.",
+                "bank": [
+                  "мекунем",
+                  "об",
+                  "Мо",
+                  "сарфа"
+                ],
+                "answer": [
+                  "Мо",
+                  "об",
+                  "сарфа",
+                  "мекунем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ҳар хона ба об ниёз дорад.",
+                "options": [
+                  "There is a well in our village.",
+                  "The well is in the middle of the village.",
+                  "Every house needs water.",
+                  "Water is important for life."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Water is a great blessing.",
+                "bank": [
+                  "неъмати",
+                  "бузург",
+                  "Об",
+                  "аст"
+                ],
+                "answer": [
+                  "Об",
+                  "неъмати",
+                  "бузург",
+                  "аст"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a1-topic-87",
+            "number": 111,
+            "title": "Helping Others",
+            "description": "Helping Others — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман ба ҳамсоягонам кӯмак мекунам.",
+                "options": [
+                  "I carry my mother's load.",
+                  "Helping is a good quality.",
+                  "Helping makes us happy.",
+                  "I help my neighbors."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We help the elderly.",
+                "bank": [
+                  "мекунем",
+                  "Мо",
+                  "кӯмак",
+                  "ба",
+                  "пиронсолон"
+                ],
+                "answer": [
+                  "Мо",
+                  "ба",
+                  "пиронсолон",
+                  "кӯмак",
+                  "мекунем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Кӯмак кардан хислати хуб аст.",
+                "options": [
+                  "Helping others is a good deed.",
+                  "Helping is a good quality.",
+                  "We help the elderly.",
+                  "We provide help to the poor."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I carry my mother's load.",
+                "bank": [
+                  "бори",
+                  "модарамро",
+                  "мебардорам",
+                  "Ман"
+                ],
+                "answer": [
+                  "Ман",
+                  "бори",
+                  "модарамро",
+                  "мебардорам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо якдигарро дар кор кӯмак мекунем.",
+                "options": [
+                  "Helping others is a good deed.",
+                  "We help each other with work.",
+                  "I carry my mother's load.",
+                  "Helping makes us happy."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Children help the teacher.",
+                "bank": [
+                  "Кӯдакон",
+                  "кӯмак",
+                  "ба",
+                  "мекунанд",
+                  "муаллим"
+                ],
+                "answer": [
+                  "Кӯдакон",
+                  "ба",
+                  "муаллим",
+                  "кӯмак",
+                  "мекунанд"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман ба бародарам дар дарс кӯмак кардам.",
+                "options": [
+                  "Helping makes us happy.",
+                  "I helped my brother with homework.",
+                  "Children help the teacher.",
+                  "Helping others is a good deed."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Helping makes us happy.",
+                "bank": [
+                  "моро",
+                  "хушбахт",
+                  "Кӯмак",
+                  "мекунад",
+                  "кардан"
+                ],
+                "answer": [
+                  "Кӯмак",
+                  "кардан",
+                  "моро",
+                  "хушбахт",
+                  "мекунад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо ба камбағалон кӯмак мерасонем.",
+                "options": [
+                  "We provide help to the poor.",
+                  "We help the elderly.",
+                  "Children help the teacher.",
+                  "We help each other with work."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Helping others is a good deed.",
+                "bank": [
+                  "Кӯмак",
+                  "дигарон",
+                  "савоб",
+                  "ба",
+                  "аст"
+                ],
+                "answer": [
+                  "Кӯмак",
+                  "ба",
+                  "дигарон",
+                  "савоб",
+                  "аст"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a1-topic-88",
+            "number": 112,
+            "title": "The Moon and Stars",
+            "description": "The Moon and Stars — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Шабона моҳ дар осмон медурахшад.",
+                "options": [
+                  "The night sky is very beautiful.",
+                  "The moon gives cold light.",
+                  "I look at the stars.",
+                  "At night the moon shines in the sky."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The stars are very many.",
+                "bank": [
+                  "хеле",
+                  "Ситораҳо",
+                  "зиёданд"
+                ],
+                "answer": [
+                  "Ситораҳо",
+                  "хеле",
+                  "зиёданд"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман ба ситораҳо нигоҳ мекунам.",
+                "options": [
+                  "I look at the stars.",
+                  "The moon is sometimes full.",
+                  "A bright star is above.",
+                  "On a cloudless night the stars are brighter."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The moon is sometimes full.",
+                "bank": [
+                  "пурра",
+                  "аст",
+                  "баъзан",
+                  "Моҳ"
+                ],
+                "answer": [
+                  "Моҳ",
+                  "баъзан",
+                  "пурра",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Шаби беабр ситораҳо равшантаранд.",
+                "options": [
+                  "The moon is sometimes full.",
+                  "I look at the stars.",
+                  "On a cloudless night the stars are brighter.",
+                  "Children count the stars."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Children count the stars.",
+                "bank": [
+                  "мешуморанд",
+                  "ситораҳоро",
+                  "Кӯдакон"
+                ],
+                "answer": [
+                  "Кӯдакон",
+                  "ситораҳоро",
+                  "мешуморанд"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Моҳ рӯшноии сард медиҳад.",
+                "options": [
+                  "A bright star is above.",
+                  "The moon gives cold light.",
+                  "The night sky is very beautiful.",
+                  "At night the moon shines in the sky."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We watched the sky at night.",
+                "bank": [
+                  "шабона",
+                  "осмонро",
+                  "Мо",
+                  "тамошо",
+                  "кардем"
+                ],
+                "answer": [
+                  "Мо",
+                  "шабона",
+                  "осмонро",
+                  "тамошо",
+                  "кардем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ситораи дурахшон дар боло аст.",
+                "options": [
+                  "A bright star is above.",
+                  "On a cloudless night the stars are brighter.",
+                  "We watched the sky at night.",
+                  "The moon gives cold light."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The night sky is very beautiful.",
+                "bank": [
+                  "зебост",
+                  "шаб",
+                  "хеле",
+                  "Осмони"
+                ],
+                "answer": [
+                  "Осмони",
+                  "шаб",
+                  "хеле",
+                  "зебост"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a1-topic-89",
+            "number": 113,
+            "title": "Getting Ready for School",
+            "description": "Getting Ready for School — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман субҳ барвақт бармехезам.",
+                "options": [
+                  "I brush my teeth.",
+                  "I take my bag.",
+                  "We leave the house together.",
+                  "I wake up early in the morning."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I put on my school uniform.",
+                "bank": [
+                  "мепӯшам",
+                  "Ман",
+                  "либоси",
+                  "мактабиро"
+                ],
+                "answer": [
+                  "Ман",
+                  "либоси",
+                  "мактабиро",
+                  "мепӯшам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Модарам барои ман наҳорӣ тайёр мекунад.",
+                "options": [
+                  "I put on my school uniform.",
+                  "We walk to school.",
+                  "My mother prepares breakfast for me.",
+                  "Getting ready for school takes time."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I take my bag.",
+                "bank": [
+                  "сумкаамро",
+                  "мегирам",
+                  "Ман"
+                ],
+                "answer": [
+                  "Ман",
+                  "сумкаамро",
+                  "мегирам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман дандонҳоямро мешӯям.",
+                "options": [
+                  "I arrive on time.",
+                  "My mother prepares breakfast for me.",
+                  "I take my bag.",
+                  "I brush my teeth."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We leave the house together.",
+                "bank": [
+                  "баробар",
+                  "Мо",
+                  "хона",
+                  "мебароем",
+                  "аз"
+                ],
+                "answer": [
+                  "Мо",
+                  "баробар",
+                  "аз",
+                  "хона",
+                  "мебароем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман китобҳоямро тафтиш мекунам.",
+                "options": [
+                  "I take my bag.",
+                  "I check my books.",
+                  "Getting ready for school takes time.",
+                  "I arrive on time."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We walk to school.",
+                "bank": [
+                  "мактаб",
+                  "ба",
+                  "пиёда",
+                  "Мо",
+                  "меравем"
+                ],
+                "answer": [
+                  "Мо",
+                  "пиёда",
+                  "ба",
+                  "мактаб",
+                  "меравем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман ба вақт мерасам.",
+                "options": [
+                  "I wake up early in the morning.",
+                  "I arrive on time.",
+                  "We leave the house together.",
+                  "I brush my teeth."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Getting ready for school takes time.",
+                "bank": [
+                  "Тайёр",
+                  "вақт",
+                  "шудан",
+                  "барои",
+                  "мактаб",
+                  "мегирад"
+                ],
+                "answer": [
+                  "Тайёр",
+                  "шудан",
+                  "барои",
+                  "мактаб",
+                  "вақт",
+                  "мегирад"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a1-topic-90",
+            "number": 114,
+            "title": "Simple Comparisons",
+            "description": "Simple Comparisons — beginner vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Фил аз саг калонтар аст.",
+                "options": [
+                  "Our house is bigger than their house.",
+                  "This road is farther than that road.",
+                  "His car is faster than my car.",
+                  "The elephant is bigger than the dog."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I am younger than my brother.",
+                "bank": [
+                  "Ман",
+                  "хурдтарам",
+                  "аз",
+                  "бародарам"
+                ],
+                "answer": [
+                  "Ман",
+                  "аз",
+                  "бародарам",
+                  "хурдтарам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ин китоб аз он китоб қалинтар аст.",
+                "options": [
+                  "This book is thicker than that book.",
+                  "I am younger than my brother.",
+                  "Our house is bigger than their house.",
+                  "This item is cheaper than that item."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "His car is faster than my car.",
+                "bank": [
+                  "аз",
+                  "Мошини",
+                  "ман",
+                  "ӯ",
+                  "аст",
+                  "мошини",
+                  "тезтар"
+                ],
+                "answer": [
+                  "Мошини",
+                  "ӯ",
+                  "аз",
+                  "мошини",
+                  "ман",
+                  "тезтар",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Кӯҳ аз теппа баландтар аст.",
+                "options": [
+                  "Today is hotter than yesterday.",
+                  "The mountain is taller than the hill.",
+                  "The elephant is bigger than the dog.",
+                  "The apple is sweeter than the lemon."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "This road is farther than that road.",
+                "bank": [
+                  "Ин",
+                  "аз",
+                  "роҳ",
+                  "роҳ",
+                  "аст",
+                  "дуртар",
+                  "он"
+                ],
+                "answer": [
+                  "Ин",
+                  "роҳ",
+                  "аз",
+                  "он",
+                  "роҳ",
+                  "дуртар",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Себ аз лимӯ ширинтар аст.",
+                "options": [
+                  "The apple is sweeter than the lemon.",
+                  "I am younger than my brother.",
+                  "The elephant is bigger than the dog.",
+                  "Today is hotter than yesterday."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Our house is bigger than their house.",
+                "bank": [
+                  "калонтар",
+                  "аз",
+                  "онҳо",
+                  "мо",
+                  "Хонаи",
+                  "аст",
+                  "хонаи"
+                ],
+                "answer": [
+                  "Хонаи",
+                  "мо",
+                  "аз",
+                  "хонаи",
+                  "онҳо",
+                  "калонтар",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Имрӯз аз дирӯз гармтар аст.",
+                "options": [
+                  "The elephant is bigger than the dog.",
+                  "Today is hotter than yesterday.",
+                  "The apple is sweeter than the lemon.",
+                  "The mountain is taller than the hill."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "This item is cheaper than that item.",
+                "bank": [
+                  "аст",
+                  "чиз",
+                  "арзонтар",
+                  "чиз",
+                  "аз",
+                  "Ин",
+                  "он"
+                ],
+                "answer": [
+                  "Ин",
+                  "чиз",
+                  "аз",
+                  "он",
+                  "чиз",
+                  "арзонтар",
+                  "аст"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21155,7 +22771,7 @@
         "lessons": [
           {
             "id": "tj-a2-1",
-            "number": 105,
+            "number": 115,
             "title": "Sentences 501–525",
             "description": "Everyday Fluency, part 1",
             "exercises": [
@@ -21571,7 +23187,7 @@
           },
           {
             "id": "tj-a2-2",
-            "number": 106,
+            "number": 116,
             "title": "Sentences 526–550",
             "description": "Everyday Fluency, part 2",
             "exercises": [
@@ -22015,7 +23631,7 @@
           },
           {
             "id": "tj-a2-3",
-            "number": 107,
+            "number": 117,
             "title": "Sentences 551–575",
             "description": "Everyday Fluency, part 3",
             "exercises": [
@@ -22531,7 +24147,7 @@
           },
           {
             "id": "tj-a2-4",
-            "number": 108,
+            "number": 118,
             "title": "Sentences 576–600",
             "description": "Everyday Fluency, part 4",
             "exercises": [
@@ -23045,7 +24661,7 @@
           },
           {
             "id": "tj-a2-5",
-            "number": 109,
+            "number": 119,
             "title": "Sentences 601–625",
             "description": "Everyday Fluency, part 5",
             "exercises": [
@@ -23531,7 +25147,7 @@
           },
           {
             "id": "tj-a2-6",
-            "number": 110,
+            "number": 120,
             "title": "Sentences 626–650",
             "description": "Everyday Fluency, part 6",
             "exercises": [
@@ -23941,7 +25557,7 @@
           },
           {
             "id": "tj-a2-7",
-            "number": 111,
+            "number": 121,
             "title": "Sentences 651–675",
             "description": "Everyday Fluency, part 7",
             "exercises": [
@@ -24427,7 +26043,7 @@
           },
           {
             "id": "tj-a2-reading-2",
-            "number": 112,
+            "number": 122,
             "title": "A Visit to My Grandmother",
             "description": "Reading comprehension: a past-tense family visit",
             "readingPassage": {
@@ -24546,7 +26162,7 @@
           },
           {
             "id": "tj-a2-8",
-            "number": 113,
+            "number": 123,
             "title": "Sentences 676–700",
             "description": "Everyday Fluency, part 8",
             "exercises": [
@@ -24996,7 +26612,7 @@
           },
           {
             "id": "tj-a2-9",
-            "number": 114,
+            "number": 124,
             "title": "Sentences 701–725",
             "description": "Everyday Fluency, part 9",
             "exercises": [
@@ -25464,7 +27080,7 @@
           },
           {
             "id": "tj-a2-10",
-            "number": 115,
+            "number": 125,
             "title": "Sentences 726–750",
             "description": "Everyday Fluency, part 10",
             "exercises": [
@@ -25920,7 +27536,7 @@
           },
           {
             "id": "tj-a2-11",
-            "number": 116,
+            "number": 126,
             "title": "Sentences 751–775",
             "description": "Everyday Fluency, part 11",
             "exercises": [
@@ -26424,7 +28040,7 @@
           },
           {
             "id": "tj-a2-12",
-            "number": 117,
+            "number": 127,
             "title": "Sentences 776–800",
             "description": "Everyday Fluency, part 12",
             "exercises": [
@@ -26884,7 +28500,7 @@
           },
           {
             "id": "tj-a2-13",
-            "number": 118,
+            "number": 128,
             "title": "Sentences 801–825",
             "description": "Everyday Fluency, part 13",
             "exercises": [
@@ -27382,7 +28998,7 @@
           },
           {
             "id": "tj-a2-reading-3",
-            "number": 119,
+            "number": 129,
             "title": "The Best Season",
             "description": "Reading comprehension: family opinions about the seasons",
             "readingPassage": {
@@ -27501,7 +29117,7 @@
           },
           {
             "id": "tj-a2-14",
-            "number": 120,
+            "number": 130,
             "title": "Sentences 826–850",
             "description": "Everyday Fluency, part 14",
             "exercises": [
@@ -27999,7 +29615,7 @@
           },
           {
             "id": "tj-a2-15",
-            "number": 121,
+            "number": 131,
             "title": "Sentences 851–875",
             "description": "Everyday Fluency, part 15",
             "exercises": [
@@ -28491,7 +30107,7 @@
           },
           {
             "id": "tj-a2-16",
-            "number": 122,
+            "number": 132,
             "title": "Sentences 876–900",
             "description": "Everyday Fluency, part 16",
             "exercises": [
@@ -28975,7 +30591,7 @@
           },
           {
             "id": "tj-a2-17",
-            "number": 123,
+            "number": 133,
             "title": "Sentences 901–925",
             "description": "Everyday Fluency, part 17",
             "exercises": [
@@ -29483,7 +31099,7 @@
           },
           {
             "id": "tj-a2-18",
-            "number": 124,
+            "number": 134,
             "title": "Sentences 926–950",
             "description": "Everyday Fluency, part 18",
             "exercises": [
@@ -29975,7 +31591,7 @@
           },
           {
             "id": "tj-a2-19",
-            "number": 125,
+            "number": 135,
             "title": "Sentences 951–975",
             "description": "Everyday Fluency, part 19",
             "exercises": [
@@ -30481,7 +32097,7 @@
           },
           {
             "id": "tj-a2-reading-4",
-            "number": 126,
+            "number": 136,
             "title": "My First Day of Work",
             "description": "Reading comprehension: starting a new job",
             "readingPassage": {
@@ -30600,7 +32216,7 @@
           },
           {
             "id": "tj-a2-20",
-            "number": 127,
+            "number": 137,
             "title": "Sentences 976–1000",
             "description": "Everyday Fluency, part 20",
             "exercises": [
@@ -31058,7 +32674,7 @@
           },
           {
             "id": "tj-a2-topic-1",
-            "number": 128,
+            "number": 138,
             "title": "Cooking",
             "description": "Cooking — everyday vocabulary and sentences",
             "exercises": [
@@ -31221,7 +32837,7 @@
           },
           {
             "id": "tj-a2-topic-2",
-            "number": 129,
+            "number": 139,
             "title": "Shopping",
             "description": "Shopping — everyday vocabulary and sentences",
             "exercises": [
@@ -31388,7 +33004,7 @@
           },
           {
             "id": "tj-a2-topic-3",
-            "number": 130,
+            "number": 140,
             "title": "Transportation",
             "description": "Transportation — everyday vocabulary and sentences",
             "exercises": [
@@ -31553,7 +33169,7 @@
           },
           {
             "id": "tj-a2-topic-4",
-            "number": 131,
+            "number": 141,
             "title": "Weather and Seasons",
             "description": "Weather and Seasons — everyday vocabulary and sentences",
             "exercises": [
@@ -31714,7 +33330,7 @@
           },
           {
             "id": "tj-a2-topic-5",
-            "number": 132,
+            "number": 142,
             "title": "Family",
             "description": "Family — everyday vocabulary and sentences",
             "exercises": [
@@ -31885,7 +33501,7 @@
           },
           {
             "id": "tj-a2-reading",
-            "number": 133,
+            "number": 143,
             "title": "My Friend Farhod",
             "description": "Reading comprehension: a friendship, a career change, and a good conversation",
             "readingPassage": {
@@ -31996,7 +33612,7 @@
           },
           {
             "id": "tj-a2-topic-6",
-            "number": 134,
+            "number": 144,
             "title": "Clothing",
             "description": "Clothing — everyday vocabulary and sentences",
             "exercises": [
@@ -32153,7 +33769,7 @@
           },
           {
             "id": "tj-a2-topic-7",
-            "number": 135,
+            "number": 145,
             "title": "Numbers and Time",
             "description": "Numbers and Time — everyday vocabulary and sentences",
             "exercises": [
@@ -32320,7 +33936,7 @@
           },
           {
             "id": "tj-a2-topic-8",
-            "number": 136,
+            "number": 146,
             "title": "School",
             "description": "School — everyday vocabulary and sentences",
             "exercises": [
@@ -32483,7 +34099,7 @@
           },
           {
             "id": "tj-a2-topic-9",
-            "number": 137,
+            "number": 147,
             "title": "Emotions",
             "description": "Emotions — everyday vocabulary and sentences",
             "exercises": [
@@ -32642,7 +34258,7 @@
           },
           {
             "id": "tj-a2-topic-10",
-            "number": 138,
+            "number": 148,
             "title": "Nature and Animals",
             "description": "Nature and Animals — everyday vocabulary and sentences",
             "exercises": [
@@ -32807,7 +34423,7 @@
           },
           {
             "id": "tj-a2-topic-11",
-            "number": 139,
+            "number": 149,
             "title": "Colors",
             "description": "Colors — everyday vocabulary and sentences",
             "exercises": [
@@ -32974,7 +34590,7 @@
           },
           {
             "id": "tj-a2-topic-12",
-            "number": 140,
+            "number": 150,
             "title": "Body Parts",
             "description": "Body Parts — everyday vocabulary and sentences",
             "exercises": [
@@ -33137,7 +34753,7 @@
           },
           {
             "id": "tj-a2-topic-13",
-            "number": 141,
+            "number": 151,
             "title": "Daily Routine",
             "description": "Daily Routine — everyday vocabulary and sentences",
             "exercises": [
@@ -33306,7 +34922,7 @@
           },
           {
             "id": "tj-a2-topic-14",
-            "number": 142,
+            "number": 152,
             "title": "Furniture and Household Items",
             "description": "Furniture and Household Items — everyday vocabulary and sentences",
             "exercises": [
@@ -33469,7 +35085,7 @@
           },
           {
             "id": "tj-a2-topic-15",
-            "number": 143,
+            "number": 153,
             "title": "Holidays and Celebrations",
             "description": "Holidays and Celebrations — everyday vocabulary and sentences",
             "exercises": [
@@ -33638,7 +35254,7 @@
           },
           {
             "id": "tj-a2-topic-16",
-            "number": 144,
+            "number": 154,
             "title": "Public Transport",
             "description": "Public Transport — everyday vocabulary and sentences",
             "exercises": [
@@ -33809,7 +35425,7 @@
           },
           {
             "id": "tj-a2-topic-17",
-            "number": 145,
+            "number": 155,
             "title": "Personal Hygiene",
             "description": "Personal Hygiene — everyday vocabulary and sentences",
             "exercises": [
@@ -33976,7 +35592,7 @@
           },
           {
             "id": "tj-a2-topic-18",
-            "number": 146,
+            "number": 156,
             "title": "Breakfast Foods",
             "description": "Breakfast Foods — everyday vocabulary and sentences",
             "exercises": [
@@ -34137,7 +35753,7 @@
           },
           {
             "id": "tj-a2-topic-19",
-            "number": 147,
+            "number": 157,
             "title": "The Playground",
             "description": "The Playground — everyday vocabulary and sentences",
             "exercises": [
@@ -34306,7 +35922,7 @@
           },
           {
             "id": "tj-a2-topic-20",
-            "number": 148,
+            "number": 158,
             "title": "Grandparents and Elders",
             "description": "Grandparents and Elders — everyday vocabulary and sentences",
             "exercises": [
@@ -34477,7 +36093,7 @@
           },
           {
             "id": "tj-a2-topic-21",
-            "number": 149,
+            "number": 159,
             "title": "Vegetables and Fruits",
             "description": "Vegetables and Fruits — everyday vocabulary and sentences",
             "exercises": [
@@ -34650,7 +36266,7 @@
           },
           {
             "id": "tj-a2-topic-22",
-            "number": 150,
+            "number": 160,
             "title": "Jobs and Professions",
             "description": "Jobs and Professions — everyday vocabulary and sentences",
             "exercises": [
@@ -34817,7 +36433,7 @@
           },
           {
             "id": "tj-a2-topic-23",
-            "number": 151,
+            "number": 161,
             "title": "The Hospital",
             "description": "The Hospital — everyday vocabulary and sentences",
             "exercises": [
@@ -34980,7 +36596,7 @@
           },
           {
             "id": "tj-a2-topic-24",
-            "number": 152,
+            "number": 162,
             "title": "Birthdays",
             "description": "Birthdays — everyday vocabulary and sentences",
             "exercises": [
@@ -35139,7 +36755,7 @@
           },
           {
             "id": "tj-a2-topic-25",
-            "number": 153,
+            "number": 163,
             "title": "Household Chores",
             "description": "Household Chores — everyday vocabulary and sentences",
             "exercises": [
@@ -35298,7 +36914,7 @@
           },
           {
             "id": "tj-a2-topic-26",
-            "number": 154,
+            "number": 164,
             "title": "Kitchen and Cooking Utensils",
             "description": "Kitchen and Cooking Utensils — everyday vocabulary and sentences",
             "exercises": [
@@ -35461,7 +37077,7 @@
           },
           {
             "id": "tj-a2-topic-27",
-            "number": 155,
+            "number": 165,
             "title": "Toys and Games",
             "description": "Toys and Games — everyday vocabulary and sentences",
             "exercises": [
@@ -35632,7 +37248,7 @@
           },
           {
             "id": "tj-a2-topic-28",
-            "number": 156,
+            "number": 166,
             "title": "Farm Animals",
             "description": "Farm Animals — everyday vocabulary and sentences",
             "exercises": [
@@ -35797,7 +37413,7 @@
           },
           {
             "id": "tj-a2-topic-29",
-            "number": 157,
+            "number": 167,
             "title": "Places in Town",
             "description": "Places in Town — everyday vocabulary and sentences",
             "exercises": [
@@ -35964,7 +37580,7 @@
           },
           {
             "id": "tj-a2-topic-30",
-            "number": 158,
+            "number": 168,
             "title": "Insects and Small Creatures",
             "description": "Insects and Small Creatures — everyday vocabulary and sentences",
             "exercises": [
@@ -36121,7 +37737,7 @@
           },
           {
             "id": "tj-a2-topic-31",
-            "number": 159,
+            "number": 169,
             "title": "The Beach and Seaside",
             "description": "The Beach and Seaside — everyday vocabulary and sentences",
             "exercises": [
@@ -36288,7 +37904,7 @@
           },
           {
             "id": "tj-a2-topic-32",
-            "number": 160,
+            "number": 170,
             "title": "Camping",
             "description": "Camping — everyday vocabulary and sentences",
             "exercises": [
@@ -36457,7 +38073,7 @@
           },
           {
             "id": "tj-a2-topic-33",
-            "number": 161,
+            "number": 171,
             "title": "The Dentist",
             "description": "The Dentist — everyday vocabulary and sentences",
             "exercises": [
@@ -36616,7 +38232,7 @@
           },
           {
             "id": "tj-a2-topic-34",
-            "number": 162,
+            "number": 172,
             "title": "Phone Calls",
             "description": "Phone Calls — everyday vocabulary and sentences",
             "exercises": [
@@ -36787,7 +38403,7 @@
           },
           {
             "id": "tj-a2-topic-35",
-            "number": 163,
+            "number": 173,
             "title": "Buying a Gift",
             "description": "Buying a Gift — everyday vocabulary and sentences",
             "exercises": [
@@ -36970,7 +38586,7 @@
           },
           {
             "id": "tj-a2-topic-36",
-            "number": 164,
+            "number": 174,
             "title": "Fishing",
             "description": "Fishing — everyday vocabulary and sentences",
             "exercises": [
@@ -37129,7 +38745,7 @@
           },
           {
             "id": "tj-a2-topic-37",
-            "number": 165,
+            "number": 175,
             "title": "The Library",
             "description": "The Library — everyday vocabulary and sentences",
             "exercises": [
@@ -37292,7 +38908,7 @@
           },
           {
             "id": "tj-a2-topic-38",
-            "number": 166,
+            "number": 176,
             "title": "Common Cold and Home Remedies",
             "description": "Common Cold and Home Remedies — everyday vocabulary and sentences",
             "exercises": [
@@ -37455,7 +39071,7 @@
           },
           {
             "id": "tj-a2-topic-39",
-            "number": 167,
+            "number": 177,
             "title": "Cleaning Supplies",
             "description": "Cleaning Supplies — everyday vocabulary and sentences",
             "exercises": [
@@ -37622,7 +39238,7 @@
           },
           {
             "id": "tj-a2-topic-40",
-            "number": 168,
+            "number": 178,
             "title": "Traffic and Congestion",
             "description": "Traffic and Congestion — everyday vocabulary and sentences",
             "exercises": [
@@ -37785,7 +39401,7 @@
           },
           {
             "id": "tj-a2-topic-41",
-            "number": 169,
+            "number": 179,
             "title": "The Zoo",
             "description": "The Zoo — everyday vocabulary and sentences",
             "exercises": [
@@ -37952,7 +39568,7 @@
           },
           {
             "id": "tj-a2-topic-42",
-            "number": 170,
+            "number": 180,
             "title": "Cell Phone Apps",
             "description": "Cell Phone Apps — everyday vocabulary and sentences",
             "exercises": [
@@ -38123,7 +39739,7 @@
           },
           {
             "id": "tj-a2-topic-43",
-            "number": 171,
+            "number": 181,
             "title": "Simple Math and Counting",
             "description": "Simple Math and Counting — everyday vocabulary and sentences",
             "exercises": [
@@ -38288,7 +39904,7 @@
           },
           {
             "id": "tj-a2-topic-44",
-            "number": 172,
+            "number": 182,
             "title": "Waiting in Line",
             "description": "Waiting in Line — everyday vocabulary and sentences",
             "exercises": [
@@ -38457,7 +40073,7 @@
           },
           {
             "id": "tj-a2-topic-45",
-            "number": 173,
+            "number": 183,
             "title": "A Rainy Day at Home",
             "description": "A Rainy Day at Home — everyday vocabulary and sentences",
             "exercises": [
@@ -38620,7 +40236,7 @@
           },
           {
             "id": "tj-a2-topic-46",
-            "number": 174,
+            "number": 184,
             "title": "Getting Dressed",
             "description": "Getting Dressed — everyday vocabulary and sentences",
             "exercises": [
@@ -38785,7 +40401,7 @@
           },
           {
             "id": "tj-a2-topic-47",
-            "number": 175,
+            "number": 185,
             "title": "The Barbershop",
             "description": "The Barbershop — everyday vocabulary and sentences",
             "exercises": [
@@ -38954,7 +40570,7 @@
           },
           {
             "id": "tj-a2-topic-48",
-            "number": 176,
+            "number": 186,
             "title": "Ice Cream and Sweets",
             "description": "Ice Cream and Sweets — everyday vocabulary and sentences",
             "exercises": [
@@ -39129,7 +40745,7 @@
           },
           {
             "id": "tj-a2-topic-49",
-            "number": 177,
+            "number": 187,
             "title": "A School Trip",
             "description": "A School Trip — everyday vocabulary and sentences",
             "exercises": [
@@ -39290,7 +40906,7 @@
           },
           {
             "id": "tj-a2-topic-50",
-            "number": 178,
+            "number": 188,
             "title": "Losing Something",
             "description": "Losing Something — everyday vocabulary and sentences",
             "exercises": [
@@ -39469,7 +41085,7 @@
           },
           {
             "id": "tj-a2-topic-51",
-            "number": 179,
+            "number": 189,
             "title": "Snow and Winter Play",
             "description": "Snow and Winter Play — everyday vocabulary and sentences",
             "exercises": [
@@ -39648,7 +41264,7 @@
           },
           {
             "id": "tj-a2-topic-52",
-            "number": 180,
+            "number": 190,
             "title": "Making a Sandwich",
             "description": "Making a Sandwich — everyday vocabulary and sentences",
             "exercises": [
@@ -39815,7 +41431,7 @@
           },
           {
             "id": "tj-a2-topic-53",
-            "number": 181,
+            "number": 191,
             "title": "Waking Up Late",
             "description": "Waking Up Late — everyday vocabulary and sentences",
             "exercises": [
@@ -39976,7 +41592,7 @@
           },
           {
             "id": "tj-a2-topic-54",
-            "number": 182,
+            "number": 192,
             "title": "A New Baby in the Family",
             "description": "A New Baby in the Family — everyday vocabulary and sentences",
             "exercises": [
@@ -40149,7 +41765,7 @@
           },
           {
             "id": "tj-a2-topic-55",
-            "number": 183,
+            "number": 193,
             "title": "The Local Bakery",
             "description": "The Local Bakery — everyday vocabulary and sentences",
             "exercises": [
@@ -40322,7 +41938,7 @@
           },
           {
             "id": "tj-a2-topic-56",
-            "number": 184,
+            "number": 194,
             "title": "Sewing and Tailoring",
             "description": "Sewing and Tailoring — everyday vocabulary and sentences",
             "exercises": [
@@ -40493,7 +42109,7 @@
           },
           {
             "id": "tj-a2-topic-57",
-            "number": 185,
+            "number": 195,
             "title": "Morning Exercise",
             "description": "Morning Exercise — everyday vocabulary and sentences",
             "exercises": [
@@ -40662,7 +42278,7 @@
           },
           {
             "id": "tj-a2-topic-58",
-            "number": 186,
+            "number": 196,
             "title": "A Picnic in the Park",
             "description": "A Picnic in the Park — everyday vocabulary and sentences",
             "exercises": [
@@ -40835,7 +42451,7 @@
           },
           {
             "id": "tj-a2-topic-59",
-            "number": 187,
+            "number": 197,
             "title": "Feeding a Baby",
             "description": "Feeding a Baby — everyday vocabulary and sentences",
             "exercises": [
@@ -41006,7 +42622,7 @@
           },
           {
             "id": "tj-a2-topic-60",
-            "number": 188,
+            "number": 198,
             "title": "Eyeglasses and Eyesight",
             "description": "Eyeglasses and Eyesight — everyday vocabulary and sentences",
             "exercises": [
@@ -41175,7 +42791,7 @@
           },
           {
             "id": "tj-a2-topic-61",
-            "number": 189,
+            "number": 199,
             "title": "Washing the Car",
             "description": "Washing the Car — everyday vocabulary and sentences",
             "exercises": [
@@ -41354,7 +42970,7 @@
           },
           {
             "id": "tj-a2-topic-62",
-            "number": 190,
+            "number": 200,
             "title": "A Birthday Card",
             "description": "A Birthday Card — everyday vocabulary and sentences",
             "exercises": [
@@ -41531,7 +43147,7 @@
           },
           {
             "id": "tj-a2-topic-63",
-            "number": 191,
+            "number": 201,
             "title": "Learning to Ride a Bike",
             "description": "Learning to Ride a Bike — everyday vocabulary and sentences",
             "exercises": [
@@ -41700,7 +43316,7 @@
           },
           {
             "id": "tj-a2-topic-64",
-            "number": 192,
+            "number": 202,
             "title": "Grocery Shopping List",
             "description": "Grocery Shopping List — everyday vocabulary and sentences",
             "exercises": [
@@ -41871,7 +43487,7 @@
           },
           {
             "id": "tj-a2-topic-65",
-            "number": 193,
+            "number": 203,
             "title": "A Broken Appliance",
             "description": "A Broken Appliance — everyday vocabulary and sentences",
             "exercises": [
@@ -42040,7 +43656,7 @@
           },
           {
             "id": "tj-a2-topic-66",
-            "number": 194,
+            "number": 204,
             "title": "Watching Cartoons",
             "description": "Watching Cartoons — everyday vocabulary and sentences",
             "exercises": [
@@ -42213,7 +43829,7 @@
           },
           {
             "id": "tj-a2-topic-67",
-            "number": 195,
+            "number": 205,
             "title": "A Broken Toy",
             "description": "A Broken Toy — everyday vocabulary and sentences",
             "exercises": [
@@ -42380,7 +43996,7 @@
           },
           {
             "id": "tj-a2-topic-68",
-            "number": 196,
+            "number": 206,
             "title": "Getting a Haircut at Home",
             "description": "Getting a Haircut at Home — everyday vocabulary and sentences",
             "exercises": [
@@ -42545,7 +44161,7 @@
           },
           {
             "id": "tj-a2-topic-69",
-            "number": 197,
+            "number": 207,
             "title": "Washing Dishes by Hand",
             "description": "Washing Dishes by Hand — everyday vocabulary and sentences",
             "exercises": [
@@ -42722,7 +44338,7 @@
           },
           {
             "id": "tj-a2-topic-70",
-            "number": 198,
+            "number": 208,
             "title": "A Trip to the Farmer's Market",
             "description": "A Trip to the Farmer's Market — everyday vocabulary and sentences",
             "exercises": [
@@ -42897,7 +44513,7 @@
           },
           {
             "id": "tj-a2-topic-71",
-            "number": 199,
+            "number": 209,
             "title": "Making Tea",
             "description": "Making Tea — everyday vocabulary and sentences",
             "exercises": [
@@ -43064,7 +44680,7 @@
           },
           {
             "id": "tj-a2-topic-72",
-            "number": 200,
+            "number": 210,
             "title": "A Trip to the Countryside",
             "description": "A Trip to the Countryside — everyday vocabulary and sentences",
             "exercises": [
@@ -43237,7 +44853,7 @@
           },
           {
             "id": "tj-a2-topic-73",
-            "number": 201,
+            "number": 211,
             "title": "A New Neighbor",
             "description": "A New Neighbor — everyday vocabulary and sentences",
             "exercises": [
@@ -43406,7 +45022,7 @@
           },
           {
             "id": "tj-a2-topic-74",
-            "number": 202,
+            "number": 212,
             "title": "Packing a Suitcase",
             "description": "Packing a Suitcase — everyday vocabulary and sentences",
             "exercises": [
@@ -43567,7 +45183,7 @@
           },
           {
             "id": "tj-a2-topic-75",
-            "number": 203,
+            "number": 213,
             "title": "Watching the Sunset",
             "description": "Watching the Sunset — everyday vocabulary and sentences",
             "exercises": [
@@ -43734,7 +45350,7 @@
           },
           {
             "id": "tj-a2-topic-76",
-            "number": 204,
+            "number": 214,
             "title": "A Trip to the Mountains",
             "description": "A Trip to the Mountains — everyday vocabulary and sentences",
             "exercises": [
@@ -43909,7 +45525,7 @@
           },
           {
             "id": "tj-a2-topic-77",
-            "number": 205,
+            "number": 215,
             "title": "Making Yogurt at Home",
             "description": "Making Yogurt at Home — everyday vocabulary and sentences",
             "exercises": [
@@ -44080,7 +45696,7 @@
           },
           {
             "id": "tj-a2-topic-78",
-            "number": 206,
+            "number": 216,
             "title": "A Class Presentation",
             "description": "A Class Presentation — everyday vocabulary and sentences",
             "exercises": [
@@ -44245,7 +45861,7 @@
           },
           {
             "id": "tj-a2-topic-79",
-            "number": 207,
+            "number": 217,
             "title": "Choosing a Pet",
             "description": "Choosing a Pet — everyday vocabulary and sentences",
             "exercises": [
@@ -44430,7 +46046,7 @@
           },
           {
             "id": "tj-a2-topic-80",
-            "number": 208,
+            "number": 218,
             "title": "An Afternoon Nap",
             "description": "An Afternoon Nap — everyday vocabulary and sentences",
             "exercises": [
@@ -44609,7 +46225,7 @@
           },
           {
             "id": "tj-a2-topic-81",
-            "number": 209,
+            "number": 219,
             "title": "A Lost Pet",
             "description": "A Lost Pet — everyday vocabulary and sentences",
             "exercises": [
@@ -44778,7 +46394,7 @@
           },
           {
             "id": "tj-a2-topic-82",
-            "number": 210,
+            "number": 220,
             "title": "Making Juice",
             "description": "Making Juice — everyday vocabulary and sentences",
             "exercises": [
@@ -44943,7 +46559,7 @@
           },
           {
             "id": "tj-a2-topic-83",
-            "number": 211,
+            "number": 221,
             "title": "A School Uniform",
             "description": "A School Uniform — everyday vocabulary and sentences",
             "exercises": [
@@ -45120,7 +46736,7 @@
           },
           {
             "id": "tj-a2-topic-84",
-            "number": 212,
+            "number": 222,
             "title": "Feeding Birds",
             "description": "Feeding Birds — everyday vocabulary and sentences",
             "exercises": [
@@ -45291,7 +46907,7 @@
           },
           {
             "id": "tj-a2-topic-85",
-            "number": 213,
+            "number": 223,
             "title": "A Broken Umbrella",
             "description": "A Broken Umbrella — everyday vocabulary and sentences",
             "exercises": [
@@ -45460,7 +47076,7 @@
           },
           {
             "id": "tj-a2-topic-86",
-            "number": 214,
+            "number": 224,
             "title": "A Rainy Day",
             "description": "A Rainy Day — everyday vocabulary and sentences",
             "exercises": [
@@ -45631,7 +47247,7 @@
           },
           {
             "id": "tj-a2-topic-87",
-            "number": 215,
+            "number": 225,
             "title": "Visiting the Dentist",
             "description": "Visiting the Dentist — everyday vocabulary and sentences",
             "exercises": [
@@ -45792,7 +47408,7 @@
           },
           {
             "id": "tj-a2-topic-88",
-            "number": 216,
+            "number": 226,
             "title": "Learning to Whistle",
             "description": "Learning to Whistle — everyday vocabulary and sentences",
             "exercises": [
@@ -45959,7 +47575,7 @@
           },
           {
             "id": "tj-a2-topic-89",
-            "number": 217,
+            "number": 227,
             "title": "A Neighborhood Fair",
             "description": "A Neighborhood Fair — everyday vocabulary and sentences",
             "exercises": [
@@ -46122,7 +47738,7 @@
           },
           {
             "id": "tj-a2-topic-90",
-            "number": 218,
+            "number": 228,
             "title": "Folding Laundry",
             "description": "Folding Laundry — everyday vocabulary and sentences",
             "exercises": [
@@ -46287,7 +47903,7 @@
           },
           {
             "id": "tj-a2-topic-91",
-            "number": 219,
+            "number": 229,
             "title": "A School Trip to a Museum",
             "description": "A School Trip to a Museum — everyday vocabulary and sentences",
             "exercises": [
@@ -46460,7 +48076,7 @@
           },
           {
             "id": "tj-a2-topic-92",
-            "number": 220,
+            "number": 230,
             "title": "Learning to Swim",
             "description": "Learning to Swim — everyday vocabulary and sentences",
             "exercises": [
@@ -46635,7 +48251,7 @@
           },
           {
             "id": "tj-a2-topic-93",
-            "number": 221,
+            "number": 231,
             "title": "A Power Outage",
             "description": "A Power Outage — everyday vocabulary and sentences",
             "exercises": [
@@ -46802,7 +48418,7 @@
           },
           {
             "id": "tj-a2-topic-94",
-            "number": 222,
+            "number": 232,
             "title": "Growing Herbs on a Balcony",
             "description": "Growing Herbs on a Balcony — everyday vocabulary and sentences",
             "exercises": [
@@ -46971,7 +48587,7 @@
           },
           {
             "id": "tj-a2-topic-95",
-            "number": 223,
+            "number": 233,
             "title": "A Compliment from a Stranger",
             "description": "A Compliment from a Stranger — everyday vocabulary and sentences",
             "exercises": [
@@ -47163,7 +48779,7 @@
         "lessons": [
           {
             "id": "tj-b1-1",
-            "number": 224,
+            "number": 234,
             "title": "Sentences 1001–1025",
             "description": "Practical Conversation, part 1",
             "exercises": [
@@ -47625,7 +49241,7 @@
           },
           {
             "id": "tj-b1-2",
-            "number": 225,
+            "number": 235,
             "title": "Sentences 1026–1050",
             "description": "Practical Conversation, part 2",
             "exercises": [
@@ -48081,7 +49697,7 @@
           },
           {
             "id": "tj-b1-3",
-            "number": 226,
+            "number": 236,
             "title": "Sentences 1051–1075",
             "description": "Practical Conversation, part 3",
             "exercises": [
@@ -48541,7 +50157,7 @@
           },
           {
             "id": "tj-b1-4",
-            "number": 227,
+            "number": 237,
             "title": "Sentences 1076–1100",
             "description": "Practical Conversation, part 4",
             "exercises": [
@@ -48959,7 +50575,7 @@
           },
           {
             "id": "tj-b1-5",
-            "number": 228,
+            "number": 238,
             "title": "Sentences 1101–1125",
             "description": "Practical Conversation, part 5",
             "exercises": [
@@ -49363,7 +50979,7 @@
           },
           {
             "id": "tj-b1-6",
-            "number": 229,
+            "number": 239,
             "title": "Sentences 1126–1150",
             "description": "Practical Conversation, part 6",
             "exercises": [
@@ -49809,7 +51425,7 @@
           },
           {
             "id": "tj-b1-7",
-            "number": 230,
+            "number": 240,
             "title": "Sentences 1151–1175",
             "description": "Practical Conversation, part 7",
             "exercises": [
@@ -50245,7 +51861,7 @@
           },
           {
             "id": "tj-b1-reading-2",
-            "number": 231,
+            "number": 241,
             "title": "Planning a Trip",
             "description": "Reading comprehension: modal verbs and travel planning",
             "readingPassage": {
@@ -50364,7 +51980,7 @@
           },
           {
             "id": "tj-b1-8",
-            "number": 232,
+            "number": 242,
             "title": "Sentences 1176–1200",
             "description": "Practical Conversation, part 8",
             "exercises": [
@@ -50872,7 +52488,7 @@
           },
           {
             "id": "tj-b1-9",
-            "number": 233,
+            "number": 243,
             "title": "Sentences 1201–1225",
             "description": "Practical Conversation, part 9",
             "exercises": [
@@ -51284,7 +52900,7 @@
           },
           {
             "id": "tj-b1-10",
-            "number": 234,
+            "number": 244,
             "title": "Sentences 1226–1250",
             "description": "Practical Conversation, part 10",
             "exercises": [
@@ -51746,7 +53362,7 @@
           },
           {
             "id": "tj-b1-11",
-            "number": 235,
+            "number": 245,
             "title": "Sentences 1251–1275",
             "description": "Practical Conversation, part 11",
             "exercises": [
@@ -52200,7 +53816,7 @@
           },
           {
             "id": "tj-b1-12",
-            "number": 236,
+            "number": 246,
             "title": "Sentences 1276–1300",
             "description": "Practical Conversation, part 12",
             "exercises": [
@@ -52708,7 +54324,7 @@
           },
           {
             "id": "tj-b1-13",
-            "number": 237,
+            "number": 247,
             "title": "Sentences 1301–1325",
             "description": "Practical Conversation, part 13",
             "exercises": [
@@ -53166,7 +54782,7 @@
           },
           {
             "id": "tj-b1-14",
-            "number": 238,
+            "number": 248,
             "title": "Sentences 1326–1350",
             "description": "Practical Conversation, part 14",
             "exercises": [
@@ -53660,7 +55276,7 @@
           },
           {
             "id": "tj-b1-reading-3",
-            "number": 239,
+            "number": 249,
             "title": "A Difficult Decision",
             "description": "Reading comprehension: weighing a job offer against family",
             "readingPassage": {
@@ -53779,7 +55395,7 @@
           },
           {
             "id": "tj-b1-15",
-            "number": 240,
+            "number": 250,
             "title": "Sentences 1351–1375",
             "description": "Practical Conversation, part 15",
             "exercises": [
@@ -54289,7 +55905,7 @@
           },
           {
             "id": "tj-b1-16",
-            "number": 241,
+            "number": 251,
             "title": "Sentences 1376–1400",
             "description": "Practical Conversation, part 16",
             "exercises": [
@@ -54775,7 +56391,7 @@
           },
           {
             "id": "tj-b1-17",
-            "number": 242,
+            "number": 252,
             "title": "Sentences 1401–1425",
             "description": "Practical Conversation, part 17",
             "exercises": [
@@ -55311,7 +56927,7 @@
           },
           {
             "id": "tj-b1-18",
-            "number": 243,
+            "number": 253,
             "title": "Sentences 1426–1450",
             "description": "Practical Conversation, part 18",
             "exercises": [
@@ -55879,7 +57495,7 @@
           },
           {
             "id": "tj-b1-19",
-            "number": 244,
+            "number": 254,
             "title": "Sentences 1451–1475",
             "description": "Practical Conversation, part 19",
             "exercises": [
@@ -56357,7 +57973,7 @@
           },
           {
             "id": "tj-b1-20",
-            "number": 245,
+            "number": 255,
             "title": "Sentences 1476–1500",
             "description": "Practical Conversation, part 20",
             "exercises": [
@@ -56869,7 +58485,7 @@
           },
           {
             "id": "tj-b1-topic-1",
-            "number": 246,
+            "number": 256,
             "title": "Work and Office",
             "description": "Work and Office — everyday vocabulary and sentences",
             "exercises": [
@@ -57050,7 +58666,7 @@
           },
           {
             "id": "tj-b1-reading-4",
-            "number": 247,
+            "number": 257,
             "title": "Changing Habits",
             "description": "Reading comprehension: New Year's resolutions and small steps",
             "readingPassage": {
@@ -57169,7 +58785,7 @@
           },
           {
             "id": "tj-b1-topic-2",
-            "number": 248,
+            "number": 258,
             "title": "Hobbies and Free Time",
             "description": "Hobbies and Free Time — everyday vocabulary and sentences",
             "exercises": [
@@ -57340,7 +58956,7 @@
           },
           {
             "id": "tj-b1-topic-3",
-            "number": 249,
+            "number": 259,
             "title": "Technology",
             "description": "Technology — everyday vocabulary and sentences",
             "exercises": [
@@ -57505,7 +59121,7 @@
           },
           {
             "id": "tj-b1-topic-4",
-            "number": 250,
+            "number": 260,
             "title": "Health",
             "description": "Health — everyday vocabulary and sentences",
             "exercises": [
@@ -57670,7 +59286,7 @@
           },
           {
             "id": "tj-b1-topic-5",
-            "number": 251,
+            "number": 261,
             "title": "City and Directions",
             "description": "City and Directions — everyday vocabulary and sentences",
             "exercises": [
@@ -57833,7 +59449,7 @@
           },
           {
             "id": "tj-b1-reading",
-            "number": 252,
+            "number": 262,
             "title": "A Busy Day at Home",
             "description": "Reading comprehension: a household juggling work, chores, and a homecoming",
             "readingPassage": {
@@ -57944,7 +59560,7 @@
           },
           {
             "id": "tj-b1-topic-6",
-            "number": 253,
+            "number": 263,
             "title": "Money and Banking",
             "description": "Money and Banking — everyday vocabulary and sentences",
             "exercises": [
@@ -58099,7 +59715,7 @@
           },
           {
             "id": "tj-b1-topic-7",
-            "number": 254,
+            "number": 264,
             "title": "Travel and Airport",
             "description": "Travel and Airport — everyday vocabulary and sentences",
             "exercises": [
@@ -58272,7 +59888,7 @@
           },
           {
             "id": "tj-b1-topic-8",
-            "number": 255,
+            "number": 265,
             "title": "Restaurant",
             "description": "Restaurant — everyday vocabulary and sentences",
             "exercises": [
@@ -58435,7 +60051,7 @@
           },
           {
             "id": "tj-b1-topic-9",
-            "number": 256,
+            "number": 266,
             "title": "Neighbors and Community",
             "description": "Neighbors and Community — everyday vocabulary and sentences",
             "exercises": [
@@ -58600,7 +60216,7 @@
           },
           {
             "id": "tj-b1-topic-10",
-            "number": 257,
+            "number": 267,
             "title": "Sports",
             "description": "Sports — everyday vocabulary and sentences",
             "exercises": [
@@ -58765,7 +60381,7 @@
           },
           {
             "id": "tj-b1-topic-11",
-            "number": 258,
+            "number": 268,
             "title": "Music and Instruments",
             "description": "Music and Instruments — everyday vocabulary and sentences",
             "exercises": [
@@ -58934,7 +60550,7 @@
           },
           {
             "id": "tj-b1-topic-12",
-            "number": 259,
+            "number": 269,
             "title": "Movies and Entertainment",
             "description": "Movies and Entertainment — everyday vocabulary and sentences",
             "exercises": [
@@ -59113,7 +60729,7 @@
           },
           {
             "id": "tj-b1-topic-13",
-            "number": 260,
+            "number": 270,
             "title": "Environment and Nature Conservation",
             "description": "Environment and Nature Conservation — everyday vocabulary and sentences",
             "exercises": [
@@ -59292,7 +60908,7 @@
           },
           {
             "id": "tj-b1-topic-14",
-            "number": 261,
+            "number": 271,
             "title": "Books and Reading",
             "description": "Books and Reading — everyday vocabulary and sentences",
             "exercises": [
@@ -59471,7 +61087,7 @@
           },
           {
             "id": "tj-b1-topic-15",
-            "number": 262,
+            "number": 272,
             "title": "Cars and Driving",
             "description": "Cars and Driving — everyday vocabulary and sentences",
             "exercises": [
@@ -59654,7 +61270,7 @@
           },
           {
             "id": "tj-b1-topic-16",
-            "number": 263,
+            "number": 273,
             "title": "Job Interviews",
             "description": "Job Interviews — everyday vocabulary and sentences",
             "exercises": [
@@ -59821,7 +61437,7 @@
           },
           {
             "id": "tj-b1-topic-17",
-            "number": 264,
+            "number": 274,
             "title": "Renting an Apartment",
             "description": "Renting an Apartment — everyday vocabulary and sentences",
             "exercises": [
@@ -59982,7 +61598,7 @@
           },
           {
             "id": "tj-b1-topic-18",
-            "number": 265,
+            "number": 275,
             "title": "The Post Office",
             "description": "The Post Office — everyday vocabulary and sentences",
             "exercises": [
@@ -60143,7 +61759,7 @@
           },
           {
             "id": "tj-b1-topic-19",
-            "number": 266,
+            "number": 276,
             "title": "Making New Friends",
             "description": "Making New Friends — everyday vocabulary and sentences",
             "exercises": [
@@ -60316,7 +61932,7 @@
           },
           {
             "id": "tj-b1-topic-20",
-            "number": 267,
+            "number": 277,
             "title": "A Trip to the Village",
             "description": "A Trip to the Village — everyday vocabulary and sentences",
             "exercises": [
@@ -60495,7 +62111,7 @@
           },
           {
             "id": "tj-b1-topic-21",
-            "number": 268,
+            "number": 278,
             "title": "Volunteering",
             "description": "Volunteering — everyday vocabulary and sentences",
             "exercises": [
@@ -60678,7 +62294,7 @@
           },
           {
             "id": "tj-b1-topic-22",
-            "number": 269,
+            "number": 279,
             "title": "University Life",
             "description": "University Life — everyday vocabulary and sentences",
             "exercises": [
@@ -60851,7 +62467,7 @@
           },
           {
             "id": "tj-b1-topic-23",
-            "number": 270,
+            "number": 280,
             "title": "Business and Entrepreneurship",
             "description": "Business and Entrepreneurship — everyday vocabulary and sentences",
             "exercises": [
@@ -61030,7 +62646,7 @@
           },
           {
             "id": "tj-b1-topic-24",
-            "number": 271,
+            "number": 281,
             "title": "Weddings",
             "description": "Weddings — everyday vocabulary and sentences",
             "exercises": [
@@ -61203,7 +62819,7 @@
           },
           {
             "id": "tj-b1-topic-25",
-            "number": 272,
+            "number": 282,
             "title": "Social Media Habits",
             "description": "Social Media Habits — everyday vocabulary and sentences",
             "exercises": [
@@ -61378,7 +62994,7 @@
           },
           {
             "id": "tj-b1-topic-26",
-            "number": 273,
+            "number": 283,
             "title": "Renovating a House",
             "description": "Renovating a House — everyday vocabulary and sentences",
             "exercises": [
@@ -61547,7 +63163,7 @@
           },
           {
             "id": "tj-b1-topic-27",
-            "number": 274,
+            "number": 284,
             "title": "Learning to Swim",
             "description": "Learning to Swim — everyday vocabulary and sentences",
             "exercises": [
@@ -61728,7 +63344,7 @@
           },
           {
             "id": "tj-b1-topic-28",
-            "number": 275,
+            "number": 285,
             "title": "A Job Promotion",
             "description": "A Job Promotion — everyday vocabulary and sentences",
             "exercises": [
@@ -61907,7 +63523,7 @@
           },
           {
             "id": "tj-b1-topic-29",
-            "number": 276,
+            "number": 286,
             "title": "Charity and Donations",
             "description": "Charity and Donations — everyday vocabulary and sentences",
             "exercises": [
@@ -62084,7 +63700,7 @@
           },
           {
             "id": "tj-b1-topic-30",
-            "number": 277,
+            "number": 287,
             "title": "Public Holidays and National Events",
             "description": "Public Holidays and National Events — everyday vocabulary and sentences",
             "exercises": [
@@ -62269,7 +63885,7 @@
           },
           {
             "id": "tj-b1-topic-31",
-            "number": 278,
+            "number": 288,
             "title": "Public Speaking",
             "description": "Public Speaking — everyday vocabulary and sentences",
             "exercises": [
@@ -62442,7 +64058,7 @@
           },
           {
             "id": "tj-b1-topic-32",
-            "number": 279,
+            "number": 289,
             "title": "Moving to a New City",
             "description": "Moving to a New City — everyday vocabulary and sentences",
             "exercises": [
@@ -62625,7 +64241,7 @@
           },
           {
             "id": "tj-b1-topic-33",
-            "number": 280,
+            "number": 290,
             "title": "Adopting a Pet",
             "description": "Adopting a Pet — everyday vocabulary and sentences",
             "exercises": [
@@ -62800,7 +64416,7 @@
           },
           {
             "id": "tj-b1-topic-34",
-            "number": 281,
+            "number": 291,
             "title": "Managing Stress",
             "description": "Managing Stress — everyday vocabulary and sentences",
             "exercises": [
@@ -62983,7 +64599,7 @@
           },
           {
             "id": "tj-b1-topic-35",
-            "number": 282,
+            "number": 292,
             "title": "Attending a Conference",
             "description": "Attending a Conference — everyday vocabulary and sentences",
             "exercises": [
@@ -63156,7 +64772,7 @@
           },
           {
             "id": "tj-b1-topic-36",
-            "number": 283,
+            "number": 293,
             "title": "Team Sports and Competition",
             "description": "Team Sports and Competition — everyday vocabulary and sentences",
             "exercises": [
@@ -63323,7 +64939,7 @@
           },
           {
             "id": "tj-b1-topic-37",
-            "number": 284,
+            "number": 294,
             "title": "Negotiating a Deal",
             "description": "Negotiating a Deal — everyday vocabulary and sentences",
             "exercises": [
@@ -63490,7 +65106,7 @@
           },
           {
             "id": "tj-b1-topic-38",
-            "number": 285,
+            "number": 295,
             "title": "Experiencing a Storm",
             "description": "Experiencing a Storm — everyday vocabulary and sentences",
             "exercises": [
@@ -63661,7 +65277,7 @@
           },
           {
             "id": "tj-b1-topic-39",
-            "number": 286,
+            "number": 296,
             "title": "Visiting a Foreign Country",
             "description": "Visiting a Foreign Country — everyday vocabulary and sentences",
             "exercises": [
@@ -63834,7 +65450,7 @@
           },
           {
             "id": "tj-b1-topic-40",
-            "number": 287,
+            "number": 297,
             "title": "Learning a New Recipe",
             "description": "Learning a New Recipe — everyday vocabulary and sentences",
             "exercises": [
@@ -64015,7 +65631,7 @@
           },
           {
             "id": "tj-b1-topic-41",
-            "number": 288,
+            "number": 298,
             "title": "Freelance Work",
             "description": "Freelance Work — everyday vocabulary and sentences",
             "exercises": [
@@ -64186,7 +65802,7 @@
           },
           {
             "id": "tj-b1-topic-42",
-            "number": 289,
+            "number": 299,
             "title": "A Cultural Festival",
             "description": "A Cultural Festival — everyday vocabulary and sentences",
             "exercises": [
@@ -64361,7 +65977,7 @@
           },
           {
             "id": "tj-b1-topic-43",
-            "number": 290,
+            "number": 300,
             "title": "Comparing Two Cities",
             "description": "Comparing Two Cities — everyday vocabulary and sentences",
             "exercises": [
@@ -64534,7 +66150,7 @@
           },
           {
             "id": "tj-b1-topic-44",
-            "number": 291,
+            "number": 301,
             "title": "An Unexpected Guest",
             "description": "An Unexpected Guest — everyday vocabulary and sentences",
             "exercises": [
@@ -64703,7 +66319,7 @@
           },
           {
             "id": "tj-b1-topic-45",
-            "number": 292,
+            "number": 302,
             "title": "Improving English Skills",
             "description": "Improving English Skills — everyday vocabulary and sentences",
             "exercises": [
@@ -64886,7 +66502,7 @@
           },
           {
             "id": "tj-b1-topic-46",
-            "number": 293,
+            "number": 303,
             "title": "Home Security",
             "description": "Home Security — everyday vocabulary and sentences",
             "exercises": [
@@ -65063,7 +66679,7 @@
           },
           {
             "id": "tj-b1-topic-47",
-            "number": 294,
+            "number": 304,
             "title": "Debate and Discussion",
             "description": "Debate and Discussion — everyday vocabulary and sentences",
             "exercises": [
@@ -65238,7 +66854,7 @@
           },
           {
             "id": "tj-b1-topic-48",
-            "number": 295,
+            "number": 305,
             "title": "A Difficult Boss",
             "description": "A Difficult Boss — everyday vocabulary and sentences",
             "exercises": [
@@ -65401,7 +67017,7 @@
           },
           {
             "id": "tj-b1-topic-49",
-            "number": 296,
+            "number": 306,
             "title": "Preparing for Winter",
             "description": "Preparing for Winter — everyday vocabulary and sentences",
             "exercises": [
@@ -65572,7 +67188,7 @@
           },
           {
             "id": "tj-b1-topic-50",
-            "number": 297,
+            "number": 307,
             "title": "Learning to Drive Manual",
             "description": "Learning to Drive Manual — everyday vocabulary and sentences",
             "exercises": [
@@ -65759,7 +67375,7 @@
           },
           {
             "id": "tj-b1-topic-51",
-            "number": 298,
+            "number": 308,
             "title": "Learning Photography",
             "description": "Learning Photography — everyday vocabulary and sentences",
             "exercises": [
@@ -65934,7 +67550,7 @@
           },
           {
             "id": "tj-b1-topic-52",
-            "number": 299,
+            "number": 309,
             "title": "A Job Layoff",
             "description": "A Job Layoff — everyday vocabulary and sentences",
             "exercises": [
@@ -66113,7 +67729,7 @@
           },
           {
             "id": "tj-b1-topic-53",
-            "number": 300,
+            "number": 310,
             "title": "Organizing an Event",
             "description": "Organizing an Event — everyday vocabulary and sentences",
             "exercises": [
@@ -66304,7 +67920,7 @@
           },
           {
             "id": "tj-b1-topic-54",
-            "number": 301,
+            "number": 311,
             "title": "Overcoming a Fear",
             "description": "Overcoming a Fear — everyday vocabulary and sentences",
             "exercises": [
@@ -66481,7 +68097,7 @@
           },
           {
             "id": "tj-b1-topic-55",
-            "number": 302,
+            "number": 312,
             "title": "Renewable Energy at Home",
             "description": "Renewable Energy at Home — everyday vocabulary and sentences",
             "exercises": [
@@ -66666,7 +68282,7 @@
           },
           {
             "id": "tj-b1-topic-56",
-            "number": 303,
+            "number": 313,
             "title": "Preparing a Presentation",
             "description": "Preparing a Presentation — everyday vocabulary and sentences",
             "exercises": [
@@ -66837,7 +68453,7 @@
           },
           {
             "id": "tj-b1-topic-57",
-            "number": 304,
+            "number": 314,
             "title": "Dealing with Rejection",
             "description": "Dealing with Rejection — everyday vocabulary and sentences",
             "exercises": [
@@ -67018,7 +68634,7 @@
           },
           {
             "id": "tj-b1-topic-58",
-            "number": 305,
+            "number": 315,
             "title": "Adjusting to Retirement",
             "description": "Adjusting to Retirement — everyday vocabulary and sentences",
             "exercises": [
@@ -67207,7 +68823,7 @@
           },
           {
             "id": "tj-b1-topic-59",
-            "number": 306,
+            "number": 316,
             "title": "Starting College",
             "description": "Starting College — everyday vocabulary and sentences",
             "exercises": [
@@ -67380,7 +68996,7 @@
           },
           {
             "id": "tj-b1-topic-60",
-            "number": 307,
+            "number": 317,
             "title": "Home Gardening",
             "description": "Home Gardening — everyday vocabulary and sentences",
             "exercises": [
@@ -67557,7 +69173,7 @@
           },
           {
             "id": "tj-b1-topic-61",
-            "number": 308,
+            "number": 318,
             "title": "Time Management",
             "description": "Time Management — everyday vocabulary and sentences",
             "exercises": [
@@ -67738,7 +69354,7 @@
           },
           {
             "id": "tj-b1-topic-62",
-            "number": 309,
+            "number": 319,
             "title": "A Misunderstanding Between Friends",
             "description": "A Misunderstanding Between Friends — everyday vocabulary and sentences",
             "exercises": [
@@ -67905,7 +69521,7 @@
           },
           {
             "id": "tj-b1-topic-63",
-            "number": 310,
+            "number": 320,
             "title": "Learning Calligraphy",
             "description": "Learning Calligraphy — everyday vocabulary and sentences",
             "exercises": [
@@ -68094,7 +69710,7 @@
           },
           {
             "id": "tj-b1-topic-64",
-            "number": 311,
+            "number": 321,
             "title": "Public Libraries and Community Centers",
             "description": "Public Libraries and Community Centers — everyday vocabulary and sentences",
             "exercises": [
@@ -68277,7 +69893,7 @@
           },
           {
             "id": "tj-b1-topic-65",
-            "number": 312,
+            "number": 322,
             "title": "A Career Change",
             "description": "A Career Change — everyday vocabulary and sentences",
             "exercises": [
@@ -68460,7 +70076,7 @@
           },
           {
             "id": "tj-b1-topic-66",
-            "number": 313,
+            "number": 323,
             "title": "Learning to Meditate",
             "description": "Learning to Meditate — everyday vocabulary and sentences",
             "exercises": [
@@ -68633,7 +70249,7 @@
           },
           {
             "id": "tj-b1-topic-67",
-            "number": 314,
+            "number": 324,
             "title": "A Long-Distance Friendship",
             "description": "A Long-Distance Friendship — everyday vocabulary and sentences",
             "exercises": [
@@ -68818,7 +70434,7 @@
           },
           {
             "id": "tj-b1-topic-68",
-            "number": 315,
+            "number": 325,
             "title": "Preparing for a Trip Abroad",
             "description": "Preparing for a Trip Abroad — everyday vocabulary and sentences",
             "exercises": [
@@ -68991,7 +70607,7 @@
           },
           {
             "id": "tj-b1-topic-69",
-            "number": 316,
+            "number": 326,
             "title": "A Team Project at Work",
             "description": "A Team Project at Work — everyday vocabulary and sentences",
             "exercises": [
@@ -69160,7 +70776,7 @@
           },
           {
             "id": "tj-b1-topic-70",
-            "number": 317,
+            "number": 327,
             "title": "Local Elections and Civic Duty",
             "description": "Local Elections and Civic Duty — everyday vocabulary and sentences",
             "exercises": [
@@ -69331,7 +70947,7 @@
           },
           {
             "id": "tj-b1-topic-71",
-            "number": 318,
+            "number": 328,
             "title": "A Difficult Exam",
             "description": "A Difficult Exam — everyday vocabulary and sentences",
             "exercises": [
@@ -69498,7 +71114,7 @@
           },
           {
             "id": "tj-b1-topic-72",
-            "number": 319,
+            "number": 329,
             "title": "Learning Sign Language",
             "description": "Learning Sign Language — everyday vocabulary and sentences",
             "exercises": [
@@ -69681,7 +71297,7 @@
           },
           {
             "id": "tj-b1-topic-73",
-            "number": 320,
+            "number": 330,
             "title": "A Local Tradition",
             "description": "A Local Tradition — everyday vocabulary and sentences",
             "exercises": [
@@ -69860,7 +71476,7 @@
           },
           {
             "id": "tj-b1-topic-74",
-            "number": 321,
+            "number": 331,
             "title": "Balancing Work and Family",
             "description": "Balancing Work and Family — everyday vocabulary and sentences",
             "exercises": [
@@ -70045,7 +71661,7 @@
           },
           {
             "id": "tj-b1-topic-75",
-            "number": 322,
+            "number": 332,
             "title": "Discovering a New Hobby",
             "description": "Discovering a New Hobby — everyday vocabulary and sentences",
             "exercises": [
@@ -70222,7 +71838,7 @@
           },
           {
             "id": "tj-b1-topic-76",
-            "number": 323,
+            "number": 333,
             "title": "Learning to Bake Bread",
             "description": "Learning to Bake Bread — everyday vocabulary and sentences",
             "exercises": [
@@ -70401,7 +72017,7 @@
           },
           {
             "id": "tj-b1-topic-77",
-            "number": 324,
+            "number": 334,
             "title": "A Difficult Conversation with Parents",
             "description": "A Difficult Conversation with Parents — everyday vocabulary and sentences",
             "exercises": [
@@ -70574,7 +72190,7 @@
           },
           {
             "id": "tj-b1-topic-78",
-            "number": 325,
+            "number": 335,
             "title": "Volunteering Abroad",
             "description": "Volunteering Abroad — everyday vocabulary and sentences",
             "exercises": [
@@ -70757,7 +72373,7 @@
           },
           {
             "id": "tj-b1-topic-79",
-            "number": 326,
+            "number": 336,
             "title": "Improving Memory",
             "description": "Improving Memory — everyday vocabulary and sentences",
             "exercises": [
@@ -70948,7 +72564,7 @@
           },
           {
             "id": "tj-b1-topic-80",
-            "number": 327,
+            "number": 337,
             "title": "A Community Garden",
             "description": "A Community Garden — everyday vocabulary and sentences",
             "exercises": [
@@ -71121,7 +72737,7 @@
           },
           {
             "id": "tj-b1-topic-81",
-            "number": 328,
+            "number": 338,
             "title": "A Cultural Misunderstanding Abroad",
             "description": "A Cultural Misunderstanding Abroad — everyday vocabulary and sentences",
             "exercises": [
@@ -71316,7 +72932,7 @@
           },
           {
             "id": "tj-b1-topic-82",
-            "number": 329,
+            "number": 339,
             "title": "Setting Personal Goals",
             "description": "Setting Personal Goals — everyday vocabulary and sentences",
             "exercises": [
@@ -71491,7 +73107,7 @@
           },
           {
             "id": "tj-b1-topic-83",
-            "number": 330,
+            "number": 340,
             "title": "A Charity Run",
             "description": "A Charity Run — everyday vocabulary and sentences",
             "exercises": [
@@ -71658,7 +73274,7 @@
           },
           {
             "id": "tj-b1-topic-84",
-            "number": 331,
+            "number": 341,
             "title": "Learning to Say No",
             "description": "Learning to Say No — everyday vocabulary and sentences",
             "exercises": [
@@ -71829,7 +73445,7 @@
           },
           {
             "id": "tj-b1-topic-85",
-            "number": 332,
+            "number": 342,
             "title": "An Old Family Recipe",
             "description": "An Old Family Recipe — everyday vocabulary and sentences",
             "exercises": [
@@ -72014,7 +73630,7 @@
           },
           {
             "id": "tj-b1-topic-86",
-            "number": 333,
+            "number": 343,
             "title": "Overcoming Stage Fright",
             "description": "Overcoming Stage Fright — everyday vocabulary and sentences",
             "exercises": [
@@ -72191,7 +73807,7 @@
           },
           {
             "id": "tj-b1-topic-87",
-            "number": 334,
+            "number": 344,
             "title": "A Family Reunion",
             "description": "A Family Reunion — everyday vocabulary and sentences",
             "exercises": [
@@ -72372,7 +73988,7 @@
           },
           {
             "id": "tj-b1-topic-88",
-            "number": 335,
+            "number": 345,
             "title": "Learning to Negotiate",
             "description": "Learning to Negotiate — everyday vocabulary and sentences",
             "exercises": [
@@ -72555,7 +74171,7 @@
           },
           {
             "id": "tj-b1-topic-89",
-            "number": 336,
+            "number": 346,
             "title": "An Unexpected Guest",
             "description": "An Unexpected Guest — everyday vocabulary and sentences",
             "exercises": [
@@ -72732,7 +74348,7 @@
           },
           {
             "id": "tj-b1-topic-90",
-            "number": 337,
+            "number": 347,
             "title": "Adapting to a New City",
             "description": "Adapting to a New City — everyday vocabulary and sentences",
             "exercises": [
@@ -72903,7 +74519,7 @@
           },
           {
             "id": "tj-b1-topic-91",
-            "number": 338,
+            "number": 348,
             "title": "Dealing with Homesickness",
             "description": "Dealing with Homesickness — everyday vocabulary and sentences",
             "exercises": [
@@ -73092,7 +74708,7 @@
           },
           {
             "id": "tj-b1-topic-92",
-            "number": 339,
+            "number": 349,
             "title": "Mentoring a Younger Colleague",
             "description": "Mentoring a Younger Colleague — everyday vocabulary and sentences",
             "exercises": [
@@ -73277,7 +74893,7 @@
           },
           {
             "id": "tj-b1-topic-93",
-            "number": 340,
+            "number": 350,
             "title": "Renovating an Old House",
             "description": "Renovating an Old House — everyday vocabulary and sentences",
             "exercises": [
@@ -73452,7 +75068,7 @@
           },
           {
             "id": "tj-b1-topic-94",
-            "number": 341,
+            "number": 351,
             "title": "A Difficult Apology",
             "description": "A Difficult Apology — everyday vocabulary and sentences",
             "exercises": [
@@ -73621,7 +75237,7 @@
           },
           {
             "id": "tj-b1-topic-95",
-            "number": 342,
+            "number": 352,
             "title": "Understanding a Contract",
             "description": "Understanding a Contract — everyday vocabulary and sentences",
             "exercises": [
@@ -73807,7 +75423,7 @@
         "lessons": [
           {
             "id": "tj-b2-1",
-            "number": 343,
+            "number": 353,
             "title": "Sentences 1501–1525",
             "description": "Natural Fluency, part 1",
             "exercises": [
@@ -74301,7 +75917,7 @@
           },
           {
             "id": "tj-b2-2",
-            "number": 344,
+            "number": 354,
             "title": "Sentences 1526–1550",
             "description": "Natural Fluency, part 2",
             "exercises": [
@@ -74769,7 +76385,7 @@
           },
           {
             "id": "tj-b2-3",
-            "number": 345,
+            "number": 355,
             "title": "Sentences 1551–1575",
             "description": "Natural Fluency, part 3",
             "exercises": [
@@ -75227,7 +76843,7 @@
           },
           {
             "id": "tj-b2-4",
-            "number": 346,
+            "number": 356,
             "title": "Sentences 1576–1600",
             "description": "Natural Fluency, part 4",
             "exercises": [
@@ -75679,7 +77295,7 @@
           },
           {
             "id": "tj-b2-5",
-            "number": 347,
+            "number": 357,
             "title": "Sentences 1601–1625",
             "description": "Natural Fluency, part 5",
             "exercises": [
@@ -76157,7 +77773,7 @@
           },
           {
             "id": "tj-b2-reading-2",
-            "number": 348,
+            "number": 358,
             "title": "Working from Home",
             "description": "Reading comprehension: the pros and cons of remote work",
             "readingPassage": {
@@ -76276,7 +77892,7 @@
           },
           {
             "id": "tj-b2-6",
-            "number": 349,
+            "number": 359,
             "title": "Sentences 1626–1650",
             "description": "Natural Fluency, part 6",
             "exercises": [
@@ -76728,7 +78344,7 @@
           },
           {
             "id": "tj-b2-7",
-            "number": 350,
+            "number": 360,
             "title": "Sentences 1651–1675",
             "description": "Natural Fluency, part 7",
             "exercises": [
@@ -77198,7 +78814,7 @@
           },
           {
             "id": "tj-b2-8",
-            "number": 351,
+            "number": 361,
             "title": "Sentences 1676–1700",
             "description": "Natural Fluency, part 8",
             "exercises": [
@@ -77686,7 +79302,7 @@
           },
           {
             "id": "tj-b2-9",
-            "number": 352,
+            "number": 362,
             "title": "Sentences 1701–1725",
             "description": "Natural Fluency, part 9",
             "exercises": [
@@ -78158,7 +79774,7 @@
           },
           {
             "id": "tj-b2-reading-3",
-            "number": 353,
+            "number": 363,
             "title": "The Value of Failure",
             "description": "Reading comprehension: reframing failure as part of growth",
             "readingPassage": {
@@ -78277,7 +79893,7 @@
           },
           {
             "id": "tj-b2-10",
-            "number": 354,
+            "number": 364,
             "title": "Sentences 1726–1750",
             "description": "Natural Fluency, part 10",
             "exercises": [
@@ -78779,7 +80395,7 @@
           },
           {
             "id": "tj-b2-11",
-            "number": 355,
+            "number": 365,
             "title": "Sentences 1751–1775",
             "description": "Natural Fluency, part 11",
             "exercises": [
@@ -79267,7 +80883,7 @@
           },
           {
             "id": "tj-b2-12",
-            "number": 356,
+            "number": 366,
             "title": "Sentences 1776–1800",
             "description": "Natural Fluency, part 12",
             "exercises": [
@@ -79733,7 +81349,7 @@
           },
           {
             "id": "tj-b2-13",
-            "number": 357,
+            "number": 367,
             "title": "Sentences 1801–1825",
             "description": "Natural Fluency, part 13",
             "exercises": [
@@ -80213,7 +81829,7 @@
           },
           {
             "id": "tj-b2-reading-4",
-            "number": 358,
+            "number": 368,
             "title": "The Changing City",
             "description": "Reading comprehension: development versus heritage preservation",
             "readingPassage": {
@@ -80332,7 +81948,7 @@
           },
           {
             "id": "tj-b2-14",
-            "number": 359,
+            "number": 369,
             "title": "Sentences 1826–1850",
             "description": "Natural Fluency, part 14",
             "exercises": [
@@ -80806,7 +82422,7 @@
           },
           {
             "id": "tj-b2-15",
-            "number": 360,
+            "number": 370,
             "title": "Sentences 1851–1875",
             "description": "Natural Fluency, part 15",
             "exercises": [
@@ -81322,7 +82938,7 @@
           },
           {
             "id": "tj-b2-16",
-            "number": 361,
+            "number": 371,
             "title": "Sentences 1876–1900",
             "description": "Natural Fluency, part 16",
             "exercises": [
@@ -81866,7 +83482,7 @@
           },
           {
             "id": "tj-b2-17",
-            "number": 362,
+            "number": 372,
             "title": "Sentences 1901–1925",
             "description": "Natural Fluency, part 17",
             "exercises": [
@@ -82404,7 +84020,7 @@
           },
           {
             "id": "tj-b2-18",
-            "number": 363,
+            "number": 373,
             "title": "Sentences 1926–1950",
             "description": "Natural Fluency, part 18",
             "exercises": [
@@ -82924,7 +84540,7 @@
           },
           {
             "id": "tj-b2-19",
-            "number": 364,
+            "number": 374,
             "title": "Sentences 1951–1975",
             "description": "Natural Fluency, part 19",
             "exercises": [
@@ -83476,7 +85092,7 @@
           },
           {
             "id": "tj-b2-20",
-            "number": 365,
+            "number": 375,
             "title": "Sentences 1976–2000",
             "description": "Natural Fluency, part 20",
             "exercises": [
@@ -83982,7 +85598,7 @@
           },
           {
             "id": "tj-b2-reading",
-            "number": 366,
+            "number": 376,
             "title": "A Tight Deadline",
             "description": "Reading comprehension: a workplace crunch, resolved by teamwork",
             "readingPassage": {
