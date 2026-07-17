@@ -13,6 +13,7 @@
   const wordsEl = document.getElementById("wordsCount");
   const wordsStatEl = document.getElementById("wordsStat");
   const themeToggleEl = document.getElementById("themeToggle");
+  const soundToggleEl = document.getElementById("soundToggle");
   const hoardModal = document.getElementById("hoardModal");
   const dialogueModal = document.getElementById("dialogueModal");
 
@@ -37,6 +38,62 @@
   }
 
   initTheme();
+
+  // ---------- sound ----------
+  const SOUND_KEY = "muhkam-sound";
+  let soundEnabled = localStorage.getItem(SOUND_KEY) !== "off";
+  let audioCtx = null;
+
+  function updateSoundToggleUI() {
+    soundToggleEl.classList.toggle("muted", !soundEnabled);
+  }
+
+  function toggleSound() {
+    soundEnabled = !soundEnabled;
+    localStorage.setItem(SOUND_KEY, soundEnabled ? "on" : "off");
+    updateSoundToggleUI();
+  }
+
+  function getAudioCtx() {
+    if (!audioCtx) {
+      const Ctx = window.AudioContext || window.webkitAudioContext;
+      if (!Ctx) return null;
+      audioCtx = new Ctx();
+    }
+    if (audioCtx.state === "suspended") audioCtx.resume();
+    return audioCtx;
+  }
+
+  function playTone(ctx, freq, startOffset, duration, gainPeak) {
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.type = "sine";
+    osc.frequency.value = freq;
+    const t0 = ctx.currentTime + startOffset;
+    gain.gain.setValueAtTime(0.0001, t0);
+    gain.gain.exponentialRampToValueAtTime(gainPeak, t0 + 0.02);
+    gain.gain.exponentialRampToValueAtTime(0.0001, t0 + duration);
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.start(t0);
+    osc.stop(t0 + duration + 0.03);
+  }
+
+  function playCorrectSound() {
+    if (!soundEnabled) return;
+    const ctx = getAudioCtx();
+    if (!ctx) return;
+    playTone(ctx, 659.25, 0, 0.14, 0.16);
+    playTone(ctx, 987.77, 0.08, 0.22, 0.14);
+  }
+
+  function playIncorrectSound() {
+    if (!soundEnabled) return;
+    const ctx = getAudioCtx();
+    if (!ctx) return;
+    playTone(ctx, 207.65, 0, 0.24, 0.13);
+    playTone(ctx, 174.61, 0.06, 0.3, 0.11);
+  }
 
   let course = null;
   let flatLessons = []; // [{ ...lesson, levelId }] in course order
@@ -136,12 +193,14 @@
     });
 
     refreshTopStats();
+    updateSoundToggleUI();
     renderHome();
     wireGlobalUi();
   }
 
   function wireGlobalUi() {
     themeToggleEl.addEventListener("click", toggleTheme);
+    soundToggleEl.addEventListener("click", toggleSound);
 
     wordsStatEl.addEventListener("click", () => {
       renderHoard();
@@ -449,6 +508,7 @@
 
   function afterAnswer(correct) {
     const ex = currentExercise();
+    correct ? playCorrectSound() : playIncorrectSound();
     if (correct) {
       session.solved.add(ex._idx);
       session.combo++;
@@ -507,10 +567,11 @@
   }
 
   // ---- word bank ----
+  // Pool tiles are rendered once in fixed positions and never reordered —
+  // a tapped tile fades in place (space reserved) instead of the pool reflowing.
   function renderWordBank(ex) {
     const tiles = shuffled(ex.bank.map((word, i) => ({ id: i, word })));
-    let placed = [];
-    let available = tiles.map(t => t.id);
+    const placedOrder = [];
 
     renderLessonChrome(`
       ${grammarPanel()}
@@ -518,7 +579,9 @@
         <p class="q-kicker">${kicker(ex)}</p>
         ${promptBlock(ex)}
         <div class="bank-target" id="bankTarget"></div>
-        <div class="bank-pool" id="bankPool"></div>
+        <div class="bank-pool" id="bankPool">
+          ${tiles.map(t => `<button class="tile" data-id="${t.id}">${t.word}</button>`).join("")}
+        </div>
         <div class="lesson-footer">
           <button class="btn btn-primary" id="checkBtn" disabled>Check</button>
         </div>
@@ -531,40 +594,46 @@
     const targetEl = document.getElementById("bankTarget");
     const poolEl = document.getElementById("bankPool");
     const checkBtn = document.getElementById("checkBtn");
+    const poolTileEls = new Map();
 
-    function draw() {
-      targetEl.innerHTML = placed
-        .map(id => `<button class="tile placed" data-id="${id}">${tiles.find(t => t.id === id).word}</button>`)
-        .join("");
-      poolEl.innerHTML = available
-        .map(id => `<button class="tile" data-id="${id}">${tiles.find(t => t.id === id).word}</button>`)
-        .join("");
-      checkBtn.disabled = placed.length !== ex.answer.length;
+    poolEl.querySelectorAll(".tile").forEach(btn => {
+      const id = Number(btn.dataset.id);
+      poolTileEls.set(id, btn);
+      btn.addEventListener("click", () => placeTile(id));
+    });
 
-      targetEl.querySelectorAll(".tile").forEach(btn => {
-        btn.addEventListener("click", () => {
-          const id = Number(btn.dataset.id);
-          placed = placed.filter(x => x !== id);
-          available.push(id);
-          draw();
-        });
-      });
-      poolEl.querySelectorAll(".tile").forEach(btn => {
-        btn.addEventListener("click", () => {
-          const id = Number(btn.dataset.id);
-          available = available.filter(x => x !== id);
-          placed.push(id);
-          draw();
-        });
-      });
+    function placeTile(id) {
+      const poolBtn = poolTileEls.get(id);
+      if (poolBtn.disabled || poolBtn.classList.contains("tile-used")) return;
+      poolBtn.classList.add("tile-used");
+      placedOrder.push(id);
+
+      const targetBtn = document.createElement("button");
+      targetBtn.className = "tile placed tile-pop";
+      targetBtn.dataset.id = id;
+      targetBtn.textContent = tiles.find(t => t.id === id).word;
+      targetBtn.addEventListener("click", () => removeTile(id, targetBtn));
+      targetEl.appendChild(targetBtn);
+
+      checkBtn.disabled = placedOrder.length !== ex.answer.length;
     }
-    draw();
+
+    function removeTile(id, targetBtn) {
+      if (targetBtn.disabled) return;
+      const idx = placedOrder.indexOf(id);
+      if (idx === -1) return;
+      placedOrder.splice(idx, 1);
+      targetBtn.classList.add("tile-remove");
+      targetBtn.addEventListener("animationend", () => targetBtn.remove(), { once: true });
+      poolTileEls.get(id).classList.remove("tile-used");
+      checkBtn.disabled = placedOrder.length !== ex.answer.length;
+    }
 
     checkBtn.addEventListener("click", () => {
-      const words = placed.map(id => tiles.find(t => t.id === id).word);
+      const words = placedOrder.map(id => tiles.find(t => t.id === id).word);
       const correct = words.length === ex.answer.length && words.every((w, i) => w === ex.answer[i]);
+      poolTileEls.forEach(b => b.disabled = true);
       targetEl.querySelectorAll(".tile").forEach(b => b.disabled = true);
-      poolEl.querySelectorAll(".tile").forEach(b => b.disabled = true);
       checkBtn.disabled = true;
 
       afterAnswer(correct);
