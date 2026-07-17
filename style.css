@@ -75,18 +75,31 @@ body {
   background-image:
     radial-gradient(circle at 20% 10%, rgba(184, 144, 31, 0.05), transparent 40%),
     radial-gradient(circle at 85% 80%, rgba(122, 31, 43, 0.04), transparent 45%),
-    var(--geo-pattern);
-  background-repeat: no-repeat, no-repeat, repeat;
+    var(--corner-gold),
+    var(--corner-maroon);
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position: center, center, top right, bottom left;
+  background-size: auto, auto, min(46vw, 480px), min(38vw, 400px);
+  background-attachment: scroll, scroll, fixed, fixed;
 }
 :root {
-  --geo-pattern: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60'%3E%3Cg fill='none' stroke='%23b8901f' stroke-width='0.6' opacity='0.35'%3E%3Crect x='17' y='17' width='26' height='26'/%3E%3Crect x='17' y='17' width='26' height='26' transform='rotate(45 30 30)'/%3E%3C/g%3E%3C/svg%3E");
+  --corner-gold: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='480' height='480'%3E%3Cg fill='none' stroke='%23b8901f' stroke-width='1.4' opacity='0.14'%3E%3Crect x='120' y='120' width='240' height='240'/%3E%3Crect x='120' y='120' width='240' height='240' transform='rotate(45 240 240)'/%3E%3Ccircle cx='240' cy='240' r='95' opacity='0.6'/%3E%3C/g%3E%3C/svg%3E");
+  --corner-maroon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cg fill='none' stroke='%237a1f2b' stroke-width='1.4' opacity='0.12'%3E%3Crect x='100' y='100' width='200' height='200'/%3E%3Crect x='100' y='100' width='200' height='200' transform='rotate(45 200 200)'/%3E%3Ccircle cx='200' cy='200' r='78' opacity='0.6'/%3E%3C/g%3E%3C/svg%3E");
 }
 :root[data-theme="dark"] {
-  --geo-pattern: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60'%3E%3Cg fill='none' stroke='%23d6ac33' stroke-width='0.6' opacity='0.28'%3E%3Crect x='17' y='17' width='26' height='26'/%3E%3Crect x='17' y='17' width='26' height='26' transform='rotate(45 30 30)'/%3E%3C/g%3E%3C/svg%3E");
+  --corner-gold: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='480' height='480'%3E%3Cg fill='none' stroke='%23d6ac33' stroke-width='1.4' opacity='0.16'%3E%3Crect x='120' y='120' width='240' height='240'/%3E%3Crect x='120' y='120' width='240' height='240' transform='rotate(45 240 240)'/%3E%3Ccircle cx='240' cy='240' r='95' opacity='0.6'/%3E%3C/g%3E%3C/svg%3E");
+  --corner-maroon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cg fill='none' stroke='%23dd7c86' stroke-width='1.4' opacity='0.14'%3E%3Crect x='100' y='100' width='200' height='200'/%3E%3Crect x='100' y='100' width='200' height='200' transform='rotate(45 200 200)'/%3E%3Ccircle cx='200' cy='200' r='78' opacity='0.6'/%3E%3C/g%3E%3C/svg%3E");
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --geo-pattern: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60'%3E%3Cg fill='none' stroke='%23d6ac33' stroke-width='0.6' opacity='0.28'%3E%3Crect x='17' y='17' width='26' height='26'/%3E%3Crect x='17' y='17' width='26' height='26' transform='rotate(45 30 30)'/%3E%3C/g%3E%3C/svg%3E");
+    --corner-gold: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='480' height='480'%3E%3Cg fill='none' stroke='%23d6ac33' stroke-width='1.4' opacity='0.16'%3E%3Crect x='120' y='120' width='240' height='240'/%3E%3Crect x='120' y='120' width='240' height='240' transform='rotate(45 240 240)'/%3E%3Ccircle cx='240' cy='240' r='95' opacity='0.6'/%3E%3C/g%3E%3C/svg%3E");
+    --corner-maroon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cg fill='none' stroke='%23dd7c86' stroke-width='1.4' opacity='0.14'%3E%3Crect x='100' y='100' width='200' height='200'/%3E%3Crect x='100' y='100' width='200' height='200' transform='rotate(45 200 200)'/%3E%3Ccircle cx='200' cy='200' r='78' opacity='0.6'/%3E%3C/g%3E%3C/svg%3E");
+  }
+}
+@media (max-width: 700px) {
+  body { background-image:
+      radial-gradient(circle at 20% 10%, rgba(184, 144, 31, 0.05), transparent 40%),
+      radial-gradient(circle at 85% 80%, rgba(122, 31, 43, 0.04), transparent 45%);
   }
 }
 
