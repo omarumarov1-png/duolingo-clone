@@ -572,6 +572,7 @@
   function renderWordBank(ex) {
     const tiles = shuffled(ex.bank.map((word, i) => ({ id: i, word })));
     const placedOrder = [];
+    let evalTimer = null;
 
     renderLessonChrome(`
       ${grammarPanel()}
@@ -582,9 +583,6 @@
         <div class="bank-pool" id="bankPool">
           ${tiles.map(t => `<button class="tile" data-id="${t.id}">${t.word}</button>`).join("")}
         </div>
-        <div class="lesson-footer">
-          <button class="btn btn-primary" id="checkBtn" disabled>Check</button>
-        </div>
         <div id="feedbackSlot"></div>
       </div>
     `);
@@ -593,7 +591,6 @@
 
     const targetEl = document.getElementById("bankTarget");
     const poolEl = document.getElementById("bankPool");
-    const checkBtn = document.getElementById("checkBtn");
     const poolTileEls = new Map();
 
     poolEl.querySelectorAll(".tile").forEach(btn => {
@@ -615,32 +612,33 @@
       targetBtn.addEventListener("click", () => removeTile(id, targetBtn));
       targetEl.appendChild(targetBtn);
 
-      checkBtn.disabled = placedOrder.length !== ex.answer.length;
+      if (placedOrder.length === ex.answer.length) {
+        evalTimer = setTimeout(evaluate, 320);
+      }
     }
 
     function removeTile(id, targetBtn) {
       if (targetBtn.disabled) return;
+      if (evalTimer) { clearTimeout(evalTimer); evalTimer = null; }
       const idx = placedOrder.indexOf(id);
       if (idx === -1) return;
       placedOrder.splice(idx, 1);
       targetBtn.classList.add("tile-remove");
       targetBtn.addEventListener("animationend", () => targetBtn.remove(), { once: true });
       poolTileEls.get(id).classList.remove("tile-used");
-      checkBtn.disabled = placedOrder.length !== ex.answer.length;
     }
 
-    checkBtn.addEventListener("click", () => {
+    function evaluate() {
       const words = placedOrder.map(id => tiles.find(t => t.id === id).word);
       const correct = words.length === ex.answer.length && words.every((w, i) => w === ex.answer[i]);
       poolTileEls.forEach(b => b.disabled = true);
       targetEl.querySelectorAll(".tile").forEach(b => b.disabled = true);
-      checkBtn.disabled = true;
 
       afterAnswer(correct);
       document.getElementById("feedbackSlot").innerHTML =
         renderFeedback(correct, `Correct order: ${ex.answer.join(" ")}`);
       scheduleAdvance(correct);
-    });
+    }
   }
 
   // ---------- SUMMARY / FAIL ----------
