@@ -1,12 +1,17 @@
 (() => {
   "use strict";
 
-  const STORAGE_KEY = "muhkam-progress-v2";
   const THEME_KEY = "muhkam-theme";
+  const ACTIVE_COURSE_KEY = "muhkam-active-course";
   const MAX_MISSED = 150;
   const REVISION_SIZE = 20;
   const ADVANCE_DELAY_CORRECT = 900;
   const ADVANCE_DELAY_WRONG = 2000;
+
+  const COURSES = [
+    { id: "arabic", file: "data/courses.json", legacyProgressKey: "muhkam-progress-v2", label: "Arabic — العربية", flag: "العربية" },
+    { id: "tajik", file: "data/courses-tajik.json", label: "Tajik — Тоҷикӣ", flag: "Тоҷикӣ" },
+  ];
 
   const screenEl = document.getElementById("screen");
   const streakEl = document.getElementById("streakCount");
@@ -15,8 +20,10 @@
   const wordsStatEl = document.getElementById("wordsStat");
   const themeToggleEl = document.getElementById("themeToggle");
   const soundToggleEl = document.getElementById("soundToggle");
+  const courseToggleEl = document.getElementById("courseToggle");
   const hoardModal = document.getElementById("hoardModal");
   const dialogueModal = document.getElementById("dialogueModal");
+  const courseModal = document.getElementById("courseModal");
 
   // ---------- theme ----------
   function initTheme() {
@@ -97,10 +104,12 @@
   }
 
   let course = null;
+  let activeCourseId = localStorage.getItem(ACTIVE_COURSE_KEY) || COURSES[0].id;
+  if (!COURSES.some(c => c.id === activeCourseId)) activeCourseId = COURSES[0].id;
   let flatLessons = []; // [{ ...lesson, levelId }] in course order
   let exerciseIndex = new Map(); // gid -> { lesson, exercise }
 
-  let progress = loadProgress();
+  let progress = null;
   let session = null; // active lesson/review session state
   let advanceTimer = null;
 
@@ -117,16 +126,21 @@
   }
 
   // ---------- persistence ----------
+  function progressKey() {
+    const meta = COURSES.find(c => c.id === activeCourseId);
+    return (meta && meta.legacyProgressKey) || `muhkam-progress-v2-${activeCourseId}`;
+  }
+
   function loadProgress() {
     try {
-      const raw = localStorage.getItem(STORAGE_KEY);
+      const raw = localStorage.getItem(progressKey());
       if (raw) return JSON.parse(raw);
     } catch (e) { /* corrupt storage, fall through to defaults */ }
     return { xp: 0, streak: 0, lastActiveDate: null, completedLessons: [], missedBank: [], wordHoard: [] };
   }
 
   function saveProgress() {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+    localStorage.setItem(progressKey(), JSON.stringify(progress));
   }
 
   function updateStreakOnCompletion() {
@@ -155,8 +169,8 @@
     return a;
   }
 
-  function arabicTokens(s) {
-    return s.trim().replace(/[.،؟!]/g, "").split(/\s+/).filter(Boolean);
+  function nativeTokens(s) {
+    return s.trim().replace(/[.,!?;:،؟!""«»—–]/g, "").split(/\s+/).filter(Boolean);
   }
 
   function isLessonUnlocked(flatIndex) {
@@ -167,8 +181,8 @@
   function harvestWords(ex) {
     let words = [];
     if (ex.type === "word-bank") words = ex.answer;
-    else if (ex.type === "multiple-choice" && ex.direction === "ar-en") {
-      words = arabicTokens(ex.prompt);
+    else if (ex.type === "multiple-choice" && ex.direction === `${course.lang}-en`) {
+      words = nativeTokens(ex.prompt);
     }
     let added = 0;
     words.forEach(w => {
@@ -178,12 +192,16 @@
   }
 
   // ---------- boot ----------
-  async function boot() {
-    const res = await fetch("data/courses.json");
+  async function loadCourseData(courseId) {
+    const meta = COURSES.find(c => c.id === courseId) || COURSES[0];
+    const res = await fetch(meta.file);
     if (!res.ok) throw new Error("Failed to load course data");
     const data = await res.json();
     course = data.course;
+    course.id = meta.id;
 
+    flatLessons = [];
+    exerciseIndex = new Map();
     course.levels.forEach(level => {
       level.lessons.forEach(lesson => {
         flatLessons.push({ ...lesson, levelId: level.id });
@@ -193,15 +211,66 @@
       });
     });
 
+    document.documentElement.style.setProperty("--font-native", course.fontNative || "var(--font-arabic)");
+    screenEl.setAttribute("dir", course.dir || "ltr");
+    hoardModal.setAttribute("dir", course.dir || "ltr");
+    document.title = `Muḥkam — ${course.title}`;
+    courseToggleEl.textContent = course.flag || course.languageName || course.id;
+    const hoardNativeLabel = document.getElementById("hoardNativeLabel");
+    if (hoardNativeLabel) hoardNativeLabel.textContent = (course.uiStrings && course.uiStrings.wordHoard) || "";
+  }
+
+  async function switchCourse(courseId) {
+    if (courseId === activeCourseId) return;
+    cancelAdvance();
+    session = null;
+    activeCourseId = courseId;
+    localStorage.setItem(ACTIVE_COURSE_KEY, courseId);
+    await loadCourseData(courseId);
+    progress = loadProgress();
+    refreshTopStats();
+    renderHome();
+  }
+
+  async function boot() {
+    await loadCourseData(activeCourseId);
+    progress = loadProgress();
     refreshTopStats();
     updateSoundToggleUI();
     renderHome();
     wireGlobalUi();
   }
 
+  function renderCoursePicker() {
+    const list = document.getElementById("courseList");
+    list.innerHTML = COURSES.map(meta => `
+      <button class="course-option ${meta.id === activeCourseId ? "active" : ""}" data-course="${meta.id}">
+        <span class="course-option-name">${meta.label}</span>
+      </button>
+    `).join("");
+    list.querySelectorAll(".course-option").forEach(btn => {
+      btn.addEventListener("click", async () => {
+        const id = btn.dataset.course;
+        courseModal.classList.add("hidden");
+        await switchCourse(id);
+      });
+    });
+  }
+
   function wireGlobalUi() {
     themeToggleEl.addEventListener("click", toggleTheme);
     soundToggleEl.addEventListener("click", toggleSound);
+
+    courseToggleEl.addEventListener("click", () => {
+      renderCoursePicker();
+      courseModal.classList.remove("hidden");
+    });
+    document.getElementById("courseClose").addEventListener("click", () => {
+      courseModal.classList.add("hidden");
+    });
+    courseModal.addEventListener("click", e => {
+      if (e.target === courseModal) courseModal.classList.add("hidden");
+    });
 
     wordsStatEl.addEventListener("click", () => {
       renderHoard();
@@ -238,7 +307,7 @@
       return;
     }
     list.innerHTML = progress.wordHoard.slice().reverse()
-      .map(w => `<span class="hoard-word" dir="rtl" lang="ar">${w}</span>`).join("");
+      .map(w => `<span class="hoard-word" dir="${course.dir}" lang="${course.lang}">${w}</span>`).join("");
   }
 
   function showDialogue(topic) {
@@ -246,7 +315,7 @@
     document.getElementById("dialogueList").innerHTML = topic.dialogue.map(turn => `
       <div class="dialogue-turn">
         <span class="dialogue-speaker">${turn.sp}</span>
-        <p class="dialogue-ar" dir="rtl" lang="ar">${turn.ar}</p>
+        <p class="dialogue-native" dir="${course.dir}" lang="${course.lang}">${turn.native}</p>
         <p class="dialogue-en">${turn.en}</p>
       </div>
     `).join("");
@@ -259,11 +328,14 @@
     const doneCount = flatLessons.filter(l => progress.completedLessons.includes(l.id)).length;
     const pct = totalLessons ? Math.round((doneCount / totalLessons) * 100) : 0;
 
+    const reviewNative = (course.uiStrings && course.uiStrings.review) ? ` &middot; ${course.uiStrings.review}` : "";
+    const revisionNative = (course.uiStrings && course.uiStrings.revision) ? ` &middot; ${course.uiStrings.revision}` : "";
+
     const reviewCard = progress.missedBank.length > 0 ? `
       <button class="review-card" id="reviewBtn">
         <div>
           <div class="review-title">Review your mistakes</div>
-          <div class="review-sub">${progress.missedBank.length} exercise${progress.missedBank.length === 1 ? "" : "s"} waiting &middot; مراجعة</div>
+          <div class="review-sub">${progress.missedBank.length} exercise${progress.missedBank.length === 1 ? "" : "s"} waiting${reviewNative}</div>
         </div>
         <span class="review-arrow" aria-hidden="true">&rarr;</span>
       </button>` : "";
@@ -272,7 +344,7 @@
       <button class="review-card revision-card" id="revisionBtn">
         <div>
           <div class="review-title">Random revision</div>
-          <div class="review-sub">Old sentences, shuffled and mixed across topics &middot; تكرار عشوائي</div>
+          <div class="review-sub">Old sentences, shuffled and mixed across topics${revisionNative}</div>
         </div>
         <span class="review-arrow" aria-hidden="true">&rarr;</span>
       </button>` : "";
@@ -294,7 +366,7 @@
             <div class="medallion">${done ? "&#10003;" : lesson.number}</div>
             <div class="node-card">
               <div>
-                <div class="node-title">${lesson.title}<span class="ar">${lesson.titleAr}</span></div>
+                <div class="node-title">${lesson.title}${lesson.titleNative ? `<span class="ar">${lesson.titleNative}</span>` : ""}</div>
                 <div class="node-desc">${lesson.description}</div>
               </div>
               <div class="node-status">${status}</div>
@@ -310,7 +382,7 @@
           <summary class="level-header">
             <span class="level-badge">${level.cefr}</span>
             <div>
-              <h2>${level.label}<span class="ar">${level.labelAr}</span></h2>
+              <h2>${level.label}${level.labelNative ? `<span class="ar">${level.labelNative}</span>` : ""}</h2>
             </div>
             <span class="level-progress">${levelDone}/${level.lessons.length}</span>
           </summary>
@@ -321,10 +393,10 @@
 
     screenEl.innerHTML = `
       <section class="hero">
-        <p class="eyebrow">Modern Standard Arabic &middot; A2 &rarr; C1</p>
+        <p class="eyebrow">${course.heroEyebrow || course.languageName || ""}</p>
         <h1>${course.title}</h1>
-        <p class="ar-title">من الأساسيات إلى الفصحى المتقدّمة</p>
-        <p class="lede">${course.subtitle}. Real sentences from day one, gradually shedding the vowel marks and the hand-holding as you climb.</p>
+        ${course.heroNative ? `<p class="ar-title">${course.heroNative}</p>` : ""}
+        <p class="lede">${course.subtitle}. ${course.heroLedeSuffix || ""}</p>
         <div class="progress-row">
           <div class="ring" data-pct="${pct}" style="--pct:${pct}"></div>
           <div class="progress-text">
@@ -374,7 +446,7 @@
     const gids = progress.missedBank.filter(gid => exerciseIndex.has(gid));
     if (gids.length === 0) return;
     session = {
-      lesson: { id: "__review__", title: "Review Session", titleAr: "مراجعة" },
+      lesson: { id: "__review__", title: "Review Session", titleNative: (course.uiStrings && course.uiStrings.review) || "" },
       mode: "mistakes",
       queue: gids.map((gid, i) => buildQueueItem(exerciseIndex.get(gid).exercise, gid, i, exerciseIndex.get(gid).lesson)),
       total: gids.length,
@@ -396,7 +468,7 @@
     if (pool.length === 0) return;
     const picked = shuffled(pool).slice(0, Math.min(REVISION_SIZE, pool.length));
     session = {
-      lesson: { id: "__revision__", title: "Random Revision", titleAr: "تكرار عشوائي" },
+      lesson: { id: "__revision__", title: "Random Revision", titleNative: (course.uiStrings && course.uiStrings.revision) || "" },
       mode: "revision",
       queue: picked.map((item, i) => buildQueueItem(exerciseIndex.get(item.gid).exercise, item.gid, i, item.lesson)),
       total: picked.length,
@@ -432,7 +504,7 @@
   }
 
   function kicker(ex) {
-    if (ex.type === "word-bank") return "Build the sentence in Arabic";
+    if (ex.type === "word-bank") return `Build the sentence in ${course.languageName || course.title}`;
     if (ex.type === "comprehension") return "Reading comprehension";
     return "Select the correct translation";
   }
@@ -441,12 +513,12 @@
     if (ex.type === "comprehension") {
       return `<p class="prompt-en">${ex.question}</p>`;
     }
-    if (ex.direction === "ar-en" && ex.type !== "word-bank") {
+    if (ex.direction === `${course.lang}-en` && ex.type !== "word-bank") {
       const toggle = ex.translit
         ? `<button class="translit-toggle" id="translitToggle">Show transliteration</button>
            <p class="translit hidden" id="translitText">${ex.translit}</p>`
         : "";
-      return `<p class="prompt-ar" dir="rtl" lang="ar">${ex.prompt}</p>${toggle}`;
+      return `<p class="prompt-native" dir="${course.dir}" lang="${course.lang}">${ex.prompt}</p>${toggle}`;
     }
     return `<p class="prompt-en">${ex.prompt}</p>`;
   }
@@ -466,7 +538,7 @@
     if (!lesson.readingPassage) return "";
     const rows = lesson.readingPassage.paragraphs.map(p => `
       <div class="passage-line">
-        <p class="passage-ar" dir="rtl" lang="ar">${p.ar}</p>
+        <p class="passage-native" dir="${course.dir}" lang="${course.lang}">${p.native}</p>
         <p class="passage-en hidden">${p.en}</p>
       </div>
     `).join("");
@@ -474,7 +546,7 @@
       ? `<p class="context-note">${lesson.readingPassage.context}</p>` : "";
     return `
       <details class="passage-panel" open>
-        <summary>${lesson.title} <span class="ar">${lesson.titleAr}</span></summary>
+        <summary>${lesson.title}${lesson.titleNative ? ` <span class="ar">${lesson.titleNative}</span>` : ""}</summary>
         ${context}
         <button class="translit-toggle" id="passageToggle">Show English</button>
         ${rows}
@@ -698,7 +770,7 @@
       <div class="summary">
         <svg class="medal" viewBox="0 0 32 32"><path d="M16 2 L18.5 13.5 L30 16 L18.5 18.5 L16 30 L13.5 18.5 L2 16 L13.5 13.5 Z" fill="var(--gold)"/></svg>
         <h2>${summaryTitle}</h2>
-        <p>${session.lesson.title} &middot; ${session.lesson.titleAr}</p>
+        <p>${session.lesson.title}${session.lesson.titleNative ? ` &middot; ${session.lesson.titleNative}` : ""}</p>
         <div class="summary-stats">
           <div class="stat-block"><span class="num">+${xpEarned}</span><span class="lbl">XP</span></div>
           <div class="stat-block"><span class="num">${session.mistakes}</span><span class="lbl">Mistakes</span></div>

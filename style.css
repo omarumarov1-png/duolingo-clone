@@ -18,6 +18,7 @@
 
   --font-display: "Cormorant Garamond", Georgia, serif;
   --font-arabic: "Amiri", "Traditional Arabic", serif;
+  --font-native: var(--font-arabic);
   --font-body: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
   --font-mono: "Space Mono", monospace;
 }
@@ -254,6 +255,44 @@ button.stat:hover { color: var(--teal); }
 .sound-toggle.muted .icon-on { display: none; }
 .sound-toggle.muted .icon-muted { display: block; }
 
+.course-toggle {
+  background: none;
+  border: 1.5px solid var(--line);
+  border-radius: 20px;
+  height: 32px;
+  padding: 0 12px;
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--ink);
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.course-toggle:hover { border-color: var(--gold); transform: translateY(-1px); }
+
+.course-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.course-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  text-align: left;
+  background: var(--paper);
+  border: 1.5px solid var(--line);
+  border-radius: 4px;
+  padding: 12px 16px;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink);
+  transition: border-color 0.15s ease;
+}
+.course-option:hover { border-color: var(--gold); }
+.course-option.active { border-color: var(--teal); background: var(--teal-wash); }
+
 .screen {
   flex: 1;
   padding: 28px 20px 60px;
@@ -301,7 +340,7 @@ button.stat:hover { color: var(--teal); }
 }
 
 .hero .ar-title {
-  font-family: var(--font-arabic);
+  font-family: var(--font-native);
   direction: rtl;
   font-size: 1.7rem;
   color: var(--maroon);
@@ -473,7 +512,7 @@ button.stat:hover { color: var(--teal); }
   display: inline;
 }
 .level-header .ar {
-  font-family: var(--font-arabic);
+  font-family: var(--font-native);
   direction: rtl;
   color: var(--maroon);
   font-size: 1.15rem;
@@ -556,7 +595,7 @@ button.stat:hover { color: var(--teal); }
 
 .node-title { font-weight: 700; font-size: 1rem; }
 .node-title .ar {
-  font-family: var(--font-arabic);
+  font-family: var(--font-native);
   direction: rtl;
   color: var(--maroon);
   font-weight: 400;
@@ -647,9 +686,8 @@ button.stat:hover { color: var(--teal); }
   margin: 0 0 18px;
 }
 
-.prompt-ar {
-  font-family: var(--font-arabic);
-  direction: rtl;
+.prompt-native {
+  font-family: var(--font-native);
   font-size: 2.1rem;
   line-height: 1.6;
   color: var(--ink);
@@ -710,17 +748,15 @@ button.stat:hover { color: var(--teal); }
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  direction: rtl;
   margin-bottom: 22px;
 }
 .bank-pool {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  direction: rtl;
 }
 .tile {
-  font-family: var(--font-arabic);
+  font-family: var(--font-native);
   font-size: 1.3rem;
   background: var(--paper);
   color: var(--ink);
@@ -751,16 +787,15 @@ button.stat:hover { color: var(--teal); }
   color: var(--ink);
 }
 .passage-panel summary .ar {
-  font-family: var(--font-arabic);
+  font-family: var(--font-native);
   direction: rtl;
   color: var(--maroon);
   font-weight: 400;
   margin-left: 8px;
 }
 .passage-line { margin-bottom: 12px; }
-.passage-ar {
-  font-family: var(--font-arabic);
-  direction: rtl;
+.passage-native {
+  font-family: var(--font-native);
   font-size: 1.3rem;
   line-height: 1.8;
   margin: 0 0 4px;
@@ -800,7 +835,7 @@ button.stat:hover { color: var(--teal); }
   color: var(--teal);
 }
 .grammar-panel summary .ar {
-  font-family: var(--font-arabic);
+  font-family: var(--font-native);
   direction: rtl;
   text-transform: none;
   letter-spacing: normal;
@@ -847,7 +882,7 @@ button.stat:hover { color: var(--teal); }
   margin-bottom: 4px;
 }
 .fact-label .ar {
-  font-family: var(--font-arabic);
+  font-family: var(--font-native);
   direction: rtl;
   text-transform: none;
   letter-spacing: normal;
@@ -882,9 +917,8 @@ button.stat:hover { color: var(--teal); }
   text-transform: uppercase;
   color: var(--maroon);
 }
-.dialogue-ar {
-  font-family: var(--font-arabic);
-  direction: rtl;
+.dialogue-native {
+  font-family: var(--font-native);
   font-size: 1.25rem;
   line-height: 1.7;
   margin: 4px 0 2px;
@@ -1009,7 +1043,7 @@ button.stat:hover { color: var(--teal); }
   margin: 0;
 }
 .modal-header .ar {
-  font-family: var(--font-arabic);
+  font-family: var(--font-native);
   direction: rtl;
   color: var(--maroon);
   font-size: 1.1rem;
@@ -1034,10 +1068,9 @@ button.stat:hover { color: var(--teal); }
   flex-wrap: wrap;
   gap: 8px;
   overflow-y: auto;
-  direction: rtl;
 }
 .hoard-word {
-  font-family: var(--font-arabic);
+  font-family: var(--font-native);
   font-size: 1.15rem;
   background: var(--gold-wash);
   border: 1px solid var(--gold);
@@ -1054,8 +1087,10 @@ button.stat:hover { color: var(--teal); }
 @media (max-width: 480px) {
   .hero h1 { font-size: 2.1rem; }
   .card { padding: 26px 18px; }
-  .prompt-ar { font-size: 1.7rem; }
+  .prompt-native { font-size: 1.7rem; }
   .summary-stats { gap: 22px; }
   .level-header { flex-wrap: wrap; }
   .modal-card { padding: 20px 18px 16px; }
+  .stats { gap: 10px; }
+  .course-toggle { padding: 0 8px; font-size: 0.72rem; }
 }
