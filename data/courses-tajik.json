@@ -8023,6 +8023,137 @@
                 "answerIndex": 1
               }
             ]
+          },
+          {
+            "id": "tj-a1-reading",
+            "number": 21,
+            "title": "Meet Alisher",
+            "description": "Reading comprehension: a teacher introduces himself and his family",
+            "readingPassage": {
+              "context": "A short self-introduction of the kind used throughout the course to review present-tense statements about work, family, and daily routine.",
+              "paragraphs": [
+                {
+                  "native": "Салом! Номи ман Алишер аст.",
+                  "en": "Hello! My name is Alisher."
+                },
+                {
+                  "native": "Ман сию панҷ сола ҳастам ва дар Душанбе зиндагӣ мекунам.",
+                  "en": "I am thirty-five years old and I live in Dushanbe."
+                },
+                {
+                  "native": "Ман муаллим ҳастам ва ба кӯдакон забони англисӣ меомӯзонам.",
+                  "en": "I am a teacher, and I teach English to children."
+                },
+                {
+                  "native": "Ҳар субҳ соати ҳафт мехезам, наҳорӣ мехӯрам ва бо автобус ба мактаб меравам.",
+                  "en": "Every morning I get up at seven, have breakfast, and go to school by bus."
+                },
+                {
+                  "native": "Кори ман хеле ҷолиб аст, зеро ман бо бисёр одамон вомехӯрам.",
+                  "en": "My job is very interesting because I meet a lot of people."
+                },
+                {
+                  "native": "Хонаводаи ман хурд аст: ман, занам ва ду фарзандамон.",
+                  "en": "My family is small: me, my wife, and our two children."
+                },
+                {
+                  "native": "Занам духтур аст ва дар беморхона кор мекунад.",
+                  "en": "My wife is a doctor and works at a hospital."
+                },
+                {
+                  "native": "Фарзандони мо дар мактаб мехонанд.",
+                  "en": "Our children study at school."
+                },
+                {
+                  "native": "Онҳо ба варзиш шавқ доранд — писарам футбол бозӣ мекунад ва духтарам теннис дӯст медорад.",
+                  "en": "They're interested in sports — my son plays football and my daughter likes tennis."
+                },
+                {
+                  "native": "Имрӯз ҳаво хуб аст, офтобист, лекин дирӯз борон борид ва хунук буд.",
+                  "en": "Today the weather is nice and sunny, but yesterday it rained and was cold."
+                },
+                {
+                  "native": "Бегоҳирӯзӣ мо одатан якҷоя шом мехӯрем ва сӯҳбат мекунем.",
+                  "en": "In the evening we usually have dinner together and talk."
+                },
+                {
+                  "native": "Баъзан мо телевизор тамошо мекунем, лекин зуд-зуд не, зеро вақти зиёд надорем.",
+                  "en": "Sometimes we watch TV, but not often, because we don't have much free time."
+                },
+                {
+                  "native": "Ман мусиқиро дӯст медорам ва ҳар шаб пеш аз хоб чанд дақиқа гӯш мекунам.",
+                  "en": "I like music, and every night before bed I listen to it for a few minutes."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "What is Alisher's profession?",
+                "options": [
+                  "Doctor",
+                  "Teacher",
+                  "Engineer",
+                  "Driver"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "How old is Alisher?",
+                "options": [
+                  "25",
+                  "30",
+                  "35",
+                  "40"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Where does Alisher live?",
+                "options": [
+                  "Khujand",
+                  "Dushanbe",
+                  "Samarqand",
+                  "Moscow"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "What does Alisher's wife do?",
+                "options": [
+                  "Teacher",
+                  "Doctor",
+                  "Nurse",
+                  "Engineer"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Which sport does his son play?",
+                "options": [
+                  "Tennis",
+                  "Basketball",
+                  "Football",
+                  "Chess"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Why don't they watch TV often?",
+                "options": [
+                  "They don't like it",
+                  "They don't have much free time",
+                  "The TV is broken",
+                  "They prefer reading"
+                ],
+                "answerIndex": 1
+              }
+            ]
           }
         ]
       },
@@ -8033,7 +8164,7 @@
         "lessons": [
           {
             "id": "tj-a2-1",
-            "number": 21,
+            "number": 22,
             "title": "Sentences 501–525",
             "description": "Everyday Fluency, part 1",
             "exercises": [
@@ -8449,7 +8580,7 @@
           },
           {
             "id": "tj-a2-2",
-            "number": 22,
+            "number": 23,
             "title": "Sentences 526–550",
             "description": "Everyday Fluency, part 2",
             "exercises": [
@@ -8893,7 +9024,7 @@
           },
           {
             "id": "tj-a2-3",
-            "number": 23,
+            "number": 24,
             "title": "Sentences 551–575",
             "description": "Everyday Fluency, part 3",
             "exercises": [
@@ -9409,7 +9540,7 @@
           },
           {
             "id": "tj-a2-4",
-            "number": 24,
+            "number": 25,
             "title": "Sentences 576–600",
             "description": "Everyday Fluency, part 4",
             "exercises": [
@@ -9923,7 +10054,7 @@
           },
           {
             "id": "tj-a2-5",
-            "number": 25,
+            "number": 26,
             "title": "Sentences 601–625",
             "description": "Everyday Fluency, part 5",
             "exercises": [
@@ -10409,7 +10540,7 @@
           },
           {
             "id": "tj-a2-6",
-            "number": 26,
+            "number": 27,
             "title": "Sentences 626–650",
             "description": "Everyday Fluency, part 6",
             "exercises": [
@@ -10819,7 +10950,7 @@
           },
           {
             "id": "tj-a2-7",
-            "number": 27,
+            "number": 28,
             "title": "Sentences 651–675",
             "description": "Everyday Fluency, part 7",
             "exercises": [
@@ -11305,7 +11436,7 @@
           },
           {
             "id": "tj-a2-8",
-            "number": 28,
+            "number": 29,
             "title": "Sentences 676–700",
             "description": "Everyday Fluency, part 8",
             "exercises": [
@@ -11755,7 +11886,7 @@
           },
           {
             "id": "tj-a2-9",
-            "number": 29,
+            "number": 30,
             "title": "Sentences 701–725",
             "description": "Everyday Fluency, part 9",
             "exercises": [
@@ -12223,7 +12354,7 @@
           },
           {
             "id": "tj-a2-10",
-            "number": 30,
+            "number": 31,
             "title": "Sentences 726–750",
             "description": "Everyday Fluency, part 10",
             "exercises": [
@@ -12679,7 +12810,7 @@
           },
           {
             "id": "tj-a2-11",
-            "number": 31,
+            "number": 32,
             "title": "Sentences 751–775",
             "description": "Everyday Fluency, part 11",
             "exercises": [
@@ -13183,7 +13314,7 @@
           },
           {
             "id": "tj-a2-12",
-            "number": 32,
+            "number": 33,
             "title": "Sentences 776–800",
             "description": "Everyday Fluency, part 12",
             "exercises": [
@@ -13643,7 +13774,7 @@
           },
           {
             "id": "tj-a2-13",
-            "number": 33,
+            "number": 34,
             "title": "Sentences 801–825",
             "description": "Everyday Fluency, part 13",
             "exercises": [
@@ -14141,7 +14272,7 @@
           },
           {
             "id": "tj-a2-14",
-            "number": 34,
+            "number": 35,
             "title": "Sentences 826–850",
             "description": "Everyday Fluency, part 14",
             "exercises": [
@@ -14639,7 +14770,7 @@
           },
           {
             "id": "tj-a2-15",
-            "number": 35,
+            "number": 36,
             "title": "Sentences 851–875",
             "description": "Everyday Fluency, part 15",
             "exercises": [
@@ -15131,7 +15262,7 @@
           },
           {
             "id": "tj-a2-16",
-            "number": 36,
+            "number": 37,
             "title": "Sentences 876–900",
             "description": "Everyday Fluency, part 16",
             "exercises": [
@@ -15615,7 +15746,7 @@
           },
           {
             "id": "tj-a2-17",
-            "number": 37,
+            "number": 38,
             "title": "Sentences 901–925",
             "description": "Everyday Fluency, part 17",
             "exercises": [
@@ -16123,7 +16254,7 @@
           },
           {
             "id": "tj-a2-18",
-            "number": 38,
+            "number": 39,
             "title": "Sentences 926–950",
             "description": "Everyday Fluency, part 18",
             "exercises": [
@@ -16615,7 +16746,7 @@
           },
           {
             "id": "tj-a2-19",
-            "number": 39,
+            "number": 40,
             "title": "Sentences 951–975",
             "description": "Everyday Fluency, part 19",
             "exercises": [
@@ -17121,7 +17252,7 @@
           },
           {
             "id": "tj-a2-20",
-            "number": 40,
+            "number": 41,
             "title": "Sentences 976–1000",
             "description": "Everyday Fluency, part 20",
             "exercises": [
@@ -17579,7 +17710,7 @@
           },
           {
             "id": "tj-a2-topic-1",
-            "number": 41,
+            "number": 42,
             "title": "Cooking",
             "description": "Cooking — everyday vocabulary and sentences",
             "exercises": [
@@ -17742,7 +17873,7 @@
           },
           {
             "id": "tj-a2-topic-2",
-            "number": 42,
+            "number": 43,
             "title": "Shopping",
             "description": "Shopping — everyday vocabulary and sentences",
             "exercises": [
@@ -17909,7 +18040,7 @@
           },
           {
             "id": "tj-a2-topic-3",
-            "number": 43,
+            "number": 44,
             "title": "Transportation",
             "description": "Transportation — everyday vocabulary and sentences",
             "exercises": [
@@ -18074,7 +18205,7 @@
           },
           {
             "id": "tj-a2-topic-4",
-            "number": 44,
+            "number": 45,
             "title": "Weather and Seasons",
             "description": "Weather and Seasons — everyday vocabulary and sentences",
             "exercises": [
@@ -18235,7 +18366,7 @@
           },
           {
             "id": "tj-a2-topic-5",
-            "number": 45,
+            "number": 46,
             "title": "Family",
             "description": "Family — everyday vocabulary and sentences",
             "exercises": [
@@ -18403,6 +18534,117 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tj-a2-reading",
+            "number": 47,
+            "title": "My Friend Farhod",
+            "description": "Reading comprehension: a friendship, a career change, and a good conversation",
+            "readingPassage": {
+              "context": "A personal narrative reviewing past-tense storytelling and reported speech (\"he told me that...\") in everyday register.",
+              "paragraphs": [
+                {
+                  "native": "Дар бораи дӯстам Фарход бигӯям.",
+                  "en": "Let me tell you about my friend Farhod."
+                },
+                {
+                  "native": "Ӯ дар Хуҷанд таваллуд шудааст ва аллакай даҳ сол боз дар Душанбе зиндагӣ мекунад.",
+                  "en": "He was born in Khujand and has already lived in Dushanbe for ten years."
+                },
+                {
+                  "native": "Пештар ӯ дар мактаб кор мекард, лекин ду сол пеш кори худро иваз кард ва ҳозир дар бонк кор мекунад.",
+                  "en": "He used to work at a school, but two years ago he changed his job, and now he works at a bank."
+                },
+                {
+                  "native": "Ӯ ҳеҷ гоҳ хориҷа сафар накардааст, лекин мехоҳад рӯзе ба Туркия равад.",
+                  "en": "He has never traveled abroad, but he wants to go to Turkey someday."
+                },
+                {
+                  "native": "Ҳафтаи гузашта мо якҷоя ба ресторан рафтем ва хӯроки хеле хуб хӯрдем.",
+                  "en": "Last week we went to a restaurant together and had a really good meal."
+                },
+                {
+                  "native": "Ӯ ба ман гуфт, ки аллакай се моҳ боз забони англисиро меомӯзад ва ҳар рӯз як соат китоб мехонад.",
+                  "en": "He told me that he's already been studying English for three months and reads for an hour every day."
+                },
+                {
+                  "native": "Ман ба ӯ гуфтам, ки соли гузашта ман дар Русия будам, лекин имсол ба он ҷо нарафтам.",
+                  "en": "I told him that last year I was in Russia, but I didn't go there this year."
+                },
+                {
+                  "native": "Мо ду соат сӯҳбат кардем ва баъд ба хонаамон баргаштем.",
+                  "en": "We talked for two hours and then went back home."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Where was Farhod born?",
+                "options": [
+                  "Dushanbe",
+                  "Khujand",
+                  "Samarqand",
+                  "Bukhara"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "How long has he lived in Dushanbe?",
+                "options": [
+                  "2 years",
+                  "5 years",
+                  "Ten years",
+                  "Twenty years"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Where does Farhod work now?",
+                "options": [
+                  "A school",
+                  "A hospital",
+                  "A bank",
+                  "A restaurant"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "Which country does he want to visit?",
+                "options": [
+                  "Russia",
+                  "Turkey",
+                  "China",
+                  "Iran"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "What has Farhod been studying for three months?",
+                "options": [
+                  "French",
+                  "Russian",
+                  "English",
+                  "Arabic"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "How long did the two friends talk?",
+                "options": [
+                  "One hour",
+                  "Two hours",
+                  "Three hours",
+                  "All night"
+                ],
+                "answerIndex": 1
+              }
+            ]
           }
         ]
       },
@@ -18413,7 +18655,7 @@
         "lessons": [
           {
             "id": "tj-b1-1",
-            "number": 46,
+            "number": 48,
             "title": "Sentences 1001–1025",
             "description": "Practical Conversation, part 1",
             "exercises": [
@@ -18875,7 +19117,7 @@
           },
           {
             "id": "tj-b1-2",
-            "number": 47,
+            "number": 49,
             "title": "Sentences 1026–1050",
             "description": "Practical Conversation, part 2",
             "exercises": [
@@ -19331,7 +19573,7 @@
           },
           {
             "id": "tj-b1-3",
-            "number": 48,
+            "number": 50,
             "title": "Sentences 1051–1075",
             "description": "Practical Conversation, part 3",
             "exercises": [
@@ -19791,7 +20033,7 @@
           },
           {
             "id": "tj-b1-4",
-            "number": 49,
+            "number": 51,
             "title": "Sentences 1076–1100",
             "description": "Practical Conversation, part 4",
             "exercises": [
@@ -20209,7 +20451,7 @@
           },
           {
             "id": "tj-b1-5",
-            "number": 50,
+            "number": 52,
             "title": "Sentences 1101–1125",
             "description": "Practical Conversation, part 5",
             "exercises": [
@@ -20613,7 +20855,7 @@
           },
           {
             "id": "tj-b1-6",
-            "number": 51,
+            "number": 53,
             "title": "Sentences 1126–1150",
             "description": "Practical Conversation, part 6",
             "exercises": [
@@ -21059,7 +21301,7 @@
           },
           {
             "id": "tj-b1-7",
-            "number": 52,
+            "number": 54,
             "title": "Sentences 1151–1175",
             "description": "Practical Conversation, part 7",
             "exercises": [
@@ -21495,7 +21737,7 @@
           },
           {
             "id": "tj-b1-8",
-            "number": 53,
+            "number": 55,
             "title": "Sentences 1176–1200",
             "description": "Practical Conversation, part 8",
             "exercises": [
@@ -22003,7 +22245,7 @@
           },
           {
             "id": "tj-b1-9",
-            "number": 54,
+            "number": 56,
             "title": "Sentences 1201–1225",
             "description": "Practical Conversation, part 9",
             "exercises": [
@@ -22415,7 +22657,7 @@
           },
           {
             "id": "tj-b1-10",
-            "number": 55,
+            "number": 57,
             "title": "Sentences 1226–1250",
             "description": "Practical Conversation, part 10",
             "exercises": [
@@ -22877,7 +23119,7 @@
           },
           {
             "id": "tj-b1-11",
-            "number": 56,
+            "number": 58,
             "title": "Sentences 1251–1275",
             "description": "Practical Conversation, part 11",
             "exercises": [
@@ -23331,7 +23573,7 @@
           },
           {
             "id": "tj-b1-12",
-            "number": 57,
+            "number": 59,
             "title": "Sentences 1276–1300",
             "description": "Practical Conversation, part 12",
             "exercises": [
@@ -23839,7 +24081,7 @@
           },
           {
             "id": "tj-b1-13",
-            "number": 58,
+            "number": 60,
             "title": "Sentences 1301–1325",
             "description": "Practical Conversation, part 13",
             "exercises": [
@@ -24297,7 +24539,7 @@
           },
           {
             "id": "tj-b1-14",
-            "number": 59,
+            "number": 61,
             "title": "Sentences 1326–1350",
             "description": "Practical Conversation, part 14",
             "exercises": [
@@ -24791,7 +25033,7 @@
           },
           {
             "id": "tj-b1-15",
-            "number": 60,
+            "number": 62,
             "title": "Sentences 1351–1375",
             "description": "Practical Conversation, part 15",
             "exercises": [
@@ -25301,7 +25543,7 @@
           },
           {
             "id": "tj-b1-16",
-            "number": 61,
+            "number": 63,
             "title": "Sentences 1376–1400",
             "description": "Practical Conversation, part 16",
             "exercises": [
@@ -25787,7 +26029,7 @@
           },
           {
             "id": "tj-b1-17",
-            "number": 62,
+            "number": 64,
             "title": "Sentences 1401–1425",
             "description": "Practical Conversation, part 17",
             "exercises": [
@@ -26323,7 +26565,7 @@
           },
           {
             "id": "tj-b1-18",
-            "number": 63,
+            "number": 65,
             "title": "Sentences 1426–1450",
             "description": "Practical Conversation, part 18",
             "exercises": [
@@ -26891,7 +27133,7 @@
           },
           {
             "id": "tj-b1-19",
-            "number": 64,
+            "number": 66,
             "title": "Sentences 1451–1475",
             "description": "Practical Conversation, part 19",
             "exercises": [
@@ -27369,7 +27611,7 @@
           },
           {
             "id": "tj-b1-20",
-            "number": 65,
+            "number": 67,
             "title": "Sentences 1476–1500",
             "description": "Practical Conversation, part 20",
             "exercises": [
@@ -27881,7 +28123,7 @@
           },
           {
             "id": "tj-b1-topic-1",
-            "number": 66,
+            "number": 68,
             "title": "Work and Office",
             "description": "Work and Office — everyday vocabulary and sentences",
             "exercises": [
@@ -28062,7 +28304,7 @@
           },
           {
             "id": "tj-b1-topic-2",
-            "number": 67,
+            "number": 69,
             "title": "Hobbies and Free Time",
             "description": "Hobbies and Free Time — everyday vocabulary and sentences",
             "exercises": [
@@ -28233,7 +28475,7 @@
           },
           {
             "id": "tj-b1-topic-3",
-            "number": 68,
+            "number": 70,
             "title": "Technology",
             "description": "Technology — everyday vocabulary and sentences",
             "exercises": [
@@ -28398,7 +28640,7 @@
           },
           {
             "id": "tj-b1-topic-4",
-            "number": 69,
+            "number": 71,
             "title": "Health",
             "description": "Health — everyday vocabulary and sentences",
             "exercises": [
@@ -28563,7 +28805,7 @@
           },
           {
             "id": "tj-b1-topic-5",
-            "number": 70,
+            "number": 72,
             "title": "City and Directions",
             "description": "City and Directions — everyday vocabulary and sentences",
             "exercises": [
@@ -28723,6 +28965,117 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tj-b1-reading",
+            "number": 73,
+            "title": "A Busy Day at Home",
+            "description": "Reading comprehension: a household juggling work, chores, and a homecoming",
+            "readingPassage": {
+              "context": "A slice-of-life narrative that leans on modal verbs (бояд — must, метавонад — can) and uncertainty markers (шояд — maybe) typical of B1-level connected speech.",
+              "paragraphs": [
+                {
+                  "native": "Дар хонаи мо имрӯз ҳама банданд.",
+                  "en": "Everyone in our house is busy today."
+                },
+                {
+                  "native": "Модарам бояд то соати панҷ дар корхона кор кунад, зеро баъзе фармоишҳо ҳанӯз тайёр карда нашудаанд.",
+                  "en": "My mother has to work at the factory until five o'clock because some orders haven't been finished yet."
+                },
+                {
+                  "native": "Падарам метавонад мошин ронад ва аз ин рӯ ба фурудгоҳ рафт, то бародарамро пешвоз гирад — ӯ имшаб аз хориҷа мерасад.",
+                  "en": "My father can drive, so he went to the airport to pick up my brother — he's arriving from abroad tonight."
+                },
+                {
+                  "native": "Ман бояд имрӯз хона тоза кунам, зеро пагоҳ меҳмонон меоянд.",
+                  "en": "I have to clean the house today because guests are coming tomorrow."
+                },
+                {
+                  "native": "Шояд онҳо баъд аз нисфирӯзӣ расанд, лекин мутмаин нестам.",
+                  "en": "They might arrive in the afternoon, but I'm not sure."
+                },
+                {
+                  "native": "Хоҳарам мехоҳад бо мо шом хӯрад, лекин вай гуфт, ки беҳтараш аввал дарсҳояшро тамом кунад.",
+                  "en": "My sister wants to have dinner with us, but she said she'd rather finish her homework first."
+                },
+                {
+                  "native": "Фикр мекунам, ки мо бояд чизи хос тайёр кунем — эҳтимол палов ё шӯрбо.",
+                  "en": "I think we should make something special — maybe plov or soup."
+                },
+                {
+                  "native": "Дар охир ҳама якҷоя менишинем ва дар бораи сафари бародарам сӯҳбат мекунем.",
+                  "en": "In the end we'll all sit together and talk about my brother's trip."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "Why is the mother working late?",
+                "options": [
+                  "She loves her job",
+                  "Some orders aren't finished yet",
+                  "She missed work yesterday",
+                  "Her boss asked her to"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Why did the father go to the airport?",
+                "options": [
+                  "To fly somewhere",
+                  "To pick up the brother",
+                  "To pick up guests",
+                  "To buy tickets"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "Why does the narrator need to clean the house?",
+                "options": [
+                  "For a party",
+                  "Because guests are coming tomorrow",
+                  "Because it's dirty",
+                  "For a family photo"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "What does the sister want to finish first?",
+                "options": [
+                  "Dinner",
+                  "Her homework",
+                  "A phone call",
+                  "Cleaning"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "What food might they prepare?",
+                "options": [
+                  "Pizza",
+                  "Plov or soup",
+                  "Salad",
+                  "Bread"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "What will the family talk about at the end?",
+                "options": [
+                  "The weather",
+                  "The brother's trip",
+                  "School",
+                  "Money"
+                ],
+                "answerIndex": 1
+              }
+            ]
           }
         ]
       },
@@ -28733,7 +29086,7 @@
         "lessons": [
           {
             "id": "tj-b2-1",
-            "number": 71,
+            "number": 74,
             "title": "Sentences 1501–1525",
             "description": "Natural Fluency, part 1",
             "exercises": [
@@ -29227,7 +29580,7 @@
           },
           {
             "id": "tj-b2-2",
-            "number": 72,
+            "number": 75,
             "title": "Sentences 1526–1550",
             "description": "Natural Fluency, part 2",
             "exercises": [
@@ -29695,7 +30048,7 @@
           },
           {
             "id": "tj-b2-3",
-            "number": 73,
+            "number": 76,
             "title": "Sentences 1551–1575",
             "description": "Natural Fluency, part 3",
             "exercises": [
@@ -30153,7 +30506,7 @@
           },
           {
             "id": "tj-b2-4",
-            "number": 74,
+            "number": 77,
             "title": "Sentences 1576–1600",
             "description": "Natural Fluency, part 4",
             "exercises": [
@@ -30605,7 +30958,7 @@
           },
           {
             "id": "tj-b2-5",
-            "number": 75,
+            "number": 78,
             "title": "Sentences 1601–1625",
             "description": "Natural Fluency, part 5",
             "exercises": [
@@ -31083,7 +31436,7 @@
           },
           {
             "id": "tj-b2-6",
-            "number": 76,
+            "number": 79,
             "title": "Sentences 1626–1650",
             "description": "Natural Fluency, part 6",
             "exercises": [
@@ -31535,7 +31888,7 @@
           },
           {
             "id": "tj-b2-7",
-            "number": 77,
+            "number": 80,
             "title": "Sentences 1651–1675",
             "description": "Natural Fluency, part 7",
             "exercises": [
@@ -32005,7 +32358,7 @@
           },
           {
             "id": "tj-b2-8",
-            "number": 78,
+            "number": 81,
             "title": "Sentences 1676–1700",
             "description": "Natural Fluency, part 8",
             "exercises": [
@@ -32493,7 +32846,7 @@
           },
           {
             "id": "tj-b2-9",
-            "number": 79,
+            "number": 82,
             "title": "Sentences 1701–1725",
             "description": "Natural Fluency, part 9",
             "exercises": [
@@ -32965,7 +33318,7 @@
           },
           {
             "id": "tj-b2-10",
-            "number": 80,
+            "number": 83,
             "title": "Sentences 1726–1750",
             "description": "Natural Fluency, part 10",
             "exercises": [
@@ -33467,7 +33820,7 @@
           },
           {
             "id": "tj-b2-11",
-            "number": 81,
+            "number": 84,
             "title": "Sentences 1751–1775",
             "description": "Natural Fluency, part 11",
             "exercises": [
@@ -33955,7 +34308,7 @@
           },
           {
             "id": "tj-b2-12",
-            "number": 82,
+            "number": 85,
             "title": "Sentences 1776–1800",
             "description": "Natural Fluency, part 12",
             "exercises": [
@@ -34421,7 +34774,7 @@
           },
           {
             "id": "tj-b2-13",
-            "number": 83,
+            "number": 86,
             "title": "Sentences 1801–1825",
             "description": "Natural Fluency, part 13",
             "exercises": [
@@ -34901,7 +35254,7 @@
           },
           {
             "id": "tj-b2-14",
-            "number": 84,
+            "number": 87,
             "title": "Sentences 1826–1850",
             "description": "Natural Fluency, part 14",
             "exercises": [
@@ -35375,7 +35728,7 @@
           },
           {
             "id": "tj-b2-15",
-            "number": 85,
+            "number": 88,
             "title": "Sentences 1851–1875",
             "description": "Natural Fluency, part 15",
             "exercises": [
@@ -35891,7 +36244,7 @@
           },
           {
             "id": "tj-b2-16",
-            "number": 86,
+            "number": 89,
             "title": "Sentences 1876–1900",
             "description": "Natural Fluency, part 16",
             "exercises": [
@@ -36435,7 +36788,7 @@
           },
           {
             "id": "tj-b2-17",
-            "number": 87,
+            "number": 90,
             "title": "Sentences 1901–1925",
             "description": "Natural Fluency, part 17",
             "exercises": [
@@ -36973,7 +37326,7 @@
           },
           {
             "id": "tj-b2-18",
-            "number": 88,
+            "number": 91,
             "title": "Sentences 1926–1950",
             "description": "Natural Fluency, part 18",
             "exercises": [
@@ -37493,7 +37846,7 @@
           },
           {
             "id": "tj-b2-19",
-            "number": 89,
+            "number": 92,
             "title": "Sentences 1951–1975",
             "description": "Natural Fluency, part 19",
             "exercises": [
@@ -38045,7 +38398,7 @@
           },
           {
             "id": "tj-b2-20",
-            "number": 90,
+            "number": 93,
             "title": "Sentences 1976–2000",
             "description": "Natural Fluency, part 20",
             "exercises": [
@@ -38546,6 +38899,117 @@
                   "I was really astonished. I didn't know what to say."
                 ],
                 "answerIndex": 3
+              }
+            ]
+          },
+          {
+            "id": "tj-b2-reading",
+            "number": 94,
+            "title": "A Tight Deadline",
+            "description": "Reading comprehension: a workplace crunch, resolved by teamwork",
+            "readingPassage": {
+              "context": "A workplace narrative using reported questions (\"he asked whether...\") and conditional consequence (\"or the client would be unhappy\"), representative of B2 connected reasoning.",
+              "paragraphs": [
+                {
+                  "native": "Ҳафтаи гузашта дар кори ман ҳодисаи ҷолиб рӯй дод.",
+                  "en": "Something interesting happened at my job last week."
+                },
+                {
+                  "native": "Роҳбарам гуфт, ки мо бояд то охири моҳ лоиҳаро тамом кунем, вагарна мизоҷ норозӣ хоҳад шуд.",
+                  "en": "My manager said that we had to finish the project by the end of the month, or the client would be unhappy."
+                },
+                {
+                  "native": "Ман ба ҳамкорам гуфтам, ки набояд ин қадар нигарон шавад — мо метавонем кӯмак хоҳем ва ҳама чиз бо мушкилот ҳал мешавад.",
+                  "en": "I told my coworker that he shouldn't worry so much — we could ask for help and everything would get worked out."
+                },
+                {
+                  "native": "Вай пурсид, ки оё ман фикр мекунам, ки мо ба вақт мерасем.",
+                  "en": "He asked whether I thought we'd make it in time."
+                },
+                {
+                  "native": "Ман ҷавоб додам, ки умедворам, ки ҳа, лекин мутмаин нестам.",
+                  "en": "I answered that I hoped so, but I wasn't sure."
+                },
+                {
+                  "native": "Мо тасмим гирифтем, ки якчанд рӯзи истироҳатро гузарем ва ҳар рӯз то дертар кор кунем.",
+                  "en": "We decided to skip a few days off and work later every day."
+                },
+                {
+                  "native": "Дар ниҳоят, лоиҳа рӯзи ҷумъа тамом шуд ва мизоҷ хеле хушнуд буд.",
+                  "en": "In the end, the project was finished on Friday, and the client was very pleased."
+                },
+                {
+                  "native": "Ҳама аз натиҷа хурсанд шуданд ва мо якҷоя онро ҷашн гирифтем.",
+                  "en": "Everyone was happy with the result, and we celebrated it together."
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "type": "comprehension",
+                "question": "What did the manager say would happen if the project wasn't finished?",
+                "options": [
+                  "They would get promoted",
+                  "The client would be unhappy",
+                  "The office would close",
+                  "They'd get a bonus"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "What did the narrator tell the coworker?",
+                "options": [
+                  "To quit",
+                  "Not to worry so much",
+                  "To ask the manager for more time",
+                  "To work alone"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "What did the coworker ask?",
+                "options": [
+                  "Whether the client was angry",
+                  "Whether they'd finish in time",
+                  "Whether he could take a day off",
+                  "Whether the manager was fair"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "What did they decide to do?",
+                "options": [
+                  "Hire more staff",
+                  "Skip days off and work later",
+                  "Ask for a deadline extension",
+                  "Cancel the project"
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "comprehension",
+                "question": "When was the project finished?",
+                "options": [
+                  "Monday",
+                  "Wednesday",
+                  "Friday",
+                  "Sunday"
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "comprehension",
+                "question": "How did everyone feel about the result?",
+                "options": [
+                  "Disappointed",
+                  "Indifferent",
+                  "Happy",
+                  "Confused"
+                ],
+                "answerIndex": 2
               }
             ]
           }
