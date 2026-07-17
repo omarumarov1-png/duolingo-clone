@@ -21001,6 +21001,845 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tj-a2-topic-16",
+            "number": 64,
+            "title": "Public Transport",
+            "description": "Public Transport — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман бо автобус ба мактаб меравам.",
+                "options": [
+                  "We wait for the bus at the stop.",
+                  "The bus ticket is cheap.",
+                  "I go to school by bus.",
+                  "We talked with fellow passengers on the way."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "There is no metro in our city.",
+                "bank": [
+                  "нест",
+                  "Дар",
+                  "метро",
+                  "шаҳри",
+                  "мо"
+                ],
+                "answer": [
+                  "Дар",
+                  "шаҳри",
+                  "мо",
+                  "метро",
+                  "нест"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Билети автобус арзон аст.",
+                "options": [
+                  "The bus ticket is cheap.",
+                  "The bus comes every twenty minutes.",
+                  "Public transport is good for the environment.",
+                  "There is no metro in our city."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We wait for the bus at the stop.",
+                "bank": [
+                  "истгоҳ",
+                  "Мо",
+                  "автобус",
+                  "мешавем",
+                  "интизори",
+                  "дар"
+                ],
+                "answer": [
+                  "Мо",
+                  "дар",
+                  "истгоҳ",
+                  "интизори",
+                  "автобус",
+                  "мешавем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Такси нисбат ба автобус гаронтар аст.",
+                "options": [
+                  "We wait for the bus at the stop.",
+                  "The bus ticket is cheap.",
+                  "I said thank you to the bus driver.",
+                  "The taxi is more expensive than the bus."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The bus comes every twenty minutes.",
+                "bank": [
+                  "дақиқа",
+                  "меояд",
+                  "бист",
+                  "ҳар",
+                  "Автобус"
+                ],
+                "answer": [
+                  "Автобус",
+                  "ҳар",
+                  "бист",
+                  "дақиқа",
+                  "меояд"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дар нақлиёти ҷамъиятӣ бисёр одам аст.",
+                "options": [
+                  "Public transport is good for the environment.",
+                  "We talked with fellow passengers on the way.",
+                  "I go to school by bus.",
+                  "There are many people on public transport."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I said thank you to the bus driver.",
+                "bank": [
+                  "ташаккур",
+                  "ронандаи",
+                  "автобус",
+                  "Ман",
+                  "ба",
+                  "гуфтам"
+                ],
+                "answer": [
+                  "Ман",
+                  "ба",
+                  "ронандаи",
+                  "автобус",
+                  "ташаккур",
+                  "гуфтам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо дар роҳ бо ҳамсафарон сӯҳбат кардем.",
+                "options": [
+                  "We talked with fellow passengers on the way.",
+                  "Public transport is good for the environment.",
+                  "I go to school by bus.",
+                  "The bus ticket is cheap."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Public transport is good for the environment.",
+                "bank": [
+                  "барои",
+                  "зист",
+                  "Нақлиёти",
+                  "ҷамъиятӣ",
+                  "хуб",
+                  "аст",
+                  "муҳити"
+                ],
+                "answer": [
+                  "Нақлиёти",
+                  "ҷамъиятӣ",
+                  "барои",
+                  "муҳити",
+                  "зист",
+                  "хуб",
+                  "аст"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a2-topic-17",
+            "number": 65,
+            "title": "Personal Hygiene",
+            "description": "Personal Hygiene — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман ҳар субҳ душ мегирам.",
+                "options": [
+                  "I take a shower every morning.",
+                  "I wash my hair with shampoo.",
+                  "Hygiene is very important for health.",
+                  "I brush my teeth every night before sleeping."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I brush my teeth with a toothbrush.",
+                "bank": [
+                  "бо",
+                  "Дандонҳоямро",
+                  "мешӯям",
+                  "мисвок"
+                ],
+                "answer": [
+                  "Дандонҳоямро",
+                  "бо",
+                  "мисвок",
+                  "мешӯям"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо ҳар рӯз дастонамонро мешӯем.",
+                "options": [
+                  "We wash our hands every day.",
+                  "I brush my teeth every night before sleeping.",
+                  "I brush my teeth with a toothbrush.",
+                  "Hygiene is very important for health."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "My mother bought me new soap.",
+                "bank": [
+                  "ба",
+                  "нав",
+                  "харид",
+                  "собуни",
+                  "Модарам",
+                  "ман"
+                ],
+                "answer": [
+                  "Модарам",
+                  "ба",
+                  "ман",
+                  "собуни",
+                  "нав",
+                  "харид"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Пас аз бозӣ ман ҳаммом мекунам.",
+                "options": [
+                  "Hygiene is very important for health.",
+                  "After playing I take a bath.",
+                  "I take a shower every morning.",
+                  "I wash my hair with shampoo."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I wash my hair with shampoo.",
+                "bank": [
+                  "Мӯямро",
+                  "шампун",
+                  "мешӯям",
+                  "бо"
+                ],
+                "answer": [
+                  "Мӯямро",
+                  "бо",
+                  "шампун",
+                  "мешӯям"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Гигиена барои саломатӣ хеле муҳим аст.",
+                "options": [
+                  "We use a clean towel.",
+                  "I take a shower every morning.",
+                  "I brush my teeth every night before sleeping.",
+                  "Hygiene is very important for health."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I brush my teeth every night before sleeping.",
+                "bank": [
+                  "мешӯям",
+                  "ҳар",
+                  "пеш",
+                  "Ман",
+                  "дандон",
+                  "шаб",
+                  "хоб",
+                  "аз"
+                ],
+                "answer": [
+                  "Ман",
+                  "ҳар",
+                  "шаб",
+                  "пеш",
+                  "аз",
+                  "хоб",
+                  "дандон",
+                  "мешӯям"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дастшӯӣ пеш аз хӯрок муҳим аст.",
+                "options": [
+                  "I brush my teeth with a toothbrush.",
+                  "I brush my teeth every night before sleeping.",
+                  "We use a clean towel.",
+                  "Washing hands before eating is important."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We use a clean towel.",
+                "bank": [
+                  "истифода",
+                  "дастмоли",
+                  "мебарем",
+                  "тоза",
+                  "Мо"
+                ],
+                "answer": [
+                  "Мо",
+                  "дастмоли",
+                  "тоза",
+                  "истифода",
+                  "мебарем"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a2-topic-18",
+            "number": 66,
+            "title": "Breakfast Foods",
+            "description": "Breakfast Foods — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман ҳар субҳ тухм мехӯрам.",
+                "options": [
+                  "We drink milk every morning.",
+                  "I eat eggs every morning.",
+                  "My father eats cheese and olives.",
+                  "I drink tea with honey."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "My mother bakes bread for us.",
+                "bank": [
+                  "мепазад",
+                  "мо",
+                  "Модарам",
+                  "нон",
+                  "барои"
+                ],
+                "answer": [
+                  "Модарам",
+                  "барои",
+                  "мо",
+                  "нон",
+                  "мепазад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман бо асал чой менӯшам.",
+                "options": [
+                  "My father eats cheese and olives.",
+                  "I drink tea with honey.",
+                  "We eat breakfast together around the table.",
+                  "A good breakfast makes the day good."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "My father eats cheese and olives.",
+                "bank": [
+                  "зайтун",
+                  "мехӯрад",
+                  "Падарам",
+                  "панир",
+                  "ва"
+                ],
+                "answer": [
+                  "Падарам",
+                  "панир",
+                  "ва",
+                  "зайтун",
+                  "мехӯрад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо ҳар субҳ шир менӯшем.",
+                "options": [
+                  "We drink milk every morning.",
+                  "My sister loves jam.",
+                  "A good breakfast makes the day good.",
+                  "I eat cereal with fruit."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Our breakfast is simple and tasty.",
+                "bank": [
+                  "аст",
+                  "соддаву",
+                  "болаззат",
+                  "Наҳории",
+                  "мо"
+                ],
+                "answer": [
+                  "Наҳории",
+                  "мо",
+                  "соддаву",
+                  "болаззат",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман крупа бо мева мехӯрам.",
+                "options": [
+                  "My father eats cheese and olives.",
+                  "My sister loves jam.",
+                  "I eat eggs every morning.",
+                  "I eat cereal with fruit."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "My sister loves jam.",
+                "bank": [
+                  "медорад",
+                  "дӯст",
+                  "Хоҳарам",
+                  "мураббо"
+                ],
+                "answer": [
+                  "Хоҳарам",
+                  "мураббо",
+                  "дӯст",
+                  "медорад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо якҷоя дар атрофи миз наҳорӣ мехӯрем.",
+                "options": [
+                  "My sister loves jam.",
+                  "We eat breakfast together around the table.",
+                  "Our breakfast is simple and tasty.",
+                  "My father eats cheese and olives."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "A good breakfast makes the day good.",
+                "bank": [
+                  "рӯзро",
+                  "мекунад",
+                  "Наҳории",
+                  "хуб",
+                  "хуб"
+                ],
+                "answer": [
+                  "Наҳории",
+                  "хуб",
+                  "рӯзро",
+                  "хуб",
+                  "мекунад"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a2-topic-19",
+            "number": 67,
+            "title": "The Playground",
+            "description": "The Playground — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Кӯдакон дар майдончаи бозӣ бозӣ мекунанд.",
+                "options": [
+                  "My son is sitting on the swing.",
+                  "We go to the playground after school.",
+                  "I played here a lot in my childhood.",
+                  "Children play at the playground."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I played here a lot in my childhood.",
+                "bank": [
+                  "кӯдакӣ",
+                  "кардам",
+                  "Ман",
+                  "дар",
+                  "бисёр",
+                  "бозӣ",
+                  "ин",
+                  "ҷо"
+                ],
+                "answer": [
+                  "Ман",
+                  "дар",
+                  "кӯдакӣ",
+                  "ин",
+                  "ҷо",
+                  "бисёр",
+                  "бозӣ",
+                  "кардам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Духтарам аз лижа лижа мехӯрад.",
+                "options": [
+                  "Children play in the sand.",
+                  "My daughter slides on the slide.",
+                  "Children play at the playground.",
+                  "Parents watch their children."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "My son is sitting on the swing.",
+                "bank": [
+                  "нишастааст",
+                  "дар",
+                  "тоб",
+                  "Писарам"
+                ],
+                "answer": [
+                  "Писарам",
+                  "дар",
+                  "тоб",
+                  "нишастааст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ин майдончаи бозӣ хеле бехатар аст.",
+                "options": [
+                  "This playground is very safe.",
+                  "There are many trees here that give shade.",
+                  "We go to the playground after school.",
+                  "Children play in the sand."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Parents watch their children.",
+                "bank": [
+                  "мушоҳида",
+                  "Волидон",
+                  "фарзандони",
+                  "худро",
+                  "мекунанд"
+                ],
+                "answer": [
+                  "Волидон",
+                  "фарзандони",
+                  "худро",
+                  "мушоҳида",
+                  "мекунанд"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо баъд аз мактаб ба майдончаи бозӣ меравем.",
+                "options": [
+                  "Children play at the playground.",
+                  "There are many trees here that give shade.",
+                  "The playground is children's favorite place.",
+                  "We go to the playground after school."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Children play in the sand.",
+                "bank": [
+                  "дар",
+                  "мекунанд",
+                  "бозӣ",
+                  "рег",
+                  "Кӯдакон"
+                ],
+                "answer": [
+                  "Кӯдакон",
+                  "дар",
+                  "рег",
+                  "бозӣ",
+                  "мекунанд"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ин ҷо дарахтони бисёр ҳастанд, ки соя медиҳанд.",
+                "options": [
+                  "I played here a lot in my childhood.",
+                  "We go to the playground after school.",
+                  "There are many trees here that give shade.",
+                  "The playground is children's favorite place."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The playground is children's favorite place.",
+                "bank": [
+                  "Майдончаи",
+                  "аст",
+                  "кӯдакон",
+                  "дӯстдоштаи",
+                  "макони",
+                  "бозӣ"
+                ],
+                "answer": [
+                  "Майдончаи",
+                  "бозӣ",
+                  "макони",
+                  "дӯстдоштаи",
+                  "кӯдакон",
+                  "аст"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-a2-topic-20",
+            "number": 68,
+            "title": "Grandparents and Elders",
+            "description": "Grandparents and Elders — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Бобои ман ҳикояҳои зиёде медонад.",
+                "options": [
+                  "My grandfather knows many stories.",
+                  "The wisdom of elders is very important.",
+                  "We give elders a seat.",
+                  "We call our grandparents often."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "My grandmother prays for us.",
+                "bank": [
+                  "мекунад",
+                  "ба",
+                  "Бибиям",
+                  "дуо",
+                  "мо"
+                ],
+                "answer": [
+                  "Бибиям",
+                  "ба",
+                  "мо",
+                  "дуо",
+                  "мекунад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо ба пирон эҳтиром мегузорем.",
+                "options": [
+                  "We give elders a seat.",
+                  "We respect elders.",
+                  "My grandmother prays for us.",
+                  "We call our grandparents often."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "My grandfather works in the garden.",
+                "bank": [
+                  "кор",
+                  "мекунад",
+                  "Бобоям",
+                  "дар",
+                  "боғ"
+                ],
+                "answer": [
+                  "Бобоям",
+                  "дар",
+                  "боғ",
+                  "кор",
+                  "мекунад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Бибиям ба мо аз гузашта нақл мекунад.",
+                "options": [
+                  "My grandfather knows many stories.",
+                  "We give elders a seat.",
+                  "My grandmother tells us about the past.",
+                  "The wisdom of elders is very important."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We give elders a seat.",
+                "bank": [
+                  "Мо",
+                  "медиҳем",
+                  "пирон",
+                  "ҷои",
+                  "нишаст",
+                  "ба"
+                ],
+                "answer": [
+                  "Мо",
+                  "ба",
+                  "пирон",
+                  "ҷои",
+                  "нишаст",
+                  "медиҳем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Бобою бибиям дар як хона зиндагӣ мекунанд.",
+                "options": [
+                  "My grandmother prays for us.",
+                  "My grandmother tells us about the past.",
+                  "The wisdom of elders is very important.",
+                  "My grandfather and grandmother live in one house."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I play chess with my grandfather.",
+                "bank": [
+                  "бо",
+                  "бозӣ",
+                  "бобоям",
+                  "шоҳмот",
+                  "мекунам",
+                  "Ман"
+                ],
+                "answer": [
+                  "Ман",
+                  "бо",
+                  "бобоям",
+                  "шоҳмот",
+                  "бозӣ",
+                  "мекунам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ҳикмати пирон бисёр муҳим аст.",
+                "options": [
+                  "My grandmother tells us about the past.",
+                  "The wisdom of elders is very important.",
+                  "We give elders a seat.",
+                  "I play chess with my grandfather."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We call our grandparents often.",
+                "bank": [
+                  "ба",
+                  "занг",
+                  "бобою",
+                  "мезанем",
+                  "Мо",
+                  "бибиямон",
+                  "зуд-зуд"
+                ],
+                "answer": [
+                  "Мо",
+                  "ба",
+                  "бобою",
+                  "бибиямон",
+                  "зуд-зуд",
+                  "занг",
+                  "мезанем"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -21011,7 +21850,7 @@
         "lessons": [
           {
             "id": "tj-b1-1",
-            "number": 64,
+            "number": 69,
             "title": "Sentences 1001–1025",
             "description": "Practical Conversation, part 1",
             "exercises": [
@@ -21473,7 +22312,7 @@
           },
           {
             "id": "tj-b1-2",
-            "number": 65,
+            "number": 70,
             "title": "Sentences 1026–1050",
             "description": "Practical Conversation, part 2",
             "exercises": [
@@ -21929,7 +22768,7 @@
           },
           {
             "id": "tj-b1-3",
-            "number": 66,
+            "number": 71,
             "title": "Sentences 1051–1075",
             "description": "Practical Conversation, part 3",
             "exercises": [
@@ -22389,7 +23228,7 @@
           },
           {
             "id": "tj-b1-4",
-            "number": 67,
+            "number": 72,
             "title": "Sentences 1076–1100",
             "description": "Practical Conversation, part 4",
             "exercises": [
@@ -22807,7 +23646,7 @@
           },
           {
             "id": "tj-b1-5",
-            "number": 68,
+            "number": 73,
             "title": "Sentences 1101–1125",
             "description": "Practical Conversation, part 5",
             "exercises": [
@@ -23211,7 +24050,7 @@
           },
           {
             "id": "tj-b1-6",
-            "number": 69,
+            "number": 74,
             "title": "Sentences 1126–1150",
             "description": "Practical Conversation, part 6",
             "exercises": [
@@ -23657,7 +24496,7 @@
           },
           {
             "id": "tj-b1-7",
-            "number": 70,
+            "number": 75,
             "title": "Sentences 1151–1175",
             "description": "Practical Conversation, part 7",
             "exercises": [
@@ -24093,7 +24932,7 @@
           },
           {
             "id": "tj-b1-reading-2",
-            "number": 71,
+            "number": 76,
             "title": "Planning a Trip",
             "description": "Reading comprehension: modal verbs and travel planning",
             "readingPassage": {
@@ -24212,7 +25051,7 @@
           },
           {
             "id": "tj-b1-8",
-            "number": 72,
+            "number": 77,
             "title": "Sentences 1176–1200",
             "description": "Practical Conversation, part 8",
             "exercises": [
@@ -24720,7 +25559,7 @@
           },
           {
             "id": "tj-b1-9",
-            "number": 73,
+            "number": 78,
             "title": "Sentences 1201–1225",
             "description": "Practical Conversation, part 9",
             "exercises": [
@@ -25132,7 +25971,7 @@
           },
           {
             "id": "tj-b1-10",
-            "number": 74,
+            "number": 79,
             "title": "Sentences 1226–1250",
             "description": "Practical Conversation, part 10",
             "exercises": [
@@ -25594,7 +26433,7 @@
           },
           {
             "id": "tj-b1-11",
-            "number": 75,
+            "number": 80,
             "title": "Sentences 1251–1275",
             "description": "Practical Conversation, part 11",
             "exercises": [
@@ -26048,7 +26887,7 @@
           },
           {
             "id": "tj-b1-12",
-            "number": 76,
+            "number": 81,
             "title": "Sentences 1276–1300",
             "description": "Practical Conversation, part 12",
             "exercises": [
@@ -26556,7 +27395,7 @@
           },
           {
             "id": "tj-b1-13",
-            "number": 77,
+            "number": 82,
             "title": "Sentences 1301–1325",
             "description": "Practical Conversation, part 13",
             "exercises": [
@@ -27014,7 +27853,7 @@
           },
           {
             "id": "tj-b1-14",
-            "number": 78,
+            "number": 83,
             "title": "Sentences 1326–1350",
             "description": "Practical Conversation, part 14",
             "exercises": [
@@ -27508,7 +28347,7 @@
           },
           {
             "id": "tj-b1-reading-3",
-            "number": 79,
+            "number": 84,
             "title": "A Difficult Decision",
             "description": "Reading comprehension: weighing a job offer against family",
             "readingPassage": {
@@ -27627,7 +28466,7 @@
           },
           {
             "id": "tj-b1-15",
-            "number": 80,
+            "number": 85,
             "title": "Sentences 1351–1375",
             "description": "Practical Conversation, part 15",
             "exercises": [
@@ -28137,7 +28976,7 @@
           },
           {
             "id": "tj-b1-16",
-            "number": 81,
+            "number": 86,
             "title": "Sentences 1376–1400",
             "description": "Practical Conversation, part 16",
             "exercises": [
@@ -28623,7 +29462,7 @@
           },
           {
             "id": "tj-b1-17",
-            "number": 82,
+            "number": 87,
             "title": "Sentences 1401–1425",
             "description": "Practical Conversation, part 17",
             "exercises": [
@@ -29159,7 +29998,7 @@
           },
           {
             "id": "tj-b1-18",
-            "number": 83,
+            "number": 88,
             "title": "Sentences 1426–1450",
             "description": "Practical Conversation, part 18",
             "exercises": [
@@ -29727,7 +30566,7 @@
           },
           {
             "id": "tj-b1-19",
-            "number": 84,
+            "number": 89,
             "title": "Sentences 1451–1475",
             "description": "Practical Conversation, part 19",
             "exercises": [
@@ -30205,7 +31044,7 @@
           },
           {
             "id": "tj-b1-20",
-            "number": 85,
+            "number": 90,
             "title": "Sentences 1476–1500",
             "description": "Practical Conversation, part 20",
             "exercises": [
@@ -30717,7 +31556,7 @@
           },
           {
             "id": "tj-b1-topic-1",
-            "number": 86,
+            "number": 91,
             "title": "Work and Office",
             "description": "Work and Office — everyday vocabulary and sentences",
             "exercises": [
@@ -30898,7 +31737,7 @@
           },
           {
             "id": "tj-b1-reading-4",
-            "number": 87,
+            "number": 92,
             "title": "Changing Habits",
             "description": "Reading comprehension: New Year's resolutions and small steps",
             "readingPassage": {
@@ -31017,7 +31856,7 @@
           },
           {
             "id": "tj-b1-topic-2",
-            "number": 88,
+            "number": 93,
             "title": "Hobbies and Free Time",
             "description": "Hobbies and Free Time — everyday vocabulary and sentences",
             "exercises": [
@@ -31188,7 +32027,7 @@
           },
           {
             "id": "tj-b1-topic-3",
-            "number": 89,
+            "number": 94,
             "title": "Technology",
             "description": "Technology — everyday vocabulary and sentences",
             "exercises": [
@@ -31353,7 +32192,7 @@
           },
           {
             "id": "tj-b1-topic-4",
-            "number": 90,
+            "number": 95,
             "title": "Health",
             "description": "Health — everyday vocabulary and sentences",
             "exercises": [
@@ -31518,7 +32357,7 @@
           },
           {
             "id": "tj-b1-topic-5",
-            "number": 91,
+            "number": 96,
             "title": "City and Directions",
             "description": "City and Directions — everyday vocabulary and sentences",
             "exercises": [
@@ -31681,7 +32520,7 @@
           },
           {
             "id": "tj-b1-reading",
-            "number": 92,
+            "number": 97,
             "title": "A Busy Day at Home",
             "description": "Reading comprehension: a household juggling work, chores, and a homecoming",
             "readingPassage": {
@@ -31792,7 +32631,7 @@
           },
           {
             "id": "tj-b1-topic-6",
-            "number": 93,
+            "number": 98,
             "title": "Money and Banking",
             "description": "Money and Banking — everyday vocabulary and sentences",
             "exercises": [
@@ -31947,7 +32786,7 @@
           },
           {
             "id": "tj-b1-topic-7",
-            "number": 94,
+            "number": 99,
             "title": "Travel and Airport",
             "description": "Travel and Airport — everyday vocabulary and sentences",
             "exercises": [
@@ -32120,7 +32959,7 @@
           },
           {
             "id": "tj-b1-topic-8",
-            "number": 95,
+            "number": 100,
             "title": "Restaurant",
             "description": "Restaurant — everyday vocabulary and sentences",
             "exercises": [
@@ -32283,7 +33122,7 @@
           },
           {
             "id": "tj-b1-topic-9",
-            "number": 96,
+            "number": 101,
             "title": "Neighbors and Community",
             "description": "Neighbors and Community — everyday vocabulary and sentences",
             "exercises": [
@@ -32448,7 +33287,7 @@
           },
           {
             "id": "tj-b1-topic-10",
-            "number": 97,
+            "number": 102,
             "title": "Sports",
             "description": "Sports — everyday vocabulary and sentences",
             "exercises": [
@@ -32613,7 +33452,7 @@
           },
           {
             "id": "tj-b1-topic-11",
-            "number": 98,
+            "number": 103,
             "title": "Music and Instruments",
             "description": "Music and Instruments — everyday vocabulary and sentences",
             "exercises": [
@@ -32782,7 +33621,7 @@
           },
           {
             "id": "tj-b1-topic-12",
-            "number": 99,
+            "number": 104,
             "title": "Movies and Entertainment",
             "description": "Movies and Entertainment — everyday vocabulary and sentences",
             "exercises": [
@@ -32961,7 +33800,7 @@
           },
           {
             "id": "tj-b1-topic-13",
-            "number": 100,
+            "number": 105,
             "title": "Environment and Nature Conservation",
             "description": "Environment and Nature Conservation — everyday vocabulary and sentences",
             "exercises": [
@@ -33140,7 +33979,7 @@
           },
           {
             "id": "tj-b1-topic-14",
-            "number": 101,
+            "number": 106,
             "title": "Books and Reading",
             "description": "Books and Reading — everyday vocabulary and sentences",
             "exercises": [
@@ -33319,7 +34158,7 @@
           },
           {
             "id": "tj-b1-topic-15",
-            "number": 102,
+            "number": 107,
             "title": "Cars and Driving",
             "description": "Cars and Driving — everyday vocabulary and sentences",
             "exercises": [
@@ -33499,6 +34338,847 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "tj-b1-topic-16",
+            "number": 108,
+            "title": "Job Interviews",
+            "description": "Job Interviews — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман барои мусоҳиба омода шудам.",
+                "options": [
+                  "Preparation is the key to success in an interview.",
+                  "I answered the questions confidently.",
+                  "I went to the interview in formal clothing.",
+                  "I prepared for the interview."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The manager asked about my experience.",
+                "bank": [
+                  "ман",
+                  "бораи",
+                  "Роҳбар",
+                  "дар",
+                  "пурсид",
+                  "таҷрибаи"
+                ],
+                "answer": [
+                  "Роҳбар",
+                  "дар",
+                  "бораи",
+                  "таҷрибаи",
+                  "ман",
+                  "пурсид"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман бо либоси расмӣ ба мусоҳиба рафтам.",
+                "options": [
+                  "I went to the interview in formal clothing.",
+                  "In an interview it's important to be calm.",
+                  "I prepared for the interview.",
+                  "I got the job!"
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The interview lasted thirty minutes.",
+                "bank": [
+                  "кард",
+                  "сӣ",
+                  "дақиқа",
+                  "Мусоҳиба",
+                  "давом"
+                ],
+                "answer": [
+                  "Мусоҳиба",
+                  "сӣ",
+                  "дақиқа",
+                  "давом",
+                  "кард"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Онҳо гуфтанд, ки ба ман хабар медиҳанд.",
+                "options": [
+                  "The manager asked about my experience.",
+                  "Preparation is the key to success in an interview.",
+                  "I went to the interview in formal clothing.",
+                  "They said they would let me know."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I answered the questions confidently.",
+                "bank": [
+                  "эътимод",
+                  "ба",
+                  "бо",
+                  "ҷавоб",
+                  "Ман",
+                  "саволҳо",
+                  "додам"
+                ],
+                "answer": [
+                  "Ман",
+                  "бо",
+                  "эътимод",
+                  "ба",
+                  "саволҳо",
+                  "ҷавоб",
+                  "додам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Пас аз як ҳафта ба ман занг заданд.",
+                "options": [
+                  "After a week they called me.",
+                  "Preparation is the key to success in an interview.",
+                  "The manager asked about my experience.",
+                  "The interview lasted thirty minutes."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I got the job!",
+                "bank": [
+                  "кор",
+                  "Ман",
+                  "гирифтам"
+                ],
+                "answer": [
+                  "Ман",
+                  "кор",
+                  "гирифтам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дар мусоҳиба муҳим аст, ки ором бошӣ.",
+                "options": [
+                  "Preparation is the key to success in an interview.",
+                  "I prepared for the interview.",
+                  "In an interview it's important to be calm.",
+                  "I answered the questions confidently."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Preparation is the key to success in an interview.",
+                "bank": [
+                  "муваффақият",
+                  "аст",
+                  "мусоҳиба",
+                  "Тайёрӣ",
+                  "дар",
+                  "калиди"
+                ],
+                "answer": [
+                  "Тайёрӣ",
+                  "калиди",
+                  "муваффақият",
+                  "дар",
+                  "мусоҳиба",
+                  "аст"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-b1-topic-17",
+            "number": 109,
+            "title": "Renting an Apartment",
+            "description": "Renting an Apartment — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо ба ҷустуҷӯи хонаи иҷоравӣ шурӯъ кардем.",
+                "options": [
+                  "We started searching for a rental apartment.",
+                  "Rent must be paid at the beginning of the month.",
+                  "Our neighbors are very nice.",
+                  "We negotiated with the landlord about the price."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The landlord stated the rent price.",
+                "bank": [
+                  "Соҳиби",
+                  "гуфт",
+                  "иҷораро",
+                  "нархи",
+                  "хона"
+                ],
+                "answer": [
+                  "Соҳиби",
+                  "хона",
+                  "нархи",
+                  "иҷораро",
+                  "гуфт"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Хона ду хобхона ва як ҳаммом дорад.",
+                "options": [
+                  "Rent must be paid at the beginning of the month.",
+                  "The apartment has two bedrooms and one bathroom.",
+                  "We moved to the new apartment.",
+                  "We read the contract carefully."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We read the contract carefully.",
+                "bank": [
+                  "бодиққат",
+                  "шартномаро",
+                  "Мо",
+                  "хондем"
+                ],
+                "answer": [
+                  "Мо",
+                  "шартномаро",
+                  "бодиққат",
+                  "хондем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Иҷора бояд дар аввали моҳ дода шавад.",
+                "options": [
+                  "We negotiated with the landlord about the price.",
+                  "We moved to the new apartment.",
+                  "The apartment has two bedrooms and one bathroom.",
+                  "Rent must be paid at the beginning of the month."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "This apartment is near the bus stop.",
+                "bank": [
+                  "автобус",
+                  "истгоҳи",
+                  "аст",
+                  "Ин",
+                  "наздики",
+                  "хона"
+                ],
+                "answer": [
+                  "Ин",
+                  "хона",
+                  "наздики",
+                  "истгоҳи",
+                  "автобус",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо бо соҳиби хона дар бораи нарх гуфтугӯ кардем.",
+                "options": [
+                  "Rent must be paid at the beginning of the month.",
+                  "We moved to the new apartment.",
+                  "This apartment is near the bus stop.",
+                  "We negotiated with the landlord about the price."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The apartment is bright and airy.",
+                "bank": [
+                  "равшан",
+                  "серҳаво",
+                  "ва",
+                  "Хона",
+                  "аст"
+                ],
+                "answer": [
+                  "Хона",
+                  "равшан",
+                  "ва",
+                  "серҳаво",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо ба хонаи нав кӯчидем.",
+                "options": [
+                  "We negotiated with the landlord about the price.",
+                  "The apartment has two bedrooms and one bathroom.",
+                  "We moved to the new apartment.",
+                  "The landlord stated the rent price."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Our neighbors are very nice.",
+                "bank": [
+                  "хеле",
+                  "Ҳамсоягони",
+                  "хубанд",
+                  "мо"
+                ],
+                "answer": [
+                  "Ҳамсоягони",
+                  "мо",
+                  "хеле",
+                  "хубанд"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-b1-topic-18",
+            "number": 110,
+            "title": "The Post Office",
+            "description": "The Post Office — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман ба почта рафтам, то бастаро фиристам.",
+                "options": [
+                  "The post office offers various services.",
+                  "I always use the local post office.",
+                  "I went to the post office to send a package.",
+                  "Sending a letter abroad takes longer to arrive."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The employee weighed the package.",
+                "bank": [
+                  "бастаро",
+                  "Корманд",
+                  "вазни",
+                  "санҷид"
+                ],
+                "answer": [
+                  "Корманд",
+                  "вазни",
+                  "бастаро",
+                  "санҷид"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Фиристодани мактуб дар хориҷа дертар мерасад.",
+                "options": [
+                  "The post office works until five.",
+                  "The package arrived after five days.",
+                  "Sending a letter abroad takes longer to arrive.",
+                  "I always use the local post office."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I bought a stamp.",
+                "bank": [
+                  "харидам",
+                  "Ман",
+                  "тамбр"
+                ],
+                "answer": [
+                  "Ман",
+                  "тамбр",
+                  "харидам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Почта то соати панҷ кор мекунад.",
+                "options": [
+                  "I bought a stamp.",
+                  "The employee weighed the package.",
+                  "The post office works until five.",
+                  "The post office offers various services."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I wrote the address correctly.",
+                "bank": [
+                  "навиштам",
+                  "дуруст",
+                  "Ман",
+                  "суроғаро"
+                ],
+                "answer": [
+                  "Ман",
+                  "суроғаро",
+                  "дуруст",
+                  "навиштам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Баста пас аз панҷ рӯз расид.",
+                "options": [
+                  "The employee weighed the package.",
+                  "I always use the local post office.",
+                  "The package arrived after five days.",
+                  "I went to the post office to send a package."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I received a notice that the package had arrived.",
+                "bank": [
+                  "омадааст",
+                  "гирифтам",
+                  "ки",
+                  "баста",
+                  "Ман",
+                  "хабарнома"
+                ],
+                "answer": [
+                  "Ман",
+                  "хабарнома",
+                  "гирифтам",
+                  "ки",
+                  "баста",
+                  "омадааст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Почта хидматҳои гуногун пешниҳод мекунад.",
+                "options": [
+                  "The employee weighed the package.",
+                  "Sending a letter abroad takes longer to arrive.",
+                  "I always use the local post office.",
+                  "The post office offers various services."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I always use the local post office.",
+                "bank": [
+                  "аз",
+                  "мебарам",
+                  "почтаи",
+                  "ҳамеша",
+                  "Ман",
+                  "истифода",
+                  "маҳаллӣ"
+                ],
+                "answer": [
+                  "Ман",
+                  "ҳамеша",
+                  "аз",
+                  "почтаи",
+                  "маҳаллӣ",
+                  "истифода",
+                  "мебарам"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-b1-topic-19",
+            "number": 111,
+            "title": "Making New Friends",
+            "description": "Making New Friends — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Ман дар донишгоҳ дӯстони нав пайдо кардам.",
+                "options": [
+                  "I made new friends at university.",
+                  "The new friends I made are very good.",
+                  "A good friendship takes time.",
+                  "Friendship is one of the beautiful things in life."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "A good friendship takes time.",
+                "bank": [
+                  "мегирад",
+                  "вақт",
+                  "Дӯстии",
+                  "хуб"
+                ],
+                "answer": [
+                  "Дӯстии",
+                  "хуб",
+                  "вақт",
+                  "мегирад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо аввал дар синф шинос шудем.",
+                "options": [
+                  "We first met in class.",
+                  "We spend time together every week.",
+                  "The new friends I made are very good.",
+                  "I made new friends at university."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "She became my good friend.",
+                "bank": [
+                  "Вай",
+                  "ман",
+                  "хуби",
+                  "дӯсти",
+                  "шуд"
+                ],
+                "answer": [
+                  "Вай",
+                  "дӯсти",
+                  "хуби",
+                  "ман",
+                  "шуд"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дӯстон дар вақти душворӣ ба ҳам кӯмак мекунанд.",
+                "options": [
+                  "She became my good friend.",
+                  "Friends help each other in difficult times.",
+                  "I met him on social media.",
+                  "The new friends I made are very good."
+                ],
+                "answerIndex": 1
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "We spend time together every week.",
+                "bank": [
+                  "мегузаронем",
+                  "ҳафта",
+                  "вақт",
+                  "Мо",
+                  "якҷоя",
+                  "ҳар"
+                ],
+                "answer": [
+                  "Мо",
+                  "ҳар",
+                  "ҳафта",
+                  "якҷоя",
+                  "вақт",
+                  "мегузаронем"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дӯстии ҳақиқӣ бо эътимод сохта мешавад.",
+                "options": [
+                  "I met him on social media.",
+                  "The new friends I made are very good.",
+                  "We spend time together every week.",
+                  "True friendship is built with trust."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "I met him on social media.",
+                "bank": [
+                  "ӯ",
+                  "дар",
+                  "шудам",
+                  "шабакаҳои",
+                  "иҷтимоӣ",
+                  "Ман",
+                  "бо",
+                  "ошно"
+                ],
+                "answer": [
+                  "Ман",
+                  "дар",
+                  "шабакаҳои",
+                  "иҷтимоӣ",
+                  "бо",
+                  "ӯ",
+                  "ошно",
+                  "шудам"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Дӯстони наве, ки ман пайдо кардам, хеле хубанд.",
+                "options": [
+                  "We first met in class.",
+                  "I met him on social media.",
+                  "A good friendship takes time.",
+                  "The new friends I made are very good."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Friendship is one of the beautiful things in life.",
+                "bank": [
+                  "чизҳои",
+                  "яке",
+                  "зебои",
+                  "аст",
+                  "Дӯстӣ",
+                  "аз",
+                  "ҳаёт"
+                ],
+                "answer": [
+                  "Дӯстӣ",
+                  "яке",
+                  "аз",
+                  "чизҳои",
+                  "зебои",
+                  "ҳаёт",
+                  "аст"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "tj-b1-topic-20",
+            "number": 112,
+            "title": "A Trip to the Village",
+            "description": "A Trip to the Village — everyday vocabulary and sentences",
+            "exercises": [
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо охири ҳафта ба деҳа рафтем.",
+                "options": [
+                  "We went to the village on the weekend.",
+                  "We picked apples in my grandfather's orchard.",
+                  "The village air is very clean.",
+                  "This trip took me away from the city and calmed me."
+                ],
+                "answerIndex": 0
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "The village air is very clean.",
+                "bank": [
+                  "аст",
+                  "хеле",
+                  "деҳа",
+                  "тоза",
+                  "Ҳавои"
+                ],
+                "answer": [
+                  "Ҳавои",
+                  "деҳа",
+                  "хеле",
+                  "тоза",
+                  "аст"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо дар боғи бобоям себ чидем.",
+                "options": [
+                  "We went to the village on the weekend.",
+                  "We drank spring water.",
+                  "We picked apples in my grandfather's orchard.",
+                  "We played with cows and sheep."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "In the village everyone knows each other.",
+                "bank": [
+                  "якдигарро",
+                  "Дар",
+                  "деҳа",
+                  "мешиносанд",
+                  "ҳама"
+                ],
+                "answer": [
+                  "Дар",
+                  "деҳа",
+                  "ҳама",
+                  "якдигарро",
+                  "мешиносанд"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо шаби деҳаро дар зери ситорагон гузарондем.",
+                "options": [
+                  "We picked apples in my grandfather's orchard.",
+                  "In the village everyone knows each other.",
+                  "We went to the village on the weekend.",
+                  "We spent the village night under the stars."
+                ],
+                "answerIndex": 3
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Village food differs from city food.",
+                "bank": [
+                  "шаҳр",
+                  "фарқ",
+                  "Хӯроки",
+                  "мекунад",
+                  "деҳа",
+                  "хӯроки",
+                  "аз"
+                ],
+                "answer": [
+                  "Хӯроки",
+                  "деҳа",
+                  "аз",
+                  "хӯроки",
+                  "шаҳр",
+                  "фарқ",
+                  "мекунад"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо бо гову гӯсфандон бозӣ кардем.",
+                "options": [
+                  "In the village everyone knows each other.",
+                  "We picked apples in my grandfather's orchard.",
+                  "We played with cows and sheep.",
+                  "We spent the village night under the stars."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "Life in the village is calm and simple.",
+                "bank": [
+                  "Ҳаёт",
+                  "ва",
+                  "ором",
+                  "деҳа",
+                  "дар",
+                  "оддист"
+                ],
+                "answer": [
+                  "Ҳаёт",
+                  "дар",
+                  "деҳа",
+                  "ором",
+                  "ва",
+                  "оддист"
+                ]
+              },
+              {
+                "type": "multiple-choice",
+                "direction": "tg-en",
+                "prompt": "Мо оби чашма нӯшидем.",
+                "options": [
+                  "We played with cows and sheep.",
+                  "We spent the village night under the stars.",
+                  "We drank spring water.",
+                  "In the village everyone knows each other."
+                ],
+                "answerIndex": 2
+              },
+              {
+                "type": "word-bank",
+                "direction": "en-tg",
+                "prompt": "This trip took me away from the city and calmed me.",
+                "bank": [
+                  "сафар",
+                  "Ин",
+                  "дур",
+                  "аз",
+                  "ва",
+                  "кард",
+                  "ором",
+                  "маро",
+                  "кард",
+                  "шаҳр"
+                ],
+                "answer": [
+                  "Ин",
+                  "сафар",
+                  "маро",
+                  "аз",
+                  "шаҳр",
+                  "дур",
+                  "кард",
+                  "ва",
+                  "ором",
+                  "кард"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -33509,7 +35189,7 @@
         "lessons": [
           {
             "id": "tj-b2-1",
-            "number": 103,
+            "number": 113,
             "title": "Sentences 1501–1525",
             "description": "Natural Fluency, part 1",
             "exercises": [
@@ -34003,7 +35683,7 @@
           },
           {
             "id": "tj-b2-2",
-            "number": 104,
+            "number": 114,
             "title": "Sentences 1526–1550",
             "description": "Natural Fluency, part 2",
             "exercises": [
@@ -34471,7 +36151,7 @@
           },
           {
             "id": "tj-b2-3",
-            "number": 105,
+            "number": 115,
             "title": "Sentences 1551–1575",
             "description": "Natural Fluency, part 3",
             "exercises": [
@@ -34929,7 +36609,7 @@
           },
           {
             "id": "tj-b2-4",
-            "number": 106,
+            "number": 116,
             "title": "Sentences 1576–1600",
             "description": "Natural Fluency, part 4",
             "exercises": [
@@ -35381,7 +37061,7 @@
           },
           {
             "id": "tj-b2-5",
-            "number": 107,
+            "number": 117,
             "title": "Sentences 1601–1625",
             "description": "Natural Fluency, part 5",
             "exercises": [
@@ -35859,7 +37539,7 @@
           },
           {
             "id": "tj-b2-reading-2",
-            "number": 108,
+            "number": 118,
             "title": "Working from Home",
             "description": "Reading comprehension: the pros and cons of remote work",
             "readingPassage": {
@@ -35978,7 +37658,7 @@
           },
           {
             "id": "tj-b2-6",
-            "number": 109,
+            "number": 119,
             "title": "Sentences 1626–1650",
             "description": "Natural Fluency, part 6",
             "exercises": [
@@ -36430,7 +38110,7 @@
           },
           {
             "id": "tj-b2-7",
-            "number": 110,
+            "number": 120,
             "title": "Sentences 1651–1675",
             "description": "Natural Fluency, part 7",
             "exercises": [
@@ -36900,7 +38580,7 @@
           },
           {
             "id": "tj-b2-8",
-            "number": 111,
+            "number": 121,
             "title": "Sentences 1676–1700",
             "description": "Natural Fluency, part 8",
             "exercises": [
@@ -37388,7 +39068,7 @@
           },
           {
             "id": "tj-b2-9",
-            "number": 112,
+            "number": 122,
             "title": "Sentences 1701–1725",
             "description": "Natural Fluency, part 9",
             "exercises": [
@@ -37860,7 +39540,7 @@
           },
           {
             "id": "tj-b2-reading-3",
-            "number": 113,
+            "number": 123,
             "title": "The Value of Failure",
             "description": "Reading comprehension: reframing failure as part of growth",
             "readingPassage": {
@@ -37979,7 +39659,7 @@
           },
           {
             "id": "tj-b2-10",
-            "number": 114,
+            "number": 124,
             "title": "Sentences 1726–1750",
             "description": "Natural Fluency, part 10",
             "exercises": [
@@ -38481,7 +40161,7 @@
           },
           {
             "id": "tj-b2-11",
-            "number": 115,
+            "number": 125,
             "title": "Sentences 1751–1775",
             "description": "Natural Fluency, part 11",
             "exercises": [
@@ -38969,7 +40649,7 @@
           },
           {
             "id": "tj-b2-12",
-            "number": 116,
+            "number": 126,
             "title": "Sentences 1776–1800",
             "description": "Natural Fluency, part 12",
             "exercises": [
@@ -39435,7 +41115,7 @@
           },
           {
             "id": "tj-b2-13",
-            "number": 117,
+            "number": 127,
             "title": "Sentences 1801–1825",
             "description": "Natural Fluency, part 13",
             "exercises": [
@@ -39915,7 +41595,7 @@
           },
           {
             "id": "tj-b2-reading-4",
-            "number": 118,
+            "number": 128,
             "title": "The Changing City",
             "description": "Reading comprehension: development versus heritage preservation",
             "readingPassage": {
@@ -40034,7 +41714,7 @@
           },
           {
             "id": "tj-b2-14",
-            "number": 119,
+            "number": 129,
             "title": "Sentences 1826–1850",
             "description": "Natural Fluency, part 14",
             "exercises": [
@@ -40508,7 +42188,7 @@
           },
           {
             "id": "tj-b2-15",
-            "number": 120,
+            "number": 130,
             "title": "Sentences 1851–1875",
             "description": "Natural Fluency, part 15",
             "exercises": [
@@ -41024,7 +42704,7 @@
           },
           {
             "id": "tj-b2-16",
-            "number": 121,
+            "number": 131,
             "title": "Sentences 1876–1900",
             "description": "Natural Fluency, part 16",
             "exercises": [
@@ -41568,7 +43248,7 @@
           },
           {
             "id": "tj-b2-17",
-            "number": 122,
+            "number": 132,
             "title": "Sentences 1901–1925",
             "description": "Natural Fluency, part 17",
             "exercises": [
@@ -42106,7 +43786,7 @@
           },
           {
             "id": "tj-b2-18",
-            "number": 123,
+            "number": 133,
             "title": "Sentences 1926–1950",
             "description": "Natural Fluency, part 18",
             "exercises": [
@@ -42626,7 +44306,7 @@
           },
           {
             "id": "tj-b2-19",
-            "number": 124,
+            "number": 134,
             "title": "Sentences 1951–1975",
             "description": "Natural Fluency, part 19",
             "exercises": [
@@ -43178,7 +44858,7 @@
           },
           {
             "id": "tj-b2-20",
-            "number": 125,
+            "number": 135,
             "title": "Sentences 1976–2000",
             "description": "Natural Fluency, part 20",
             "exercises": [
@@ -43684,7 +45364,7 @@
           },
           {
             "id": "tj-b2-reading",
-            "number": 126,
+            "number": 136,
             "title": "A Tight Deadline",
             "description": "Reading comprehension: a workplace crunch, resolved by teamwork",
             "readingPassage": {
