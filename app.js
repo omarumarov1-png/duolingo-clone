@@ -78,6 +78,10 @@
     if (audioCtx.state === "suspended") audioCtx.resume();
     return audioCtx;
   }
+  // Mobile browsers suspend AudioContext until a genuine user gesture
+  // unlocks it; warm it up on the very first tap anywhere on the page so
+  // the first real sound effect (an answer tap) isn't the one that's dropped.
+  document.addEventListener("pointerdown", getAudioCtx, { once: true, passive: true });
 
   function playTone(ctx, freq, startOffset, duration, gainPeak) {
     const osc = ctx.createOscillator();
@@ -108,6 +112,79 @@
     if (!ctx) return;
     playTone(ctx, 207.65, 0, 0.24, 0.13);
     playTone(ctx, 174.61, 0.06, 0.3, 0.11);
+  }
+
+  // ---------- text-to-speech ----------
+  // Free browser/OS voices only. English is universally available; Arabic
+  // has decent free voices on most platforms (Chrome/Edge/macOS); Tajik has
+  // essentially none, so we detect availability per language and simply
+  // don't offer audio where no voice exists rather than mispronounce with
+  // a fallback voice.
+  const VOICE_RANK_EN = [
+    /Google US English/i,
+    /Microsoft (Aria|Jenny|Emma).*(Natural|Online)/i,
+    /Samantha/i,
+    /Microsoft Zira/i,
+    /Ava|Nicky|Zoe/i,
+    /Microsoft (David|Mark)/i,
+  ];
+  const VOICE_RANK_BY_LANG = {
+    ar: [
+      /Google العربية/i,
+      /Microsoft (Hamed|Naayf).*(Natural|Online)/i,
+      /Majed/i,
+      /Tarik/i,
+    ],
+    tg: [],
+  };
+  let _voices = [];
+  let _preferredVoiceEn = null;
+  let _preferredVoiceTarget = null;
+  function pickVoice(langPrefix, rankList) {
+    const pool = _voices.filter(v => v.lang.toLowerCase().startsWith(langPrefix));
+    for (const pattern of rankList) {
+      const match = pool.find(v => pattern.test(v.name));
+      if (match) return match;
+    }
+    return pool[0] || null;
+  }
+  function refreshVoices() {
+    if (!("speechSynthesis" in window)) return;
+    _voices = window.speechSynthesis.getVoices() || [];
+    _preferredVoiceEn = pickVoice("en", VOICE_RANK_EN);
+    _preferredVoiceTarget = course ? pickVoice(course.lang, VOICE_RANK_BY_LANG[course.lang] || []) : null;
+  }
+  if ("speechSynthesis" in window) {
+    refreshVoices();
+    window.speechSynthesis.onvoiceschanged = refreshVoices;
+  }
+  function ttsAvailable(isEnglish) {
+    return !!(isEnglish ? _preferredVoiceEn : _preferredVoiceTarget);
+  }
+  function speak(text, isEnglish) {
+    if (!soundEnabled || !("speechSynthesis" in window)) return;
+    const voice = isEnglish ? _preferredVoiceEn : _preferredVoiceTarget;
+    if (!voice) return;
+    try {
+      window.speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = voice.lang;
+      u.voice = voice;
+      u.rate = 0.9;
+      window.speechSynthesis.speak(u);
+    } catch (e) { /* TTS unavailable */ }
+  }
+  // Always surface the target-language (Arabic/Tajik) text, never English —
+  // the whole point of the audio is reinforcing target pronunciation. Which
+  // field holds that text depends on direction: when the target language is
+  // the shown prompt (${lang}-en), speak the prompt; when it's the expected
+  // answer (en-${lang}), speak that. Comprehension questions have no target-
+  // language text tied to the specific answer, so they get no audio.
+  function targetLangText(ex) {
+    if (ex.type === "comprehension") return null;
+    const targetIsPrompt = ex.direction === `${course.lang}-en`;
+    if (ex.type === "word-bank") return targetIsPrompt ? ex.prompt : ex.answer.join(" ");
+    return targetIsPrompt ? ex.prompt : ex.options[ex.answerIndex];
   }
 
   let course = null;
@@ -241,6 +318,7 @@
     const data = await res.json();
     course = data.course;
     course.id = meta.id;
+    refreshVoices();
 
     flatLessons = [];
     exerciseIndex = new Map();
@@ -691,10 +769,12 @@
     if (ex.type === "word-bank") return renderWordBank(ex);
   }
 
-  function renderFeedback(correct, correctText) {
+  function renderFeedback(correct, correctText, opts) {
     const delay = correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG;
+    const showSpeak = opts && opts.speakText && ttsAvailable(opts.isEnglish);
     return `
       <div class="feedback ${correct ? "correct" : "incorrect"}" role="status">
+        ${showSpeak ? `<button class="speak-btn" id="feedbackSpeakBtn" title="Play pronunciation" aria-label="Play pronunciation">🔊</button>` : ""}
         <div class="feedback-text">
           <div class="title">${correct ? "Correct" : "Not quite"}</div>
           ${correct ? "" : `<div class="detail">${correctText}</div>`}
@@ -703,10 +783,16 @@
       </div>
     `;
   }
+  function wireFeedbackReplay(text, isEnglish) {
+    const btn = document.getElementById("feedbackSpeakBtn");
+    if (btn) btn.addEventListener("click", () => speak(text, isEnglish));
+  }
 
   function afterAnswer(correct) {
     const ex = currentExercise();
     correct ? playCorrectSound() : playIncorrectSound();
+    const spoken = targetLangText(ex);
+    if (spoken) speak(spoken, false);
     if (correct) {
       session.solved.add(ex._idx);
       session.combo++;
@@ -758,8 +844,10 @@
         if (!correct) optionEls[ex.answerIndex].classList.add("correct");
 
         afterAnswer(correct);
+        const spokenText = targetLangText(ex);
         document.getElementById("feedbackSlot").innerHTML =
-          renderFeedback(correct, `Correct answer: ${ex.options[ex.answerIndex]}`);
+          renderFeedback(correct, `Correct answer: ${ex.options[ex.answerIndex]}`, { speakText: spokenText, isEnglish: false });
+        if (spokenText) wireFeedbackReplay(spokenText, false);
         scheduleAdvance(correct);
       });
     });
@@ -836,8 +924,10 @@
       targetEl.querySelectorAll(".tile").forEach(b => b.disabled = true);
 
       afterAnswer(correct);
+      const spokenText = targetLangText(ex);
       document.getElementById("feedbackSlot").innerHTML =
-        renderFeedback(correct, `Correct order: ${ex.answer.join(" ")}`);
+        renderFeedback(correct, `Correct order: ${ex.answer.join(" ")}`, { speakText: spokenText, isEnglish: false });
+      if (spokenText) wireFeedbackReplay(spokenText, false);
       scheduleAdvance(correct);
     }
   }

@@ -966,9 +966,13 @@ button.stat:hover { color: var(--teal); }
   border-radius: 4px;
   overflow: hidden;
   animation: feedback-in 0.22s ease-out;
+  display: flex;
+  align-items: center;
+  gap: 14px;
 }
 .feedback.correct { background: var(--teal-wash); border: 1px solid var(--teal); }
 .feedback.incorrect { background: var(--maroon-wash); border: 1px solid var(--maroon); }
+.feedback-text { flex: 1; min-width: 0; }
 .feedback-text .title {
   font-weight: 700;
   font-size: 1.05rem;
@@ -976,6 +980,12 @@ button.stat:hover { color: var(--teal); }
 .feedback.correct .title { color: var(--teal); }
 .feedback.incorrect .title { color: var(--maroon); }
 .feedback-text .detail { font-size: 0.9rem; color: var(--ink-soft); margin-top: 2px; }
+.speak-btn {
+  background: var(--gold-wash); border: 1px solid var(--gold); border-radius: 50%; width: 34px; height: 34px;
+  display: flex; align-items: center; justify-content: center; cursor: pointer; flex-shrink: 0; font-size: 1rem;
+  color: var(--gold); transition: background 0.12s ease, color 0.12s ease;
+}
+.speak-btn:hover { background: var(--gold); color: #fff; }
 
 .feedback-timer {
   position: absolute;
