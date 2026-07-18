@@ -155,7 +155,10 @@
     _preferredVoiceTarget = course ? pickVoice(course.lang, VOICE_RANK_BY_LANG[course.lang] || []) : null;
   }
   if ("speechSynthesis" in window) {
-    refreshVoices();
+    // Don't call refreshVoices() here — `course` isn't assigned yet at this
+    // point in module init (it's declared later with `let`, so referencing
+    // it now would throw). loadCourseData() calls refreshVoices() once
+    // course is actually set; this handler covers async voice-list loads.
     window.speechSynthesis.onvoiceschanged = refreshVoices;
   }
   function ttsAvailable(isEnglish) {
