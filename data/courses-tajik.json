@@ -34,7 +34,8 @@
                   "Where are you from?",
                   "The weather's nice today."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "امروز هوا خوب است."
               },
               {
                 "type": "word-bank",
@@ -49,7 +50,8 @@
                   "Ман",
                   "бой",
                   "нестам"
-                ]
+                ],
+                "farsi": "من ثروتمند نیستم."
               },
               {
                 "type": "multiple-choice",
@@ -61,7 +63,8 @@
                   "This bag's heavy.",
                   "His mother's at home. He's at school."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "این کیف سنگین است."
               },
               {
                 "type": "word-bank",
@@ -78,7 +81,8 @@
                   "сумкаҳо",
                   "вазнин",
                   "ҳастанд"
-                ]
+                ],
+                "farsi": "این کیف‌ها سنگین هستند."
               },
               {
                 "type": "multiple-choice",
@@ -90,7 +94,8 @@
                   "I'm a taxi driver.",
                   "My brother and I are good tennis players."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "نگاه کن، دوست من آنجاست."
               },
               {
                 "type": "word-bank",
@@ -113,7 +118,8 @@
                   "хуби",
                   "теннис",
                   "ҳастем"
-                ]
+                ],
+                "farsi": "من و برادرم بازیکنان خوب تنیس هستیم."
               },
               {
                 "type": "multiple-choice",
@@ -125,7 +131,8 @@
                   "Her children are at school.",
                   "What's your job?"
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "مادر او در خانه است. او در مدرسه است."
               },
               {
                 "type": "word-bank",
@@ -144,7 +151,8 @@
                   "дар",
                   "мактаб",
                   "ҳастанд"
-                ]
+                ],
+                "farsi": "فرزندان او در مدرسه هستند."
               },
               {
                 "type": "multiple-choice",
@@ -156,7 +164,8 @@
                   "These bags are heavy.",
                   "How old are you?"
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "من راننده تاکسی هستم."
               },
               {
                 "type": "word-bank",
@@ -175,7 +184,8 @@
                   "ҳамшираи",
                   "тиббӣ",
                   "аст"
-                ]
+                ],
+                "farsi": "خواهر من پرستار است."
               },
               {
                 "type": "multiple-choice",
@@ -187,7 +197,8 @@
                   "I'm not rich.",
                   "My sister's a nurse."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "او بیمار است. او در رختخواب است."
               },
               {
                 "type": "word-bank",
@@ -208,7 +219,8 @@
                   "лекин",
                   "ташна",
                   "ҳастам"
-                ]
+                ],
+                "farsi": "من گرسنه نیستم اما تشنه هستم."
               },
               {
                 "type": "multiple-choice",
@@ -220,7 +232,8 @@
                   "Her children are at school.",
                   "He's a very old man. He's ninety-eight (98) years old."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "او مرد خیلی پیری است. او نود و هشت (۹۸) ساله است."
               },
               {
                 "type": "word-bank",
@@ -243,7 +256,8 @@
                   "лекин",
                   "роҳат",
                   "ҳастанд"
-                ]
+                ],
+                "farsi": "این صندلی‌ها زیبا نیستند اما راحت هستند."
               },
               {
                 "type": "multiple-choice",
@@ -255,7 +269,8 @@
                   "My brother and I are good tennis players.",
                   "The weather's warm and sunny today."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "امروز هوا گرم و آفتابی است."
               },
               {
                 "type": "word-bank",
@@ -284,7 +299,8 @@
                   "Ман",
                   "барвақт",
                   "омадам"
-                ]
+                ],
+                "farsi": "تو دیر کرده‌ای. نه، من دیر نکرده‌ام. من زود آمدم."
               },
               {
                 "type": "multiple-choice",
@@ -296,7 +312,8 @@
                   "I'm not rich.",
                   "What's your job?"
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "او در خانه نیست. او سر کار است."
               },
               {
                 "type": "word-bank",
@@ -311,7 +328,8 @@
                   "Мана",
                   "палтои",
                   "ту"
-                ]
+                ],
+                "farsi": "این پالتوی توست."
               },
               {
                 "type": "multiple-choice",
@@ -323,7 +341,8 @@
                   "I'm a taxi driver.",
                   "What's your name?"
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "نام تو چیست؟"
               },
               {
                 "type": "word-bank",
@@ -340,7 +359,8 @@
                   "ман",
                   "Алан",
                   "аст"
-                ]
+                ],
+                "farsi": "نام من آلن است."
               },
               {
                 "type": "multiple-choice",
@@ -352,7 +372,8 @@
                   "Here's your coat.",
                   "What's your job?"
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "تو اهل کجایی؟"
               },
               {
                 "type": "word-bank",
@@ -369,7 +390,8 @@
                   "аз",
                   "Ню-Йорк",
                   "ҳастам"
-                ]
+                ],
+                "farsi": "من اهل نیویورک هستم."
               },
               {
                 "type": "multiple-choice",
@@ -381,7 +403,8 @@
                   "Her children are at school.",
                   "Look, there's my friend."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "تو چند ساله‌ای؟"
               },
               {
                 "type": "word-bank",
@@ -400,7 +423,8 @@
                   "(20)",
                   "сола",
                   "ҳастам"
-                ]
+                ],
+                "farsi": "من بیست (۲۰) ساله هستم."
               },
               {
                 "type": "multiple-choice",
@@ -412,7 +436,8 @@
                   "I'm from New York.",
                   "She isn't home. She's at work."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "شغل تو چیست؟"
               }
             ]
           },

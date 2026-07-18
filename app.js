@@ -116,10 +116,12 @@
 
   // ---------- text-to-speech ----------
   // Free browser/OS voices only. English is universally available; Arabic
-  // has decent free voices on most platforms (Chrome/Edge/macOS); Tajik has
-  // essentially none, so we detect availability per language and simply
-  // don't offer audio where no voice exists rather than mispronounce with
-  // a fallback voice.
+  // has decent free voices on most platforms (Chrome/Edge/macOS). No browser
+  // or OS ships a real Tajik voice, so for Tajik we fall back to a Farsi
+  // voice reading a hand-checked Farsi equivalent (Tajik and Iranian Farsi
+  // are the same spoken language) — but only where that equivalent exists
+  // in the data (`ex.farsi`); we never guess or mechanically transliterate,
+  // since a wrong-sounding "approximation" would teach bad pronunciation.
   const VOICE_RANK_EN = [
     /Google US English/i,
     /Microsoft (Aria|Jenny|Emma).*(Natural|Online)/i,
@@ -135,11 +137,17 @@
       /Majed/i,
       /Tarik/i,
     ],
+    fa: [
+      /Google فارسی/i,
+      /Microsoft (Dilara|Farid).*(Natural|Online)/i,
+      /Negar/i,
+    ],
     tg: [],
   };
   let _voices = [];
   let _preferredVoiceEn = null;
   let _preferredVoiceTarget = null;
+  let _preferredVoiceFa = null;
   function pickVoice(langPrefix, rankList) {
     const pool = _voices.filter(v => v.lang.toLowerCase().startsWith(langPrefix));
     for (const pattern of rankList) {
@@ -153,6 +161,7 @@
     _voices = window.speechSynthesis.getVoices() || [];
     _preferredVoiceEn = pickVoice("en", VOICE_RANK_EN);
     _preferredVoiceTarget = course ? pickVoice(course.lang, VOICE_RANK_BY_LANG[course.lang] || []) : null;
+    _preferredVoiceFa = course && course.lang === "tg" ? pickVoice("fa", VOICE_RANK_BY_LANG.fa) : null;
   }
   if ("speechSynthesis" in window) {
     // Don't call refreshVoices() here — `course` isn't assigned yet at this
@@ -161,35 +170,47 @@
     // course is actually set; this handler covers async voice-list loads.
     window.speechSynthesis.onvoiceschanged = refreshVoices;
   }
-  function ttsAvailable(isEnglish) {
-    return !!(isEnglish ? _preferredVoiceEn : _preferredVoiceTarget);
-  }
   const SPEECH_RATE = 0.85;
-  function speak(text, isEnglish) {
-    if (!soundEnabled || !("speechSynthesis" in window)) return;
-    const voice = isEnglish ? _preferredVoiceEn : _preferredVoiceTarget;
-    if (!voice) return;
+  function speak(text, voice, onEnd) {
+    if (!soundEnabled || !("speechSynthesis" in window) || !voice) { if (onEnd) onEnd(); return; }
     try {
       window.speechSynthesis.cancel();
       const u = new SpeechSynthesisUtterance(text);
       u.lang = voice.lang;
       u.voice = voice;
       u.rate = SPEECH_RATE;
+      if (onEnd) { u.onend = onEnd; u.onerror = onEnd; }
       window.speechSynthesis.speak(u);
-    } catch (e) { /* TTS unavailable */ }
+    } catch (e) { if (onEnd) onEnd(); }
   }
-  // Keep the auto-advance timer from cutting off the spoken answer — estimate
-  // how long the TTS will take (~2.3 words/sec at rate 1.0, scaled by our
-  // slower rate) and never advance sooner than that, plus a trailing pause
-  // long enough to read the text after the audio finishes.
+  // Resolves what to actually speak for a target-language answer: the real
+  // target voice+text if one exists (Arabic, or a Tajik voice on the rare
+  // device that has one), else a Farsi voice reading ex.farsi if both are
+  // available, else nothing.
+  function resolveSpeech(isEnglish, text, ex) {
+    if (isEnglish) return _preferredVoiceEn ? { text, voice: _preferredVoiceEn } : null;
+    if (_preferredVoiceTarget) return { text, voice: _preferredVoiceTarget };
+    if (ex && ex.farsi && _preferredVoiceFa) return { text: ex.farsi, voice: _preferredVoiceFa };
+    return null;
+  }
+  // Estimate for the feedback timer bar's animation-duration only (cosmetic;
+  // the actual advance is driven by the real TTS "end" event below).
   function speechDurationMs(text) {
     if (!text) return 0;
     const words = text.trim().split(/\s+/).filter(Boolean).length;
     return (words / (2.3 * SPEECH_RATE)) * 1000 + 1000;
   }
-  function answerAdvanceDelay(correct, text) {
+  function visualDelay(correct, spoken) {
     const base = correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG;
-    return Math.max(base, speechDurationMs(text));
+    return Math.max(base, speechDurationMs(spoken && spoken.text));
+  }
+  // Advance the instant the spoken answer finishes playing — no estimate, no
+  // added pause, synced exactly to the real TTS "end" event. Falls back to
+  // the fixed delay only when there's nothing to speak or audio is off, so
+  // the learner still gets a moment to read.
+  function advanceAfterSpeech(spoken, fallbackDelay) {
+    if (!spoken) { scheduleAdvance(fallbackDelay); return; }
+    speak(spoken.text, spoken.voice, () => scheduleAdvance(0));
   }
   // Always surface the target-language (Arabic/Tajik) text, never English —
   // the whole point of the audio is reinforcing target pronunciation. Which
@@ -213,6 +234,7 @@
   let progress = null;
   let session = null; // active lesson/review session state
   let advanceTimer = null;
+  let currentLevelId = null;
 
   function scheduleAdvance(delay) {
     advanceTimer = setTimeout(() => {
@@ -360,6 +382,7 @@
     session = null;
     activeCourseId = courseId;
     localStorage.setItem(ACTIVE_COURSE_KEY, courseId);
+    currentLevelId = null;
     await loadCourseData(courseId);
     progress = loadProgress();
     refreshTopStats();
@@ -499,105 +522,133 @@
   }
 
   // ---------- HOME ----------
+  function waveformBars(pct, count = 14) {
+    const filled = Math.round((pct / 100) * count);
+    let html = "";
+    for (let i = 0; i < count; i++) {
+      const h = 8 + Math.round(Math.sin((i / count) * Math.PI) * 22);
+      html += `<div class="bar${i < filled ? " filled" : ""}" style="height:${h}px"></div>`;
+    }
+    return html;
+  }
+
+  // The level whose roadmap should show by default: the one containing the
+  // first unlocked-but-not-yet-completed lesson (i.e. "where the user is"),
+  // falling back to the first level with lessons.
+  function pickDefaultLevel() {
+    for (const level of course.levels) {
+      const levelLessons = flatLessons.filter(l => l.levelId === level.id);
+      if (!levelLessons.length) continue;
+      const hasCurrent = levelLessons.some(l => !progress.completedLessons.includes(l.id) && isLessonUnlocked(flatLessons.indexOf(l)));
+      if (hasCurrent) return level.id;
+    }
+    const firstBuilt = course.levels.find(lv => flatLessons.some(l => l.levelId === lv.id));
+    return firstBuilt ? firstBuilt.id : course.levels[0].id;
+  }
+
   function renderHome() {
+    if (!currentLevelId || !course.levels.some(l => l.id === currentLevelId)) {
+      currentLevelId = pickDefaultLevel();
+    }
+    renderLevelRoadmap();
+  }
+
+  // Each level gets its own roadmap: lessons as round nodes running bottom
+  // (lesson 1) to top (last lesson), like climbing toward the level's peak.
+  // Completing the level unlocks a "next level" node above the last lesson.
+  function renderLevelRoadmap() {
     const totalLessons = flatLessons.length;
-    const doneCount = flatLessons.filter(l => progress.completedLessons.includes(l.id)).length;
-    const pct = totalLessons ? Math.round((doneCount / totalLessons) * 100) : 0;
+    const doneLessons = flatLessons.filter(l => progress.completedLessons.includes(l.id)).length;
+    const overallPct = totalLessons ? Math.round((doneLessons / totalLessons) * 100) : 0;
 
-    const reviewNative = (course.uiStrings && course.uiStrings.review) ? ` &middot; ${course.uiStrings.review}` : "";
-    const revisionNative = (course.uiStrings && course.uiStrings.revision) ? ` &middot; ${course.uiStrings.revision}` : "";
+    const level = course.levels.find(l => l.id === currentLevelId);
+    const builtLevels = course.levels.filter(lv => flatLessons.some(l => l.levelId === lv.id));
+    const builtIdx = builtLevels.findIndex(lv => lv.id === currentLevelId);
+    const prevLevel = builtIdx > 0 ? builtLevels[builtIdx - 1] : null;
+    const nextLevel = builtIdx >= 0 && builtIdx < builtLevels.length - 1 ? builtLevels[builtIdx + 1] : null;
 
-    const reviewCard = progress.missedBank.length > 0 ? `
-      <button class="review-card" id="reviewBtn">
-        <div>
-          <div class="review-title">Review your mistakes</div>
-          <div class="review-sub">${progress.missedBank.length} exercise${progress.missedBank.length === 1 ? "" : "s"} waiting${reviewNative}</div>
+    const levelLessons = flatLessons.filter(l => l.levelId === level.id);
+    const levelDone = levelLessons.filter(l => progress.completedLessons.includes(l.id)).length;
+    const levelComplete = levelLessons.length > 0 && levelDone === levelLessons.length;
+
+    let nodesHtml = "";
+    levelLessons.forEach((lesson, i) => {
+      const flatIndex = flatLessons.indexOf(lesson);
+      const unlocked = isLessonUnlocked(flatIndex);
+      const done = progress.completedLessons.includes(lesson.id);
+      const isCurrent = unlocked && !done;
+      const offset = ["center", "left", "right"][i % 3];
+      nodesHtml += `
+        <div class="roadmap-row ${offset}">
+          <button class="roadmap-node ${done ? "done" : unlocked ? "unlocked" : "locked"} ${isCurrent ? "current" : ""}" data-lesson="${lesson.id}" ${unlocked ? "" : "disabled"} aria-label="${lesson.title}">
+            ${done ? "✓" : unlocked ? lesson.number : "🔒"}
+          </button>
+          <div class="roadmap-label"><span class="roadmap-label-en">${lesson.title}</span><span class="roadmap-label-native">${lesson.titleNative || ""}</span></div>
         </div>
-        <span class="review-arrow" aria-hidden="true">&rarr;</span>
-      </button>` : "";
-
-    const revisionCard = doneCount > 0 ? `
-      <button class="review-card revision-card" id="revisionBtn">
-        <div>
-          <div class="review-title">Practice</div>
-          <div class="review-sub">Old sentences, shuffled and mixed across topics${revisionNative}</div>
-        </div>
-        <span class="review-arrow" aria-hidden="true">&rarr;</span>
-      </button>` : "";
-
-    let flatCursor = -1;
-    let openAssigned = false;
-    const levelSections = course.levels.map(level => {
-      const levelDone = level.lessons.filter(l => progress.completedLessons.includes(l.id)).length;
-      const levelComplete = levelDone === level.lessons.length;
-      const nodes = level.lessons.map(lesson => {
-        flatCursor++;
-        const idx = flatCursor;
-        const unlocked = isLessonUnlocked(idx);
-        const done = progress.completedLessons.includes(lesson.id);
-        const stateClass = done ? "done" : unlocked ? "current" : "locked";
-        const status = done ? "Complete" : unlocked ? "Start" : "Locked";
-        return `
-          <li class="path-node ${stateClass}" data-lesson="${lesson.id}">
-            <div class="medallion">${done ? "&#10003;" : lesson.number}</div>
-            <div class="node-card">
-              <div>
-                <div class="node-title">${lesson.title}${lesson.titleNative ? `<span class="ar">${lesson.titleNative}</span>` : ""}</div>
-                <div class="node-desc">${lesson.description}</div>
-              </div>
-              <div class="node-status">${status}</div>
-            </div>
-          </li>`;
-      }).join("");
-
-      let open = false;
-      if (!openAssigned && !levelComplete) { open = true; openAssigned = true; }
-
-      return `
-        <details class="level-section" ${open ? "open" : ""}>
-          <summary class="level-header">
-            <span class="level-badge">${level.cefr}</span>
-            <div>
-              <h2>${level.label}${level.labelNative ? `<span class="ar">${level.labelNative}</span>` : ""}</h2>
-            </div>
-            <span class="level-progress">${levelDone}/${level.lessons.length}</span>
-          </summary>
-          <ul class="path">${nodes}</ul>
-        </details>
       `;
-    }).join("");
+    });
+    if (levelComplete && nextLevel) {
+      nodesHtml += `
+        <div class="roadmap-row center">
+          <button class="roadmap-next-node" id="nextLevelBtn" aria-label="Next level">🏁</button>
+          <div class="roadmap-label"><span class="roadmap-label-en">Level complete!</span><span class="roadmap-label-native">Next: ${nextLevel.cefr}</span></div>
+        </div>
+      `;
+    }
 
     screenEl.innerHTML = `
-      <section class="hero">
-        <p class="eyebrow">${course.heroEyebrow || course.languageName || ""}</p>
-        <h1>${course.title}</h1>
-        ${course.heroNative ? `<p class="ar-title">${course.heroNative}</p>` : ""}
-        <p class="lede">${course.subtitle}. ${course.heroLedeSuffix || ""}</p>
-        <div class="progress-row">
-          <div class="ring" data-pct="${pct}" style="--pct:${pct}"></div>
-          <div class="progress-text">
-            <span class="label">Course progress</span>
-            <span class="value">${doneCount} / ${totalLessons} lessons</span>
-          </div>
+      <div class="level-progress-card">
+        <div class="waveform">${waveformBars(overallPct)}</div>
+        <div class="level-progress-info">
+          <div class="pct">${overallPct}%</div>
+          <div class="label">Overall progress</div>
+          <div class="count">${doneLessons} / ${totalLessons} lessons</div>
         </div>
-      </section>
-      ${reviewCard}
-      ${revisionCard}
-      ${levelSections}
+      </div>
+      <div class="roadmap-header">
+        <button class="roadmap-arrow" id="prevLevelBtn" ${prevLevel ? "" : "disabled"} aria-label="Previous level">‹</button>
+        <div class="roadmap-level-info">
+          <span class="level-badge">${level.cefr}</span>
+          <h2>${level.label}${level.labelNative ? ` &middot; ${level.labelNative}` : ""}</h2>
+          <span class="level-count">${levelLessons.length ? `${levelDone}/${levelLessons.length}` : "coming soon"}</span>
+        </div>
+        <button class="roadmap-arrow" id="nextLevelNavBtn" ${nextLevel ? "" : "disabled"} aria-label="Next level">›</button>
+      </div>
+      ${!levelLessons.length
+        ? `<div class="level-locked-note">Lessons for ${level.cefr} are still being prepared and will appear here soon.</div>`
+        : `<div class="roadmap" id="roadmapEl">${nodesHtml}</div>`
+      }
     `;
 
-    screenEl.querySelectorAll(".path-node:not(.locked)").forEach(node => {
-      node.querySelector(".node-card").addEventListener("click", () => {
-        const lessonId = node.dataset.lesson;
-        startLesson(flatLessons.find(l => l.id === lessonId));
+    document.getElementById("prevLevelBtn").addEventListener("click", () => {
+      if (!prevLevel) return;
+      currentLevelId = prevLevel.id;
+      renderLevelRoadmap();
+    });
+    document.getElementById("nextLevelNavBtn").addEventListener("click", () => {
+      if (!nextLevel) return;
+      currentLevelId = nextLevel.id;
+      renderLevelRoadmap();
+    });
+    const nextLevelBtn = document.getElementById("nextLevelBtn");
+    if (nextLevelBtn) {
+      nextLevelBtn.addEventListener("click", () => {
+        if (!nextLevel) return;
+        currentLevelId = nextLevel.id;
+        renderLevelRoadmap();
+      });
+    }
+    screenEl.querySelectorAll(".roadmap-node:not(.locked)").forEach(node => {
+      node.addEventListener("click", () => {
+        const lesson = flatLessons.find(l => l.id === node.dataset.lesson);
+        if (lesson) startLesson(lesson);
       });
     });
 
-    const reviewBtn = document.getElementById("reviewBtn");
-    if (reviewBtn) reviewBtn.addEventListener("click", startReview);
-
-    const revisionBtn = document.getElementById("revisionBtn");
-    if (revisionBtn) revisionBtn.addEventListener("click", startRevision);
+    const target = screenEl.querySelector(".roadmap-node.current") || screenEl.querySelector(".roadmap-node.unlocked");
+    if (target) {
+      requestAnimationFrame(() => target.scrollIntoView({ block: "center", behavior: "auto" }));
+    }
   }
 
   // ---------- LESSON / REVIEW ----------
@@ -701,6 +752,9 @@
       const toggle = ex.translit
         ? `<button class="translit-toggle" id="translitToggle">Show transliteration</button>
            <p class="translit hidden" id="translitText">${ex.translit}</p>`
+        : ex.farsi
+        ? `<button class="translit-toggle" id="translitToggle">Show in Farsi</button>
+           <p class="translit translit-fa hidden" id="translitText" dir="rtl" lang="fa">${ex.farsi}</p>`
         : "";
       return `<p class="prompt-native" dir="${course.dir}" lang="${course.lang}">${ex.prompt}</p>${toggle}`;
     }
@@ -787,28 +841,27 @@
 
   function renderFeedback(correct, correctText, opts) {
     const delay = (opts && opts.delay) || (correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG);
-    const showSpeak = opts && opts.speakText && ttsAvailable(opts.isEnglish);
+    const showSpeak = !!(opts && opts.spoken);
+    const farsi = opts && opts.farsiHint;
     return `
       <div class="feedback ${correct ? "correct" : "incorrect"}" role="status">
         ${showSpeak ? `<button class="speak-btn" id="feedbackSpeakBtn" title="Play pronunciation" aria-label="Play pronunciation">🔊</button>` : ""}
         <div class="feedback-text">
           <div class="title">${correct ? "Correct" : "Not quite"}</div>
-          ${correct ? "" : `<div class="detail">${correctText}</div>`}
+          ${correct ? "" : `<div class="detail">${correctText}${farsi ? `<span class="farsi-hint" dir="rtl" lang="fa">${farsi}</span>` : ""}</div>`}
         </div>
         <div class="feedback-timer" style="animation-duration:${delay}ms"></div>
       </div>
     `;
   }
-  function wireFeedbackReplay(text, isEnglish) {
+  function wireFeedbackReplay(spoken) {
     const btn = document.getElementById("feedbackSpeakBtn");
-    if (btn) btn.addEventListener("click", () => speak(text, isEnglish));
+    if (btn) btn.addEventListener("click", () => speak(spoken.text, spoken.voice));
   }
 
   function afterAnswer(correct) {
     const ex = currentExercise();
     correct ? playCorrectSound() : playIncorrectSound();
-    const spoken = targetLangText(ex);
-    if (spoken) speak(spoken, false);
     if (correct) {
       session.solved.add(ex._idx);
       session.combo++;
@@ -861,11 +914,12 @@
 
         afterAnswer(correct);
         const spokenText = targetLangText(ex);
-        const delay = answerAdvanceDelay(correct, spokenText);
+        const spoken = spokenText ? resolveSpeech(false, spokenText, ex) : null;
+        const fallback = correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG;
         document.getElementById("feedbackSlot").innerHTML =
-          renderFeedback(correct, `Correct answer: ${ex.options[ex.answerIndex]}`, { speakText: spokenText, isEnglish: false, delay });
-        if (spokenText) wireFeedbackReplay(spokenText, false);
-        scheduleAdvance(delay);
+          renderFeedback(correct, `Correct answer: ${ex.options[ex.answerIndex]}`, { spoken, delay: visualDelay(correct, spoken), farsiHint: ex.farsi });
+        if (spoken) wireFeedbackReplay(spoken);
+        advanceAfterSpeech(spoken, fallback);
       });
     });
   }
@@ -942,11 +996,12 @@
 
       afterAnswer(correct);
       const spokenText = targetLangText(ex);
-      const delay = answerAdvanceDelay(correct, spokenText);
+      const spoken = spokenText ? resolveSpeech(false, spokenText, ex) : null;
+      const fallback = correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG;
       document.getElementById("feedbackSlot").innerHTML =
-        renderFeedback(correct, `Correct order: ${ex.answer.join(" ")}`, { speakText: spokenText, isEnglish: false, delay });
-      if (spokenText) wireFeedbackReplay(spokenText, false);
-      scheduleAdvance(delay);
+        renderFeedback(correct, `Correct order: ${ex.answer.join(" ")}`, { spoken, delay: visualDelay(correct, spoken), farsiHint: ex.farsi });
+      if (spoken) wireFeedbackReplay(spoken);
+      advanceAfterSpeech(spoken, fallback);
     }
   }
 

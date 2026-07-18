@@ -326,108 +326,20 @@ button.stat:hover { color: var(--teal); }
 }
 
 /* ============ Home ============ */
-.hero {
-  position: relative;
-  background: var(--paper-raised);
-  border: 1px solid var(--line);
-  border-radius: 4px;
-  padding: 40px 32px;
-  overflow: hidden;
+.waveform { display: flex; align-items: flex-end; gap: 3px; height: 34px; }
+.waveform .bar { width: 4px; border-radius: 2px; background: var(--paper-deep); transition: background 0.2s ease, height 0.3s ease; }
+.waveform .bar.filled { background: var(--gold); }
+
+.level-progress-card {
+  background: var(--paper-raised); border: 1px solid var(--line); border-radius: 4px;
+  padding: 22px 20px; margin: 20px 0 22px; display: flex; align-items: center; gap: 18px;
   animation: content-in 0.35s ease-out;
 }
-
-.hero::before,
-.hero::after {
-  content: "";
-  position: absolute;
-  width: 64px;
-  height: 64px;
-  border: 2px solid var(--gold);
-  opacity: 0.35;
-  pointer-events: none;
-}
-.hero::before { top: 14px; left: 14px; border-right: none; border-bottom: none; }
-.hero::after { bottom: 14px; right: 14px; border-left: none; border-top: none; }
-
-.eyebrow {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--maroon);
-  margin: 0 0 10px;
-}
-
-.hero h1 {
-  font-family: var(--font-display);
-  font-size: 2.6rem;
-  line-height: 1.1;
-  margin: 0 0 6px;
-  color: var(--ink);
-}
-
-.hero .ar-title {
-  font-family: var(--font-native);
-  direction: rtl;
-  font-size: 1.7rem;
-  color: var(--maroon);
-  margin: 0 0 14px;
-}
-
-.hero p.lede {
-  font-size: 1.02rem;
-  color: var(--ink-soft);
-  max-width: 46ch;
-  margin: 0 0 26px;
-}
-
-.progress-row {
-  display: flex;
-  align-items: center;
-  gap: 18px;
-  margin-bottom: 26px;
-}
-
-.ring {
-  --pct: 0;
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
-  background: conic-gradient(var(--gold) calc(var(--pct) * 1%), var(--paper-deep) 0);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-  animation: ring-pop 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
-}
-.ring::before {
-  content: attr(data-pct) "%";
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  background: var(--paper-raised);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-mono);
-  font-size: 0.8rem;
-  font-weight: 700;
-}
-
-.progress-text .label {
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--ink-soft);
-  display: block;
-  margin-bottom: 3px;
-}
-.progress-text .value {
-  font-family: var(--font-display);
-  font-size: 1.3rem;
-  font-weight: 600;
-}
+.level-progress-card .waveform { flex-shrink: 0; }
+.level-progress-info { flex: 1; }
+.level-progress-info .pct { font-family: var(--font-mono); font-size: 1.6rem; font-weight: 700; color: var(--gold); }
+.level-progress-info .label { font-size: 0.72rem; color: var(--ink-soft); text-transform: uppercase; letter-spacing: 0.08em; margin-top: 2px; }
+.level-progress-info .count { font-family: var(--font-display); font-size: 1.15rem; font-weight: 600; margin-top: 4px; }
 
 .btn {
   border: none;
@@ -461,175 +373,61 @@ button.stat:hover { color: var(--teal); }
 .btn-ghost:hover { border-color: var(--gold); }
 .btn-block { width: 100%; }
 
-/* ============ Review card ============ */
-.review-card {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-  background: var(--maroon-wash);
-  border: 1px solid var(--maroon);
-  border-radius: 4px;
-  padding: 16px 20px;
-  margin: 22px 0;
-  text-align: left;
+/* ---------- level roadmap ---------- */
+.roadmap-header { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.roadmap-arrow {
+  width: 34px; height: 34px; border-radius: 50%; border: 1.5px solid var(--line); background: var(--paper-raised);
+  color: var(--ink); font-size: 1.1rem; line-height: 1; cursor: pointer; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
 }
-.review-card:hover { filter: brightness(0.98); }
-.review-title {
-  font-weight: 700;
-  color: var(--maroon);
-  font-size: 1rem;
-}
-.review-sub {
-  font-size: 0.82rem;
-  color: var(--ink-soft);
-  margin-top: 2px;
-}
-.review-arrow {
-  font-size: 1.3rem;
-  color: var(--maroon);
-}
-.revision-card {
-  background: var(--gold-wash);
-  border-color: var(--gold);
-}
-.revision-card .review-title,
-.revision-card .review-arrow {
-  color: var(--gold);
-}
-
-/* ============ Path ============ */
-.level-section {
-  margin-top: 22px;
-}
-.level-header {
-  position: relative;
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  padding: 12px 0 12px;
-  cursor: pointer;
-}
-.level-header::-webkit-details-marker { color: var(--ink-soft); }
-.level-header::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 1px;
-  background-image: repeating-linear-gradient(90deg, var(--line) 0 5px, transparent 5px 12px);
-}
-.level-section:first-of-type { margin-top: 0; }
-.level-badge {
-  font-family: var(--font-mono);
-  font-weight: 700;
-  font-size: 0.78rem;
-  color: var(--paper-raised);
-  background: var(--ink);
-  border-radius: 3px;
-  padding: 4px 8px;
+.roadmap-arrow:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); }
+.roadmap-arrow:disabled { opacity: 0.25; cursor: default; }
+.roadmap-level-info { flex: 1; text-align: center; }
+.roadmap-level-info h2 { font-family: var(--font-display); font-size: 1.3rem; margin: 4px 0 2px; color: var(--ink); }
+.roadmap-level-info .level-badge {
+  font-family: var(--font-mono); font-size: 0.75rem; font-weight: 700; color: var(--gold);
+  background: var(--gold-wash); border: 1px solid var(--gold); border-radius: 4px; padding: 3px 8px;
   letter-spacing: 0.04em;
 }
-.level-header h2 {
-  font-family: var(--font-display);
-  font-size: 1.6rem;
-  margin: 0;
-  display: inline;
-}
-.level-header .ar {
-  font-family: var(--font-native);
-  direction: rtl;
-  color: var(--maroon);
-  font-size: 1.15rem;
-  margin-left: 10px;
-  font-weight: 400;
-}
-.level-progress {
-  margin-left: auto;
-  font-family: var(--font-mono);
-  font-size: 0.78rem;
-  color: var(--ink-soft);
-  white-space: nowrap;
-}
+.level-count { font-family: var(--font-mono); font-size: 0.75rem; color: var(--ink-soft); }
+.level-locked-note { font-size: 0.8rem; color: var(--ink-soft); background: var(--paper-raised); border: 1px dashed var(--line); border-radius: 4px; padding: 14px 16px; margin-top: 10px; }
 
-.path {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  border-left: 2px dashed var(--line);
-  margin-left: 20px;
+/* Lessons run bottom (lesson 1) to top (last lesson) — column-reverse means
+   the first child in the DOM (lesson 1) ends up visually lowest, so the
+   list can just be built in normal reading order. */
+.roadmap {
+  display: flex; flex-direction: column-reverse; align-items: center; position: relative;
+  padding: 24px 10px 10px; margin-top: 4px; max-height: 60vh; overflow-y: auto;
 }
-
-.path-node {
-  position: relative;
-  padding: 4px 0 30px 34px;
+.roadmap::before {
+  content: ""; position: absolute; left: 50%; top: 24px; bottom: 10px; width: 4px;
+  background: var(--paper-deep); transform: translateX(-50%); z-index: 0; border-radius: 2px;
 }
-
-.path-node .medallion {
-  position: absolute;
-  left: -21px;
-  top: 4px;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background: var(--paper-raised);
-  border: 2px solid var(--line);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-mono);
-  font-weight: 700;
-  font-size: 0.95rem;
-  color: var(--ink-soft);
+.roadmap-row { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 22px; }
+.roadmap-row.left { align-items: flex-start; padding-left: 12%; }
+.roadmap-row.right { align-items: flex-end; padding-right: 12%; }
+.roadmap-node {
+  width: 58px; height: 58px; border-radius: 50%; border: 3px solid var(--paper-deep); background: var(--paper-raised);
+  color: var(--ink-soft); font-family: var(--font-mono); font-weight: 700; font-size: 1.1rem;
+  display: flex; align-items: center; justify-content: center; cursor: pointer; flex-shrink: 0;
+  box-shadow: 0 3px 0 var(--line); transition: transform 0.1s ease;
 }
-
-.path-node.done .medallion {
-  border-color: var(--gold);
-  background: var(--gold-wash);
-  color: var(--gold);
+.roadmap-node:active:not(:disabled) { transform: translateY(2px); box-shadow: 0 1px 0 var(--line); }
+.roadmap-node.unlocked { border-color: var(--maroon); color: var(--maroon); background: var(--maroon-wash); }
+.roadmap-node.unlocked.current { box-shadow: 0 3px 0 var(--btn-shadow), 0 0 0 5px var(--maroon-wash); }
+.roadmap-node.done { border-color: var(--gold); background: var(--gold); color: var(--paper-raised); box-shadow: 0 3px 0 var(--btn-shadow); }
+.roadmap-node.locked { cursor: default; opacity: 0.6; }
+.roadmap-node:disabled { cursor: default; }
+.roadmap-next-node {
+  width: 64px; height: 64px; border-radius: 50%; border: 3px solid var(--teal); background: var(--teal-wash);
+  font-size: 1.5rem; display: flex; align-items: center; justify-content: center; cursor: pointer;
+  box-shadow: 0 3px 0 var(--btn-shadow);
 }
-.path-node.done .medallion::after {
-  content: "";
-  position: absolute;
-  inset: -6px;
-  border: 1px solid var(--gold);
-  border-radius: 50%;
-  opacity: 0.5;
+.roadmap-label { text-align: center; margin-top: 8px; max-width: 130px; }
+.roadmap-label-en { display: block; font-family: var(--font-display); font-weight: 700; font-size: 0.95rem; color: var(--ink); }
+.roadmap-label-native {
+  display: block; font-family: var(--font-native); direction: rtl; font-size: 0.82rem; color: var(--maroon); margin-top: 1px;
 }
-
-.path-node.current .medallion {
-  border-color: var(--maroon);
-  color: var(--maroon);
-  background: var(--maroon-wash);
-}
-
-.node-card {
-  background: var(--paper-raised);
-  border: 1px solid var(--line);
-  border-radius: 3px;
-  padding: 14px 18px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-}
-
-.path-node.locked .node-card { opacity: 0.5; }
-.path-node:not(.locked) .node-card { cursor: pointer; }
-.path-node:not(.locked) .node-card:hover { border-color: var(--gold); }
-
-.node-title { font-weight: 700; font-size: 1rem; }
-.node-title .ar {
-  font-family: var(--font-native);
-  direction: rtl;
-  color: var(--maroon);
-  font-weight: 400;
-  margin-left: 8px;
-}
-.node-desc { font-size: 0.85rem; color: var(--ink-soft); margin-top: 3px; }
-.node-status { font-family: var(--font-mono); font-size: 0.75rem; color: var(--gold); white-space: nowrap; }
 
 /* ============ Lesson ============ */
 .lesson-bar {
@@ -745,6 +543,21 @@ button.stat:hover { color: var(--teal); }
   margin: 0 0 24px;
 }
 .translit.hidden { display: none; }
+.translit-fa {
+  font-style: normal;
+  font-family: var(--font-native);
+  font-size: 1.15rem;
+  color: var(--ink);
+  line-height: 1.7;
+}
+.farsi-hint {
+  display: block;
+  font-family: var(--font-native);
+  font-style: normal;
+  font-size: 1rem;
+  color: var(--ink-soft);
+  margin-top: 4px;
+}
 
 .options {
   display: grid;
