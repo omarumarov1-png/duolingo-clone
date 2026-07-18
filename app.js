@@ -31,14 +31,6 @@
   const hoardModal = document.getElementById("hoardModal");
   const dialogueModal = document.getElementById("dialogueModal");
   const courseModal = document.getElementById("courseModal");
-  const syncToggleEl = document.getElementById("syncToggle");
-  const syncModal = document.getElementById("syncModal");
-  const syncExportTextEl = document.getElementById("syncExportText");
-  const syncCopyBtnEl = document.getElementById("syncCopyBtn");
-  const syncCopyStatusEl = document.getElementById("syncCopyStatus");
-  const syncImportTextEl = document.getElementById("syncImportText");
-  const syncImportBtnEl = document.getElementById("syncImportBtn");
-  const syncImportStatusEl = document.getElementById("syncImportStatus");
 
   // ---------- theme ----------
   function initTheme() {
@@ -188,15 +180,6 @@
     return count;
   }
 
-  function buildSyncCode() {
-    return btoa(unescape(encodeURIComponent(JSON.stringify(buildProgressPayload()))));
-  }
-
-  function applySyncCode(code) {
-    const json = decodeURIComponent(escape(atob(code.trim())));
-    return applyProgressPayload(JSON.parse(json));
-  }
-
   function updateStreakOnCompletion() {
     const today = new Date().toDateString();
     if (progress.lastActiveDate !== today) {
@@ -338,59 +321,6 @@
     });
     courseModal.addEventListener("click", e => {
       if (e.target === courseModal) courseModal.classList.add("hidden");
-    });
-
-    syncToggleEl.addEventListener("click", () => {
-      syncExportTextEl.value = buildSyncCode();
-      syncImportTextEl.value = "";
-      syncCopyStatusEl.textContent = "";
-      syncImportStatusEl.textContent = "";
-      syncModal.classList.remove("hidden");
-    });
-    document.getElementById("syncClose").addEventListener("click", () => {
-      syncModal.classList.add("hidden");
-    });
-    syncModal.addEventListener("click", e => {
-      if (e.target === syncModal) syncModal.classList.add("hidden");
-    });
-    syncCopyBtnEl.addEventListener("click", () => {
-      syncExportTextEl.focus();
-      syncExportTextEl.select();
-      const onCopied = () => {
-        syncCopyStatusEl.textContent = "Copied!";
-        syncCopyStatusEl.classList.remove("error");
-      };
-      const onFailed = () => {
-        try {
-          document.execCommand("copy");
-          onCopied();
-        } catch (e) {
-          syncCopyStatusEl.textContent = "Couldn't copy — select the text and copy manually.";
-          syncCopyStatusEl.classList.add("error");
-        }
-      };
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(syncExportTextEl.value).then(onCopied, onFailed);
-      } else {
-        onFailed();
-      }
-    });
-    syncImportBtnEl.addEventListener("click", () => {
-      const code = syncImportTextEl.value;
-      if (!code.trim()) return;
-      try {
-        const count = applySyncCode(code);
-        cancelAdvance();
-        session = null;
-        progress = loadProgress();
-        refreshTopStats();
-        renderHome();
-        syncImportStatusEl.textContent = `Imported ${count} course${count === 1 ? "" : "s"}!`;
-        syncImportStatusEl.classList.remove("error");
-      } catch (e) {
-        syncImportStatusEl.textContent = "That code doesn't look valid.";
-        syncImportStatusEl.classList.add("error");
-      }
     });
 
     wordsStatEl.addEventListener("click", () => {

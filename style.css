@@ -267,20 +267,6 @@ button.stat:hover { color: var(--teal); }
 .sound-toggle.muted .icon-on { display: none; }
 .sound-toggle.muted .icon-muted { display: block; }
 
-.sync-toggle {
-  background: none;
-  border: 1.5px solid var(--line);
-  border-radius: 50%;
-  width: 32px;
-  height: 32px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0;
-  transition: border-color 0.15s ease, transform 0.15s ease;
-}
-.sync-toggle:hover { border-color: var(--gold); transform: rotate(-25deg); }
-
 .account-toggle {
   background: none;
   border: 1.5px solid var(--line);
@@ -1105,32 +1091,6 @@ button.stat:hover { color: var(--teal); }
   margin: 6px 0 16px;
 }
 
-.sync-section { margin-bottom: 18px; }
-.sync-section:last-child { margin-bottom: 0; }
-.sync-label {
-  display: block;
-  font-size: 0.8rem;
-  font-weight: 700;
-  color: var(--ink-soft);
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  margin-bottom: 6px;
-}
-.sync-textarea {
-  width: 100%;
-  box-sizing: border-box;
-  font-family: var(--font-mono);
-  font-size: 0.78rem;
-  color: var(--ink);
-  background: var(--paper);
-  border: 1px solid var(--line);
-  border-radius: 6px;
-  padding: 8px 10px;
-  resize: vertical;
-  margin-bottom: 8px;
-  direction: ltr;
-}
-.sync-textarea:focus { outline: none; border-color: var(--gold); }
 .sync-btn {
   background: var(--gold-wash);
   border: 1px solid var(--gold);
@@ -1143,13 +1103,6 @@ button.stat:hover { color: var(--teal); }
   cursor: pointer;
 }
 .sync-btn:hover { background: var(--gold); color: var(--paper-raised); }
-.sync-status {
-  display: inline-block;
-  margin-left: 10px;
-  font-size: 0.8rem;
-  color: var(--teal);
-}
-.sync-status.error { color: var(--maroon); }
 
 /* ---------- generic visibility ---------- */
 .app.hidden { display: none; }
@@ -1322,7 +1275,6 @@ button.stat:hover { color: var(--teal); }
 
   .mobile-menu .course-toggle,
   .mobile-menu .account-toggle,
-  .mobile-menu .sync-toggle,
   .mobile-menu .theme-toggle,
   .mobile-menu .sound-toggle {
     width: 100%;
