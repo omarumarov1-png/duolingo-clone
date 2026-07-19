@@ -8431,7 +8431,8 @@
                   "What time does your father finish work every day?",
                   "Have you got a camera? — No, I don't."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "پدر تو هر روز ساعت چند کار را تمام می‌کند؟"
               },
               {
                 "type": "word-bank",
@@ -8454,7 +8455,8 @@
                   "Ман",
                   "гӯш",
                   "намекунам"
-                ]
+                ],
+                "farsi": "می‌توانی موسیقی را خاموش کنی؟ من گوش نمی‌دهم."
               },
               {
                 "type": "multiple-choice",
@@ -8466,7 +8468,8 @@
                   "What kind of car does she have? > What kind of car has she got?",
                   "Ask if he has a dog. — No, he hasn't got a dog."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "او دارد چیزی در آشپزخانه می‌پزد."
               },
               {
                 "type": "word-bank",
@@ -8497,7 +8500,8 @@
                   "одатан",
                   "пиёда",
                   "меравад"
-                ]
+                ],
+                "farsi": "جک معمولاً با ماشین سر کار نمی‌رود. او معمولاً پیاده می‌رود."
               },
               {
                 "type": "multiple-choice",
@@ -8509,7 +8513,8 @@
                   "They like animals. They have a horse, three (3) dogs, and six (6) cats. They've got a lot of animals.",
                   "Do you have a camera? — No, I don't."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "لوسی قهوه را دوست ندارد. او چای را بیشتر دوست دارد."
               },
               {
                 "type": "word-bank",
@@ -8524,7 +8529,8 @@
                   "Чашмони",
                   "ман",
                   "кабуданд"
-                ]
+                ],
+                "farsi": "چشم‌های من آبی هستند."
               },
               {
                 "type": "multiple-choice",
@@ -8536,7 +8542,8 @@
                   "Ganesh has two (2) sisters. > Ganesh's got two (2) sisters.",
                   "They don't have any children. > They haven't got any children."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "گنش دو (۲) خواهر دارد."
               },
               {
                 "type": "word-bank",
@@ -8557,7 +8564,8 @@
                   "(4)",
                   "дар",
                   "дорад"
-                ]
+                ],
+                "farsi": "ماشین ما چهار (۴) در دارد."
               },
               {
                 "type": "multiple-choice",
@@ -8569,7 +8577,8 @@
                   "What do you have in your bag? > What have you got in your bag?",
                   "I have a bike, but I don't have a car. > I've got a bike, but I haven't got a car."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "او حالش خوب نیست. سرش درد می‌کند."
               },
               {
                 "type": "word-bank",
@@ -8616,7 +8625,8 @@
                   "бисёр",
                   "ҳайвонот",
                   "доранд"
-                ]
+                ],
+                "farsi": "آن‌ها حیوانات را دوست دارند. آن‌ها یک اسب، سه (۳) سگ و شش (۶) گربه دارند. آن‌ها حیوانات زیادی دارند."
               },
               {
                 "type": "multiple-choice",
@@ -8628,7 +8638,8 @@
                   "Does your phone have a camera?",
                   "They like animals. They have a horse, three (3) dogs, and six (6) cats. They've got a lot of animals."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "من دوچرخه دارم، اما ماشین ندارم."
               },
               {
                 "type": "word-bank",
@@ -8643,7 +8654,8 @@
                   "Онҳо",
                   "фарзанд",
                   "надоранд"
-                ]
+                ],
+                "farsi": "آن‌ها فرزند ندارند."
               },
               {
                 "type": "multiple-choice",
@@ -8655,7 +8667,8 @@
                   "It's a nice house, but it doesn't have a garage. > It hasn't got a garage.",
                   "Ask if he has a computer. — Yes, he's got a computer."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "این خانه‌ی زیبایی است، اما گاراژ ندارد."
               },
               {
                 "type": "word-bank",
@@ -8670,7 +8683,8 @@
                   "Лила",
                   "кор",
                   "надорад"
-                ]
+                ],
+                "farsi": "لیلا کار ندارد."
               },
               {
                 "type": "multiple-choice",
@@ -8682,7 +8696,8 @@
                   "Have you got a camera? — No, I don't.",
                   "I have a bike, but I don't have a car. > I've got a bike, but I haven't got a car."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "گوشی تو دوربین دارد؟"
               },
               {
                 "type": "word-bank",
@@ -8697,7 +8712,8 @@
                   "Никол",
                   "мошин",
                   "дорад"
-                ]
+                ],
+                "farsi": "نیکول ماشین دارد؟"
               },
               {
                 "type": "multiple-choice",
@@ -8709,7 +8725,8 @@
                   "Does she have a car? — No, she doesn't.",
                   "What kind of car does she have? > What kind of car has she got?"
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "او چه نوع ماشینی دارد؟"
               },
               {
                 "type": "word-bank",
@@ -8726,7 +8743,8 @@
                   "сумкаат",
                   "чӣ",
                   "дорӣ"
-                ]
+                ],
+                "farsi": "در کیفت چه داری؟"
               },
               {
                 "type": "multiple-choice",
@@ -8738,7 +8756,8 @@
                   "I have blue eyes. > I've got blue eyes.",
                   "He's in the kitchen cooking something."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "دوربین داری؟ — نه، ندارم."
               },
               {
                 "type": "word-bank",
@@ -8757,7 +8776,8 @@
                   "дорӣ",
                   "Не",
                   "надорам"
-                ]
+                ],
+                "farsi": "دوربین داری؟ نه، ندارم."
               },
               {
                 "type": "multiple-choice",
@@ -8769,7 +8789,8 @@
                   "Does she have a car? — No, she doesn't.",
                   "She isn't feeling well. She has a headache. > She's got a headache."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "او ماشین دارد؟ — نه، ندارد."
               },
               {
                 "type": "word-bank",
@@ -8798,7 +8819,8 @@
                   "ӯ",
                   "компютер",
                   "дорад"
-                ]
+                ],
+                "farsi": "بپرس آیا او کامپیوتر دارد. بله، او کامپیوتر دارد."
               },
               {
                 "type": "multiple-choice",
@@ -8810,7 +8832,8 @@
                   "You can turn the music off. I'm not listening to it.",
                   "Does Nicole have a car? > Has Nicole got a car?"
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "بپرس آیا او سگ دارد. — نه، او سگ ندارد."
               },
               {
                 "type": "word-bank",
@@ -8839,7 +8862,8 @@
                   "ӯ",
                   "смартфон",
                   "надорад"
-                ]
+                ],
+                "farsi": "بپرس آیا او گوشی هوشمند دارد. نه، او گوشی هوشمند ندارد."
               },
               {
                 "type": "multiple-choice",
@@ -8851,7 +8875,8 @@
                   "Our car has four (4) doors. > Our car's got four (4) doors.",
                   "I have blue eyes. > I've got blue eyes."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "بپرس آیا او ساعت دارد. — بله، او ساعت دارد."
               }
             ]
           },
@@ -9002,7 +9027,8 @@
                   "The sky is blue.",
                   "Snow is white."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "آسمان آبی است."
               },
               {
                 "type": "word-bank",
@@ -9017,7 +9043,8 @@
                   "Алаф",
                   "сабз",
                   "аст"
-                ]
+                ],
+                "farsi": "چمن سبز است."
               },
               {
                 "type": "multiple-choice",
@@ -9029,7 +9056,8 @@
                   "Night is black.",
                   "His car is gray."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "خورشید زرد است."
               },
               {
                 "type": "word-bank",
@@ -9044,7 +9072,8 @@
                   "Себ",
                   "сурх",
                   "аст"
-                ]
+                ],
+                "farsi": "سیب قرمز است."
               },
               {
                 "type": "multiple-choice",
@@ -9056,7 +9085,8 @@
                   "His car is gray.",
                   "The grass is green."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "برف سفید است."
               },
               {
                 "type": "word-bank",
@@ -9071,7 +9101,8 @@
                   "Шаб",
                   "сиёҳ",
                   "аст"
-                ]
+                ],
+                "farsi": "شب سیاه است."
               },
               {
                 "type": "multiple-choice",
@@ -9083,7 +9114,8 @@
                   "The flowers are various colors.",
                   "I have a purple shirt."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "من پیراهن بنفش دارم."
               },
               {
                 "type": "word-bank",
@@ -9100,7 +9132,8 @@
                   "ӯ",
                   "хокистарӣ",
                   "аст"
-                ]
+                ],
+                "farsi": "ماشین او خاکستری است."
               },
               {
                 "type": "multiple-choice",
@@ -9112,7 +9145,8 @@
                   "His car is gray.",
                   "Snow is white."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "گل‌ها رنگارنگ هستند."
               },
               {
                 "type": "word-bank",
@@ -9131,7 +9165,8 @@
                   "ман",
                   "кабуд",
                   "аст"
-                ]
+                ],
+                "farsi": "رنگ مورد علاقه‌ی من آبی است."
               }
             ]
           },
@@ -9151,7 +9186,8 @@
                   "I have two brothers.",
                   "I am twenty-five years old."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "من دو برادر دارم."
               },
               {
                 "type": "word-bank",
@@ -9172,7 +9208,8 @@
                   "нафар",
                   "донишомӯз",
                   "ҳастанд"
-                ]
+                ],
+                "farsi": "در کلاس بیست دانش‌آموز هستند."
               },
               {
                 "type": "multiple-choice",
@@ -9184,7 +9221,8 @@
                   "There are ten pomegranates in the basket.",
                   "It's five o'clock."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "ساعت پنج است."
               },
               {
                 "type": "word-bank",
@@ -9201,7 +9239,8 @@
                   "се",
                   "китоб",
                   "харидам"
-                ]
+                ],
+                "farsi": "من سه کتاب خریدم."
               },
               {
                 "type": "multiple-choice",
@@ -9213,7 +9252,8 @@
                   "There are five fingers on one hand.",
                   "There are ten pomegranates in the basket."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "ده انار در سبد است."
               },
               {
                 "type": "word-bank",
@@ -9232,7 +9272,8 @@
                   "бисту",
                   "панҷ",
                   "аст"
-                ]
+                ],
+                "farsi": "سن من بیست و پنج است."
               },
               {
                 "type": "multiple-choice",
@@ -9244,7 +9285,8 @@
                   "I am twenty-five years old.",
                   "It's five o'clock."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "یک روز بیست و چهار ساعت دارد."
               },
               {
                 "type": "word-bank",
@@ -9263,7 +9305,8 @@
                   "рӯз",
                   "кор",
                   "мекунам"
-                ]
+                ],
+                "farsi": "من هفت روز کار می‌کنم."
               },
               {
                 "type": "multiple-choice",
@@ -9275,7 +9318,8 @@
                   "I bought three books.",
                   "There are ten pomegranates in the basket."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "در یک هفته هفت روز هست."
               },
               {
                 "type": "word-bank",
@@ -9296,7 +9340,8 @@
                   "як",
                   "даст",
                   "ҳаст"
-                ]
+                ],
+                "farsi": "پنج انگشت در یک دست هست."
               }
             ]
           },
@@ -9316,7 +9361,8 @@
                   "My brother is a student.",
                   "My family is big."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "این پدر من است."
               },
               {
                 "type": "word-bank",
@@ -9333,7 +9379,8 @@
                   "модари",
                   "ман",
                   "аст"
-                ]
+                ],
+                "farsi": "این مادر من است."
               },
               {
                 "type": "multiple-choice",
@@ -9345,7 +9392,8 @@
                   "My grandmother is very kind.",
                   "We are five people in total."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "من یک خواهر دارم."
               },
               {
                 "type": "word-bank",
@@ -9360,7 +9408,8 @@
                   "Бародари",
                   "ман",
                   "донишҷӯст"
-                ]
+                ],
+                "farsi": "برادر من دانشجوست."
               },
               {
                 "type": "multiple-choice",
@@ -9372,7 +9421,8 @@
                   "We are five people in total.",
                   "My brother is a student."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "مادربزرگم خیلی مهربان است."
               },
               {
                 "type": "word-bank",
@@ -9391,7 +9441,8 @@
                   "деҳа",
                   "зиндагӣ",
                   "мекунад"
-                ]
+                ],
+                "farsi": "پدربزرگم در روستا زندگی می‌کند."
               },
               {
                 "type": "multiple-choice",
@@ -9403,7 +9454,8 @@
                   "My brother is a student.",
                   "My family is big."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "خانواده‌ی من بزرگ است."
               },
               {
                 "type": "word-bank",
@@ -9420,7 +9472,8 @@
                   "фарзанди",
                   "калонӣ",
                   "ҳастам"
-                ]
+                ],
+                "farsi": "من فرزند بزرگ‌تر هستم."
               },
               {
                 "type": "multiple-choice",
@@ -9432,7 +9485,8 @@
                   "This is my father.",
                   "My grandmother is very kind."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "ما در کل پنج نفریم."
               },
               {
                 "type": "word-bank",
@@ -9451,7 +9505,8 @@
                   "хеле",
                   "дӯст",
                   "медорам"
-                ]
+                ],
+                "farsi": "من خانواده‌ام را خیلی دوست دارم."
               }
             ]
           },
@@ -9471,7 +9526,8 @@
                   "I rest every Sunday.",
                   "Today is Monday."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "امروز دوشنبه است."
               },
               {
                 "type": "word-bank",
@@ -9486,7 +9542,8 @@
                   "Пагоҳ",
                   "сешанбе",
                   "мешавад"
-                ]
+                ],
+                "farsi": "فردا سه‌شنبه می‌شود."
               },
               {
                 "type": "multiple-choice",
@@ -9498,7 +9555,8 @@
                   "What day is today?",
                   "I rest every Sunday."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "من هر یکشنبه استراحت می‌کنم."
               },
               {
                 "type": "word-bank",
@@ -9517,7 +9575,8 @@
                   "шанбе",
                   "кушода",
                   "нест"
-                ]
+                ],
+                "farsi": "مدرسه روز شنبه باز نیست."
               },
               {
                 "type": "multiple-choice",
@@ -9529,7 +9588,8 @@
                   "I go to my grandmother's house on the weekend.",
                   "The week starts on Monday."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "جمعه روز مهمی است."
               },
               {
                 "type": "word-bank",
@@ -9548,7 +9608,8 @@
                   "ба",
                   "бозор",
                   "меравам"
-                ]
+                ],
+                "farsi": "من چهارشنبه به بازار می‌روم."
               },
               {
                 "type": "multiple-choice",
@@ -9560,7 +9621,8 @@
                   "What day is today?",
                   "Thursday is the last work day."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "پنج‌شنبه آخرین روز کاری است."
               },
               {
                 "type": "word-bank",
@@ -9583,7 +9645,8 @@
                   "хонаи",
                   "бибиям",
                   "меравам"
-                ]
+                ],
+                "farsi": "آخر هفته به خانه‌ی مادربزرگم می‌روم."
               },
               {
                 "type": "multiple-choice",
@@ -9595,7 +9658,8 @@
                   "The week starts on Monday.",
                   "Today is Monday."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "هفته از روز دوشنبه شروع می‌شود."
               },
               {
                 "type": "word-bank",
@@ -9612,7 +9676,8 @@
                   "рӯз",
                   "имрӯз",
                   "аст"
-                ]
+                ],
+                "farsi": "امروز چه روزی است؟"
               }
             ]
           },
@@ -9632,7 +9697,8 @@
                   "The weather is sunny today.",
                   "The sky is cloudy."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "امروز هوا آفتابی است."
               },
               {
                 "type": "word-bank",
@@ -9651,7 +9717,8 @@
                   "ҳаво",
                   "сард",
                   "аст"
-                ]
+                ],
+                "farsi": "در زمستان هوا سرد است."
               },
               {
                 "type": "multiple-choice",
@@ -9663,7 +9730,8 @@
                   "The wind blows strongly.",
                   "I love hot weather."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "در تابستان هوا گرم است."
               },
               {
                 "type": "word-bank",
@@ -9678,7 +9746,8 @@
                   "Имрӯз",
                   "борон",
                   "меборад"
-                ]
+                ],
+                "farsi": "امروز باران می‌بارد."
               },
               {
                 "type": "multiple-choice",
@@ -9690,7 +9759,8 @@
                   "The wind blows strongly.",
                   "The weather is hot in summer."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "در بهار گل‌ها شکوفه می‌دهند."
               },
               {
                 "type": "word-bank",
@@ -9705,7 +9775,8 @@
                   "Бод",
                   "сахт",
                   "мевазад"
-                ]
+                ],
+                "farsi": "باد به شدت می‌وزد."
               },
               {
                 "type": "multiple-choice",
@@ -9717,7 +9788,8 @@
                   "The weather is cold in winter.",
                   "In autumn, the leaves fall."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "آسمان ابری است."
               },
               {
                 "type": "word-bank",
@@ -9734,7 +9806,8 @@
                   "тирамоҳ",
                   "баргҳо",
                   "мерезанд"
-                ]
+                ],
+                "farsi": "در پاییز برگ‌ها می‌ریزند."
               },
               {
                 "type": "multiple-choice",
@@ -9746,7 +9819,8 @@
                   "The sky is cloudy.",
                   "It is raining today."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "برف روی کوه‌ها می‌بارد."
               },
               {
                 "type": "word-bank",
@@ -9765,7 +9839,8 @@
                   "гармро",
                   "дӯст",
                   "медорам"
-                ]
+                ],
+                "farsi": "من هوای گرم را دوست دارم."
               }
             ]
           },
@@ -9785,7 +9860,8 @@
                   "Birds fly in the sky.",
                   "The chicken lays eggs."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "گربه در خانه زندگی می‌کند."
               },
               {
                 "type": "word-bank",
@@ -9804,7 +9880,8 @@
                   "хуби",
                   "инсон",
                   "аст"
-                ]
+                ],
+                "farsi": "سگ دوست خوب انسان است."
               },
               {
                 "type": "multiple-choice",
@@ -9816,7 +9893,8 @@
                   "The horse is fast.",
                   "The donkey carries a heavy load."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "اسب تندپا است."
               },
               {
                 "type": "word-bank",
@@ -9831,7 +9909,8 @@
                   "Гов",
                   "шир",
                   "медиҳад"
-                ]
+                ],
+                "farsi": "گاو شیر می‌دهد."
               },
               {
                 "type": "multiple-choice",
@@ -9843,7 +9922,8 @@
                   "The chicken lays eggs.",
                   "The cat lives in the house."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "مرغ تخم می‌گذارد."
               },
               {
                 "type": "word-bank",
@@ -9860,7 +9940,8 @@
                   "подшоҳи",
                   "ҳайвонот",
                   "аст"
-                ]
+                ],
+                "farsi": "شیر پادشاه حیوانات است."
               },
               {
                 "type": "multiple-choice",
@@ -9872,7 +9953,8 @@
                   "Birds fly in the sky.",
                   "The lion is the king of animals."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "فیل خیلی بزرگ است."
               },
               {
                 "type": "word-bank",
@@ -9889,7 +9971,8 @@
                   "дар",
                   "осмон",
                   "мепаранд"
-                ]
+                ],
+                "farsi": "پرنده‌ها در آسمان پرواز می‌کنند."
               },
               {
                 "type": "multiple-choice",
@@ -9901,7 +9984,8 @@
                   "Fish live in water.",
                   "The chicken lays eggs."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "ماهی در آب زندگی می‌کند."
               },
               {
                 "type": "word-bank",
@@ -9918,7 +10002,8 @@
                   "бори",
                   "вазнинро",
                   "мебардорад"
-                ]
+                ],
+                "farsi": "الاغ بار سنگین را می‌برد."
               }
             ]
           },
@@ -9938,7 +10023,8 @@
                   "Vegetables are good for health.",
                   "I eat bread."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "من نان می‌خورم."
               },
               {
                 "type": "word-bank",
@@ -9953,7 +10039,8 @@
                   "Мо",
                   "шир",
                   "менӯшем"
-                ]
+                ],
+                "farsi": "ما شیر می‌نوشیم."
               },
               {
                 "type": "multiple-choice",
@@ -9965,7 +10052,8 @@
                   "I drink tea in the morning.",
                   "I love pilaf very much."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "سیب میوه‌ی خوشمزه‌ای است."
               },
               {
                 "type": "word-bank",
@@ -9984,7 +10072,8 @@
                   "хеле",
                   "дӯст",
                   "медорам"
-                ]
+                ],
+                "farsi": "من پلو را خیلی دوست دارم."
               },
               {
                 "type": "multiple-choice",
@@ -9996,7 +10085,8 @@
                   "I eat bread.",
                   "Vegetables are good for health."
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "مادرم هر روز غذا می‌پزد."
               },
               {
                 "type": "word-bank",
@@ -10013,7 +10103,8 @@
                   "субҳ",
                   "чой",
                   "менӯшам"
-                ]
+                ],
+                "farsi": "من صبح چای می‌نوشم."
               },
               {
                 "type": "multiple-choice",
@@ -10025,7 +10116,8 @@
                   "I eat bread.",
                   "The apple is a tasty fruit."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "گوشت در بازار گران است."
               },
               {
                 "type": "word-bank",
@@ -10044,7 +10136,8 @@
                   "бо",
                   "нон",
                   "мехӯрем"
-                ]
+                ],
+                "farsi": "ما عسل را با نان می‌خوریم."
               },
               {
                 "type": "multiple-choice",
@@ -10056,7 +10149,8 @@
                   "Vegetables are good for health.",
                   "We drink milk."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "سبزیجات برای سلامتی خوب است."
               },
               {
                 "type": "word-bank",
@@ -10073,7 +10167,8 @@
                   "шириниро",
                   "дӯст",
                   "медорам"
-                ]
+                ],
+                "farsi": "من شیرینی را دوست دارم."
               }
             ]
           },
@@ -10093,7 +10188,8 @@
                   "I hear with my ears.",
                   "I have two hands."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "من دو دست دارم."
               },
               {
                 "type": "word-bank",
@@ -10108,7 +10204,8 @@
                   "Чашмони",
                   "ман",
                   "сиёҳанд"
-                ]
+                ],
+                "farsi": "چشم‌های من سیاه هستند."
               },
               {
                 "type": "multiple-choice",
@@ -10120,7 +10217,8 @@
                   "My eyes are black.",
                   "My hand hurts."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "من با گوش‌هایم می‌شنوم."
               },
               {
                 "type": "word-bank",
@@ -10137,7 +10235,8 @@
                   "ман",
                   "дард",
                   "мекунад"
-                ]
+                ],
+                "farsi": "دستم درد می‌کند."
               },
               {
                 "type": "multiple-choice",
@@ -10149,7 +10248,8 @@
                   "My head hurts today.",
                   "I have two hands."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "سرم امروز درد می‌کند."
               },
               {
                 "type": "word-bank",
@@ -10166,7 +10266,8 @@
                   "ман",
                   "дароз",
                   "аст"
-                ]
+                ],
+                "farsi": "موهایم بلند است."
               },
               {
                 "type": "multiple-choice",
@@ -10178,7 +10279,8 @@
                   "I run with my legs.",
                   "I hear with my ears."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "من با پاهایم می‌دوم."
               },
               {
                 "type": "word-bank",
@@ -10195,7 +10297,8 @@
                   "ҳар",
                   "рӯз",
                   "мешӯям"
-                ]
+                ],
+                "farsi": "دندان‌هایم را هر روز می‌شویم."
               },
               {
                 "type": "multiple-choice",
@@ -10207,7 +10310,8 @@
                   "I brush my teeth every day.",
                   "My hand hurts."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "بینی‌ام کوچک است."
               },
               {
                 "type": "word-bank",
@@ -10224,7 +10328,8 @@
                   "бо",
                   "чашмонам",
                   "мебинам"
-                ]
+                ],
+                "farsi": "من با چشم‌هایم می‌بینم."
               }
             ]
           },
@@ -10244,7 +10349,8 @@
                   "We plant flowers in the house garden.",
                   "My house is big."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "خانه‌ی من بزرگ است."
               },
               {
                 "type": "word-bank",
@@ -10265,7 +10371,8 @@
                   "чор",
                   "ҳуҷра",
                   "ҳаст"
-                ]
+                ],
+                "farsi": "خانه‌ی ما چهار اتاق دارد."
               },
               {
                 "type": "multiple-choice",
@@ -10277,7 +10384,8 @@
                   "The kitchen is next to the living room.",
                   "The windows of the house are big."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "آشپزخانه کنار اتاق پذیرایی است."
               },
               {
                 "type": "word-bank",
@@ -10296,7 +10404,8 @@
                   "ҳуҷраи",
                   "худ",
                   "мехобам"
-                ]
+                ],
+                "farsi": "من در اتاق خودم می‌خوابم."
               },
               {
                 "type": "multiple-choice",
@@ -10308,7 +10417,8 @@
                   "There are trees in our yard.",
                   "Our house is near the school."
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "در حیاط ما درخت‌هایی هست."
               },
               {
                 "type": "word-bank",
@@ -10325,7 +10435,8 @@
                   "хона",
                   "сабз",
                   "аст"
-                ]
+                ],
+                "farsi": "در خانه سبز است."
               },
               {
                 "type": "multiple-choice",
@@ -10337,7 +10448,8 @@
                   "There are trees in our yard.",
                   "The door of the house is green."
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "پنجره‌های خانه بزرگ هستند."
               },
               {
                 "type": "word-bank",
@@ -10358,7 +10470,8 @@
                   "хона",
                   "гул",
                   "мешинонем"
-                ]
+                ],
+                "farsi": "ما در باغ خانه گل می‌کاریم."
               },
               {
                 "type": "multiple-choice",
@@ -10370,7 +10483,8 @@
                   "I love my house very much.",
                   "Our house is near the school."
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "خانه‌ی ما نزدیک مدرسه است."
               },
               {
                 "type": "word-bank",
@@ -10389,7 +10503,8 @@
                   "хеле",
                   "дӯст",
                   "медорам"
-                ]
+                ],
+                "farsi": "من خانه‌ام را خیلی دوست دارم."
               }
             ]
           },
@@ -10409,7 +10524,8 @@
                   "Thank you, I'm fine.",
                   "Hello, how are you?"
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "سلام، حال شما چطور است؟"
               },
               {
                 "type": "word-bank",
@@ -10424,7 +10540,8 @@
                   "Ташаккур",
                   "ман",
                   "хубам"
-                ]
+                ],
+                "farsi": "متشکرم، من خوبم."
               },
               {
                 "type": "multiple-choice",
@@ -10436,7 +10553,8 @@
                   "Welcome!",
                   "Hello, how are you?"
                 ],
-                "answerIndex": 0
+                "answerIndex": 0,
+                "farsi": "صبح بخیر!"
               },
               {
                 "type": "word-bank",
@@ -10451,7 +10569,8 @@
                   "Шаб",
                   "ба",
                   "хайр"
-                ]
+                ],
+                "farsi": "شب بخیر."
               },
               {
                 "type": "multiple-choice",
@@ -10463,7 +10582,8 @@
                   "My name is Ahmad.",
                   "Did your day go well?"
                 ],
-                "answerIndex": 1
+                "answerIndex": 1,
+                "farsi": "تا دیدار بعد!"
               },
               {
                 "type": "word-bank",
@@ -10476,7 +10596,8 @@
                 "answer": [
                   "Хуш",
                   "омадед"
-                ]
+                ],
+                "farsi": "خوش آمدید."
               },
               {
                 "type": "multiple-choice",
@@ -10488,7 +10609,8 @@
                   "What is your name?",
                   "See you later!"
                 ],
-                "answerIndex": 2
+                "answerIndex": 2,
+                "farsi": "نام شما چیست؟"
               },
               {
                 "type": "word-bank",
@@ -10505,7 +10627,8 @@
                   "ман",
                   "Аҳмад",
                   "аст"
-                ]
+                ],
+                "farsi": "نام من احمد است."
               },
               {
                 "type": "multiple-choice",
@@ -10517,7 +10640,8 @@
                   "Thank you, I'm fine.",
                   "Did your day go well?"
                 ],
-                "answerIndex": 3
+                "answerIndex": 3,
+                "farsi": "روزتان خوب گذشت؟"
               },
               {
                 "type": "word-bank",
@@ -10530,7 +10654,8 @@
                 "answer": [
                   "Худо",
                   "ҳофиз"
-                ]
+                ],
+                "farsi": "خدا حافظ."
               }
             ]
           },
