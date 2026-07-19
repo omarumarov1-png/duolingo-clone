@@ -826,6 +826,10 @@
   }
 
   function renderLessonChrome(bodyHtml) {
+    if (_passagePlaying) {
+      window.speechSynthesis.cancel();
+      _passagePlaying = false;
+    }
     const pct = Math.round((session.solved.size / session.total) * 100);
     const combo = session.combo >= 2 ? `<span class="combo-badge">&times;${session.combo}</span>` : "";
 
@@ -840,6 +844,7 @@
     `;
     document.getElementById("exitBtn").addEventListener("click", () => {
       cancelAdvance();
+      if (_passagePlaying) { window.speechSynthesis.cancel(); _passagePlaying = false; }
       session = null;
       renderHome();
     });
@@ -881,8 +886,8 @@
   function passagePanel() {
     const lesson = currentExercise()._sourceLesson || session.lesson;
     if (!lesson.readingPassage) return "";
-    const rows = lesson.readingPassage.paragraphs.map(p => `
-      <div class="passage-line">
+    const rows = lesson.readingPassage.paragraphs.map((p, i) => `
+      <div class="passage-line" data-line="${i}">
         <p class="passage-native" dir="${course.dir}" lang="${course.lang}">${p.native}</p>
         <p class="passage-en hidden">${p.en}</p>
       </div>
@@ -893,7 +898,10 @@
       <details class="passage-panel" open>
         <summary>${lesson.title}${lesson.titleNative ? ` <span class="ar">${lesson.titleNative}</span>` : ""}</summary>
         ${context}
-        <button class="translit-toggle" id="passageToggle">Show English</button>
+        <div class="passage-controls">
+          <button class="translit-toggle" id="passageToggle">Show English</button>
+          <button class="passage-listen-btn" id="passageListenBtn" title="Listen to the passage" aria-label="Listen to the passage">🔊 Listen</button>
+        </div>
         ${rows}
       </details>
     `;
@@ -907,6 +915,43 @@
       const hide = !lines[0].classList.contains("hidden");
       lines.forEach(l => l.classList.toggle("hidden", hide));
       btn.textContent = hide ? "Show English" : "Hide English";
+    });
+  }
+
+  let _passagePlaying = false;
+  function wirePassageListen() {
+    const btn = document.getElementById("passageListenBtn");
+    if (!btn) return;
+    const lesson = currentExercise()._sourceLesson || session.lesson;
+    if (!lesson.readingPassage) return;
+    const paragraphs = lesson.readingPassage.paragraphs;
+    const lineEls = Array.from(document.querySelectorAll(".passage-line"));
+    btn.addEventListener("click", () => {
+      if (_passagePlaying) {
+        window.speechSynthesis.cancel();
+        _passagePlaying = false;
+        btn.textContent = "🔊 Listen";
+        lineEls.forEach(l => l.classList.remove("speaking"));
+        return;
+      }
+      if (!_preferredVoiceEn) return;
+      _passagePlaying = true;
+      btn.textContent = "⏹ Stop";
+      let i = 0;
+      function playNext() {
+        lineEls.forEach(l => l.classList.remove("speaking"));
+        if (!_passagePlaying || i >= paragraphs.length) {
+          _passagePlaying = false;
+          btn.textContent = "🔊 Listen";
+          return;
+        }
+        if (lineEls[i]) lineEls[i].classList.add("speaking");
+        speak(paragraphs[i].en, _preferredVoiceEn, () => {
+          i++;
+          playNext();
+        });
+      }
+      playNext();
     });
   }
 
@@ -1008,6 +1053,7 @@
     `);
     wireTranslitToggle();
     wirePassageToggle();
+    wirePassageListen();
     wireGrammarPanel();
 
     const optionEls = Array.from(screenEl.querySelectorAll(".option"));

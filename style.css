@@ -646,7 +646,28 @@ button.stat:hover { color: var(--teal); }
   font-weight: 400;
   margin-left: 8px;
 }
-.passage-line { margin-bottom: 12px; }
+.passage-controls {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+.passage-controls .translit-toggle { margin-bottom: 0; }
+.passage-listen-btn {
+  background: none;
+  border: 1.5px solid var(--gold);
+  border-radius: 20px;
+  padding: 4px 14px;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--gold);
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+.passage-listen-btn:hover { background: var(--gold); color: var(--paper); }
+.passage-line { margin-bottom: 12px; padding: 4px 8px; margin-left: -8px; margin-right: -8px; border-radius: 3px; transition: background-color 0.2s ease; }
+.passage-line.speaking { background: var(--gold-wash); }
 .passage-native {
   font-family: var(--font-native);
   font-size: 1.3rem;
