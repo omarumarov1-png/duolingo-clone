@@ -93,11 +93,16 @@
   // isn't running yet and never actually plays. iOS suspends the context
   // again after any idle gap, so this bites every sound, not just the
   // first — callers must wait for the real resume before scheduling.
+  let _lastAudioError = null;
   function withRunningAudioCtx(fn) {
     const ctx = getAudioCtx();
-    if (!ctx) return;
-    if (ctx.state === "suspended") ctx.resume().then(() => fn(ctx)).catch(() => {});
-    else fn(ctx);
+    if (!ctx) { _lastAudioError = "AudioContext unavailable"; return; }
+    const run = () => {
+      try { fn(ctx); _lastAudioError = null; }
+      catch (e) { _lastAudioError = e.message || String(e); }
+    };
+    if (ctx.state === "suspended") ctx.resume().then(run).catch(e => { _lastAudioError = "resume failed: " + (e.message || e); });
+    else run();
   }
   // Mobile browsers suspend AudioContext until a genuine user gesture
   // unlocks it; warm it up on the very first tap anywhere on the page so
@@ -497,6 +502,21 @@
   function wireGlobalUi() {
     themeToggleEl.addEventListener("click", toggleTheme);
     soundToggleEl.addEventListener("click", toggleSound);
+    const testSoundBtn = document.getElementById("testSoundBtn");
+    if (testSoundBtn) {
+      testSoundBtn.addEventListener("click", () => {
+        playCorrectSound();
+        setTimeout(() => {
+          const diagEl = document.getElementById("audioDiagnostic");
+          if (!diagEl) return;
+          const Ctx = window.AudioContext || window.webkitAudioContext;
+          if (!Ctx) { diagEl.textContent = "Web Audio API not supported on this browser."; return; }
+          diagEl.textContent = audioCtx
+            ? `Audio: state=${audioCtx.state}, sampleRate=${audioCtx.sampleRate}, enabled=${soundEnabled}, error=${_lastAudioError || "none"}`
+            : "AudioContext was never created.";
+        }, 250);
+      });
+    }
 
     courseToggleEl.addEventListener("click", () => {
       renderCoursePicker();
