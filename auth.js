@@ -213,11 +213,31 @@
         if (!this.user) return;
         clearTimeout(pushTimer);
         pushTimer = setTimeout(() => {
+          // Flat fields (not buried in progressJson) so the Firestore
+          // console's table view is scannable/sortable without opening
+          // every document — this is the "who and how much" view. Muḥkam's
+          // payload spans multiple courses, so these are combined totals
+          // plus a per-course breakdown.
+          const courses = payload.courses || {};
+          let totalXp = 0, lessonsCompleted = 0, streak = 0;
+          const perCourse = {};
+          Object.keys(courses).forEach(courseId => {
+            const c = courses[courseId] || {};
+            const done = (c.completedLessons || []).length;
+            totalXp += c.xp || 0;
+            lessonsCompleted += done;
+            streak = Math.max(streak, c.streak || 0);
+            perCourse[courseId] = { xp: c.xp || 0, lessonsCompleted: done, streak: c.streak || 0 };
+          });
           setDoc(doc(db, "apps", APP_ID, "users", this.user.uid), {
             email: this.user.email || null,
             displayName: this.user.displayName || null,
             progressJson: JSON.stringify(payload),
             updatedAt: serverTimestamp(),
+            totalXp,
+            lessonsCompleted,
+            streak,
+            perCourse,
           }, { merge: true }).catch(() => { /* offline — next save will retry */ });
         }, 800);
       },
