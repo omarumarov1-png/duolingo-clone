@@ -937,7 +937,13 @@
         lineEls.forEach(l => l.classList.remove("speaking"));
         return;
       }
-      if (!_preferredVoiceEn || !soundEnabled) return;
+      // Reading passages are shown in the target language (Arabic/Tajik) —
+      // the audio must match, so this speaks .native with the course's own
+      // target-language voice, not the English translation with an English
+      // voice. (Tajik has no usable TTS voice at all — a known, accepted
+      // platform limitation — so _preferredVoiceTarget stays null there and
+      // the button simply does nothing, same as everywhere else in the app.)
+      if (!_preferredVoiceTarget || !soundEnabled) return;
       window.speechSynthesis.cancel();
       _passagePlaying = true;
       btn.textContent = "⏹ Stop";
@@ -951,9 +957,9 @@
         }
         lineEls.forEach(l => l.classList.remove("speaking"));
         if (lineEls[i]) lineEls[i].classList.add("speaking");
-        const u = new SpeechSynthesisUtterance(paragraphs[i].en);
-        u.lang = _preferredVoiceEn.lang;
-        u.voice = _preferredVoiceEn;
+        const u = new SpeechSynthesisUtterance(paragraphs[i].native);
+        u.lang = _preferredVoiceTarget.lang;
+        u.voice = _preferredVoiceTarget;
         u.rate = SPEECH_RATE;
         let advanced = false;
         u.onend = u.onerror = () => {
