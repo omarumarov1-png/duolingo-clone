@@ -391,6 +391,30 @@
     if (added) refreshTopStats();
   }
 
+  // Lessons with 25 exercises were split into shorter "-p1"/"-p2" parts
+  // (12/13 exercises each), which changes their id. A learner's
+  // completedLessons list still has the old, now-nonexistent ids, so every
+  // one of those lessons silently reads as "not done" — worse, since this
+  // course unlocks sequentially, everything after the first broken id also
+  // reads as locked and the roadmap looks reset. This recovers it: any old
+  // id that isn't in the current course but has a "-p1"/"-p2" descendant
+  // gets replaced by that descendant, crediting the learner for what they
+  // already finished. Runs once per course (flagged), then saves.
+  function migrateSplitLessonIds() {
+    if (progress.migratedSplitIdsV1) return;
+    const allIds = new Set(flatLessons.map(l => l.id));
+    const migrated = [];
+    (progress.completedLessons || []).forEach(oldId => {
+      if (allIds.has(oldId)) { migrated.push(oldId); return; }
+      const p1 = `${oldId}-p1`, p2 = `${oldId}-p2`;
+      if (allIds.has(p1)) migrated.push(p1);
+      if (allIds.has(p2)) migrated.push(p2);
+    });
+    progress.completedLessons = Array.from(new Set(migrated));
+    progress.migratedSplitIdsV1 = true;
+    saveProgress();
+  }
+
   // ---------- boot ----------
   async function loadCourseData(courseId) {
     const meta = COURSES.find(c => c.id === courseId) || COURSES[0];
@@ -428,6 +452,7 @@
     currentLevelId = null;
     await loadCourseData(courseId);
     progress = loadProgress();
+    migrateSplitLessonIds();
     refreshTopStats();
     renderHome();
   }
@@ -446,6 +471,7 @@
         }
       } catch (e) { /* offline — continue with local progress */ }
     }
+    migrateSplitLessonIds();
     refreshTopStats();
     updateSoundToggleUI();
     renderHome();
