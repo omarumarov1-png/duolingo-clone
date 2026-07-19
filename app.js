@@ -211,8 +211,9 @@
     window.speechSynthesis.onvoiceschanged = refreshVoices;
   }
   const SPEECH_RATE = 0.85;
+  const SPEECH_RATE_SLOW = 0.55;
   let _currentUtterance = null;
-  function speak(text, voice, onEnd) {
+  function speak(text, voice, onEnd, rate) {
     if (!soundEnabled || !("speechSynthesis" in window) || !voice) { if (onEnd) onEnd(); return; }
     try {
       // Calling cancel() immediately before speak() is a well-known iOS
@@ -224,7 +225,7 @@
       const u = new SpeechSynthesisUtterance(text);
       u.lang = voice.lang;
       u.voice = voice;
-      u.rate = SPEECH_RATE;
+      u.rate = rate || SPEECH_RATE;
       if (onEnd) { u.onend = onEnd; u.onerror = onEnd; }
       _currentUtterance = u; // keep a live reference — some browsers silently
       // drop speech if the utterance is garbage-collected before it plays
@@ -1009,6 +1010,7 @@
     if (ex.type === "multiple-choice" || ex.type === "comprehension") return renderMultipleChoice(ex);
     if (ex.type === "word-bank") return renderWordBank(ex);
     if (ex.type === "listening") return renderListening(ex);
+    if (ex.type === "listening-tap") return renderListeningTap(ex);
     if (ex.type === "fill-blank") return renderFillBlank(ex);
     if (ex.type === "matching") return renderMatching(ex);
   }
@@ -1180,7 +1182,36 @@
     }
   }
 
-  // ---- listening dictation ----
+  // ---- listening ----
+  // A shared audio "stage": a big play button with pulsing rings that
+  // animate only while the TTS is actually speaking (driven by speak()'s
+  // real onEnd callback, not a fixed timer), plus a slow-motion (turtle)
+  // replay for catching words you missed the first time.
+  function audioStageHtml(big) {
+    return `
+      <div class="audio-stage${big ? " audio-stage-lg" : ""}">
+        <button class="listen-play-btn" id="listenPlayBtn" type="button" aria-label="Listen">
+          <span class="audio-rings"><span></span><span></span><span></span></span>
+          <span class="audio-icon">🔊</span>
+        </button>
+        <button class="listen-slow-btn" id="listenSlowBtn" type="button" title="Slow" aria-label="Listen slowly">🐢</button>
+      </div>
+    `;
+  }
+  function wireAudioStage(text) {
+    const stage = document.querySelector(".audio-stage");
+    const playBtn = document.getElementById("listenPlayBtn");
+    const slowBtn = document.getElementById("listenSlowBtn");
+    function play(rate) {
+      if (!_preferredVoiceTarget) return;
+      stage.classList.add("playing");
+      speak(text, _preferredVoiceTarget, () => stage.classList.remove("playing"), rate);
+    }
+    playBtn.addEventListener("click", () => play());
+    slowBtn.addEventListener("click", () => play(SPEECH_RATE_SLOW));
+    return play;
+  }
+
   // Plays the target-language sentence and asks the learner to pick its
   // English meaning — multiple-choice rather than free-text, since typing
   // Arabic/Tajik script accurately isn't a reasonable ask for most learners.
@@ -1189,7 +1220,7 @@
       ${grammarPanel()}
       <div class="card">
         <p class="q-kicker">Listen and choose the meaning</p>
-        <button class="listen-replay-btn" id="listenReplayBtn" type="button" aria-label="Play audio">🔊 Listen</button>
+        ${audioStageHtml(true)}
         <button class="translit-toggle" id="listenRevealToggle">Show text</button>
         <p class="translit hidden" id="listenRevealText" dir="${course.dir}" lang="${course.lang}">${ex.native}</p>
         <div class="options">
@@ -1199,10 +1230,8 @@
       </div>
     `);
     wireGrammarPanel();
-    const replayBtn = document.getElementById("listenReplayBtn");
+    const play = wireAudioStage(ex.native);
     const revealToggle = document.getElementById("listenRevealToggle");
-    const play = () => { if (_preferredVoiceTarget) speak(ex.native, _preferredVoiceTarget); };
-    replayBtn.addEventListener("click", play);
     revealToggle.addEventListener("click", () => {
       const t = document.getElementById("listenRevealText");
       t.classList.toggle("hidden");
@@ -1225,6 +1254,85 @@
         scheduleAdvance(fallback);
       });
     });
+  }
+
+  // Hear the target-language sentence, then tap its own words (in the
+  // target script) back into order — no text shown upfront. Unlike free
+  // typing, tapping pre-existing tiles doesn't demand producing Arabic
+  // script from scratch, just recognizing and sequencing what was heard.
+  function renderListeningTap(ex) {
+    const bank = shuffled(ex.answer.map((word, i) => ({ id: i, word })));
+    const placedOrder = [];
+    let evalTimer = null;
+
+    renderLessonChrome(`
+      ${grammarPanel()}
+      <div class="card">
+        <p class="q-kicker">Listen and tap the words in order</p>
+        ${audioStageHtml(false)}
+        <div class="bank-target" id="bankTarget"></div>
+        <div class="bank-pool" id="bankPool">
+          ${bank.map(t => `<button class="tile" data-id="${t.id}">${t.word}</button>`).join("")}
+        </div>
+        <div id="feedbackSlot"></div>
+      </div>
+    `);
+    wireGrammarPanel();
+    const play = wireAudioStage(ex.native);
+    setTimeout(play, 300);
+
+    const targetEl = document.getElementById("bankTarget");
+    const poolEl = document.getElementById("bankPool");
+    targetEl.setAttribute("dir", course.dir);
+    poolEl.setAttribute("dir", course.dir);
+    const poolTileEls = new Map();
+
+    poolEl.querySelectorAll(".tile").forEach(btn => {
+      const id = Number(btn.dataset.id);
+      poolTileEls.set(id, btn);
+      btn.addEventListener("click", () => placeTile(id));
+    });
+
+    function placeTile(id) {
+      const poolBtn = poolTileEls.get(id);
+      if (poolBtn.disabled || poolBtn.classList.contains("tile-used")) return;
+      poolBtn.classList.add("tile-used");
+      placedOrder.push(id);
+
+      const targetBtn = document.createElement("button");
+      targetBtn.className = "tile placed tile-pop";
+      targetBtn.dataset.id = id;
+      targetBtn.textContent = bank.find(t => t.id === id).word;
+      targetBtn.addEventListener("click", () => removeTile(id, targetBtn));
+      targetEl.appendChild(targetBtn);
+
+      if (placedOrder.length === ex.answer.length) {
+        evalTimer = setTimeout(evaluate, 320);
+      }
+    }
+
+    function removeTile(id, targetBtn) {
+      if (targetBtn.disabled) return;
+      if (evalTimer) { clearTimeout(evalTimer); evalTimer = null; }
+      const idx = placedOrder.indexOf(id);
+      if (idx === -1) return;
+      placedOrder.splice(idx, 1);
+      targetBtn.classList.add("tile-remove");
+      targetBtn.addEventListener("animationend", () => targetBtn.remove(), { once: true });
+      poolTileEls.get(id).classList.remove("tile-used");
+    }
+
+    function evaluate() {
+      const words = placedOrder.map(id => bank.find(t => t.id === id).word);
+      const correct = words.length === ex.answer.length && words.every((w, i) => w === ex.answer[i]);
+      poolTileEls.forEach(b => b.disabled = true);
+      targetEl.querySelectorAll(".tile").forEach(b => b.disabled = true);
+      afterAnswer(correct);
+      const fallback = correct ? ADVANCE_DELAY_CORRECT : ADVANCE_DELAY_WRONG;
+      document.getElementById("feedbackSlot").innerHTML =
+        renderFeedback(correct, `Correct order: ${ex.answer.join(" ")}`, { delay: fallback });
+      scheduleAdvance(fallback);
+    }
   }
 
   // ---- fill in the blank ----
