@@ -13,6 +13,16 @@
     { id: "tajik", file: "data/courses-tajik.json", label: "Tajik — Тоҷикӣ", flag: "Тоҷикӣ" },
   ];
 
+  // iOS Safari keeps a tapped <button> focused, which makes the
+  // button:focus-visible gold ring (meant for keyboard nav) stick around
+  // on the last-tapped tile/option even though the user just touched it.
+  // event.detail is 0 for a keyboard-triggered click and >=1 for a real
+  // pointer/touch click, so this only blurs (removes the ring) on taps.
+  document.addEventListener("click", e => {
+    const btn = e.target.closest("button");
+    if (btn && e.detail !== 0) btn.blur();
+  });
+
   const screenEl = document.getElementById("screen");
   const streakEl = document.getElementById("streakCount");
   const xpEl = document.getElementById("xpCount");
