@@ -152,6 +152,204 @@
         { "kk": "Маған нан керек.", "en": "I need bread.", "translit": "mağan nan kerek" },
         { "kk": "Дәмді болды!", "en": "It was delicious!", "translit": "dämdi boldı" }
       ]
+    },
+    {
+      "number": 9,
+      "title": "Body Parts",
+      "titleNative": "Дене мүшелері",
+      "items": [
+        { "kk": "бас", "en": "head", "translit": "bas" },
+        { "kk": "көз", "en": "eye", "translit": "köz" },
+        { "kk": "құлақ", "en": "ear", "translit": "qulaq" },
+        { "kk": "мұрын", "en": "nose", "translit": "murın" },
+        { "kk": "ауыз", "en": "mouth", "translit": "awız" },
+        { "kk": "қол", "en": "hand/arm", "translit": "qol" },
+        { "kk": "аяқ", "en": "leg/foot", "translit": "ayaq" },
+        { "kk": "Менің басым ауырады.", "en": "My head hurts.", "translit": "meniñ basım awıradı" },
+        { "kk": "Оның көзі көк.", "en": "His/her eyes are blue.", "translit": "onıñ közi kök" },
+        { "kk": "Тісім ауырады.", "en": "My tooth hurts.", "translit": "tisim awıradı" },
+        { "kk": "Қолымды жудым.", "en": "I washed my hands.", "translit": "qolımdı judım" }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Clothing",
+      "titleNative": "Киім",
+      "items": [
+        { "kk": "көйлек", "en": "dress/shirt", "translit": "köylek" },
+        { "kk": "шалбар", "en": "trousers", "translit": "şalbar" },
+        { "kk": "аяқкиім", "en": "shoes", "translit": "ayaqkiyim" },
+        { "kk": "күртеше", "en": "jacket", "translit": "kürteşe" },
+        { "kk": "бас киім", "en": "hat", "translit": "bas kiyim" },
+        { "kk": "Мен жаңа көйлек сатып алдым.", "en": "I bought a new dress.", "translit": "men jaña köylek satıp aldım" },
+        { "kk": "Бұл шалбар қымбат.", "en": "These trousers are expensive.", "translit": "bul şalbar qımbat" },
+        { "kk": "Аяқкиімім кір.", "en": "My shoes are dirty.", "translit": "ayaqkiyimim kir" },
+        { "kk": "Суық болғанда күртеше киемін.", "en": "I wear a jacket when it's cold.", "translit": "suwıq bolğanda kürteşe kiyemin" },
+        { "kk": "Бұл сенің бас киімің бе?", "en": "Is this your hat? (informal)", "translit": "bul seniñ bas kiyimiñ be" }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Weather & Seasons",
+      "titleNative": "Ауа-райы мен мезгілдер",
+      "items": [
+        { "kk": "қыс", "en": "winter", "translit": "qıs" },
+        { "kk": "жаз", "en": "summer", "translit": "jaz" },
+        { "kk": "көктем", "en": "spring", "translit": "köktem" },
+        { "kk": "күз", "en": "autumn", "translit": "küz" },
+        { "kk": "Бүгін ауа-райы қандай?", "en": "What's the weather like today?", "translit": "bügin awa-rayı qanday" },
+        { "kk": "Бүгін жаңбыр жауып тұр.", "en": "It's raining today.", "translit": "bügin jañbır jawıp tur" },
+        { "kk": "Қыста қар жауады.", "en": "It snows in winter.", "translit": "qısta qar jawadı" },
+        { "kk": "Жазда ыстық болады.", "en": "It's hot in summer.", "translit": "jazda ıstıq boladı" },
+        { "kk": "Күзде жапырақтар түседі.", "en": "Leaves fall in autumn.", "translit": "küzde japıraqtar tüsedi" },
+        { "kk": "Көктемде күн жылынады.", "en": "It gets warm in spring.", "translit": "köktemde kün jılınadı" }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Home & Furniture",
+      "titleNative": "Үй мен жиһаз",
+      "items": [
+        { "kk": "үй", "en": "house/home", "translit": "üy" },
+        { "kk": "бөлме", "en": "room", "translit": "bölme" },
+        { "kk": "үстел", "en": "table", "translit": "üstel" },
+        { "kk": "орындық", "en": "chair", "translit": "orındıq" },
+        { "kk": "төсек", "en": "bed", "translit": "tösek" },
+        { "kk": "Менің үйім үлкен.", "en": "My house is big.", "translit": "meniñ üyim ülken" },
+        { "kk": "Кітап үстелде жатыр.", "en": "The book is on the table.", "translit": "kitap üstelde jatır" },
+        { "kk": "Бөлмеде екі терезе бар.", "en": "There are two windows in the room.", "translit": "bölmede eki tereze bar" },
+        { "kk": "Мен төсекте жатырмын.", "en": "I am lying on the bed.", "translit": "men tösekte jatırmın" },
+        { "kk": "Ол орындықта отыр.", "en": "He/she is sitting on the chair.", "translit": "ol orındıqta otır" }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Time & Calendar",
+      "titleNative": "Уақыт пен күнтізбе",
+      "items": [
+        { "kk": "дүйсенбі", "en": "Monday", "translit": "düysenbi" },
+        { "kk": "сейсенбі", "en": "Tuesday", "translit": "seysenbi" },
+        { "kk": "сәрсенбі", "en": "Wednesday", "translit": "särsenbi" },
+        { "kk": "бейсенбі", "en": "Thursday", "translit": "beysenbi" },
+        { "kk": "жұма", "en": "Friday", "translit": "juma" },
+        { "kk": "сенбі", "en": "Saturday", "translit": "senbi" },
+        { "kk": "жексенбі", "en": "Sunday", "translit": "jeksenbi" },
+        { "kk": "Бүгін қай күн?", "en": "What day is it today?", "translit": "bügin qay kün" },
+        { "kk": "Бүгін дүйсенбі.", "en": "Today is Monday.", "translit": "bügin düysenbi" },
+        { "kk": "Сағат неше?", "en": "What time is it?", "translit": "sağat neşe" },
+        { "kk": "Сағат үш.", "en": "It's three o'clock.", "translit": "sağat üş" }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "City & Directions",
+      "titleNative": "Қала мен бағыттар",
+      "items": [
+        { "kk": "көше", "en": "street", "translit": "köşe" },
+        { "kk": "дүкен", "en": "shop", "translit": "düken" },
+        { "kk": "мектеп", "en": "school", "translit": "mektep" },
+        { "kk": "аурухана", "en": "hospital", "translit": "awrıxana" },
+        { "kk": "оңға", "en": "to the right", "translit": "oñğa" },
+        { "kk": "солға", "en": "to the left", "translit": "solğa" },
+        { "kk": "Дүкен қайда орналасқан?", "en": "Where is the shop located?", "translit": "düken qayda ornalasqan" },
+        { "kk": "Тіке жүріңіз.", "en": "Go straight. (formal)", "translit": "tike jüriñiz" },
+        { "kk": "Оңға бұрылыңыз.", "en": "Turn right. (formal)", "translit": "oñğa burılıñız" },
+        { "kk": "Мектеп осы көшеде.", "en": "The school is on this street.", "translit": "mektep osı köşede" }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Shopping & Money",
+      "titleNative": "Сауда мен ақша",
+      "items": [
+        { "kk": "ақша", "en": "money", "translit": "aqşa" },
+        { "kk": "баға", "en": "price", "translit": "bağa" },
+        { "kk": "арзан", "en": "cheap", "translit": "arzan" },
+        { "kk": "қымбат", "en": "expensive", "translit": "qımbat" },
+        { "kk": "Бұл қанша тұрады?", "en": "How much does this cost?", "translit": "bul qanşa turadı" },
+        { "kk": "Бұл тым қымбат.", "en": "This is too expensive.", "translit": "bul tım qımbat" },
+        { "kk": "Менде ақша жоқ.", "en": "I don't have money.", "translit": "mende aqşa joq" },
+        { "kk": "Жеңілдік бар ма?", "en": "Is there a discount?", "translit": "jeñildik bar ma" },
+        { "kk": "Мен мұны сатып алғым келеді.", "en": "I want to buy this.", "translit": "men munı satıp alğım keledi" },
+        { "kk": "Картамен төлеуге бола ма?", "en": "Can I pay by card?", "translit": "kartamen töleuge bola ma" }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Professions",
+      "titleNative": "Мамандықтар",
+      "items": [
+        { "kk": "дәрігер", "en": "doctor", "translit": "däriger" },
+        { "kk": "мұғалім", "en": "teacher", "translit": "muğalim" },
+        { "kk": "инженер", "en": "engineer", "translit": "ïnjener" },
+        { "kk": "заңгер", "en": "lawyer", "translit": "zañger" },
+        { "kk": "сатушы", "en": "salesperson", "translit": "satwşı" },
+        { "kk": "Мен дәрігермін.", "en": "I am a doctor.", "translit": "men därigermin" },
+        { "kk": "Ол инженер болып жұмыс істейді.", "en": "He/she works as an engineer.", "translit": "ol ïnjener bolıp jumıs isteydi" },
+        { "kk": "Сенің мамандығың не?", "en": "What is your profession? (informal)", "translit": "seniñ mamandığıñ ne" },
+        { "kk": "Заңгер болу қиын.", "en": "Being a lawyer is difficult.", "translit": "zañger bolw qïın" },
+        { "kk": "Ол дүкенде сатушы болып істейді.", "en": "She works as a salesperson in the shop.", "translit": "ol dükende satwşı bolıp isteydi" }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Animals & Nature",
+      "titleNative": "Жануарлар мен табиғат",
+      "items": [
+        { "kk": "ит", "en": "dog", "translit": "it" },
+        { "kk": "мысық", "en": "cat", "translit": "mısıq" },
+        { "kk": "жылқы", "en": "horse", "translit": "jılqı" },
+        { "kk": "құс", "en": "bird", "translit": "qus" },
+        { "kk": "ағаш", "en": "tree", "translit": "ağaş" },
+        { "kk": "өзен", "en": "river", "translit": "özen" },
+        { "kk": "тау", "en": "mountain", "translit": "taw" },
+        { "kk": "Менің итім бар.", "en": "I have a dog.", "translit": "meniñ itim bar" },
+        { "kk": "Мысық үстелдің үстінде отыр.", "en": "The cat is sitting on the table.", "translit": "mısıq üsteldiñ üstinde otır" },
+        { "kk": "Таулар әдемі.", "en": "The mountains are beautiful.", "translit": "tawlar ädemi" }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Emotions & Feelings",
+      "titleNative": "Эмоциялар",
+      "items": [
+        { "kk": "қуанышты", "en": "happy", "translit": "quwanıştı" },
+        { "kk": "қайғылы", "en": "sad", "translit": "qayğılı" },
+        { "kk": "ашулы", "en": "angry", "translit": "aşwlı" },
+        { "kk": "шаршаған", "en": "tired", "translit": "şarşağan" },
+        { "kk": "Мен бүгін қуаныштымын.", "en": "I am happy today.", "translit": "men bügin quwanıştımın" },
+        { "kk": "Ол неге қайғылы?", "en": "Why is he/she sad?", "translit": "ol nege qayğılı" },
+        { "kk": "Мен шаршадым.", "en": "I am tired.", "translit": "men şarşadım" },
+        { "kk": "Неге ашулысың?", "en": "Why are you angry? (informal)", "translit": "nege aşwlısıñ" }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Hobbies & Free Time",
+      "titleNative": "Хобби мен бос уақыт",
+      "items": [
+        { "kk": "Мен кітап оқығанды жақсы көремін.", "en": "I like reading books.", "translit": "men kitap oqığandı jaqsı köremin" },
+        { "kk": "Ол спортпен айналысады.", "en": "He/she does sports.", "translit": "ol sportpen aynalısadı" },
+        { "kk": "Біз саяхаттауды жақсы көреміз.", "en": "We like traveling.", "translit": "biz sayaxattawdı jaqsı köremiz" },
+        { "kk": "Сенің хоббиің не?", "en": "What is your hobby? (informal)", "translit": "seniñ xobbïiñ ne" },
+        { "kk": "Мен музыка тыңдағанды ұнатамын.", "en": "I like listening to music.", "translit": "men mwzıka tıñdağandı unatamın" },
+        { "kk": "Демалыс күндері не істейсің?", "en": "What do you do on weekends? (informal)", "translit": "demalıs künderi ne isteysiñ" }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Transportation",
+      "titleNative": "Көлік",
+      "items": [
+        { "kk": "көлік", "en": "car/vehicle", "translit": "kölik" },
+        { "kk": "автобус", "en": "bus", "translit": "avtobws" },
+        { "kk": "пойыз", "en": "train", "translit": "poyız" },
+        { "kk": "ұшақ", "en": "airplane", "translit": "uşaq" },
+        { "kk": "Мен автобуспен барамын.", "en": "I go by bus.", "translit": "men avtobwspen baramın" },
+        { "kk": "Пойыз қашан келеді?", "en": "When does the train arrive?", "translit": "poyız qaşan keledi" },
+        { "kk": "Ұшаққа кешікпе!", "en": "Don't be late for the plane! (informal)", "translit": "uşaqqa keşikpe" },
+        { "kk": "Менің көлігім жоқ.", "en": "I don't have a car.", "translit": "meniñ köligim joq" }
+      ]
     }
   ]
 }

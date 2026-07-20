@@ -1,0 +1,353 @@
+{
+  "level": "a1",
+  "grammarTopics": {
+    "a1-pronouns-tobe": {
+      "title": "Personal Pronouns & \"To Be\"",
+      "pattern": "мен + [noun/adj] + -мын/-мін/-бын/-бін/-пын/-пін",
+      "explanation": "Kazakh has no separate verb 'to be' in the present tense — instead, personal predicative endings attach directly to the noun or adjective, agreeing with the subject's person. E.g. мен студентпін (I am a student), сен студентсің (you are a student), ол студент (he/she is a student — no ending for 3rd person), біз студентпіз (we are students). The ending's exact shape depends on vowel harmony and whether the word ends in a vowel or a voiced/voiceless consonant.",
+      "fact": "Because the 3rd person takes no ending at all, a bare sentence like \"Ол дәрігер\" already means the complete \"He/she is a doctor\" — there's no missing word to fill in, word order alone carries the meaning.",
+      "dialogue": [
+        { "sp": "A", "native": "Сіз кімсіз?", "en": "Who are you? (formal)" },
+        { "sp": "B", "native": "Мен мұғаліммін. Ал сіз ше?", "en": "I am a teacher. And you?" },
+        { "sp": "A", "native": "Мен студентпін.", "en": "I am a student." }
+      ]
+    },
+    "a1-possessive": {
+      "title": "Possessive Suffixes",
+      "pattern": "[noun] + -ым/-ім/-м (my), -ың/-ің/-ң (your), -ы/-і/-сы/-сі (his/her)",
+      "explanation": "Kazakh marks possession by attaching a suffix directly to the possessed noun, not just with a separate possessive pronoun. Consonant-ending nouns take -ым/-ім (мен), -ың/-ің (сен), -ы/-і (ол); vowel-ending nouns take -м/-ң/-сы/-сі instead.",
+      "fact": "You'll hear the possessive suffix used alone, without the pronoun, all the time — \"Атым Айгүл\" (\"My name is Aigul\") is just as natural as \"Менің атым Айгүл,\" because the suffix -ым already tells you it's 'my' name.",
+      "dialogue": [
+        { "sp": "A", "native": "Бұл сенің кітабың ба?", "en": "Is this your book?" },
+        { "sp": "B", "native": "Иә, бұл менің кітабым.", "en": "Yes, this is my book." }
+      ]
+    },
+    "a1-plural": {
+      "title": "The Plural Suffix -лар/-лер",
+      "pattern": "[noun] + -лар/-лер/-дар/-дер/-тар/-тер",
+      "explanation": "Kazakh plurals use one suffix family with six shapes, chosen by two rules together: vowel harmony (back-vowel word → -лар/-дар/-тар, front-vowel word → -лер/-дер/-тер) and the stem's final sound (vowel or voiced consonant → л-form, sonorant → д-form, voiceless consonant → т-form). E.g. бала → балалар (children), кітап → кітаптар (books), дос → достар (friends).",
+      "fact": "After a number, Kazakh nouns usually drop the plural suffix entirely — \"бес кітап\" (five books), not \"бес кітаптар\" — the number already makes the plurality obvious, so adding -лар would sound redundant to a native speaker.",
+      "dialogue": [
+        { "sp": "A", "native": "Мұнда неше кітап бар?", "en": "How many books are there here?" },
+        { "sp": "B", "native": "Мұнда көп кітаптар бар.", "en": "There are many books here." }
+      ]
+    },
+    "a1-questions": {
+      "title": "Yes/No Questions: ма / ме / ба / бе / па / пе",
+      "pattern": "[statement] + ма/ме/ба/бе/па/пе (+ personal ending)?",
+      "explanation": "Kazakh turns a statement into a yes/no question by adding a small particle right after the word being questioned — its shape (six variants) follows the same vowel-harmony-plus-voicing rule as plurals and possessives. Any personal ending (like -сың, -сіз) attaches after the particle, not before it.",
+      "fact": "Because the particle attaches directly after the questioned word, Kazakh can target just one part of a sentence very precisely — \"Сен дәрігерсің бе?\" specifically asks whether it's a DOCTOR that you are, not a generic yes/no about the whole sentence.",
+      "dialogue": [
+        { "sp": "A", "native": "Сен шаршадың ба?", "en": "Are you tired?" },
+        { "sp": "B", "native": "Жоқ, мен шаршаған жоқпын.", "en": "No, I am not tired." }
+      ]
+    },
+    "a1-cases-1": {
+      "title": "Genitive & Dative Cases",
+      "pattern": "Genitive: [noun]+-ның/-нің/-дың/-дің/-тың/-тің (of); Dative: [noun]+-ға/-ге/-қа/-ке (to/for)",
+      "explanation": "The genitive marks a possessor noun (like English 's or 'of') and always pairs with a possessive suffix on the thing owned — \"менің кітабым\" literally \"of-me my-book.\" The dative marks a destination, recipient, or purpose — \"мектепке барамын\" (I'm going TO school), \"саған сыйлық\" (a gift FOR you).",
+      "fact": "The dative case is also how Kazakh expresses \"I like/need/want\": the person goes in dative plus a special verb, e.g. \"Маған ұнайды\" — literally \"to-me it's-pleasing\" — meaning \"I like it.\"",
+      "dialogue": [
+        { "sp": "A", "native": "Сен қайда барасың?", "en": "Where are you going?" },
+        { "sp": "B", "native": "Мектепке барамын.", "en": "I'm going to school." }
+      ]
+    },
+    "a1-cases-2": {
+      "title": "Accusative, Locative & Ablative Cases",
+      "pattern": "Accusative: -ны/-ні/-ды/-ді/-ты/-ті (the ~); Locative: -да/-де/-та/-те (at/in/on); Ablative: -дан/-ден/-тан/-тен/-нан/-нен (from)",
+      "explanation": "The accusative marks a definite direct object — \"кітапты оқимын\" (I'm reading THE book, a specific one) — versus a bare noun for something general or indefinite (\"кітап оқимын\", I'm reading [a] book). The locative marks a static location (\"үйде\" — at home). The ablative marks a starting point or source (\"үйден\" — from home).",
+      "fact": "These three cases form a neat trio with the dative you already learned: dative -ға (TO), locative -да (AT), ablative -дан (FROM) — a single root like үй gives you үйге/үйде/үйден for \"to/at/from home.\"",
+      "dialogue": [
+        { "sp": "A", "native": "Кітапты оқыдың ба?", "en": "Did you read the book?" },
+        { "sp": "B", "native": "Иә, кітапты үйде оқыдым.", "en": "Yes, I read the book at home." }
+      ]
+    },
+    "a1-present": {
+      "title": "Present Tense: -а/-е/-й ды and -ып жатыр",
+      "pattern": "General present: [stem]+-а/-е/-й+ды/-ді (habitual); Continuous: [stem]+-ып/-іп/-п жатыр (right now)",
+      "explanation": "Kazakh has two present tenses. The general present (-а/-е/-йды) describes habits, facts, and near-future plans: \"мен кітап оқимын\" (I read / I'm going to read). The present continuous (-ып жатыр) describes an action happening right now: \"мен кітап оқып жатырмын\" (I am reading [right now]).",
+      "fact": "The continuous marker \"жатыр\" literally means \"is lying down\" — it grammaticalized from \"lying there doing X\" into a general \"in the middle of doing X,\" which is why it's also used for actions with no literal lying-down, like \"жаңбыр жауып жатыр\" (it's raining).",
+      "dialogue": [
+        { "sp": "A", "native": "Не істеп жатырсың?", "en": "What are you doing right now?" },
+        { "sp": "B", "native": "Кітап оқып жатырмын.", "en": "I'm reading a book." }
+      ]
+    },
+    "a1-past": {
+      "title": "Definite Past Tense: -ды/-ді/-ты/-ті",
+      "pattern": "[stem] + -ды/-ді/-ты/-ті (+ personal ending)",
+      "explanation": "The definite past describes a completed action the speaker witnessed or is certain of. The suffix has four shapes chosen by the stem's final sound (vowel-harmony pair × voicing), and personal endings (-м, -ң, -қ/-к, none for 3rd person) attach right after it: келдім (I came), келдің (you came), келді (he/she came).",
+      "fact": "Kazakh also has a separate 'unwitnessed'/reported past (-ған/-ген) for things you heard about rather than saw yourself — mixing the two up is a classic learner slip, a bit like confusing \"I did\" with \"apparently I did\" in English.",
+      "dialogue": [
+        { "sp": "A", "native": "Кеше не істедің?", "en": "What did you do yesterday?" },
+        { "sp": "B", "native": "Кеше кинога бардым.", "en": "Yesterday I went to the movies." }
+      ]
+    },
+    "a1-negation": {
+      "title": "Negation: жоқ, емес, and -ма/-ме",
+      "pattern": "жоқ = 'there isn't/doesn't exist'; емес = 'is not' (after noun/adj); -ма/-ме/-ба/-бе/-па/-пе = verb negation suffix",
+      "explanation": "Kazakh splits negation across three tools depending on what's negated. жоқ negates existence/possession: \"Кітап жоқ\" (There's no book / I don't have a book). емес negates an identity or description after a noun or adjective: \"Бұл кітап емес\" (This is not a book). A verb negates itself with -ма/-ме (etc.) inserted right before the tense ending: \"келмедім\" (I didn't come), \"оқымаймын\" (I don't read).",
+      "fact": "жоқ doubles as the simple word for \"no\" (as иә is \"yes\"), so жоқ alone can be a complete one-word answer — unlike емес or the verb suffix, which always attach to something else.",
+      "dialogue": [
+        { "sp": "A", "native": "Саған кофе керек пе?", "en": "Do you need coffee?" },
+        { "sp": "B", "native": "Жоқ, маған кофе керек емес.", "en": "No, I don't need coffee." }
+      ]
+    },
+    "a1-imperative": {
+      "title": "Giving Commands: The Imperative",
+      "pattern": "Informal: bare stem (Кел!); Polite: [stem]+-ыңыз/-іңіз (Келіңіз!)",
+      "explanation": "The plain command for someone you're close to or younger than you is just the bare verb stem, no ending: Кел! (Come!), Отыр! (Sit!). For anyone you'd address formally — an elder, a stranger, a boss — add -ыңыз/-іңіз: Келіңіз! (Please come!), Отырыңыз! (Please sit!).",
+      "fact": "The polite imperative suffix -ыңыз/-іңіз is the exact same suffix used for formal 'you' (сіз) agreement everywhere else in the grammar — Kazakh politeness marking is consistent across the whole system, not a one-off exception.",
+      "dialogue": [
+        { "sp": "A", "native": "Кіріңіз!", "en": "Please come in!" },
+        { "sp": "B", "native": "Рахмет.", "en": "Thank you." }
+      ]
+    },
+    "a1-comparison": {
+      "title": "Comparing Things: -рақ/-рек",
+      "pattern": "[adjective] + -рақ/-рек/-ырақ/-ірек (a bit more ~); [noun]+-дан/-ден + [adjective] (~ than)",
+      "explanation": "Kazakh makes a soft \"somewhat more X\" comparative by adding -рақ/-рек (or the buffer-vowel forms -ырақ/-ірек after a consonant) directly to the adjective: үлкен → үлкенірек (a bit bigger). To compare two things directly (\"bigger THAN\"), mark the thing compared against with the ablative case you already learned: \"Бұл анадан үлкен\" (This is bigger than that).",
+      "fact": "This comparative is deliberately soft and approximate — \"a bit more, -ish\" — rather than a strong \"much more.\" For real emphasis, Kazakh stacks an intensifying word like \"әлдеқайда\" (far/much) in front instead of piling on more suffixes.",
+      "dialogue": [
+        { "sp": "A", "native": "Қайсысы үлкенірек?", "en": "Which one is bigger?" },
+        { "sp": "B", "native": "Бұл анадан үлкенірек.", "en": "This one is a bit bigger than that one." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 21,
+      "title": "Grammar: Personal Pronouns & \"To Be\"",
+      "titleNative": "Жіктеу есімдіктері мен емес/бар",
+      "topicId": "a1-pronouns-tobe",
+      "items": [
+        { "kk": "Мен дәрігермін.", "en": "I am a doctor.", "translit": "men därigermin" },
+        { "kk": "Сен студентсің.", "en": "You are a student. (informal)", "translit": "sen studentsiñ" },
+        { "kk": "Ол мұғалім.", "en": "He/she is a teacher.", "translit": "ol muğalim" },
+        { "kk": "Біз достармыз.", "en": "We are friends.", "translit": "biz dostarmız" },
+        { "kk": "Сендер студентсіңдер.", "en": "You (pl., informal) are students.", "translit": "sender studentsiñder" },
+        { "kk": "Олар дәрігерлер.", "en": "They are doctors.", "translit": "olar därigerler" },
+        { "kk": "Сіз қазақсыз ба?", "en": "Are you Kazakh? (formal)", "translit": "siz qazaqsız ba" },
+        { "kk": "Мен қазақпын.", "en": "I am Kazakh.", "translit": "men qazaqpın" },
+        { "kk": "Ол дәрігер ме?", "en": "Is he/she a doctor?", "translit": "ol däriger me" },
+        { "kk": "Иә, ол дәрігер.", "en": "Yes, he/she is a doctor.", "translit": "ïä, ol däriger" }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Grammar: Possessive Suffixes",
+      "titleNative": "Тәуелдік жалғаулары",
+      "topicId": "a1-possessive",
+      "items": [
+        { "kk": "Бұл менің кітабым.", "en": "This is my book.", "translit": "bul meniñ kitabım" },
+        { "kk": "Бұл сенің қаламың.", "en": "This is your pen. (informal)", "translit": "bul seniñ qalamıñ" },
+        { "kk": "Бұл оның үйі.", "en": "This is his/her house.", "translit": "bul onıñ üyi" },
+        { "kk": "Менің атым Ерлан.", "en": "My name is Erlan.", "translit": "meniñ atım Erlan" },
+        { "kk": "Сенің әкең қайда?", "en": "Where is your father? (informal)", "translit": "seniñ äkeñ qayda" },
+        { "kk": "Оның анасы дәрігер.", "en": "His/her mother is a doctor.", "translit": "onıñ anası däriger" },
+        { "kk": "Біздің мектебіміз үлкен.", "en": "Our school is big.", "translit": "bizdiñ mektebimiz ülken" },
+        { "kk": "Достарымның бәрі мұнда.", "en": "All my friends are here.", "translit": "dostarımnıñ bäri munda" },
+        { "kk": "Менің көйлегім ақ.", "en": "My shirt is white.", "translit": "meniñ köylegim aq" },
+        { "kk": "Оның есімі не?", "en": "What is his/her name?", "translit": "onıñ esimi ne" }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Grammar: The Plural Suffix",
+      "titleNative": "Көптік жалғауы",
+      "topicId": "a1-plural",
+      "items": [
+        { "kk": "балалар", "en": "children", "translit": "balalar" },
+        { "kk": "кітаптар", "en": "books", "translit": "kitaptar" },
+        { "kk": "достар", "en": "friends", "translit": "dostar" },
+        { "kk": "үйлер", "en": "houses", "translit": "üyler" },
+        { "kk": "Мектепте оқушылар көп.", "en": "There are many students at school.", "translit": "mektepte oqwşılar köp" },
+        { "kk": "Дүкенде адамдар бар.", "en": "There are people in the shop.", "translit": "dükende adamdar bar" },
+        { "kk": "Бес кітап оқыдым.", "en": "I read five books.", "translit": "bes kitap oqıdım" },
+        { "kk": "Мысықтар үйде отыр.", "en": "The cats are sitting at home.", "translit": "mısıqtar üyde otır" }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Grammar: Yes/No Questions",
+      "titleNative": "Сұраулық шылаулар",
+      "topicId": "a1-questions",
+      "items": [
+        { "kk": "Сен студентсің бе?", "en": "Are you a student? (informal)", "translit": "sen studentsiñ be" },
+        { "kk": "Ол келді ме?", "en": "Did he/she come?", "translit": "ol keldi me" },
+        { "kk": "Бұл сенің кітабың ба?", "en": "Is this your book? (informal)", "translit": "bul seniñ kitabıñ ba" },
+        { "kk": "Сіз ағылшынша сөйлейсіз бе?", "en": "Do you speak English? (formal)", "translit": "siz ağılşınşa söyleysiz be" },
+        { "kk": "Дәмді ме?", "en": "Is it tasty?", "translit": "dämdi me" },
+        { "kk": "Сен шаршадың ба?", "en": "Are you tired? (informal)", "translit": "sen şarşadıñ ba" },
+        { "kk": "Ол қазақ па?", "en": "Is he/she Kazakh?", "translit": "ol qazaq pa" },
+        { "kk": "Су суық па?", "en": "Is the water cold?", "translit": "suw suwıq pa" }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Grammar: Genitive & Dative Cases",
+      "titleNative": "Ілік және барыс септіктері",
+      "topicId": "a1-cases-1",
+      "items": [
+        { "kk": "Анамның аты Гүлнар.", "en": "My mother's name is Gulnar.", "translit": "anamnıñ atı Gülnar" },
+        { "kk": "Достың үйі үлкен.", "en": "The friend's house is big.", "translit": "dostıñ üyi ülken" },
+        { "kk": "Мен мектепке барамын.", "en": "I am going to school.", "translit": "men mektepke baramın" },
+        { "kk": "Саған сыйлық әкелдім.", "en": "I brought you a gift. (informal)", "translit": "sağan swyliq äkeldim" },
+        { "kk": "Ол дүкенге барды.", "en": "He/she went to the shop.", "translit": "ol dükenge bardı" },
+        { "kk": "Маған су керек.", "en": "I need water.", "translit": "mağan suw kerek" },
+        { "kk": "Балаға кітап бердім.", "en": "I gave a book to the child.", "translit": "balağa kitap berdim" },
+        { "kk": "Достың атын білесің бе?", "en": "Do you know the friend's name? (informal)", "translit": "dostıñ atın bilesiñ be" }
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Grammar: Accusative, Locative & Ablative",
+      "titleNative": "Табыс, жатыс, шығыс септіктері",
+      "topicId": "a1-cases-2",
+      "items": [
+        { "kk": "Кітапты оқыдым.", "en": "I read the book.", "translit": "kitaptı oqıdım" },
+        { "kk": "Мен үйде отырмын.", "en": "I am sitting at home.", "translit": "men üyde otırmın" },
+        { "kk": "Ол мектептен келді.", "en": "He/she came from school.", "translit": "ol mektepten keldi" },
+        { "kk": "Хатты жаздым.", "en": "I wrote the letter.", "translit": "xattı jazdım" },
+        { "kk": "Балалар паркте ойнайды.", "en": "The children play in the park.", "translit": "balalar parkte oynaydı" },
+        { "kk": "Мен Алматыдан келдім.", "en": "I came from Almaty.", "translit": "men Almatıdan keldim" },
+        { "kk": "Досымды көрдім.", "en": "I saw my friend.", "translit": "dosımdı kördim" },
+        { "kk": "Судан шықтым.", "en": "I came out of the water.", "translit": "swdan şıqtım" }
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Grammar: Present Tense",
+      "titleNative": "Осы шақ",
+      "topicId": "a1-present",
+      "items": [
+        { "kk": "Мен кітап оқимын.", "en": "I read (books).", "translit": "men kitap oqïmın" },
+        { "kk": "Ол әр күні жұмыс істейді.", "en": "He/she works every day.", "translit": "ol är küni jumıs isteydi" },
+        { "kk": "Мен қазір тамақ жеп жатырмын.", "en": "I am eating right now.", "translit": "men qazir tamaq jep jatırmın" },
+        { "kk": "Ол ұйықтап жатыр.", "en": "He/she is sleeping.", "translit": "ol uyıqtap jatır" },
+        { "kk": "Біз кино көріп жатырмыз.", "en": "We are watching a movie (right now).", "translit": "biz kïno körip jatırmız" },
+        { "kk": "Күн шығады.", "en": "The sun rises.", "translit": "kün şığadı" },
+        { "kk": "Жаңбыр жауып жатыр.", "en": "It's raining (right now).", "translit": "jañbır jawıp jatır" },
+        { "kk": "Не істеп жатырсың?", "en": "What are you doing right now? (informal)", "translit": "ne istep jatırsıñ" }
+      ]
+    },
+    {
+      "number": 28,
+      "title": "Grammar: Past Tense",
+      "titleNative": "Өткен шақ",
+      "topicId": "a1-past",
+      "items": [
+        { "kk": "Мен келдім.", "en": "I came.", "translit": "men keldim" },
+        { "kk": "Сен не істедің?", "en": "What did you do? (informal)", "translit": "sen ne istediñ" },
+        { "kk": "Ол хат жазды.", "en": "He/she wrote a letter.", "translit": "ol xat jazdı" },
+        { "kk": "Біз киноға бардық.", "en": "We went to the movies.", "translit": "biz kïnoğa bardıq" },
+        { "kk": "Кеше жаңбыр жауды.", "en": "It rained yesterday.", "translit": "keşe jañbır jawdı" },
+        { "kk": "Мен түсінбедім.", "en": "I didn't understand.", "translit": "men tüsinbedim" },
+        { "kk": "Олар келді.", "en": "They came/arrived.", "translit": "olar keldi" },
+        { "kk": "Сіз қайдан келдіңіз?", "en": "Where did you come from? (formal)", "translit": "siz qaydan keldiñiz" }
+      ]
+    },
+    {
+      "number": 29,
+      "title": "Grammar: Negation",
+      "titleNative": "Болымсыздық",
+      "topicId": "a1-negation",
+      "items": [
+        { "kk": "Менде ақша жоқ.", "en": "I don't have money.", "translit": "mende aqşa joq" },
+        { "kk": "Бұл дұрыс емес.", "en": "This is not correct.", "translit": "bul durıs emes" },
+        { "kk": "Мен келмедім.", "en": "I did not come.", "translit": "men kelmedim" },
+        { "kk": "Ол студент емес, мұғалім.", "en": "He/she is not a student, [but] a teacher.", "translit": "ol student emes, muğalim" },
+        { "kk": "Мен түсінбеймін.", "en": "I don't understand.", "translit": "men tüsinbeymin" },
+        { "kk": "Үйде ешкім жоқ.", "en": "There is nobody at home.", "translit": "üyde eşkim joq" },
+        { "kk": "Бұл дәмді емес.", "en": "This is not tasty.", "translit": "bul dämdi emes" },
+        { "kk": "Мен бармаймын.", "en": "I am not going.", "translit": "men barmaymın" }
+      ]
+    },
+    {
+      "number": 30,
+      "title": "Grammar: The Imperative",
+      "titleNative": "Бұйрық рай",
+      "topicId": "a1-imperative",
+      "items": [
+        { "kk": "Кел!", "en": "Come! (informal)", "translit": "kel" },
+        { "kk": "Келіңіз!", "en": "Please come! (formal)", "translit": "keliñiz" },
+        { "kk": "Отыр!", "en": "Sit! (informal)", "translit": "otır" },
+        { "kk": "Отырыңыз!", "en": "Please sit! (formal)", "translit": "otırıñız" },
+        { "kk": "Есікті жап!", "en": "Close the door! (informal)", "translit": "esikti jap" },
+        { "kk": "Мұқият болыңыз!", "en": "Please be careful! (formal)", "translit": "muqïyat bolıñız" },
+        { "kk": "Асықпа!", "en": "Don't rush! (informal)", "translit": "asıqpa" },
+        { "kk": "Кешікпеңіз!", "en": "Please don't be late! (formal)", "translit": "keşikpeñiz" }
+      ]
+    },
+    {
+      "number": 31,
+      "title": "Grammar: Comparing Things",
+      "titleNative": "Салыстырмалы шырай",
+      "topicId": "a1-comparison",
+      "items": [
+        { "kk": "Бұл үйден үлкенірек.", "en": "This is a bit bigger than the house.", "translit": "bul üyden ülkenirek" },
+        { "kk": "Ол менен жасырақ.", "en": "He/she is a bit younger than me.", "translit": "ol menen jasıraq" },
+        { "kk": "Бүгін кешеден суығырақ.", "en": "Today is a bit colder than yesterday.", "translit": "bügin keşeden suwığıraq" },
+        { "kk": "Менің үйім сенің үйіңнен кішірек.", "en": "My house is a bit smaller than your house.", "translit": "meniñ üyim seniñ üyiñnen kişirek" },
+        { "kk": "Бұл кітап анадан қызықтырақ.", "en": "This book is a bit more interesting than that one.", "translit": "bul kitap anadan qızıqtıraq" },
+        { "kk": "Қайсысы жақсырақ?", "en": "Which one is a bit better?", "translit": "qaysısı jaqsıraq" }
+      ]
+    },
+    {
+      "number": 32,
+      "title": "A Day in Aigul's Life",
+      "titleNative": "Айгүлдің бір күні",
+      "context": "Айгүлдің әдеттегі бір күні туралы қысқа әңгіме.",
+      "paragraphs": [
+        { "kk": "Айгүл — жиырма жасар студент.", "en": "Aigul is a twenty-year-old student." },
+        { "kk": "Ол таңертең сағат жетіде тұрады.", "en": "She gets up at seven in the morning." },
+        { "kk": "Таңғы ас ішіп, мектепке барады.", "en": "She eats breakfast and goes to school." },
+        { "kk": "Мектепте ол ағылшын тілін үйренеді.", "en": "At school she studies English." },
+        { "kk": "Түстен кейін достарымен кездеседі.", "en": "In the afternoon she meets with her friends." },
+        { "kk": "Кешке үйге қайтып, тамақ пісіреді.", "en": "In the evening she returns home and cooks food." },
+        { "kk": "Түнде кітап оқып, ұйықтайды.", "en": "At night she reads a book and sleeps." }
+      ],
+      "questions": [
+        { "question": "How old is Aigul?", "options": ["Eighteen", "Twenty", "Twenty-five", "Thirty"], "answerIndex": 1 },
+        { "question": "What does Aigul study at school?", "options": ["Math", "English", "History", "Music"], "answerIndex": 1 },
+        { "question": "What does she do in the evening?", "options": ["Goes to school", "Cooks food", "Sleeps immediately", "Meets friends"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 33,
+      "title": "Erlan's Family",
+      "titleNative": "Ерланның отбасы",
+      "context": "Ерланның отбасы туралы қысқа әңгіме.",
+      "paragraphs": [
+        { "kk": "Ерланның үлкен отбасы бар.", "en": "Erlan has a big family." },
+        { "kk": "Оның әкесі — дәрігер, анасы — мұғалім.", "en": "His father is a doctor, his mother is a teacher." },
+        { "kk": "Ерланның екі бауыры бар: бір ағасы, бір қарындасы.", "en": "Erlan has two siblings: one older brother, one younger sister." },
+        { "kk": "Олар Алматыда, үлкен үйде тұрады.", "en": "They live in Almaty, in a big house." },
+        { "kk": "Демалыс күндері бәрі бірге тамақ ішеді.", "en": "On weekends everyone eats together." },
+        { "kk": "Ерлан отбасын өте жақсы көреді.", "en": "Erlan loves his family very much." }
+      ],
+      "questions": [
+        { "question": "What is Erlan's father's profession?", "options": ["Teacher", "Doctor", "Engineer", "Lawyer"], "answerIndex": 1 },
+        { "question": "Where does Erlan's family live?", "options": ["Astana", "Almaty", "Shymkent", "Karaganda"], "answerIndex": 1 },
+        { "question": "How many siblings does Erlan have?", "options": ["One", "Two", "Three", "None"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 34,
+      "title": "At the Shop",
+      "titleNative": "Дүкенде",
+      "context": "Мадинаның дүкенге барғаны туралы қысқа әңгіме.",
+      "paragraphs": [
+        { "kk": "Мадина дүкенге барды.", "en": "Madina went to the shop." },
+        { "kk": "Ол нан, сүт және алма сатып алды.", "en": "She bought bread, milk, and apples." },
+        { "kk": "Алма қымбат болды, бірақ нан арзан болды.", "en": "The apples were expensive, but the bread was cheap." },
+        { "kk": "Сатушы оған жеңілдік берді.", "en": "The salesperson gave her a discount." },
+        { "kk": "Мадина ақшасын төледі және үйге кетті.", "en": "Madina paid her money and went home." }
+      ],
+      "questions": [
+        { "question": "What did Madina NOT buy?", "options": ["Bread", "Milk", "Apples", "Meat"], "answerIndex": 3 },
+        { "question": "Which item was expensive?", "options": ["Bread", "Milk", "Apples", "Nothing"], "answerIndex": 2 },
+        { "question": "What did the salesperson give her?", "options": ["A gift", "A discount", "Nothing", "Extra bread"], "answerIndex": 1 }
+      ]
+    }
+  ]
+}
