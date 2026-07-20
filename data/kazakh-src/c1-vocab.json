@@ -1,0 +1,207 @@
+{
+  "level": "c1",
+  "lessons": [
+    {
+      "number": 11,
+      "title": "Diplomacy & Foreign Affairs",
+      "titleNative": "Дипломатия мен сыртқы саясат",
+      "items": [
+        { "kk": "елшілік", "en": "embassy", "translit": "elşilik" },
+        { "kk": "халықаралық құқық", "en": "international law", "translit": "xalıqaralıq quqıq" },
+        { "kk": "Елшілік жаңа ғимаратқа көшті.", "en": "The embassy moved to a new building.", "translit": "elşilik jaña ğïmaratqa köşti" },
+        { "kk": "Екі ел арасында келіссөз жүргізілуде.", "en": "Negotiations are underway between the two countries.", "translit": "eki el arasında kelissöz jürgizilwde" },
+        { "kk": "Халықаралық құқықты сақтау керек.", "en": "International law must be respected.", "translit": "xalıqaralıq quqıqtı saqtaw kerek" }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Constitutional Law",
+      "titleNative": "Конституциялық құқық",
+      "items": [
+        { "kk": "конституция", "en": "constitution", "translit": "konstïtwtsïya" },
+        { "kk": "бап", "en": "article (of law)", "translit": "bap" },
+        { "kk": "құқық бұзушылық", "en": "violation of rights", "translit": "quqıq buzwşılıq" },
+        { "kk": "Конституция — елдің негізгі заңы.", "en": "The constitution is the country's basic law.", "translit": "konstïtwtsïya — eldiñ negizgi zañı" },
+        { "kk": "Бұл баптың мағынасы терең.", "en": "The meaning of this article is profound.", "translit": "bul baptıñ mağınası tereñ" },
+        { "kk": "Құқық бұзушылыққа жол берілмейді.", "en": "Violations of rights are not permitted.", "translit": "quqıq buzwşılıqqa jol berilmeydi" }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Financial Markets",
+      "titleNative": "Қаржы нарығы",
+      "items": [
+        { "kk": "акция", "en": "stock/share", "translit": "aktsïya" },
+        { "kk": "биржа", "en": "stock exchange", "translit": "bïrja" },
+        { "kk": "пайыз мөлшерлемесі", "en": "interest rate", "translit": "payız mölşerlemesi" },
+        { "kk": "Акция бағасы өсті.", "en": "The stock price rose.", "translit": "aktsïya bağası östi" },
+        { "kk": "Биржада сауда жүріп жатыр.", "en": "Trading is taking place on the exchange.", "translit": "bïrjada sawda jürip jatır" },
+        { "kk": "Пайыз мөлшерлемесі жоғарылады.", "en": "The interest rate increased.", "translit": "payız mölşerlemesi joğarıladı" }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Neuroscience & Cognition",
+      "titleNative": "Нейроғылым мен таным",
+      "items": [
+        { "kk": "жад", "en": "memory", "translit": "jad" },
+        { "kk": "қабілет", "en": "ability/capacity", "translit": "qabilet" },
+        { "kk": "Ми — өте күрделі мүше.", "en": "The brain is a very complex organ.", "translit": "mï — öte kürdeli müşe" },
+        { "kk": "Жады жақсы адамдар көп нәрсені есте сақтайды.", "en": "People with good memory remember many things.", "translit": "jadı jaqsı adamdar köp närseni este saqtaydı" },
+        { "kk": "Танымдық қабілет жасқа қарай өзгереді.", "en": "Cognitive ability changes with age.", "translit": "tanımdıq qabilet jasqa qaray özgeredi" }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Climate Policy",
+      "titleNative": "Климаттық саясат",
+      "items": [
+        { "kk": "көміртегі шығарындысы", "en": "carbon emissions", "translit": "kömirtegi şığarındısı" },
+        { "kk": "тұрақты даму", "en": "sustainable development", "translit": "turaqtı damw" },
+        { "kk": "Көміртегі шығарындысын азайту керек.", "en": "Carbon emissions need to be reduced.", "translit": "kömirtegi şığarındısın azaytw kerek" },
+        { "kk": "Мемлекеттер климаттық келісімге қол қойды.", "en": "States signed the climate agreement.", "translit": "memleketter klïmattıq kelisimge qol qoydı" },
+        { "kk": "Тұрақты даму — болашақтың кепілі.", "en": "Sustainable development is the guarantee of the future.", "translit": "turaqtı damw — bolaşaqtıñ kepili" }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Corporate Governance",
+      "titleNative": "Корпоративтік басқару",
+      "items": [
+        { "kk": "басқарма", "en": "board (of directors)", "translit": "basqarma" },
+        { "kk": "акционер", "en": "shareholder", "translit": "aktsïoner" },
+        { "kk": "есеп беру", "en": "accountability/reporting", "translit": "esep berw" },
+        { "kk": "Басқарма жаңа стратегия қабылдады.", "en": "The board adopted a new strategy.", "translit": "basqarma jaña strategïya qabıldadı" },
+        { "kk": "Акционерлер жиналысы өтті.", "en": "The shareholders' meeting took place.", "translit": "aktsïonerler jïnalısı ötti" },
+        { "kk": "Компания есеп беруге міндетті.", "en": "The company is obligated to report.", "translit": "kompanïya esep berwge mindetti" }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Literary Criticism",
+      "titleNative": "Әдеби сын",
+      "items": [
+        { "kk": "сыншы", "en": "critic", "translit": "sınşı" },
+        { "kk": "тақырып", "en": "theme", "translit": "taqırıp" },
+        { "kk": "бейне", "en": "image/character", "translit": "beyne" },
+        { "kk": "Сыншы жаңа романды талдады.", "en": "The critic analyzed the new novel.", "translit": "sınşı jaña romandı taldadı" },
+        { "kk": "Романның негізгі тақырыбы — махаббат.", "en": "The novel's main theme is love.", "translit": "romannıñ negizgi taqırıbı — maxabbat" },
+        { "kk": "Бас кейіпкердің бейнесі күрделі.", "en": "The main character's image is complex.", "translit": "bas keyipkerdiñ beynesi kürdeli" }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Philosophy of Ethics",
+      "titleNative": "Этика философиясы",
+      "items": [
+        { "kk": "ізгілік", "en": "virtue", "translit": "izgilik" },
+        { "kk": "борыш", "en": "duty (moral)", "translit": "borış" },
+        { "kk": "әділеттілік", "en": "justice", "translit": "ädilettilik" },
+        { "kk": "Ізгілік — жақсы өмірдің негізі.", "en": "Virtue is the foundation of a good life.", "translit": "izgilik — jaqsı ömirdiñ negizi" },
+        { "kk": "Әркімнің өз алдында борышы бар.", "en": "Everyone has a duty to themselves.", "translit": "ärkimniñ öz aldında borışı bar" },
+        { "kk": "Әділеттілік қоғамға қажет.", "en": "Justice is necessary for society.", "translit": "ädilettilik qoğamğa qajet" }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Public Health Policy",
+      "titleNative": "Денсаулық сақтау саясаты",
+      "items": [
+        { "kk": "эпидемия", "en": "epidemic", "translit": "epïdemïya" },
+        { "kk": "вакцина", "en": "vaccine", "translit": "vaktsïna" },
+        { "kk": "алдын алу шаралары", "en": "preventive measures", "translit": "aldın alw şaraları" },
+        { "kk": "Эпидемия таралуын тоқтату керек.", "en": "The spread of the epidemic must be stopped.", "translit": "epïdemïya taralwın toqtatw kerek" },
+        { "kk": "Вакцина миллиондаған адамды құтқарды.", "en": "The vaccine saved millions of people.", "translit": "vaktsïna mïllïondağan adamdı qutqardı" },
+        { "kk": "Алдын алу шаралары маңызды.", "en": "Preventive measures are important.", "translit": "aldın alw şaraları mañızdı" }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Cybersecurity",
+      "titleNative": "Киберқауіпсіздік",
+      "items": [
+        { "kk": "хакер", "en": "hacker", "translit": "xaker" },
+        { "kk": "дерекқор", "en": "database", "translit": "derekqor" },
+        { "kk": "құпия сөз", "en": "password", "translit": "qupïya söz" },
+        { "kk": "Хакерлер жүйеге кірмек болды.", "en": "Hackers tried to enter the system.", "translit": "xakerler jüyege kirmek boldı" },
+        { "kk": "Дерекқор қорғалған.", "en": "The database is protected.", "translit": "derekqor qorğalğan" },
+        { "kk": "Күрделі құпия сөз қолданыңыз.", "en": "Use a complex password. (formal)", "translit": "kürdeli qupïya söz qoldanıñız" }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Anthropology & Culture Studies",
+      "titleNative": "Антропология мен мәдениеттану",
+      "items": [
+        { "kk": "этнос", "en": "ethnicity/ethnic group", "translit": "etnos" },
+        { "kk": "салт-дәстүр", "en": "customs and traditions", "translit": "salt-döstür" },
+        { "kk": "қоғамдық норма", "en": "social norm", "translit": "qoğamdıq norma" },
+        { "kk": "Әр этностың өз мәдениеті бар.", "en": "Every ethnic group has its own culture.", "translit": "är etnostıñ öz mädenïeti bar" },
+        { "kk": "Салт-дәстүрді сақтау маңызды.", "en": "Preserving customs and traditions is important.", "translit": "salt-döstürdi saqtaw mañızdı" },
+        { "kk": "Қоғамдық нормалар уақыт өте өзгереді.", "en": "Social norms change over time.", "translit": "qoğamdıq normalar waqıt öte özgeredi" }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Macroeconomics",
+      "titleNative": "Макроэкономика",
+      "items": [
+        { "kk": "жалпы ішкі өнім", "en": "GDP", "translit": "jalpı işki önim" },
+        { "kk": "бюджет", "en": "budget", "translit": "byudjet" },
+        { "kk": "Жалпы ішкі өнім өсті.", "en": "GDP grew.", "translit": "jalpı işki önim östi" },
+        { "kk": "Инфляция бақылауда.", "en": "Inflation is under control.", "translit": "ïnflyatsïya baqılawda" },
+        { "kk": "Мемлекеттік бюджет бекітілді.", "en": "The state budget was approved.", "translit": "memlekettik byudjet bekitildi" }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Judicial System",
+      "titleNative": "Сот жүйесі",
+      "items": [
+        { "kk": "судья", "en": "judge", "translit": "swd'ya" },
+        { "kk": "үкім", "en": "verdict", "translit": "ükim" },
+        { "kk": "апелляция", "en": "appeal", "translit": "apellyatsïya" },
+        { "kk": "Судья үкім шығарды.", "en": "The judge issued a verdict.", "translit": "swd'ya ükim şığardı" },
+        { "kk": "Айыпталушы апелляция берді.", "en": "The defendant filed an appeal.", "translit": "ayıptalwşı apellyatsïya berdi" },
+        { "kk": "Сот процесі әділ өтуі керек.", "en": "The court process must be fair.", "translit": "sot protsesi ädil ötwi kerek" }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Astrophysics",
+      "titleNative": "Астрофизика",
+      "items": [
+        { "kk": "қара тесік", "en": "black hole", "translit": "qara tesik" },
+        { "kk": "жарық жылы", "en": "light year", "translit": "jarıq jılı" },
+        { "kk": "Қара тесік жарықты да жұтады.", "en": "A black hole absorbs even light.", "translit": "qara tesik jarıqtı da jutadı" },
+        { "kk": "Біздің галактикамыздың аты — Құс жолы.", "en": "Our galaxy is called the Milky Way.", "translit": "bizdiñ galaktïkamızdıñ atı — Qus jolı" },
+        { "kk": "Ол жұлдыз бізден мың жарық жылы қашықтықта.", "en": "That star is a thousand light years away from us.", "translit": "ol juldız bizden mıñ jarıq jılı qaşıqtıqta" }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Linguistics",
+      "titleNative": "Тіл білімі",
+      "items": [
+        { "kk": "грамматика", "en": "grammar", "translit": "grammatïka" },
+        { "kk": "фонетика", "en": "phonetics", "translit": "fonetïka" },
+        { "kk": "Грамматика тілдің құрылымын зерттейді.", "en": "Grammar studies the structure of language.", "translit": "grammatïka tildiñ qurılımın zertteydi" },
+        { "kk": "Фонетика дыбыстарды зерттейді.", "en": "Phonetics studies sounds.", "translit": "fonetïka dıbıstardı zertteydi" },
+        { "kk": "Тіл білімі қызықты ғылым.", "en": "Linguistics is an interesting science.", "translit": "til bilimi qızıqtı ğılım" }
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Political Theory",
+      "titleNative": "Саяси теория",
+      "items": [
+        { "kk": "демократия", "en": "democracy", "translit": "demokratïya" },
+        { "kk": "билік бөлінісі", "en": "separation of powers", "translit": "bïlik bölinisi" },
+        { "kk": "азаматтық қоғам", "en": "civil society", "translit": "azamattıq qoğam" },
+        { "kk": "Демократия — халық билігі.", "en": "Democracy is the power of the people.", "translit": "demokratïya — xalıq bïligi" },
+        { "kk": "Билік бөлінісі маңызды принцип.", "en": "Separation of powers is an important principle.", "translit": "bïlik bölinisi mañızdı prïntsïp" },
+        { "kk": "Азаматтық қоғам дамуда.", "en": "Civil society is developing.", "translit": "azamattıq qoğam damwda" }
+      ]
+    }
+  ]
+}

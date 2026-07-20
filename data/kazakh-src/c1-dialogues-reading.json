@@ -1,0 +1,204 @@
+{
+  "level": "c1",
+  "lessons": [
+    {
+      "number": 27,
+      "title": "Conversation: A Diplomatic Meeting",
+      "titleNative": "Дипломатиялық кездесу",
+      "items": [
+        { "kk": "Елшілік өкілімен кездесу жоспарлаған.", "en": "A meeting with the embassy representative was planned.", "translit": "elşilik ökilimen kezdesw josparlağan" },
+        { "kk": "Қандай мәселе талқыланады?", "en": "What issue will be discussed?", "translit": "qanday mäsele talqılanadı" },
+        { "kk": "Екі ел арасындағы сауда қатынасы.", "en": "Trade relations between the two countries.", "translit": "eki el arasındağı sawda qatınası" },
+        { "kk": "Бұл маңызды тақырып.", "en": "This is an important topic.", "translit": "bul mañızdı taqırıp" },
+        { "kk": "Кездесу нәтижелі болды.", "en": "The meeting was productive.", "translit": "kezdesw nätïjeli boldı" },
+        { "kk": "Келесі қадамдарды талқыладық.", "en": "We discussed the next steps.", "translit": "kelesi qadamdardı talqıladıq" }
+      ]
+    },
+    {
+      "number": 28,
+      "title": "Conversation: The Stock Market",
+      "titleNative": "Биржа туралы әңгіме",
+      "items": [
+        { "kk": "Бүгін биржада не болды?", "en": "What happened on the exchange today?", "translit": "bügin bïrjada ne boldı" },
+        { "kk": "Акциялар бағасы түсті.", "en": "Stock prices fell.", "translit": "aktsïyalar bağası tüsti" },
+        { "kk": "Неге түсті?", "en": "Why did they fall?", "translit": "nege tüsti" },
+        { "kk": "Нарықта белгісіздік көп.", "en": "There's a lot of uncertainty in the market.", "translit": "narıqta belgisizdik köp" },
+        { "kk": "Инвестиция салуды жоспарлап па едің?", "en": "Were you planning to invest? (informal)", "translit": "ïnvestïtsïya salwdı josparlap pa ediñ" },
+        { "kk": "Иә, бірақ сәл күте тұрамын.", "en": "Yes, but I'll wait a bit.", "translit": "ïä, biraq säl küte turamın" }
+      ]
+    },
+    {
+      "number": 29,
+      "title": "Conversation: A Court Hearing",
+      "titleNative": "Сот отырысы",
+      "items": [
+        { "kk": "Сот отырысы қашан басталады?", "en": "When does the court hearing begin?", "translit": "sot otırısı qaşan bastaladı" },
+        { "kk": "Он минуттан кейін.", "en": "In ten minutes.", "translit": "on mïnwttan keyin" },
+        { "kk": "Судья кім?", "en": "Who is the judge?", "translit": "swd'ya kim" },
+        { "kk": "Тәжірибелі судья.", "en": "An experienced judge.", "translit": "täjirïbeli swd'ya" },
+        { "kk": "Айыпталушы қатыса ма?", "en": "Will the defendant attend?", "translit": "ayıptalwşı qatısa ma" },
+        { "kk": "Иә, адвокатымен бірге келеді.", "en": "Yes, he/she will come with a lawyer.", "translit": "ïä, advokatımen birge keledi" }
+      ]
+    },
+    {
+      "number": 30,
+      "title": "Conversation: A Scientific Conference",
+      "titleNative": "Ғылыми конференция",
+      "items": [
+        { "kk": "Конференцияда не туралы баяндама жасайсың?", "en": "What will your presentation at the conference be about? (informal)", "translit": "konferentsïyada ne twralı bayandama jasaysıñ" },
+        { "kk": "Ми мен жад арасындағы байланыс туралы.", "en": "About the connection between the brain and memory.", "translit": "mï men jad arasındağı baylanıs twralı" },
+        { "kk": "Қызық тақырып.", "en": "Interesting topic.", "translit": "qızıq taqırıp" },
+        { "kk": "Зерттеу нәтижелерім таң қалдырады деп ойлаймын.", "en": "I think my research results will be surprising.", "translit": "zertew nätïjelerim tañ qaldıradı dep oylaymın" },
+        { "kk": "Сәттілік тілеймін.", "en": "I wish you success.", "translit": "sättilik tileymin" },
+        { "kk": "Рахмет, дайындалып жатырмын.", "en": "Thank you, I'm preparing.", "translit": "rahmet, dayındalıp jatırmın" }
+      ]
+    },
+    {
+      "number": 31,
+      "title": "Conversation: Climate Policy",
+      "titleNative": "Климаттық саясат туралы",
+      "items": [
+        { "kk": "Жаңа климаттық заң қабылданды ма?", "en": "Was the new climate law adopted?", "translit": "jaña klïmattıq zañ qabıldandı ma" },
+        { "kk": "Иә, парламент мақұлдады.", "en": "Yes, parliament approved it.", "translit": "ïä, parlament maquldadı" },
+        { "kk": "Оның негізгі мақсаты не?", "en": "What is its main goal?", "translit": "onıñ negizgi maqsatı ne" },
+        { "kk": "Көміртегі шығарындысын азайту.", "en": "To reduce carbon emissions.", "translit": "kömirtegi şığarındısın azaytw" },
+        { "kk": "Бұл нақты нәтиже бере ме?", "en": "Will this give a real result?", "translit": "bul naqtı nätïje bere me" },
+        { "kk": "Уақыт көрсетеді.", "en": "Time will tell.", "translit": "waqıt körsetedi" }
+      ]
+    },
+    {
+      "number": 32,
+      "title": "Conversation: A Cybersecurity Incident",
+      "titleNative": "Киберқауіпсіздік оқиғасы",
+      "items": [
+        { "kk": "Жүйеге хакерлер шабуыл жасады.", "en": "Hackers attacked the system.", "translit": "jüyege xakerler şabwıl jasadı" },
+        { "kk": "Қашан байқадыңыз?", "en": "When did you notice? (formal)", "translit": "qaşan bayqadıñız" },
+        { "kk": "Бүгін таңертең.", "en": "This morning.", "translit": "bügin tañerteñ" },
+        { "kk": "Дерекқор қауіпсіз бе?", "en": "Is the database secure?", "translit": "derekqor qawipsiz be" },
+        { "kk": "Тексеріп жатырмыз.", "en": "We're checking.", "translit": "tekserip jatırmız" },
+        { "kk": "Барлық құпия сөзді ауыстырыңыз.", "en": "Change all the passwords. (formal)", "translit": "barlıq qupïya sözdi awıstırıñız" }
+      ]
+    },
+    {
+      "number": 33,
+      "title": "Conversation: A Philosophy Seminar",
+      "titleNative": "Философия семинары",
+      "items": [
+        { "kk": "Бүгінгі тақырып — әділеттілік туралы.", "en": "Today's topic is about justice.", "translit": "bügingi taqırıp — ädilettilik twralı" },
+        { "kk": "Әділеттілік дегеніміз не?", "en": "What is justice?", "translit": "ädilettilik degenimiz ne" },
+        { "kk": "Әр философ өзінше түсіндіреді.", "en": "Each philosopher explains it differently.", "translit": "är fïlosof özinşe tüsindiredi" },
+        { "kk": "Сенің пікірің қандай?", "en": "What's your opinion? (informal)", "translit": "seniñ pikiriñ qanday" },
+        { "kk": "Мен теңдікпен байланысты деп ойлаймын.", "en": "I think it's connected to equality.", "translit": "men teñdikpen baylanıstı dep oylaymın" },
+        { "kk": "Қызық көзқарас.", "en": "Interesting perspective.", "translit": "qızıq közqaras" }
+      ]
+    },
+    {
+      "number": 34,
+      "title": "Conversation: A Corporate Board Meeting",
+      "titleNative": "Корпоративтік басқарма жиналысы",
+      "items": [
+        { "kk": "Бүгінгі жиналыстың негізгі мәселесі не?", "en": "What is today's meeting's main issue?", "translit": "bügingi jïnalıstıñ negizgi mäselesi ne" },
+        { "kk": "Жаңа стратегияны бекіту.", "en": "Approving the new strategy.", "translit": "jaña strategïyanı bekitw" },
+        { "kk": "Акционерлер келісе ме?", "en": "Will the shareholders agree?", "translit": "aktsïonerler kelise me" },
+        { "kk": "Көпшілігі қолдайды деп ойлаймын.", "en": "I think most will support it.", "translit": "köpşiligi qoldaydı dep oylaymın" },
+        { "kk": "Дауыс беруге көшейік.", "en": "Let's move to voting.", "translit": "dawıs berwge köşeyik" },
+        { "kk": "Жарайды, бастайық.", "en": "Alright, let's begin.", "translit": "jaraydı, bastayıq" }
+      ]
+    },
+    {
+      "number": 35,
+      "title": "The Global Impact of Cybersecurity Threats",
+      "titleNative": "Киберқауіптің жаһандық әсері",
+      "context": "Киберқауіпсіздіктің қазіргі маңызы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазіргі әлемде киберқауіп артып келеді.", "en": "In today's world, cyber threats are increasing." },
+        { "kk": "Компаниялар мен мемлекеттер шабуылға ұшырауда.", "en": "Companies and states are being subjected to attacks." },
+        { "kk": "Мамандар қауіпсіздік жүйесін үнемі жетілдіруде.", "en": "Experts are constantly improving security systems." },
+        { "kk": "Дегенмен, хакерлер де жаңа әдістер табуда.", "en": "However, hackers are also finding new methods." },
+        { "kk": "Пайдаланушылардың сақ болуы да маңызды.", "en": "Users being cautious is also important." },
+        { "kk": "Киберқауіпсіздік — ортақ жауапкершілік.", "en": "Cybersecurity is a shared responsibility." }
+      ],
+      "questions": [
+        { "question": "What is increasing in today's world?", "options": ["Cyber threats", "Peace", "Nothing", "Trust"], "answerIndex": 0 },
+        { "question": "What are experts doing?", "options": ["Ignoring threats", "Improving security systems", "Nothing", "Creating threats"], "answerIndex": 1 },
+        { "question": "What is called a shared responsibility?", "options": ["Cooking", "Cybersecurity", "Farming", "Sports"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 36,
+      "title": "Understanding the Stock Market",
+      "titleNative": "Биржаны түсіну",
+      "context": "Биржа мен инвестициялау туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Биржа — компаниялардың акциясы сатылатын орын.", "en": "The stock exchange is where companies' shares are sold." },
+        { "kk": "Инвесторлар пайда табу мақсатында акция сатып алады.", "en": "Investors buy shares with the goal of making a profit." },
+        { "kk": "Нарық тұрақсыз болуы мүмкін.", "en": "The market can be unstable." },
+        { "kk": "Сондықтан білікті талдау жасау маңызды.", "en": "Therefore, competent analysis is important." },
+        { "kk": "Кейбір инвесторлар ұзақ мерзімге ойлайды.", "en": "Some investors think long-term." },
+        { "kk": "Басқалары тез пайда іздейді.", "en": "Others seek quick profit." }
+      ],
+      "questions": [
+        { "question": "What is the stock exchange?", "options": ["A bank", "Where shares are sold", "A court", "A school"], "answerIndex": 1 },
+        { "question": "Why do investors buy shares?", "options": ["For fun", "To make a profit", "To lose money", "Randomly"], "answerIndex": 1 },
+        { "question": "What do some investors think about?", "options": ["Nothing", "Long-term", "Only today", "The past"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 37,
+      "title": "The Role of the Judiciary",
+      "titleNative": "Сот жүйесінің рөлі",
+      "context": "Сот жүйесі мен әділеттіліктің маңызы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Сот жүйесі қоғамдағы әділеттілікті қамтамасыз етеді.", "en": "The judicial system ensures justice in society." },
+        { "kk": "Судьялар тәуелсіз шешім қабылдауы керек.", "en": "Judges must make independent decisions." },
+        { "kk": "Заң алдында бәрі тең.", "en": "Everyone is equal before the law." },
+        { "kk": "Апелляция беру құқығы әркімде бар.", "en": "Everyone has the right to file an appeal." },
+        { "kk": "Әділ сот — демократияның негізі.", "en": "A fair court is the foundation of democracy." },
+        { "kk": "Сот жүйесіне сенім маңызды.", "en": "Trust in the judicial system is important." }
+      ],
+      "questions": [
+        { "question": "What does the judicial system ensure?", "options": ["Chaos", "Justice", "Wealth", "Nothing"], "answerIndex": 1 },
+        { "question": "What must judges do?", "options": ["Follow orders blindly", "Make independent decisions", "Avoid decisions", "Ignore the law"], "answerIndex": 1 },
+        { "question": "What is called the foundation of democracy?", "options": ["Money", "A fair court", "Sports", "Trade"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 38,
+      "title": "Advances in Neuroscience",
+      "titleNative": "Нейроғылымдағы жетістіктер",
+      "context": "Нейроғылымдағы соңғы зерттеулер туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Соңғы жылдары нейроғылым қарқынды дамыды.", "en": "In recent years, neuroscience has developed rapidly." },
+        { "kk": "Ғалымдар мидың жұмысын жақсырақ түсінуде.", "en": "Scientists are understanding the brain's function better." },
+        { "kk": "Жад пен эмоцияның байланысы зерттелуде.", "en": "The connection between memory and emotion is being studied." },
+        { "kk": "Бұл зерттеулер аурулармен күресуге көмектеседі.", "en": "These studies help fight diseases." },
+        { "kk": "Технология да зерттеуге ықпал етеді.", "en": "Technology also influences the research." },
+        { "kk": "Болашақта миды толық түсіну мүмкін болуы мүмкін.", "en": "In the future, fully understanding the brain might become possible." }
+      ],
+      "questions": [
+        { "question": "What has developed rapidly in recent years?", "options": ["Agriculture", "Neuroscience", "Fashion", "Sports"], "answerIndex": 1 },
+        { "question": "What is being studied?", "options": ["Nothing", "The connection between memory and emotion", "Only sleep", "Only food"], "answerIndex": 1 },
+        { "question": "What might become possible in the future?", "options": ["Nothing new", "Fully understanding the brain", "Time travel", "Flying cars"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 39,
+      "title": "Democracy and Civil Society",
+      "titleNative": "Демократия мен азаматтық қоғам",
+      "context": "Демократия мен азаматтық қоғамның байланысы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Демократия — халықтың өз тағдырын шешу құқығы.", "en": "Democracy is the people's right to decide their own fate." },
+        { "kk": "Азаматтық қоғам демократияны нығайтады.", "en": "Civil society strengthens democracy." },
+        { "kk": "Ұйымдар мен азаматтар мемлекетті бақылауға көмектеседі.", "en": "Organizations and citizens help oversee the state." },
+        { "kk": "Билік бөлінісі теріс пайдалануды болдырмайды.", "en": "Separation of powers prevents abuse." },
+        { "kk": "Дегенмен, демократияны сақтау оңай емес.", "en": "However, preserving democracy is not easy." },
+        { "kk": "Әр азаматтың белсенді болуы маңызды.", "en": "Every citizen being active is important." }
+      ],
+      "questions": [
+        { "question": "What is democracy, per the passage?", "options": ["Chaos", "The people's right to decide their fate", "A type of business", "A sport"], "answerIndex": 1 },
+        { "question": "What strengthens democracy?", "options": ["Nothing", "Civil society", "Silence", "Isolation"], "answerIndex": 1 },
+        { "question": "What does separation of powers prevent?", "options": ["Progress", "Abuse", "Nothing", "Peace"], "answerIndex": 1 }
+      ]
+    }
+  ]
+}
