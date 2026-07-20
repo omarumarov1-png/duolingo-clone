@@ -1,0 +1,128 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "number": 25,
+      "title": "Conversation: At a Café",
+      "titleNative": "Кафеде",
+      "items": [
+        { "kk": "Қош келдіңіз! Не тапсырасыз?", "en": "Welcome! What would you like to order?", "translit": "qoş keldiñiz! ne tapsırasız" },
+        { "kk": "Бір кофе, өтінемін.", "en": "One coffee, please.", "translit": "bir kofe, ötinemin" },
+        { "kk": "Тәтті нәрсе қалайсыз ба?", "en": "Would you like something sweet?", "translit": "tätti närse qalaysız ba" },
+        { "kk": "Иә, торт алайын.", "en": "Yes, I'll take some cake.", "translit": "ïä, tort alayın" },
+        { "kk": "Басқа тілегіңіз бар ма?", "en": "Do you have any other wishes?", "translit": "basqa tilegiñiz bar ma" },
+        { "kk": "Жоқ, рахмет, жеткілікті.", "en": "No, thank you, that's enough.", "translit": "joq, rahmet, jetkilikti" },
+        { "kk": "Есепшот, өтінемін.", "en": "The bill, please.", "translit": "esepşot, ötinemin" },
+        { "kk": "Міне, алыңыз.", "en": "Here you go, take it.", "translit": "mine, alıñız" },
+        { "kk": "Қанша болды?", "en": "How much was it?", "translit": "qanşa boldı" },
+        { "kk": "Екі мың теңге.", "en": "Two thousand tenge.", "translit": "eki mıñ teñge" }
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Conversation: Asking for Directions",
+      "titleNative": "Бағыт сұрау",
+      "items": [
+        { "kk": "Кешіріңіз, вокзалға қалай барамын?", "en": "Excuse me, how do I get to the train station?", "translit": "keşiriñiz, vokzalğa qalay baramın" },
+        { "kk": "Тіке жүріп, оңға бұрылыңыз.", "en": "Go straight and turn right.", "translit": "tike jürip, oñğa burılıñız" },
+        { "kk": "Алыс па?", "en": "Is it far?", "translit": "alıs pa" },
+        { "kk": "Жоқ, жақын, бес минут.", "en": "No, it's close, five minutes.", "translit": "joq, jaqın, bes mïnwt" },
+        { "kk": "Рахмет көп көмегіңізге.", "en": "Thank you very much for your help.", "translit": "rahmet köp kömegiñizge" },
+        { "kk": "Оқасы жоқ.", "en": "You're welcome / no trouble.", "translit": "oqası joq" },
+        { "kk": "Автобус аялдамасы қайда?", "en": "Where's the bus stop?", "translit": "avtobws ayaldaması qayda" },
+        { "kk": "Сол жақта, дүкеннің қасында.", "en": "It's on the left, next to the shop.", "translit": "sol jaqta, dükenniñ qasında" }
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Conversation: At the Doctor",
+      "titleNative": "Дәрігерде",
+      "items": [
+        { "kk": "Не мазалайды?", "en": "What's bothering you?", "translit": "ne mazalaydı" },
+        { "kk": "Басым қатты ауырады.", "en": "My head hurts a lot.", "translit": "basım qattı awıradı" },
+        { "kk": "Қашаннан бері ауырады?", "en": "How long has it been hurting?", "translit": "qaşannan beri awıradı" },
+        { "kk": "Екі күннен бері.", "en": "Since two days ago.", "translit": "eki künnen beri" },
+        { "kk": "Температураңызды өлшейік.", "en": "Let's measure your temperature.", "translit": "temperaturañızdı ölşeyik" },
+        { "kk": "Сізге дәрі жазып беремін.", "en": "I'll prescribe you medicine.", "translit": "sizge däri jazıp beremin" },
+        { "kk": "Күніне үш рет ішіңіз.", "en": "Take it three times a day.", "translit": "künine üş ret işiñiz" },
+        { "kk": "Рахмет, дәрігер.", "en": "Thank you, doctor.", "translit": "rahmet, däriger" }
+      ]
+    },
+    {
+      "number": 28,
+      "title": "Conversation: Job Interview",
+      "titleNative": "Жұмысқа сұхбат",
+      "items": [
+        { "kk": "Өзіңіз туралы айтып беріңіз.", "en": "Please tell me about yourself.", "translit": "öziñiz twralı aytıp beriñiz" },
+        { "kk": "Мен бес жыл тәжірибем бар инженермін.", "en": "I am an engineer with five years of experience.", "translit": "men bes jıl täjiribem bar ïnjenermin" },
+        { "kk": "Неге бізде жұмыс істегіңіз келеді?", "en": "Why do you want to work with us?", "translit": "nege bizde jumıs istegiñiz keledi" },
+        { "kk": "Компанияңыз маған қызықты.", "en": "Your company is interesting to me.", "translit": "kompanïyañız mağan qızıqtı" },
+        { "kk": "Қашан бастай аласыз?", "en": "When can you start?", "translit": "qaşan bastay alasız" },
+        { "kk": "Келесі аптадан бастай аламын.", "en": "I can start from next week.", "translit": "kelesi aptadan bastay alamın" },
+        { "kk": "Сұрағыңыз бар ма?", "en": "Do you have any questions?", "translit": "surağıñız bar ma" },
+        { "kk": "Жалақы қанша болады?", "en": "What will the salary be?", "translit": "jalaqı qanşa boladı" }
+      ]
+    },
+    {
+      "number": 29,
+      "title": "Conversation: Phone Call",
+      "titleNative": "Телефон соғу",
+      "items": [
+        { "kk": "Алло, тыңдап тұрмын.", "en": "Hello, I'm listening.", "translit": "allo, tıñdap turmın" },
+        { "kk": "Сәлем, бұл Айдос.", "en": "Hi, this is Aidos.", "translit": "sälem, bul Aydos" },
+        { "kk": "Қалайсың? Дауысыңды естігеніме қуаныштымын.", "en": "How are you? I'm happy to hear your voice.", "translit": "qalaysıñ? dawısıñdı estigenime quwanıştımın" },
+        { "kk": "Жақсымын, сен ше?", "en": "I'm good, and you?", "translit": "jaqsımın, sen şe" },
+        { "kk": "Бүгін кездесе аламыз ба?", "en": "Can we meet today?", "translit": "bügin kezdese alamız ba" },
+        { "kk": "Иә, сағат алтыда бола ма?", "en": "Yes, how about six o'clock?", "translit": "ïä, sağat altıda bola ma" },
+        { "kk": "Жарайды, сонда көрісейік.", "en": "Alright, see you then.", "translit": "jaraydı, sonda körisejik" },
+        { "kk": "Сау бол, кездескенше!", "en": "Bye, until we meet!", "translit": "saw bol, kezdeskenşe" }
+      ]
+    },
+    {
+      "number": 30,
+      "title": "Conversation: At the Bazaar",
+      "titleNative": "Базарда",
+      "items": [
+        { "kk": "Мынау алманың бағасы қанша?", "en": "How much are these apples?", "translit": "mınaw almanıñ bağası qanşa" },
+        { "kk": "Бір келісі бес жүз теңге.", "en": "One kilo is five hundred tenge.", "translit": "bir kelisi bes jüz teñge" },
+        { "kk": "Арзандатсаңыз бола ма?", "en": "Could you lower the price?", "translit": "arzandatsañız bola ma" },
+        { "kk": "Жарайды, төрт жүзге беремін.", "en": "Alright, I'll give it for four hundred.", "translit": "jaraydı, tört jüzge beremin" },
+        { "kk": "Екі келі алайын.", "en": "I'll take two kilos.", "translit": "eki keli alayın" },
+        { "kk": "Тағы басқа не керек?", "en": "What else do you need?", "translit": "tağı basqa ne kerek" },
+        { "kk": "Қызанақ пен қияр да керек.", "en": "I also need tomatoes and cucumbers.", "translit": "qızanaq pen qïyar da kerek" },
+        { "kk": "Міне, барлығы дайын.", "en": "Here, everything is ready.", "translit": "mine, barlığı dayın" }
+      ]
+    },
+    {
+      "number": 31,
+      "title": "Conversation: Meeting New People",
+      "titleNative": "Танысу",
+      "items": [
+        { "kk": "Сәлем, менің атым Данияр.", "en": "Hi, my name is Daniyar.", "translit": "sälem, meniñ atım Danïyar" },
+        { "kk": "Танысқаныма қуаныштымын, Данияр.", "en": "Nice to meet you, Daniyar.", "translit": "tanısqanıma quwanıştımın, Danïyar" },
+        { "kk": "Сен қайдансың?", "en": "Where are you from? (informal)", "translit": "sen qaydansıñ" },
+        { "kk": "Мен Шымкенттенмін. Ал сен?", "en": "I'm from Shymkent. And you?", "translit": "men Şımkenttenmin. al sen" },
+        { "kk": "Мен Астанаданмын.", "en": "I'm from Astana.", "translit": "men Astanadanmın" },
+        { "kk": "Немен айналысасың?", "en": "What do you do (for work/hobby)?", "translit": "nemen aynalısasıñ" },
+        { "kk": "Мен дизайнермін.", "en": "I am a designer.", "translit": "men dïzaynermin" },
+        { "kk": "Тамаша! Байланыс сақтайық.", "en": "Great! Let's stay in touch.", "translit": "tamaşa! baylanıs saqtayıq" }
+      ]
+    },
+    {
+      "number": 32,
+      "title": "Conversation: Family Gathering",
+      "titleNative": "Отбасылық жиын",
+      "items": [
+        { "kk": "Бәріміз жиналдық.", "en": "We all gathered.", "translit": "bärimiz jïnaldıq" },
+        { "kk": "Ата-әже де келді ме?", "en": "Did grandpa and grandma come too?", "translit": "ata-äje de keldi me" },
+        { "kk": "Иә, олар да келді.", "en": "Yes, they came too.", "translit": "ïä, olar da keldi" },
+        { "kk": "Дастархан дайын ба?", "en": "Is the table ready?", "translit": "dastarxan dayın ba" },
+        { "kk": "Иә, барлығы дайын, отырайық.", "en": "Yes, everything is ready, let's sit down.", "translit": "ïä, barlığı dayın, otırayıq" },
+        { "kk": "Асты кім пісірді?", "en": "Who cooked the food?", "translit": "astı kim pisirdi" },
+        { "kk": "Анам мен апам бірге пісірді.", "en": "My mother and older sister cooked it together.", "translit": "anam men apam birge pisirdi" },
+        { "kk": "Өте дәмді болыпты!", "en": "It turned out very tasty!", "translit": "öte dämdi bolıptı" },
+        { "kk": "Ас болсын!", "en": "Bon appétit!", "translit": "as bolsın" }
+      ]
+    }
+  ]
+}

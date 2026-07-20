@@ -1,0 +1,101 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "number": 33,
+      "title": "A Trip to Turkistan",
+      "titleNative": "Түркістанға саяхат",
+      "context": "Данияр деген жігіттің Түркістанға саяхаты туралы қысқа әңгіме.",
+      "paragraphs": [
+        { "kk": "Жаз бойы Данияр Түркістанға саяхаттауды жоспарлады.", "en": "Over the summer, Daniyar planned to travel to Turkistan." },
+        { "kk": "Ол пойызбен барды, себебі жол ұзақ болды.", "en": "He went by train, because the journey was long." },
+        { "kk": "Түркістанда ол Қожа Ахмет Ясауи кесенесін көрді.", "en": "In Turkistan, he saw the Khoja Ahmet Yasawi Mausoleum." },
+        { "kk": "Кесене өте әдемі және тарихи маңызды.", "en": "The mausoleum is very beautiful and historically significant." },
+        { "kk": "Данияр жергілікті тағамдарды дәмдеп көрді.", "en": "Daniyar tried the local food." },
+        { "kk": "Ол саяхаттан көп әсер алды.", "en": "He got a lot of impressions from the trip." }
+      ],
+      "questions": [
+        { "question": "How did Daniyar travel to Turkistan?", "options": ["By plane", "By train", "By car", "By bus"], "answerIndex": 1 },
+        { "question": "What did he see in Turkistan?", "options": ["A lake", "A mountain", "A mausoleum", "A university"], "answerIndex": 2 },
+        { "question": "What did Daniyar do with local food?", "options": ["Cooked it", "Sold it", "Tried it", "Ignored it"], "answerIndex": 2 }
+      ]
+    },
+    {
+      "number": 34,
+      "title": "Nauryz Celebration",
+      "titleNative": "Наурыз мерекесі",
+      "context": "Наурыз мерекесі туралы қысқа мәтін.",
+      "paragraphs": [
+        { "kk": "Наурыз — көктемгі мереке.", "en": "Nauryz is a spring holiday." },
+        { "kk": "Ол әрбір жылдың 22 наурызында тойланады.", "en": "It is celebrated every year on March 22nd." },
+        { "kk": "Бұл күні адамдар жаңа жылды қарсы алады.", "en": "On this day, people welcome the new year." },
+        { "kk": "Дастарханда наурыз көже дайындалады.", "en": "Nauryz kozhe is prepared on the table." },
+        { "kk": "Отбасылар бірге жиналып, той өткізеді.", "en": "Families gather together and hold a celebration." },
+        { "kk": "Балалар ән айтып, би билейді.", "en": "Children sing songs and dance." }
+      ],
+      "questions": [
+        { "question": "When is Nauryz celebrated?", "options": ["January 1", "March 22", "May 9", "December 16"], "answerIndex": 1 },
+        { "question": "What dish is prepared for Nauryz?", "options": ["Nauryz kozhe", "Pizza", "Sushi", "Pilaf only"], "answerIndex": 0 },
+        { "question": "What do children do during Nauryz?", "options": ["Study", "Work", "Sing and dance", "Sleep"], "answerIndex": 2 }
+      ]
+    },
+    {
+      "number": 35,
+      "title": "A Job Interview Story",
+      "titleNative": "Жұмысқа сұхбат туралы әңгіме",
+      "context": "Айгерімнің жұмысқа сұхбатқа баруы туралы қысқа әңгіме.",
+      "paragraphs": [
+        { "kk": "Айгерім жаңа жұмысқа сұхбатқа барды.", "en": "Aigerim went to an interview for a new job." },
+        { "kk": "Ол ерте тұрып, жақсы киінді.", "en": "She got up early and dressed well." },
+        { "kk": "Сұхбатта олар оның тәжірибесі туралы сұрады.", "en": "In the interview, they asked about her experience." },
+        { "kk": "Айгерім сенімді түрде жауап берді.", "en": "Aigerim answered confidently." },
+        { "kk": "Бір апта өткен соң, оған қоңырау шалды.", "en": "A week later, they called her." },
+        { "kk": "Ол жұмысқа қабылданды!", "en": "She was hired!" }
+      ],
+      "questions": [
+        { "question": "What did Aigerim do before the interview?", "options": ["Slept late", "Got up early", "Went shopping", "Called a friend"], "answerIndex": 1 },
+        { "question": "What did they ask about?", "options": ["Her family", "Her experience", "Her hobbies", "Her age"], "answerIndex": 1 },
+        { "question": "What was the result?", "options": ["She was rejected", "She was hired", "She quit", "Nothing happened"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 36,
+      "title": "Starting University",
+      "titleNative": "Университетке түсу",
+      "context": "Бекзаттың университетке түсуі туралы қысқа әңгіме.",
+      "paragraphs": [
+        { "kk": "Бекзат биыл университетке түсті.", "en": "Bekzat entered university this year." },
+        { "kk": "Ол инженерлік факультетте оқиды.", "en": "He studies at the engineering faculty." },
+        { "kk": "Бірінші күні ол көп жаңа адаммен танысты.", "en": "On the first day, he met many new people." },
+        { "kk": "Дәрістер қиын, бірақ қызықты.", "en": "The lectures are difficult but interesting." },
+        { "kk": "Ол кітапханада көп уақыт өткізеді.", "en": "He spends a lot of time in the library." },
+        { "kk": "Бекзат болашақта жақсы инженер болғысы келеді.", "en": "Bekzat wants to become a good engineer in the future." }
+      ],
+      "questions": [
+        { "question": "What faculty does Bekzat study at?", "options": ["Medicine", "Law", "Engineering", "Art"], "answerIndex": 2 },
+        { "question": "How does Bekzat describe the lectures?", "options": ["Easy and boring", "Difficult but interesting", "Short", "Useless"], "answerIndex": 1 },
+        { "question": "Where does he spend a lot of time?", "options": ["The gym", "The library", "The cafe", "Home"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 37,
+      "title": "A Letter to a Friend",
+      "titleNative": "Досқа хат",
+      "context": "Досына жазған хат.",
+      "paragraphs": [
+        { "kk": "Құрметті Айдана,", "en": "Dear Aidana," },
+        { "kk": "Саған хат жазып отырмын, себебі сені сағындым.", "en": "I am writing you a letter because I miss you." },
+        { "kk": "Мен жаңа қалаға көшіп келдім.", "en": "I have moved to a new city." },
+        { "kk": "Мұнда бәрі жаңа және қызық.", "en": "Everything here is new and interesting." },
+        { "kk": "Жаңа достар таптым, бірақ сені әлі есіме аламын.", "en": "I found new friends, but I still remember you." },
+        { "kk": "Жақын арада қонаққа кел, жарай ма?", "en": "Come visit soon, alright?" },
+        { "kk": "Жауабыңды күтемін.", "en": "I'm waiting for your reply." }
+      ],
+      "questions": [
+        { "question": "Why is the writer writing the letter?", "options": ["To complain", "Because they miss their friend", "To ask for money", "To say goodbye forever"], "answerIndex": 1 },
+        { "question": "What happened to the writer recently?", "options": ["Got married", "Moved to a new city", "Started a new job", "Went on vacation"], "answerIndex": 1 },
+        { "question": "What does the writer ask at the end?", "options": ["To send money", "To come visit", "To call every day", "To move too"], "answerIndex": 1 }
+      ]
+    }
+  ]
+}

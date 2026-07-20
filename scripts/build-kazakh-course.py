@@ -136,19 +136,12 @@ def compile_regular_lesson(level, lesson, en_pool_by_level, word_pool):
             "answer": tokens,
         })
 
-        if i % 3 == 0:
-            d2 = sample_distractors(en, level, en_pool_by_level)
-            opts2 = [en] + d2
-            random.shuffle(opts2)
-            exercises.append({
-                "type": "listening",
-                "native": kk,
-                "options": opts2,
-                "answerIndex": opts2.index(en),
-            })
-        elif i % 3 == 1:
-            exercises.append({"type": "listening-tap", "native": kk, "answer": tokens})
-
+        # No "listening"/"listening-tap" exercises for Kazakh — those are
+        # audio-first exercise types, and Kazakh has no reliable browser TTS
+        # voice (VOICE_RANK_BY_LANG.kk is empty in app.js, with no safe
+        # substitute-language fallback the way Tajik borrows Farsi), so they
+        # would render silent/broken. Other exercise types don't depend on
+        # audio, so course density isn't otherwise affected.
         if i % 4 == 3:
             blank_word, blanked_en = pick_blank(en)
             if blank_word:

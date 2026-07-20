@@ -1,0 +1,195 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "number": 13,
+      "title": "Restaurant & Dining",
+      "titleNative": "Мейрамхана мен тамақтану",
+      "items": [
+        { "kk": "мейрамхана", "en": "restaurant", "translit": "meyramxana" },
+        { "kk": "даяшы", "en": "waiter", "translit": "dayaşı" },
+        { "kk": "мәзір", "en": "menu", "translit": "mäzir" },
+        { "kk": "тағам", "en": "dish/food", "translit": "tağam" },
+        { "kk": "Мәзірді әкелші.", "en": "Please bring the menu. (informal)", "translit": "mäzirdi äkelşi" },
+        { "kk": "Мен тапсырыс бергім келеді.", "en": "I would like to order.", "translit": "men tapsırıs bergim keledi" },
+        { "kk": "Есепшотты әкеліңізші.", "en": "Please bring the bill. (formal)", "translit": "esepşottı äkeliñizşi" },
+        { "kk": "Бұл тағам өте дәмді.", "en": "This dish is very tasty.", "translit": "bul tağam öte dämdi" },
+        { "kk": "Дәмдеуіш бересіз бе?", "en": "Could you give me the seasoning? (formal)", "translit": "dämdewiş beresiz be" },
+        { "kk": "Мен вегетариан тағамды жақсы көремін.", "en": "I like vegetarian food.", "translit": "men vegetarïan tağamdı jaqsı köremin" }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Travel & Airport",
+      "titleNative": "Саяхат пен әуежай",
+      "items": [
+        { "kk": "әуежай", "en": "airport", "translit": "äwejay" },
+        { "kk": "билет", "en": "ticket", "translit": "bïlet" },
+        { "kk": "паспорт", "en": "passport", "translit": "pasport" },
+        { "kk": "рейс", "en": "flight", "translit": "reys" },
+        { "kk": "Менің рейсім қашан ұшады?", "en": "When does my flight depart?", "translit": "meniñ reysim qaşan uşadı" },
+        { "kk": "Паспортыңызды көрсетіңіз.", "en": "Please show your passport. (formal)", "translit": "pasportıñızdı körsetiñiz" },
+        { "kk": "Билетімді жоғалттым.", "en": "I lost my ticket.", "translit": "bïletimdi joğalttım" },
+        { "kk": "Жүгіңіз бар ма?", "en": "Do you have luggage? (formal)", "translit": "jügiñiz bar ma" },
+        { "kk": "Кеденнен қалай өтемін?", "en": "How do I get through customs?", "translit": "kedennen qalay ötemin" }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Health & Doctor Visit",
+      "titleNative": "Денсаулық пен дәрігерге бару",
+      "items": [
+        { "kk": "ауру", "en": "illness/sick", "translit": "awrw" },
+        { "kk": "дәрі", "en": "medicine", "translit": "däri" },
+        { "kk": "ауырсыну", "en": "pain", "translit": "awırsınw" },
+        { "kk": "Мен ауырамын.", "en": "I am sick.", "translit": "men awıramın" },
+        { "kk": "Қайда ауырады?", "en": "Where does it hurt?", "translit": "qayda awıradı" },
+        { "kk": "Тамағым ауырады.", "en": "My throat hurts.", "translit": "tamağım awıradı" },
+        { "kk": "Дәріхана қайда?", "en": "Where is the pharmacy?", "translit": "därixana qayda" },
+        { "kk": "Дәрі ішуім керек пе?", "en": "Do I need to take medicine?", "translit": "däri işwim kerek pe" },
+        { "kk": "Температурам жоғары.", "en": "I have a high temperature.", "translit": "temperaturam joğarı" }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Technology & Phone",
+      "titleNative": "Технология мен телефон",
+      "items": [
+        { "kk": "телефон", "en": "phone", "translit": "telefon" },
+        { "kk": "интернет", "en": "internet", "translit": "ïnternet" },
+        { "kk": "қосымша", "en": "application/app", "translit": "qosımşa" },
+        { "kk": "Телефонымның батареясы бітті.", "en": "My phone's battery died.", "translit": "telefonımnıñ batareyası bitti" },
+        { "kk": "Интернетке қосылу керек.", "en": "I need to connect to the internet.", "translit": "ïnternetke qosılw kerek" },
+        { "kk": "Маған нөміріңізді беріңізші.", "en": "Please give me your number. (formal)", "translit": "mağan nömiriñizdi beriñizşi" },
+        { "kk": "Бұл қосымшаны қалай пайдаланамын?", "en": "How do I use this app?", "translit": "bul qosımşanı qalay paydalanamın" },
+        { "kk": "Хабарлама жібердім.", "en": "I sent a message.", "translit": "xabarlama jiberdim" },
+        { "kk": "Компьютерім бұзылды.", "en": "My computer broke.", "translit": "komp'yuterim buzıldı" }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Sports",
+      "titleNative": "Спорт",
+      "items": [
+        { "kk": "спорт", "en": "sport", "translit": "sport" },
+        { "kk": "футбол", "en": "football", "translit": "fwtbol" },
+        { "kk": "жүгіру", "en": "to run", "translit": "jügirw" },
+        { "kk": "жаттығу", "en": "exercise/training", "translit": "jattığw" },
+        { "kk": "Мен футбол ойнаймын.", "en": "I play football.", "translit": "men fwtbol oynaymın" },
+        { "kk": "Ол әр күні жүгіреді.", "en": "He/she runs every day.", "translit": "ol är küni jügiredi" },
+        { "kk": "Спортпен айналысу пайдалы.", "en": "Doing sports is beneficial.", "translit": "sportpen aynalısw paydalı" },
+        { "kk": "Біз спортзалға барамыз.", "en": "We go to the gym.", "translit": "biz sportzalğa baramız" },
+        { "kk": "Ол жүзуді жақсы көреді.", "en": "He/she likes swimming.", "translit": "ol jüzwdi jaqsı köredi" }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Nature & Environment",
+      "titleNative": "Табиғат пен қоршаған орта",
+      "items": [
+        { "kk": "орман", "en": "forest", "translit": "orman" },
+        { "kk": "теңіз", "en": "sea", "translit": "teñiz" },
+        { "kk": "көл", "en": "lake", "translit": "köl" },
+        { "kk": "ауа", "en": "air", "translit": "awa" },
+        { "kk": "Табиғатты сақтау керек.", "en": "We need to protect nature.", "translit": "tabïğattı saqtaw kerek" },
+        { "kk": "Орманда көп ағаш бар.", "en": "There are many trees in the forest.", "translit": "ormanda köp ağaş bar" },
+        { "kk": "Теңіз суы тұзды.", "en": "Sea water is salty.", "translit": "teñiz suwı tuzdı" },
+        { "kk": "Ауа лас болды.", "en": "The air became polluted.", "translit": "awa las boldı" },
+        { "kk": "Көлде балық бар.", "en": "There are fish in the lake.", "translit": "kölde balıq bar" }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Education & University",
+      "titleNative": "Білім мен университет",
+      "items": [
+        { "kk": "университет", "en": "university", "translit": "wnïversïtet" },
+        { "kk": "факультет", "en": "faculty/department", "translit": "fakwl'tet" },
+        { "kk": "дәріс", "en": "lecture", "translit": "däris" },
+        { "kk": "емтихан", "en": "exam", "translit": "emtïxan" },
+        { "kk": "Мен университетте оқимын.", "en": "I study at university.", "translit": "men wnïversïtette oqïmın" },
+        { "kk": "Дәріске кештім.", "en": "I was late for the lecture.", "translit": "däriske keştim" },
+        { "kk": "Ертең емтихан тапсырамын.", "en": "I will take an exam tomorrow.", "translit": "erteñ emtïxan tapsıramın" },
+        { "kk": "Қай факультетте оқисың?", "en": "Which faculty do you study at? (informal)", "translit": "qay fakwl'tette oqïsıñ" },
+        { "kk": "Мен дипломымды қорғадым.", "en": "I defended my diploma/thesis.", "translit": "men dïplomımdı qorğadım" }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Work & Office",
+      "titleNative": "Жұмыс пен кеңсе",
+      "items": [
+        { "kk": "жұмыс", "en": "work", "translit": "jumıs" },
+        { "kk": "кеңсе", "en": "office", "translit": "keñse" },
+        { "kk": "бастық", "en": "boss", "translit": "bastıq" },
+        { "kk": "жалақы", "en": "salary", "translit": "jalaqı" },
+        { "kk": "Мен кеңседе жұмыс істеймін.", "en": "I work in an office.", "translit": "men keñsede jumıs isteymin" },
+        { "kk": "Бастығым қатаң.", "en": "My boss is strict.", "translit": "bastığım qatañ" },
+        { "kk": "Жалақым жаман емес.", "en": "My salary is not bad.", "translit": "jalaqım jaman emes" },
+        { "kk": "Жиналыс сағат онда басталады.", "en": "The meeting starts at ten.", "translit": "jïnalıs sağat onda bastaladı" },
+        { "kk": "Мен демалысқа шықтым.", "en": "I went on vacation.", "translit": "men demalısqa şıqtım" }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Bank & Post Office",
+      "titleNative": "Банк пен пошта",
+      "items": [
+        { "kk": "банк", "en": "bank", "translit": "bank" },
+        { "kk": "пошта", "en": "post office", "translit": "poşta" },
+        { "kk": "шот", "en": "account", "translit": "şot" },
+        { "kk": "хат", "en": "letter", "translit": "xat" },
+        { "kk": "Менің банк шотым бар.", "en": "I have a bank account.", "translit": "meniñ bank şotım bar" },
+        { "kk": "Ақша аударғым келеді.", "en": "I want to transfer money.", "translit": "aqşa awdarğım keledi" },
+        { "kk": "Хатты поштаға апардым.", "en": "I took the letter to the post office.", "translit": "xattı poştağa apardım" },
+        { "kk": "Картам жоғалды.", "en": "My card was lost.", "translit": "kartam joğaldı" }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Holidays & Celebrations",
+      "titleNative": "Мереке мен тойлар",
+      "items": [
+        { "kk": "мереке", "en": "holiday/celebration", "translit": "mereke" },
+        { "kk": "туған күн", "en": "birthday", "translit": "twğan kün" },
+        { "kk": "сыйлық", "en": "gift", "translit": "swiyliq" },
+        { "kk": "Мерекеміз құтты болсын!", "en": "Happy holiday!", "translit": "merekemiz quttı bolsın" },
+        { "kk": "Туған күніңмен!", "en": "Happy birthday! (informal)", "translit": "twğan küniñmen" },
+        { "kk": "Наурыз көктемде тойланады.", "en": "Nauryz is celebrated in spring.", "translit": "Nawrız köktemde toylanadı" },
+        { "kk": "Мен саған сыйлық алдым.", "en": "I bought you a gift. (informal)", "translit": "men sağan swiyliq aldım" },
+        { "kk": "Барлығымызбен тойлаймыз.", "en": "We celebrate all together.", "translit": "barlığımızben toylaymız" }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Describing People",
+      "titleNative": "Адамды сипаттау",
+      "items": [
+        { "kk": "мейірімді", "en": "kind", "translit": "meyirimdi" },
+        { "kk": "еңбекқор", "en": "hardworking", "translit": "eñbekqor" },
+        { "kk": "батыл", "en": "brave", "translit": "batıl" },
+        { "kk": "ұялшақ", "en": "shy", "translit": "uyalşaq" },
+        { "kk": "Ол өте мейірімді.", "en": "He/she is very kind.", "translit": "ol öte meyirimdi" },
+        { "kk": "Менің досым еңбекқор.", "en": "My friend is hardworking.", "translit": "meniñ dosım eñbekqor" },
+        { "kk": "Ол батыл адам.", "en": "He/she is a brave person.", "translit": "ol batıl adam" },
+        { "kk": "Мен сәл ұялшақпын.", "en": "I am a bit shy.", "translit": "men säl uyalşaqpın" },
+        { "kk": "Ол өте ақылды.", "en": "He/she is very intelligent.", "translit": "ol öte aqıldı" }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Kazakh Culture & Traditions",
+      "titleNative": "Қазақ мәдениеті мен дәстүрі",
+      "items": [
+        { "kk": "дастархан", "en": "traditional spread/table", "translit": "dastarxan" },
+        { "kk": "киіз үй", "en": "yurt", "translit": "kïyiz üy" },
+        { "kk": "дәстүр", "en": "tradition", "translit": "döstür" },
+        { "kk": "Қазақ халқының дәстүрі бай.", "en": "The Kazakh people's tradition is rich.", "translit": "Qazaq xalqınıñ döstüri bay" },
+        { "kk": "Киіз үй — қазақтың дәстүрлі тұрағы.", "en": "The yurt is the traditional Kazakh dwelling.", "translit": "kïyiz üy — qazaqtıñ döstürli turağı" },
+        { "kk": "Дастарханға қонаққа шақырды.", "en": "He/she invited me as a guest to the table.", "translit": "dastarxanğa qonaqqa şaqırdı" },
+        { "kk": "Қазақтар қонақжай халық.", "en": "Kazakhs are a hospitable people.", "translit": "Qazaqtar qonaqjay xalıq" },
+        { "kk": "Домбыра — қазақтың ұлттық аспабы.", "en": "The dombra is the Kazakh national instrument.", "translit": "Dombıra — qazaqtıñ ulttıq aspabı" }
+      ]
+    }
+  ]
+}

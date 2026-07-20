@@ -1,0 +1,301 @@
+{
+  "level": "a2",
+  "grammarTopics": {
+    "a2-future": {
+      "title": "Future Tense",
+      "pattern": "Intentional: [stem]+-мақ/-мек + [to-be]; Simple/probable: [stem]+-ар/-ер/-р (+ personal ending)",
+      "explanation": "Kazakh has two future forms. The intentional future (-мақ/-мек + a personal ending) expresses a plan: \"бармақпын\" (I intend to go). The simple/probable future (-ар/-ер, or bare -р after a vowel) is more general and slightly less certain: \"барармын\" (I will/probably will go).",
+      "fact": "The simple future's negative is irregular in a distinctive way — instead of the usual -ма- infix, it uses -мас: \"бармаспын\" (I probably won't go), one of the few places Kazakh negation breaks its own regular pattern.",
+      "dialogue": [
+        { "sp": "A", "native": "Сен ертең келесің бе?", "en": "Will you come tomorrow? (informal)" },
+        { "sp": "B", "native": "Иә, келермін.", "en": "Yes, I probably will come." }
+      ]
+    },
+    "a2-conditional": {
+      "title": "Conditional Mood",
+      "pattern": "[stem] + -са/-се (+ personal ending) = \"if...\"",
+      "explanation": "The conditional suffix -са/-се attaches directly to the verb stem to mean \"if [subject] does/did X\" — барсам (if I go), келсең (if you come). It's usually followed by a clause stating the result, and can combine with \"еді\" for a hypothetical, counterfactual \"if only\" sense.",
+      "fact": "Kazakh doesn't need a separate word for \"if\" at all — the whole conditional meaning is packed into this one suffix on the verb, so \"Барсам, көрермін\" reads word-for-word as roughly \"go-if, see-probably-I\" = \"If I go, I'll probably see [it].\"",
+      "dialogue": [
+        { "sp": "A", "native": "Ақша болса, не аласың?", "en": "If you had money, what would you buy?" },
+        { "sp": "B", "native": "Ақша болса, үй алар едім.", "en": "If I had money, I would buy a house." }
+      ]
+    },
+    "a2-converbs": {
+      "title": "Linking Clauses: Converbs",
+      "pattern": "[verb stem] + -ып/-іп/-п = \"having done X, then...\"",
+      "explanation": "Kazakh chains actions together with converbs instead of a word for \"and\" between clauses: \"тұрып, кетті\" (having stood up, [he] left = he stood up and left). Only the LAST verb in the chain carries the real tense/person ending — every earlier verb just takes the converb suffix.",
+      "fact": "This is why Kazakh sentences can chain many actions in a row with only one fully-conjugated verb at the very end — a whole sequence of events reads almost like a list of converbs building up to a single final, tensed verb.",
+      "dialogue": [
+        { "sp": "A", "native": "Таңертең не істейсің?", "en": "What do you do in the morning?" },
+        { "sp": "B", "native": "Тұрып, жуынып, тамақтанамын.", "en": "I get up, wash up, and eat." }
+      ]
+    },
+    "a2-participles": {
+      "title": "Participles as Adjectives",
+      "pattern": "Habitual: [stem]+-атын/-етін/-йтын; Past: [stem]+-ған/-ген/-қан/-кен",
+      "explanation": "Kazakh turns a whole verb clause into an adjective describing a noun using participles — \"оқитын бала\" literally \"reading child\" = \"the child who reads/studies.\" The -атын/-етін form is habitual/general, while -ған/-ген describes a completed past action: \"келген адам\" (the person who came).",
+      "fact": "This is how Kazakh builds relative clauses (\"the book that I read\") with no separate relative pronoun like English \"that/which\" — the participle suffix on the verb does that whole job by itself, right inside the noun phrase.",
+      "dialogue": [
+        { "sp": "A", "native": "Қай кітапты оқыдың?", "en": "Which book did you read?" },
+        { "sp": "B", "native": "Сен берген кітапты оқыдым.", "en": "I read the book that you gave me." }
+      ]
+    },
+    "a2-necessitative": {
+      "title": "Expressing Necessity",
+      "pattern": "[verb stem]+-у + керек/тиіс/қажет = \"must/should/need to\"",
+      "explanation": "Kazakh expresses obligation with the infinitive (-у) form of a verb followed by one of three necessity words: керек (need to, most common/neutral), тиіс (should, moral obligation), қажет (necessary, more formal).",
+      "fact": "керек doubles as the general word for \"need\" outside verbs too — you already know it meaning \"need\" for objects (\"Маған су керек\" = I need water); attached after a verb's -у form, it just extends that same \"needed\" sense to actions.",
+      "dialogue": [
+        { "sp": "A", "native": "Мен не істеуім керек?", "en": "What do I need to do?" },
+        { "sp": "B", "native": "Сен дәрігерге баруың керек.", "en": "You need to go to the doctor." }
+      ]
+    },
+    "a2-reported-speech": {
+      "title": "Reported Speech",
+      "pattern": "[quote] + деп + [verb of saying]; -ды/-ді + депті (hearsay)",
+      "explanation": "Kazakh reports what someone said with деп (literally \"saying\") placed right after the quoted words, followed by a verb like айтты (said) or ойлайды (thinks): \"Мен барамын деп айтты\" (He/she said, \"I will go\"). The hearsay past (-ыпты/депті) marks something the speaker only heard about, not witnessed firsthand.",
+      "fact": "деп does double duty as both a quotation marker and a general way to report thought or naming — the same construction covers \"he said that...\", \"she thinks that...\", and even \"a place called...\"",
+      "dialogue": [
+        { "sp": "A", "native": "Ол не деді?", "en": "What did he/she say?" },
+        { "sp": "B", "native": "Ертең келемін деп айтты.", "en": "He/she said, \"I'll come tomorrow.\"" }
+      ]
+    },
+    "a2-instrumental": {
+      "title": "Instrumental Case",
+      "pattern": "[noun] + -мен/-бен/-пен = \"with/by means of\"",
+      "explanation": "The instrumental case marks the tool, means, or accompanying person of an action — \"қаламмен жаздым\" (I wrote WITH a pen), \"досыммен бардым\" (I went WITH my friend). Its three forms follow the same vowel/consonant-voicing rule as most other suffixes you've learned.",
+      "fact": "This same suffix also covers English \"by [means of transport]\" — \"автобуспен бардым\" (I went BY bus) uses the identical -мен, so \"with a pen\", \"with a friend\", and \"by bus\" are all grammatically the same construction.",
+      "dialogue": [
+        { "sp": "A", "native": "Мектепке немен барасың?", "en": "How (by what) do you get to school?" },
+        { "sp": "B", "native": "Автобуспен барамын.", "en": "I go by bus." }
+      ]
+    },
+    "a2-superlative": {
+      "title": "Superlative: The Most ~",
+      "pattern": "ең + [adjective] = \"the most ~\"",
+      "explanation": "Kazakh's superlative is the simplest comparison degree — just place the intensifier ең directly before the adjective: ең үлкен (the biggest), ең жақсы (the best). Unlike the comparative -рақ suffix, the superlative never changes the adjective's own form.",
+      "fact": "ең can stack with the comparative you already know for extra emphasis in casual speech — \"ең үлкенірек\" (\"the most bigger-ish\") sounds a bit redundant to a purist, similar to English \"most biggest\", but you'll still hear it.",
+      "dialogue": [
+        { "sp": "A", "native": "Қазақстандағы ең үлкен қала қай?", "en": "What is the biggest city in Kazakhstan?" },
+        { "sp": "B", "native": "Алматы ең үлкен қала.", "en": "Almaty is the biggest city." }
+      ]
+    },
+    "a2-modality": {
+      "title": "Possibility & Permission",
+      "pattern": "[stem]+-у + бола ма? / болады = \"may I / is it allowed\"; мүмкін = \"maybe\"",
+      "explanation": "Asking permission uses the infinitive plus \"бола ма?\" (literally \"is it allowed to be?\"): \"Кіруге бола ма?\" (May I come in?), answered with \"болады\" (that's fine) or \"болмайды\" (not allowed). The separate word мүмкін means \"maybe/possibly\" and stands alone at the start of a sentence.",
+      "fact": "болады/болмайды are also just the everyday words for \"okay/not okay\" in casual conversation — you'll hear them answering almost any yes/no request, not only formal permission questions.",
+      "dialogue": [
+        { "sp": "A", "native": "Кіруге бола ма?", "en": "May I come in?" },
+        { "sp": "B", "native": "Иә, болады, кіріңіз.", "en": "Yes, that's fine, please come in." }
+      ]
+    },
+    "a2-passive": {
+      "title": "Passive Voice",
+      "pattern": "[verb stem] + -ыл/-іл/-л (+ tense/personal ending) = \"is/was done\"",
+      "explanation": "The passive suffix -ыл/-іл (after a consonant) or -л (after a vowel) shifts focus from who did an action to what happened to it: \"кітап жазылды\" (the book was written), instead of naming who wrote it.",
+      "fact": "Passive constructions are common in Kazakh news and official writing specifically to avoid naming an actor — \"шешім қабылданды\" (a decision was made/adopted) sounds appropriately formal and impersonal, the same rhetorical move as English bureaucratic passive voice.",
+      "dialogue": [
+        { "sp": "A", "native": "Бұл үй қашан салынды?", "en": "When was this house built?" },
+        { "sp": "B", "native": "Бұл үй биыл салынды.", "en": "This house was built this year." }
+      ]
+    },
+    "a2-causative": {
+      "title": "Causative Voice: Make/Let Someone Do",
+      "pattern": "[verb stem] + -дыр/-дір/-тыр/-тір/-ғыз/-гіз/-қыз/-кіз = \"make/let someone do\"",
+      "explanation": "The causative suffix turns \"X does Y\" into \"someone makes/lets X do Y\" — оқыды (he studied) becomes оқытты (he taught, literally \"made [someone] study\"). Which shape attaches depends on the verb stem's last sound, the same families of rules you've seen elsewhere.",
+      "fact": "This is exactly how Kazakh derives its native verb for \"to teach\" — оқыту is built from оқу (\"to study\") purely with this causative suffix, no separate root needed, unlike the borrowed noun мұғалім (\"teacher\").",
+      "dialogue": [
+        { "sp": "A", "native": "Ол не істейді?", "en": "What does he/she do?" },
+        { "sp": "B", "native": "Ол балаларды оқытады.", "en": "He/she teaches children." }
+      ]
+    },
+    "a2-numbers-dates": {
+      "title": "Larger Numbers, Ordinals & Dates",
+      "pattern": "Round numbers: отыз (30), жүз (100), мың (1000); Ordinals: [number]+-ыншы/-інші",
+      "explanation": "Kazakh builds larger numbers by simple concatenation, like English \"twenty-one\": жиырма бір (21) is literally \"twenty one.\" Round numbers have their own roots — отыз (30), қырық (40), елу (50), алпыс (60), жетпіс (70), сексен (80), тоқсан (90), жүз (100), мың (1000). Ordinals add -ыншы/-інші to the cardinal: бірінші (first), екінші (second).",
+      "fact": "Years are just spoken as one big cardinal number followed by \"жыл\" (year) — 2024 is \"екі мың жиырма төрт\", built the exact same concatenative way as any other large number.",
+      "dialogue": [
+        { "sp": "A", "native": "Бүгін нешесі?", "en": "What's the date today?" },
+        { "sp": "B", "native": "Бүгін бірінші қыркүйек.", "en": "Today is the first of September." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 1,
+      "title": "Grammar: Future Tense",
+      "titleNative": "Келер шақ",
+      "topicId": "a2-future",
+      "items": [
+        { "kk": "Мен барармын.", "en": "I will (probably) go.", "translit": "men barmın" },
+        { "kk": "Сен келерсің бе?", "en": "Will you come? (informal)", "translit": "sen kelersiñ be" },
+        { "kk": "Ол оқыр.", "en": "He/she will (probably) study.", "translit": "ol oqır" },
+        { "kk": "Біз барармыз.", "en": "We will (probably) go.", "translit": "biz barmız" },
+        { "kk": "Мен бармаспын.", "en": "I won't go.", "translit": "men barmaspın" },
+        { "kk": "Ертең жаңбыр жауар.", "en": "It will (probably) rain tomorrow.", "translit": "erteñ jañbır jawar" },
+        { "kk": "Мен қалада тұрмақпын.", "en": "I intend to live in the city.", "translit": "men qalada turmaqpın" },
+        { "kk": "Біз оны көрерміз.", "en": "We will (probably) see him/her.", "translit": "biz onı körermiz" },
+        { "kk": "Сен ертең келесің бе?", "en": "Will you come tomorrow? (informal)", "translit": "sen erteñ kelesiñ be" },
+        { "kk": "Иә, келермін.", "en": "Yes, I probably will come.", "translit": "ïä, kelermin" }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Grammar: Conditional Mood",
+      "titleNative": "Шартты рай",
+      "topicId": "a2-conditional",
+      "items": [
+        { "kk": "Уақыт болса, келемін.", "en": "If I have time, I'll come.", "translit": "waqıt bolsa, kelemin" },
+        { "kk": "Жаңбыр жауса, үйде қаламын.", "en": "If it rains, I'll stay home.", "translit": "jañbır jawsa, üyde qalamın" },
+        { "kk": "Ерте тұрсаң, кешікпейсің.", "en": "If you get up early, you won't be late. (informal)", "translit": "erte tursañ, keşikpeysiñ" },
+        { "kk": "Ақша болса, үй алар едім.", "en": "If I had money, I would buy a house.", "translit": "aqşa bolsa, üy alar edim" },
+        { "kk": "Сен келсең, қуанамын.", "en": "If you come, I'll be happy. (informal)", "translit": "sen kelseñ, quwanamın" },
+        { "kk": "Дәрі ішсең, жақсы болады.", "en": "If you take medicine, you'll be fine. (informal)", "translit": "däri işseñ, jaqsı boladı" },
+        { "kk": "Білсем, айтар едім.", "en": "If I knew, I would tell you.", "translit": "bilsem, aytar edim" },
+        { "kk": "Ол келсе, хабарла.", "en": "If he/she comes, let me know. (informal)", "translit": "ol kelse, xabarla" }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Grammar: Linking Clauses",
+      "titleNative": "Көсемше",
+      "topicId": "a2-converbs",
+      "items": [
+        { "kk": "Тұрып, жуынып, тамақтанамын.", "en": "I get up, wash up, and eat.", "translit": "turıp, juwınıp, tamaqtanamın" },
+        { "kk": "Ол келіп, отырды.", "en": "He/she came and sat down.", "translit": "ol kelip, otırdı" },
+        { "kk": "Кітапты алып, оқыдым.", "en": "I took the book and read it.", "translit": "kitaptı alıp, oqıdım" },
+        { "kk": "Жұмысты бітіріп, үйге кеттім.", "en": "Having finished the work, I went home.", "translit": "jumıstı bitirip, üyge kettim" },
+        { "kk": "Ол жылап, кетті.", "en": "He/she cried and left.", "translit": "ol jılap, ketti" },
+        { "kk": "Тамақ ішіп болып, кітап оқыдым.", "en": "After finishing eating, I read a book.", "translit": "tamaq işip bolıp, kitap oqıdım" },
+        { "kk": "Күліп, айтты.", "en": "He/she said it while laughing.", "translit": "külip, aytt" }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Grammar: Participles as Adjectives",
+      "titleNative": "Есімше",
+      "topicId": "a2-participles",
+      "items": [
+        { "kk": "Сен берген кітапты оқыдым.", "en": "I read the book that you gave me.", "translit": "sen bergen kitaptı oqıdım" },
+        { "kk": "Оқитын бала — менің інім.", "en": "The child who is studying is my younger brother.", "translit": "oqïtın bala — meniñ inim" },
+        { "kk": "Келген адам — менің досым.", "en": "The person who came is my friend.", "translit": "kelgen adam — meniñ dosım" },
+        { "kk": "Мен жазған хат.", "en": "The letter that I wrote.", "translit": "men jazğan xat" },
+        { "kk": "Дәмді тамақ пісіретін ана.", "en": "The mother who cooks tasty food.", "translit": "dämdi tamaq pisiretin ana" },
+        { "kk": "Бұл — мен көрген фильм.", "en": "This is the movie that I watched.", "translit": "bul — men körgen fïl'm" }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Grammar: Expressing Necessity",
+      "titleNative": "Қажеттілік",
+      "topicId": "a2-necessitative",
+      "items": [
+        { "kk": "Мен оқуым керек.", "en": "I need to study.", "translit": "men oqwım kerek" },
+        { "kk": "Сен дәрігерге баруың керек.", "en": "You need to go to the doctor. (informal)", "translit": "sen därigerge barwıñ kerek" },
+        { "kk": "Біз жұмыс істеуіміз керек.", "en": "We need to work.", "translit": "biz jumıs istewimiz kerek" },
+        { "kk": "Сен ерте тұруың тиіс.", "en": "You should get up early. (informal)", "translit": "sen erte turwıñ tïis" },
+        { "kk": "Ол көмектесуі қажет.", "en": "He/she needs to help.", "translit": "ol kömekteswi qajet" },
+        { "kk": "Мен су ішуім керек.", "en": "I need to drink water.", "translit": "men suw işwim kerek" }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Grammar: Reported Speech",
+      "titleNative": "Төл сөз",
+      "topicId": "a2-reported-speech",
+      "items": [
+        { "kk": "Ертең келемін деп айтты.", "en": "He/she said, \"I'll come tomorrow.\"", "translit": "erteñ kelemin dep aytt" },
+        { "kk": "Ол шаршадым деп ойлайды.", "en": "He/she thinks, \"I'm tired.\"", "translit": "ol şarşadım dep oylaydı" },
+        { "kk": "Мұғалім дұрыс деп айтты.", "en": "The teacher said it's correct.", "translit": "muğalim durıs dep aytt" },
+        { "kk": "Ол кеткен депті.", "en": "They say he/she has left.", "translit": "ol ketken depti" },
+        { "kk": "Ертең жаңбыр жауады депті.", "en": "They say it will rain tomorrow.", "translit": "erteñ jañbır jawadı depti" }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Grammar: Instrumental Case",
+      "titleNative": "Көмектес септік",
+      "topicId": "a2-instrumental",
+      "items": [
+        { "kk": "Автобуспен барамын.", "en": "I go by bus.", "translit": "avtobwspen baramın" },
+        { "kk": "Қаламмен жаздым.", "en": "I wrote with a pen.", "translit": "qalammen jazdım" },
+        { "kk": "Досыммен бардым.", "en": "I went with my friend.", "translit": "dosımmen bardım" },
+        { "kk": "Пышақпен кестім.", "en": "I cut it with a knife.", "translit": "pışaqpen kestim" },
+        { "kk": "Отбасыммен демалдым.", "en": "I rested with my family.", "translit": "otbasımmen demaldım" },
+        { "kk": "Пойызбен келдім.", "en": "I came by train.", "translit": "poyızben keldim" }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Grammar: Superlative",
+      "titleNative": "Күшейтпелі шырай",
+      "topicId": "a2-superlative",
+      "items": [
+        { "kk": "Алматы ең үлкен қала.", "en": "Almaty is the biggest city.", "translit": "Almatı eñ ülken qala" },
+        { "kk": "Бұл ең жақсы кітап.", "en": "This is the best book.", "translit": "bul eñ jaqsı kitap" },
+        { "kk": "Ол ең ақылды студент.", "en": "He/she is the smartest student.", "translit": "ol eñ aqıldı student" },
+        { "kk": "Бұл ең қымбат көйлек.", "en": "This is the most expensive dress.", "translit": "bul eñ qımbat köylek" },
+        { "kk": "Қыс ең суық мезгіл.", "en": "Winter is the coldest season.", "translit": "qıs eñ suwıq mezgil" }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Grammar: Possibility & Permission",
+      "titleNative": "Рұқсат сұрау",
+      "topicId": "a2-modality",
+      "items": [
+        { "kk": "Кіруге бола ма?", "en": "May I come in?", "translit": "kirwge bola ma" },
+        { "kk": "Иә, болады, кіріңіз.", "en": "Yes, that's fine, please come in.", "translit": "ïä, boladı, kiriñiz" },
+        { "kk": "Мұнда отыруға бола ма?", "en": "May I sit here?", "translit": "munda otırwğa bola ma" },
+        { "kk": "Терезені ашуға бола ма?", "en": "May I open the window?", "translit": "terezeni aşwğa bola ma" },
+        { "kk": "Мүмкін, ол кешігеді.", "en": "Maybe he/she will be late.", "translit": "mümkin, ol keşigedi" },
+        { "kk": "Мұнда шылым шегуге болмайды.", "en": "Smoking is not allowed here.", "translit": "munda şılım şegwge bolmaydı" }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Grammar: Passive Voice",
+      "titleNative": "Ырықсыз етіс",
+      "topicId": "a2-passive",
+      "items": [
+        { "kk": "Бұл үй биыл салынды.", "en": "This house was built this year.", "translit": "bul üy bïyıl salındı" },
+        { "kk": "Кітап жазылды.", "en": "The book was written.", "translit": "kitap jazıldı" },
+        { "kk": "Есік жабылды.", "en": "The door was closed.", "translit": "esik jabıldı" },
+        { "kk": "Шешім қабылданды.", "en": "A decision was made.", "translit": "şeşim qabıldandı" },
+        { "kk": "Хат жіберілді.", "en": "The letter was sent.", "translit": "xat jiberildi" }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Grammar: Causative Voice",
+      "titleNative": "Ортақ етіс",
+      "topicId": "a2-causative",
+      "items": [
+        { "kk": "Ол балаларды оқытады.", "en": "He/she teaches children.", "translit": "ol balalardı oqıtadı" },
+        { "kk": "Анам мені киіндірді.", "en": "My mother dressed me.", "translit": "anam meni kïyindirdi" },
+        { "kk": "Мұғалім студенттерді жаздырды.", "en": "The teacher had the students write.", "translit": "muğalim studentterdi jazdırdı" },
+        { "kk": "Ол мені күлдірді.", "en": "He/she made me laugh.", "translit": "ol meni küldirdi" },
+        { "kk": "Дәрігер науқасты жаттырды.", "en": "The doctor had the patient lie down.", "translit": "däriger nawqastı jattırdı" }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Grammar: Larger Numbers & Dates",
+      "titleNative": "Үлкен сандар мен күндер",
+      "topicId": "a2-numbers-dates",
+      "items": [
+        { "kk": "отыз", "en": "thirty", "translit": "otız" },
+        { "kk": "жүз", "en": "hundred", "translit": "jüz" },
+        { "kk": "мың", "en": "thousand", "translit": "mıñ" },
+        { "kk": "бірінші", "en": "first", "translit": "birinşi" },
+        { "kk": "екінші", "en": "second", "translit": "ekinşi" },
+        { "kk": "үшінші", "en": "third", "translit": "üşinşi" },
+        { "kk": "Бүгін бірінші қыркүйек.", "en": "Today is the first of September.", "translit": "bügin birinşi qırküyek" },
+        { "kk": "Ол екінші орында тұр.", "en": "He/she is in second place.", "translit": "ol ekinşi ornda tur" },
+        { "kk": "Жиырма бес жаста.", "en": "He/she is twenty-five years old.", "translit": "jïırma bes jasta" }
+      ]
+    }
+  ]
+}
