@@ -1,0 +1,183 @@
+{
+  "level": "b2",
+  "lessons": [
+    {
+      "number": 11,
+      "title": "Philosophy & Ideas",
+      "titleNative": "Философия мен идеялар",
+      "items": [
+        { "kk": "философия", "en": "philosophy", "translit": "fïlosofïya" },
+        { "kk": "пікір", "en": "opinion/view", "translit": "pikir" },
+        { "kk": "мағына", "en": "meaning", "translit": "mağına" },
+        { "kk": "құндылық", "en": "value (moral)", "translit": "qundılıq" },
+        { "kk": "Әркімнің өз пікірі бар.", "en": "Everyone has their own opinion.", "translit": "ärkimniñ öz pikiri bar" },
+        { "kk": "Өмірдің мағынасы неде?", "en": "What is the meaning of life?", "translit": "ömirdiñ mağınası nede" },
+        { "kk": "Отбасы — маңызды құндылық.", "en": "Family is an important value.", "translit": "otbası — mañızdı qundılıq" },
+        { "kk": "Философия терең ойлауды үйретеді.", "en": "Philosophy teaches deep thinking.", "translit": "fïlosofïya tereñ oylawdı üyretedi" }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Psychology & Mind",
+      "titleNative": "Психология",
+      "items": [
+        { "kk": "сана", "en": "consciousness/mind", "translit": "sana" },
+        { "kk": "мінез", "en": "character/personality", "translit": "minez" },
+        { "kk": "стресс", "en": "stress", "translit": "stress" },
+        { "kk": "қабылдау", "en": "perception", "translit": "qabıldaw" },
+        { "kk": "Оның мінезі жұмсақ.", "en": "His/her character is gentle.", "translit": "onıñ minezi jumsaq" },
+        { "kk": "Стресс денсаулыққа зиян.", "en": "Stress is harmful to health.", "translit": "stress densawlıqqa zïyan" },
+        { "kk": "Әркімнің қабылдауы әртүрлі.", "en": "Everyone's perception is different.", "translit": "ärkimniñ qabıldawı ärtürli" },
+        { "kk": "Сана мен ми бір-бірімен байланысты.", "en": "Consciousness and the brain are connected.", "translit": "sana men mï bir-birimen baylanıstı" }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Technology & Innovation",
+      "titleNative": "Технология мен инновация",
+      "items": [
+        { "kk": "жасанды интеллект", "en": "artificial intelligence", "translit": "jasandı ïntellekt" },
+        { "kk": "деректер", "en": "data", "translit": "derekter" },
+        { "kk": "инновация", "en": "innovation", "translit": "ïnnovatsïya" },
+        { "kk": "Жасанды интеллект дамып келеді.", "en": "Artificial intelligence is developing.", "translit": "jasandı ïntellekt damıp keledi" },
+        { "kk": "Деректерді қорғау маңызды.", "en": "Protecting data is important.", "translit": "derekterdi qorğaw mañızdı" },
+        { "kk": "Бұл компания инновациямен танымал.", "en": "This company is known for innovation.", "translit": "bul kompanïya ïnnovatsïyamen tanımal" },
+        { "kk": "Технология өмірімізді өзгертті.", "en": "Technology has changed our lives.", "translit": "texnologïya ömirimizdi özgertti" }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "International Relations",
+      "titleNative": "Халықаралық қатынастар",
+      "items": [
+        { "kk": "мемлекет", "en": "state/nation", "translit": "memleket" },
+        { "kk": "дипломатия", "en": "diplomacy", "translit": "dïplomatïya" },
+        { "kk": "келісім-шарт", "en": "treaty/contract", "translit": "kelisim-şart" },
+        { "kk": "одақ", "en": "union/alliance", "translit": "odaq" },
+        { "kk": "Екі мемлекет келісімге қол қойды.", "en": "Two states signed an agreement.", "translit": "eki memleket kelisimge qol qoydı" },
+        { "kk": "Дипломатия соғысты болдырмайды.", "en": "Diplomacy prevents war.", "translit": "dïplomatïya soğıstı boldırmaydı" },
+        { "kk": "Олар одаққа мүше болды.", "en": "They became members of the union.", "translit": "olar odaqqa müşe boldı" },
+        { "kk": "Халықаралық қатынастар күрделі.", "en": "International relations are complex.", "translit": "xalıqaralıq qatınastar kürdeli" }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "History & Heritage",
+      "titleNative": "Тарих пен мұра",
+      "items": [
+        { "kk": "тарих", "en": "history", "translit": "tarïx" },
+        { "kk": "мұра", "en": "heritage", "translit": "mura" },
+        { "kk": "ғасыр", "en": "century", "translit": "ğasır" },
+        { "kk": "ежелгі", "en": "ancient", "translit": "ejelgi" },
+        { "kk": "Қазақстанның тарихы бай.", "en": "Kazakhstan's history is rich.", "translit": "Qazaqstannıñ tarïxı bay" },
+        { "kk": "Бұл — ежелгі қала.", "en": "This is an ancient city.", "translit": "bul — ejelgi qala" },
+        { "kk": "Мәдени мұраны сақтау керек.", "en": "Cultural heritage should be preserved.", "translit": "mädenï muranı saqtaw kerek" },
+        { "kk": "Он тоғызыншы ғасырда болған оқиға.", "en": "An event that happened in the nineteenth century.", "translit": "on toğızınşı ğasırda bolğan oqïğa" }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Health & Wellness",
+      "titleNative": "Денсаулық пен әл-ауқат",
+      "items": [
+        { "kk": "иммунитет", "en": "immunity", "translit": "ïmmunïtet" },
+        { "kk": "тепе-теңдік", "en": "balance", "translit": "tepe-teñdik" },
+        { "kk": "профилактика", "en": "prevention", "translit": "profïlaktïka" },
+        { "kk": "созылмалы", "en": "chronic", "translit": "sozılmalı" },
+        { "kk": "Иммунитетті нығайту керек.", "en": "One should strengthen immunity.", "translit": "ïmmunïtetti nığaytw kerek" },
+        { "kk": "Өмірде тепе-теңдік маңызды.", "en": "Balance in life is important.", "translit": "ömirde tepe-teñdik mañızdı" },
+        { "kk": "Профилактика емдеуден жақсы.", "en": "Prevention is better than treatment.", "translit": "profïlaktïka emdewden jaqsı" },
+        { "kk": "Оның созылмалы ауруы бар.", "en": "He/she has a chronic illness.", "translit": "onıñ sozılmalı awrwı bar" }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Education System",
+      "titleNative": "Білім беру жүйесі",
+      "items": [
+        { "kk": "оқу бағдарламасы", "en": "curriculum", "translit": "oqw bağdarlaması" },
+        { "kk": "дағды", "en": "skill", "translit": "dağdı" },
+        { "kk": "біліктілік", "en": "qualification", "translit": "biliktilik" },
+        { "kk": "тәрбие", "en": "upbringing", "translit": "tärbïe" },
+        { "kk": "Жаңа оқу бағдарламасы енгізілді.", "en": "A new curriculum was introduced.", "translit": "jaña oqw bağdarlaması engizildi" },
+        { "kk": "Балаларға практикалық дағды керек.", "en": "Children need practical skills.", "translit": "balalarğa praktïkalıq dağdı kerek" },
+        { "kk": "Оның біліктілігі жоғары.", "en": "His/her qualification is high.", "translit": "onıñ biliktiligi joğarı" },
+        { "kk": "Тәрбие отбасынан басталады.", "en": "Upbringing starts from the family.", "translit": "tärbïe otbasınan bastaladı" }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Urban Planning",
+      "titleNative": "Қала құрылысы",
+      "items": [
+        { "kk": "инфрақұрылым", "en": "infrastructure", "translit": "ïnfraqurılım" },
+        { "kk": "құрылыс", "en": "construction", "translit": "qurılıs" },
+        { "kk": "жол қозғалысы", "en": "traffic", "translit": "jol qozğalısı" },
+        { "kk": "жоспарлау", "en": "planning", "translit": "josparlaw" },
+        { "kk": "Қаланың инфрақұрылымы дамыды.", "en": "The city's infrastructure has developed.", "translit": "qalanıñ ïnfraqurılımı damıdı" },
+        { "kk": "Жаңа құрылыс басталды.", "en": "New construction has begun.", "translit": "jaña qurılıs bastaldı" },
+        { "kk": "Жол қозғалысы қатты жүктелген.", "en": "Traffic is very congested.", "translit": "jol qozğalısı qattı jüktelgen" },
+        { "kk": "Қалалық жоспарлау маңызды мәселе.", "en": "Urban planning is an important issue.", "translit": "qalalıq josparlaw mañızdı mäsele" }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Social Issues",
+      "titleNative": "Әлеуметтік мәселелер",
+      "items": [
+        { "kk": "теңсіздік", "en": "inequality", "translit": "teñsizdik" },
+        { "kk": "кедейлік", "en": "poverty", "translit": "kedeylik" },
+        { "kk": "қоғам", "en": "society", "translit": "qoğam" },
+        { "kk": "жұмыссыздық", "en": "unemployment", "translit": "jumıssızdıq" },
+        { "kk": "Теңсіздікпен күресу керек.", "en": "Inequality must be fought.", "translit": "teñsizdikpen küresw kerek" },
+        { "kk": "Кедейлік әлі де мәселе.", "en": "Poverty is still an issue.", "translit": "kedeylik äli de mäsele" },
+        { "kk": "Қоғам өзгеріп жатыр.", "en": "Society is changing.", "translit": "qoğam özgerip jatır" },
+        { "kk": "Жұмыссыздық деңгейі төмендеді.", "en": "The unemployment rate decreased.", "translit": "jumıssızdıq deñgeyi tömendedi" }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Career Development",
+      "titleNative": "Мансап",
+      "items": [
+        { "kk": "мансап", "en": "career", "translit": "mansap" },
+        { "kk": "тәжірибе", "en": "experience", "translit": "täjirïbe" },
+        { "kk": "жетістік", "en": "achievement", "translit": "jetistik" },
+        { "kk": "Ол мансабында жетістікке жетті.", "en": "He/she achieved success in his/her career.", "translit": "ol mansabında jetistikke jetti" },
+        { "kk": "Тәжірибе жинау маңызды.", "en": "Gaining experience is important.", "translit": "täjirïbe jïnaw mañızdı" },
+        { "kk": "Мен дағдыларымды дамытқым келеді.", "en": "I want to develop my skills.", "translit": "men dağdılarımdı damıtqım keledi" },
+        { "kk": "Жаңа мүмкіндіктер іздеу керек.", "en": "One should look for new opportunities.", "translit": "jaña mümkindikter izdew kerek" }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Weather & Natural Phenomena",
+      "titleNative": "Табиғат құбылыстары",
+      "items": [
+        { "kk": "дауыл", "en": "storm", "translit": "dawıl" },
+        { "kk": "найзағай", "en": "lightning", "translit": "nayzağay" },
+        { "kk": "жер сілкінісі", "en": "earthquake", "translit": "jer silkinisi" },
+        { "kk": "құрғақшылық", "en": "drought", "translit": "qurğaqşılıq" },
+        { "kk": "Дауыл қатты соқты.", "en": "A strong storm hit.", "translit": "dawıl qattı soqtı" },
+        { "kk": "Найзағай жарқылдады.", "en": "Lightning flashed.", "translit": "nayzağay jarqıldadı" },
+        { "kk": "Жер сілкінісі көп зиян келтірді.", "en": "The earthquake caused a lot of damage.", "translit": "jer silkinisi köp zïyan keltirdi" },
+        { "kk": "Бұл аймақта құрғақшылық жиі болады.", "en": "Drought is frequent in this region.", "translit": "bul aymaqta qurğaqşılıq jïi boladı" }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Communication & Language",
+      "titleNative": "Қарым-қатынас пен тіл",
+      "items": [
+        { "kk": "диалект", "en": "dialect", "translit": "dïalekt" },
+        { "kk": "аударма", "en": "translation", "translit": "awdarma" },
+        { "kk": "түсінбеушілік", "en": "misunderstanding", "translit": "tüsinbewşilik" },
+        { "kk": "байланыс", "en": "communication/connection", "translit": "baylanıs" },
+        { "kk": "Әр аймақтың өз диалектісі бар.", "en": "Every region has its own dialect.", "translit": "är aymaqtıñ öz dïalektisi bar" },
+        { "kk": "Бұл кітаптың аудармасы жақсы.", "en": "This book's translation is good.", "translit": "bul kitaptıñ awdarması jaqsı" },
+        { "kk": "Түсінбеушілік болмауы үшін нақты сөйле.", "en": "Speak clearly so there's no misunderstanding. (informal)", "translit": "tüsinbewşilik bolmawı üşin naqtı söyle" },
+        { "kk": "Тіл — байланыс құралы.", "en": "Language is a means of communication.", "translit": "til — baylanıs qural" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "level": "b2",
+  "lessons": [
+    {
+      "number": 23,
+      "title": "Conversation: Debating an Opinion",
+      "titleNative": "Пікірталас",
+      "items": [
+        { "kk": "Менің ойымша, бұл дұрыс емес.", "en": "In my opinion, this is not correct.", "translit": "meniñ oyımşa, bul durıs emes" },
+        { "kk": "Неге олай ойлайсың?", "en": "Why do you think so? (informal)", "translit": "nege olay oylaysıñ" },
+        { "kk": "Себебі бұл әділетсіз.", "en": "Because it's unfair.", "translit": "sebebi bul ädiletsiz" },
+        { "kk": "Мен сенімен келіспеймін.", "en": "I don't agree with you. (informal)", "translit": "men senimen kelispeymin" },
+        { "kk": "Сенің дәлелің қандай?", "en": "What's your argument? (informal)", "translit": "seniñ dälelıñ qanday" },
+        { "kk": "Мысалдар көп.", "en": "There are many examples.", "translit": "mısaldar köp" },
+        { "kk": "Жарайды, ойланайын.", "en": "Alright, I'll think about it.", "translit": "jaraydı, oylanayın" }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Conversation: A Policy Change",
+      "titleNative": "Саясат өзгерісі",
+      "items": [
+        { "kk": "Жаңа заң туралы естідің бе?", "en": "Did you hear about the new law? (informal)", "translit": "jaña zañ twralı estidiñ be" },
+        { "kk": "Иә, көп адам қарсы.", "en": "Yes, many people are against it.", "translit": "ïä, köp adam qarsı" },
+        { "kk": "Себебі не?", "en": "What's the reason?", "translit": "sebebi ne" },
+        { "kk": "Салық көбейеді дейді.", "en": "They say taxes will increase.", "translit": "salıq köbeyedi deydi" },
+        { "kk": "Ал үкімет не дейді?", "en": "And what does the government say?", "translit": "al üket ne deydi" },
+        { "kk": "Экономикаға пайдалы дейді.", "en": "They say it's beneficial for the economy.", "translit": "ekonomïkağa paydalı deydi" }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Conversation: A Difficult Decision",
+      "titleNative": "Қиын шешім",
+      "items": [
+        { "kk": "Мен қиын шешім қабылдауым керек.", "en": "I need to make a difficult decision.", "translit": "men qïın şeşim qabıldawım kerek" },
+        { "kk": "Не туралы?", "en": "About what?", "translit": "ne twralı" },
+        { "kk": "Басқа қалаға көшу туралы.", "en": "About moving to another city.", "translit": "basqa qalağa köşw twralı" },
+        { "kk": "Артықшылығы мен кемшілігін таразыла.", "en": "Weigh the pros and cons. (informal)", "translit": "artıqşılığı men kemşiligin tarazıla" },
+        { "kk": "Жаңа жұмыс жақсырақ, бірақ отбасымнан алыс.", "en": "The new job is better, but far from my family.", "translit": "jaña jumıs jaqsıraq, biraq otbasımnan alıs" },
+        { "kk": "Жүрегің не дейді?", "en": "What does your heart say? (informal)", "translit": "jüregiñ ne deydi" }
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Conversation: An Advanced Job Interview",
+      "titleNative": "Жоғары деңгейлі сұхбат",
+      "items": [
+        { "kk": "Компанияға қандай құндылық қоса аласыз?", "en": "What value can you add to the company? (formal)", "translit": "kompanïyağa qanday qundılıq qosa alasız" },
+        { "kk": "Менің тәжірибем көп саладан.", "en": "My experience spans many fields.", "translit": "meniñ täjirïbem köp saladan" },
+        { "kk": "Қиындықпен қалай күресесіз?", "en": "How do you deal with difficulties? (formal)", "translit": "qïındıqpen qalay küresesiz" },
+        { "kk": "Мен мәселені бөліктерге бөліп шешемін.", "en": "I break the problem into parts and solve it.", "translit": "men mäseleni bölikterge bölip şeşemin" },
+        { "kk": "Бес жылдан кейін қайда болғыңыз келеді?", "en": "Where do you want to be in five years? (formal)", "translit": "bes jıldan keyin qayda bolğıñız keledi" },
+        { "kk": "Жетекші позицияда болғым келеді.", "en": "I want to be in a leadership position.", "translit": "jetekşi pozïtsïyada bolğım keledi" }
+      ]
+    },
+    {
+      "number": 27,
+      "title": "Conversation: Climate Solutions",
+      "titleNative": "Климаттық шешімдер",
+      "items": [
+        { "kk": "Климаттың өзгеруіне не істей аламыз?", "en": "What can we do about climate change?", "translit": "klïmattıñ özgerwine ne istey alamız" },
+        { "kk": "Аз энергия жұмсауға болады.", "en": "We can use less energy.", "translit": "az energïya jumsawğa boladı" },
+        { "kk": "Көлікті аз пайдалану да көмектеседі.", "en": "Using less transport also helps.", "translit": "kölikti az paydalanw da kömektesedi" },
+        { "kk": "Ал үлкен компаниялар ше?", "en": "And what about big companies?", "translit": "al ülken kompanïyalar şe" },
+        { "kk": "Олар жауапкершілік алуы керек.", "en": "They need to take responsibility.", "translit": "olar jawapkerşilik alwı kerek" },
+        { "kk": "Бірге әрекет етсек, нәтиже болады.", "en": "If we act together, there will be results.", "translit": "birge äreket etsek, nätïje boladı" }
+      ]
+    },
+    {
+      "number": 28,
+      "title": "Conversation: A Diplomatic Compromise",
+      "titleNative": "Дипломатиялық ымыра",
+      "items": [
+        { "kk": "Біздің пікіріміз екі түрлі.", "en": "Our opinions are different.", "translit": "bizdiñ pikirimiz eki türli" },
+        { "kk": "Мүмкін, ортақ шешім табармыз.", "en": "Maybe we'll find a common solution.", "translit": "mümkin, ortaq şeşim tabarmız" },
+        { "kk": "Сенің ұсынысың қандай?", "en": "What's your suggestion? (informal)", "translit": "seniñ usınısıñ qanday" },
+        { "kk": "Екі жақ та біраз ымыраға келейік.", "en": "Let's both compromise a bit.", "translit": "eki jaq ta biraz ımırağa keleyik" },
+        { "kk": "Жақсы, соған келісемін.", "en": "Good, I agree to that.", "translit": "jaqsı, soğan kelisemin" },
+        { "kk": "Ынтымақтастық маңызды.", "en": "Cooperation is important.", "translit": "ıntımaqtastıq mañızdı" }
+      ]
+    },
+    {
+      "number": 29,
+      "title": "Conversation: The Economy",
+      "titleNative": "Экономика туралы әңгіме",
+      "items": [
+        { "kk": "Экономика қалай өзгеріп жатыр?", "en": "How is the economy changing?", "translit": "ekonomïka qalay özgerip jatır" },
+        { "kk": "Бағалар көтеріліп жатыр.", "en": "Prices are rising.", "translit": "bağalar köterilip jatır" },
+        { "kk": "Жалақы да көтеріле ме?", "en": "Will salaries rise too?", "translit": "jalaqı da köterile me" },
+        { "kk": "Баяу, бірақ көтеріледі деп үміттенемін.", "en": "Slowly, but I hope they will rise.", "translit": "bayaw, biraq köterïledi dep ümittenemin" },
+        { "kk": "Инфляция мәселе тудырады.", "en": "Inflation causes problems.", "translit": "ïnflyatsïya mäsele twdıradı" },
+        { "kk": "Мемлекет шара қабылдауы керек.", "en": "The state needs to take measures.", "translit": "memleket şara qabıldawı kerek" }
+      ]
+    },
+    {
+      "number": 30,
+      "title": "Conversation: Personal Growth",
+      "titleNative": "Жеке даму",
+      "items": [
+        { "kk": "Соңғы жылда көп нәрсе үйрендім.", "en": "I learned a lot this past year.", "translit": "soñğı jılda köp närse üyrendim" },
+        { "kk": "Мысалы, не?", "en": "For example, what?", "translit": "mısalı, ne" },
+        { "kk": "Қиындықпен күресуді үйрендім.", "en": "I learned to deal with difficulties.", "translit": "qïındıqpen küreswdi üyrendim" },
+        { "kk": "Бұл маңызды дағды.", "en": "That's an important skill.", "translit": "bul mañızdı dağdı" },
+        { "kk": "Келесі жылға мақсатым — жаңа тіл үйрену.", "en": "My goal for next year is to learn a new language.", "translit": "kelesi jılğa maqsatım — jaña til üyrenw" },
+        { "kk": "Табысты болғайсың!", "en": "Wishing you success!", "translit": "tabıstı bolğaysıñ" }
+      ]
+    },
+    {
+      "number": 31,
+      "title": "The Role of Artificial Intelligence",
+      "titleNative": "Жасанды интеллекттің рөлі",
+      "context": "Жасанды интеллекттің дамуы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Соңғы онжылдықта жасанды интеллект қарқынды дамыды.", "en": "In the last decade, artificial intelligence has developed rapidly." },
+        { "kk": "Ол медицина, білім беру және бизнесте кеңінен қолданылады.", "en": "It is widely used in medicine, education, and business." },
+        { "kk": "Дегенмен, кейбір мамандар оның қауіптерін ескертеді.", "en": "However, some experts warn about its dangers." },
+        { "kk": "Жұмыс орындарының жоғалуы алаңдатады.", "en": "The loss of jobs is concerning." },
+        { "kk": "Сонымен қатар, ол көптеген жаңа мүмкіндіктер ашады.", "en": "At the same time, it opens up many new opportunities." },
+        { "kk": "Болашақта адам мен технологияның үйлесімі маңызды болмақ.", "en": "In the future, the harmony between humans and technology will be important." }
+      ],
+      "questions": [
+        { "question": "Where is AI widely used according to the passage?", "options": ["Only in medicine", "Medicine, education, and business", "Only in business", "Nowhere yet"], "answerIndex": 1 },
+        { "question": "What concerns some experts?", "options": ["Too much innovation", "Job losses", "Too little use", "Nothing"], "answerIndex": 1 },
+        { "question": "What does the passage say about the future?", "options": ["AI will disappear", "Harmony between humans and tech matters", "Only technology matters", "Nothing will change"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 32,
+      "title": "A Debate on Urban Development",
+      "titleNative": "Қала дамуы туралы пікірталас",
+      "context": "Қала кеңесіндегі жаңа құрылыс жобасының талқылануы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қала кеңесінде жаңа құрылыс жобасы талқыланды.", "en": "A new construction project was discussed at the city council." },
+        { "kk": "Кейбір тұрғындар жаңа саябаққа қарсы емес.", "en": "Some residents are not against a new park." },
+        { "kk": "Басқалары көп қабатты үйлер салуды қалайды.", "en": "Others want to build multi-story buildings." },
+        { "kk": "Сарапшылар инфрақұрылымды алдын ала жоспарлауды ұсынды.", "en": "Experts suggested planning the infrastructure in advance." },
+        { "kk": "Пікірталас ұзаққа созылды.", "en": "The debate went on for a long time." },
+        { "kk": "Соңында, кеңес қосымша зерттеу жүргізуге шешім қабылдады.", "en": "In the end, the council decided to conduct additional research." }
+      ],
+      "questions": [
+        { "question": "What are some residents not against?", "options": ["A new mall", "A new park", "A new road", "Nothing"], "answerIndex": 1 },
+        { "question": "What did experts suggest?", "options": ["Ignoring infrastructure", "Planning infrastructure in advance", "Building nothing", "Removing the park"], "answerIndex": 1 },
+        { "question": "What did the council decide in the end?", "options": ["Build immediately", "Cancel everything", "Conduct additional research", "Vote again next week"], "answerIndex": 2 }
+      ]
+    },
+    {
+      "number": 33,
+      "title": "The Value of Cultural Heritage",
+      "titleNative": "Мәдени мұраның маңызы",
+      "context": "Мәдени мұраны сақтаудың маңыздылығы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Мәдени мұра — ұлттың жады.", "en": "Cultural heritage is the memory of a nation." },
+        { "kk": "Ол ескерткіштер, тіл, әдебиет және дәстүрлерден тұрады.", "en": "It consists of monuments, language, literature, and traditions." },
+        { "kk": "Жаһандану кезінде кейбір дәстүрлер ұмытылып бара жатыр.", "en": "During globalization, some traditions are being forgotten." },
+        { "kk": "Сондықтан жастарға мұраны үйрету маңызды.", "en": "Therefore, it is important to teach heritage to the youth." },
+        { "kk": "Мектептер мен мұражайлар бұл салада үлкен рөл атқарады.", "en": "Schools and museums play a big role in this area." },
+        { "kk": "Мұраны сақтау — болашаққа инвестиция.", "en": "Preserving heritage is an investment in the future." }
+      ],
+      "questions": [
+        { "question": "What does cultural heritage consist of, per the passage?", "options": ["Only language", "Monuments, language, literature, traditions", "Only monuments", "Only traditions"], "answerIndex": 1 },
+        { "question": "What is happening during globalization?", "options": ["Traditions are strengthening", "Some traditions are being forgotten", "Nothing changes", "Heritage grows"], "answerIndex": 1 },
+        { "question": "What play a big role in preserving heritage?", "options": ["Banks", "Schools and museums", "Hospitals", "Airports"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 34,
+      "title": "Balancing Work and Life",
+      "titleNative": "Жұмыс пен өмір тепе-теңдігі",
+      "context": "Жұмыс пен өмір тепе-теңдігінің маңыздылығы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазіргі заманда жұмыс пен өмір тепе-теңдігі маңызды тақырып.", "en": "Work-life balance is an important topic in modern times." },
+        { "kk": "Көптеген адамдар жұмыста көп уақыт өткізеді.", "en": "Many people spend a lot of time at work." },
+        { "kk": "Бұл стресс пен шаршауға әкелуі мүмкін.", "en": "This can lead to stress and exhaustion." },
+        { "kk": "Сарапшылар демалысты жоспарлауды кеңес береді.", "en": "Experts advise planning rest." },
+        { "kk": "Отбасымен уақыт өткізу де маңызды.", "en": "Spending time with family is also important." },
+        { "kk": "Тепе-теңдік — бақытты өмірдің кілті.", "en": "Balance is the key to a happy life." }
+      ],
+      "questions": [
+        { "question": "What can result from spending too much time at work?", "options": ["More energy", "Stress and exhaustion", "Better health", "Nothing"], "answerIndex": 1 },
+        { "question": "What do experts advise?", "options": ["Working more", "Planning rest", "Ignoring family", "Quitting jobs"], "answerIndex": 1 },
+        { "question": "What is called the key to a happy life?", "options": ["Money", "Balance", "Fame", "Work alone"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 35,
+      "title": "The Future of Education",
+      "titleNative": "Білім берудің болашағы",
+      "context": "Білім беру жүйесінің өзгеруі туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Білім беру жүйесі жылдам өзгеріп жатыр.", "en": "The education system is changing rapidly." },
+        { "kk": "Онлайн курстар барған сайын танымал болып барады.", "en": "Online courses are becoming increasingly popular." },
+        { "kk": "Оқушылар өз қарқынымен оқи алады.", "en": "Students can learn at their own pace." },
+        { "kk": "Дегенмен, мұғалімнің рөлі әлі де маңызды.", "en": "However, the teacher's role is still important." },
+        { "kk": "Технология мен адами қарым-қатынас теңдесуі керек.", "en": "Technology and human interaction need to be balanced." },
+        { "kk": "Болашақ білім беру икемді әрі қолжетімді болмақ.", "en": "Future education will be flexible and accessible." }
+      ],
+      "questions": [
+        { "question": "What is becoming increasingly popular?", "options": ["Traditional classrooms only", "Online courses", "No education", "Longer school days"], "answerIndex": 1 },
+        { "question": "What role is still important according to the passage?", "options": ["The teacher's role", "The building's role", "The bus driver's role", "No one's role"], "answerIndex": 0 },
+        { "question": "How will future education be, per the passage?", "options": ["Rigid and expensive", "Flexible and accessible", "Unchanged", "Only for the wealthy"], "answerIndex": 1 }
+      ]
+    }
+  ]
+}
