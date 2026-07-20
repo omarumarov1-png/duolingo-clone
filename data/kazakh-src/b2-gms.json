@@ -1,0 +1,682 @@
+{
+  "level": "b2",
+  "lessons": [
+    {
+      "number": 37,
+      "title": "Society, Technology & Global Challenges",
+      "titleNative": "Қоғам, технология және жаһандық сын-қатерлер",
+      "items": [
+        {
+          "kk": "Қоғамда теңдік болуы тиіс.",
+          "en": "There should be equality in society."
+        },
+        {
+          "kk": "Білім беру жүйесін жетілдіру қажет.",
+          "en": "It is necessary to improve the education system."
+        },
+        {
+          "kk": "Экология мәселесі шешімін таппай тұр.",
+          "en": "The ecology issue remains unresolved."
+        },
+        {
+          "kk": "Жаһандану дүниені өзгертіп жатыр.",
+          "en": "Globalisation is changing the world."
+        },
+        {
+          "kk": "Технологиялар дамуы адам өмірін жеңілдетеді.",
+          "en": "The development of technologies makes human life easier."
+        },
+        {
+          "kk": "Жасанды интеллект болашақта еңбек нарығын өзгертеді.",
+          "en": "Artificial intelligence will change the labour market in the future."
+        },
+        {
+          "kk": "Климаттың өзгеруі бүкіл адамзатқа қауіп төндіруде.",
+          "en": "Climate change is threatening all of humanity."
+        },
+        {
+          "kk": "Бұл мәселені шешу үшін халықаралық ынтымақтастық қажет.",
+          "en": "International cooperation is needed to solve this problem."
+        },
+        {
+          "kk": "Мемлекет азаматтарының денсаулығын қорғауы тиіс.",
+          "en": "The state should protect the health of its citizens."
+        },
+        {
+          "kk": "Сайлауда дауыс беру — азаматтық борыш.",
+          "en": "Voting in elections is a civic duty."
+        },
+        {
+          "kk": "Ол бұл жобаның табысты болуына ықпал етті.",
+          "en": "He contributed to the success of this project."
+        },
+        {
+          "kk": "Мен мұны жасай алмаймын деп ойлаған едім.",
+          "en": "I had thought I could not do this."
+        },
+        {
+          "kk": "Ол бізге дұрыс жол көрсетті.",
+          "en": "He showed us the right path."
+        },
+        {
+          "kk": "Мен оның пікірімен толығымен келісемін.",
+          "en": "I fully agree with his opinion."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "title": "Careful Reasoning & Professional Growth",
+      "titleNative": "Мұқият пайымдау және кәсіби өсу",
+      "items": [
+        {
+          "kk": "Бұл шешімнің салдарын ойластырдыңыз ба?",
+          "en": "Have you thought about the consequences of this decision?"
+        },
+        {
+          "kk": "Мен бұл ұсынысқа қызығушылықпен қарадым.",
+          "en": "I looked at this proposal with interest."
+        },
+        {
+          "kk": "Ол өзінің қателесіп жатқанын мойындады.",
+          "en": "He admitted that he was making a mistake."
+        },
+        {
+          "kk": "Мен оның сөздерін дұрыс түсінбеген болсам керек.",
+          "en": "I must have misunderstood his words."
+        },
+        {
+          "kk": "Жағдай күткеннен де күрделі болып шықты.",
+          "en": "The situation turned out to be more complex than expected."
+        },
+        {
+          "kk": "Мен мұны ертерек айтуым керек еді.",
+          "en": "I should have said this earlier."
+        },
+        {
+          "kk": "Ол жылдар бойы осы мақсат үшін жұмыс жасады.",
+          "en": "He worked towards this goal for years."
+        },
+        {
+          "kk": "Мен бұл саладағы тәжірибемді арттырғым келеді.",
+          "en": "I want to increase my experience in this field."
+        },
+        {
+          "kk": "Ол кәсіби тұрғыдан тез өседі.",
+          "en": "She grows professionally quickly."
+        },
+        {
+          "kk": "Бұл мүмкіндікті жіберіп алмауым керек.",
+          "en": "I must not miss this opportunity."
+        },
+        {
+          "kk": "Мен осы жолы дұрыс таңдау жасадым деп үміттенемін.",
+          "en": "I hope I made the right choice this time."
+        },
+        {
+          "kk": "Ол сыни тұрғыдан ойлай алады.",
+          "en": "He can think critically."
+        },
+        {
+          "kk": "Мен дәлелдерді мұқият талдадым.",
+          "en": "I carefully analysed the evidence."
+        },
+        {
+          "kk": "Бұл деректер жеткіліксіз деп санаймын.",
+          "en": "I consider this data insufficient."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "title": "Research, Analysis & Critical Thinking",
+      "titleNative": "Зерттеу, талдау және сыни ойлау",
+      "items": [
+        {
+          "kk": "Зерттеу нәтижелері алдын ала болжамдарды растады.",
+          "en": "Research results confirmed preliminary hypotheses."
+        },
+        {
+          "kk": "Бұл мәселе одан әрі терең зерттеуді қажет етеді.",
+          "en": "This issue requires further in-depth study."
+        },
+        {
+          "kk": "Мен оның тұжырымдарымен келіспеймін.",
+          "en": "I do not agree with his conclusions."
+        },
+        {
+          "kk": "Баламалы шешімдерді қарастыру қажет.",
+          "en": "It is necessary to consider alternative solutions."
+        },
+        {
+          "kk": "Бұл тақырып бойынша пікірлер екіге бөлінді.",
+          "en": "Opinions on this topic were divided in two."
+        },
+        {
+          "kk": "Ол өз позициясын нанымды дәлелдеді.",
+          "en": "He convincingly defended his position."
+        },
+        {
+          "kk": "Мен бұл мәселеге бейтарап тұрмын.",
+          "en": "I remain neutral on this issue."
+        },
+        {
+          "kk": "Жастар мәселесі мемлекеттің назарын талап етеді.",
+          "en": "Youth issues require the attention of the state."
+        },
+        {
+          "kk": "Ол өз саласында беделді маман.",
+          "en": "He is an authoritative specialist in his field."
+        },
+        {
+          "kk": "Мен бұл кітаптан көп нәрсе үйрендім.",
+          "en": "I learned a lot from this book."
+        },
+        {
+          "kk": "Ол өмірдегі қиындықтарды жеңіп өтті.",
+          "en": "He overcame the difficulties in life."
+        },
+        {
+          "kk": "Мен өзгелерден үлгі алуды жөн көремін.",
+          "en": "I prefer to take example from others."
+        },
+        {
+          "kk": "Оның мінезі оның ойлауынан байқалады.",
+          "en": "His character shows in the way he thinks."
+        },
+        {
+          "kk": "Адамның бағалы қасиеттері іс жүзінде анықталады.",
+          "en": "A person's valuable qualities are revealed in practice."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "title": "Character, Resilience & Self-Improvement",
+      "titleNative": "Мінез, төзімділік және өзін-өзі жетілдіру",
+      "items": [
+        {
+          "kk": "Мен адал болудың маңыздылығына сенемін.",
+          "en": "I believe in the importance of being honest."
+        },
+        {
+          "kk": "Ол өзгелердің пікірін тыңдай білетін адам.",
+          "en": "He is a person who knows how to listen to others' opinions."
+        },
+        {
+          "kk": "Кейде дұрыс шешім қабылдау үшін уақыт керек.",
+          "en": "Sometimes time is needed to make the right decision."
+        },
+        {
+          "kk": "Мен бұл туралы ойланып, шешім қабылдадым.",
+          "en": "I thought about this and made a decision."
+        },
+        {
+          "kk": "Ол өзінің мақсатына жету үшін барын салды.",
+          "en": "He gave everything to achieve his goal."
+        },
+        {
+          "kk": "Мен өз болашағыма оптимизммен қараймын.",
+          "en": "I look at my future with optimism."
+        },
+        {
+          "kk": "Табысқа жету үшін тек қиялдаудың өзі жеткіліксіз.",
+          "en": "Just dreaming is not enough to achieve success."
+        },
+        {
+          "kk": "Жетістікке жету — ұзақ процесс.",
+          "en": "Achieving success is a long process."
+        },
+        {
+          "kk": "Мен бұл мәселенің шешімін іздеп жүрмін.",
+          "en": "I am looking for a solution to this problem."
+        },
+        {
+          "kk": "Ол жауапкершілігін сезінеді.",
+          "en": "He feels his responsibility."
+        },
+        {
+          "kk": "Мен бұл жұмыстан рухани қанағат табамын.",
+          "en": "I find spiritual satisfaction in this work."
+        },
+        {
+          "kk": "Ол кері байланысты жақсы қабылдайды.",
+          "en": "He receives feedback well."
+        },
+        {
+          "kk": "Мен өз қателерімнен сабақ алдым.",
+          "en": "I learned from my mistakes."
+        },
+        {
+          "kk": "Ол жаңалықтарға бейімделуге дайын.",
+          "en": "He is ready to adapt to new things."
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "title": "Leadership, Innovation & Confidence",
+      "titleNative": "Көшбасшылық, инновация және сенімділік",
+      "items": [
+        {
+          "kk": "Мен бұл жоба арқылы өзімді дамыттым.",
+          "en": "I developed myself through this project."
+        },
+        {
+          "kk": "Ол команда ішінде жетекшілік рөлін атқарады.",
+          "en": "He plays a leadership role within the team."
+        },
+        {
+          "kk": "Мен осы тәжірибеден алған сабақтарымды еске аламын.",
+          "en": "I recall the lessons I learned from this experience."
+        },
+        {
+          "kk": "Ол мәселелерді шешуде шығармашылық тәсіл қолданады.",
+          "en": "He uses a creative approach in solving problems."
+        },
+        {
+          "kk": "Оның ойлауы стандартты шеңберден шығады.",
+          "en": "His thinking goes beyond the standard framework."
+        },
+        {
+          "kk": "Мен жаңа идеяларды сынай отырып, дамимын.",
+          "en": "I develop by testing new ideas."
+        },
+        {
+          "kk": "Ол инновация саласында ізашар болып табылады.",
+          "en": "He is a pioneer in the field of innovation."
+        },
+        {
+          "kk": "Мен технологияны мақсатты пайдаланамын.",
+          "en": "I use technology purposefully."
+        },
+        {
+          "kk": "Ол деректерге негізделген шешімдер қабылдайды.",
+          "en": "He makes data-driven decisions."
+        },
+        {
+          "kk": "Мен өз жұмысымның нәтижесін үнемі бағалаймын.",
+          "en": "I constantly evaluate the results of my work."
+        },
+        {
+          "kk": "Ол өз командасына сенеді және оларды қолдайды.",
+          "en": "He trusts his team and supports them."
+        },
+        {
+          "kk": "Мен кейде өз мүмкіндіктерімді бағаламай қаламын.",
+          "en": "Sometimes I underestimate my own abilities."
+        },
+        {
+          "kk": "Ол қиын жағдайларда тыныштығын сақтайды.",
+          "en": "He maintains his composure in difficult situations."
+        },
+        {
+          "kk": "Мен болашаққа сеніммен қараймын.",
+          "en": "I look to the future with confidence."
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "title": "Lifelong Learning & Persuasive Speaking",
+      "titleNative": "Өмір бойы білім алу және нанымды сөйлеу",
+      "items": [
+        {
+          "kk": "Қазіргі заманғы білім алу тек мектеппен шектелмейді.",
+          "en": "Modern education is not limited to school alone."
+        },
+        {
+          "kk": "Өзін-өзі оқыту — білімнің ең тиімді жолы.",
+          "en": "Self-education is the most effective path to knowledge."
+        },
+        {
+          "kk": "Ол бір мезгілде бірнеше тіл үйреніп жатыр.",
+          "en": "He is learning several languages simultaneously."
+        },
+        {
+          "kk": "Мен кітап оқу арқылы өзімді байытамын.",
+          "en": "I enrich myself through reading books."
+        },
+        {
+          "kk": "Ол проблемаларды логикалық тұрғыдан шешеді.",
+          "en": "He solves problems from a logical perspective."
+        },
+        {
+          "kk": "Менің зияткерлік қызығушылықтарым кең.",
+          "en": "My intellectual interests are broad."
+        },
+        {
+          "kk": "Ол философиялық мәселелерге терең ойлайды.",
+          "en": "He thinks deeply about philosophical issues."
+        },
+        {
+          "kk": "Мен тарихты оқу арқылы қазіргіні түсінемін.",
+          "en": "I understand the present through studying history."
+        },
+        {
+          "kk": "Ол мәдениаралық айырмашылықтарды жақсы түсінеді.",
+          "en": "He understands intercultural differences well."
+        },
+        {
+          "kk": "Мен жаһандық мәселелерге жергілікті шешімдер іздеймін.",
+          "en": "I look for local solutions to global problems."
+        },
+        {
+          "kk": "Оның сөйлеу мәнері анық және нанымды.",
+          "en": "His speaking manner is clear and persuasive."
+        },
+        {
+          "kk": "Мен аудиторияны бірден қызықтыру маңызды деп санаймын.",
+          "en": "I consider it important to engage the audience immediately."
+        },
+        {
+          "kk": "Ол тиімді ұсыныс жасай білетін адам.",
+          "en": "He is someone who knows how to make effective proposals."
+        },
+        {
+          "kk": "Мен пікірталасқа байсалдылықпен қатысамын.",
+          "en": "I participate in debates with composure."
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "title": "Debate, Objectivity & Personal Growth",
+      "titleNative": "Пікірталас, объективтілік және жеке даму",
+      "items": [
+        {
+          "kk": "Ол қарсыласының дәлелдерін мұқият тыңдайды.",
+          "en": "He carefully listens to the opponent's arguments."
+        },
+        {
+          "kk": "Мен бұл мәселені жан-жақты қарастырдым.",
+          "en": "I considered this issue from all angles."
+        },
+        {
+          "kk": "Ол пікірін сенімді түрде қорғайды.",
+          "en": "He defends his opinion confidently."
+        },
+        {
+          "kk": "Мен бұл тақырыпта объективті болуға тырысамын.",
+          "en": "I try to be objective on this topic."
+        },
+        {
+          "kk": "Ол жаңа ақпаратты тез игереді.",
+          "en": "He quickly masters new information."
+        },
+        {
+          "kk": "Мен өз ойымды жазбаша нақты жеткізе аламын.",
+          "en": "I can clearly convey my thoughts in writing."
+        },
+        {
+          "kk": "Ол мінсіз емес, бірақ жетілуге ұмтылады.",
+          "en": "He is not perfect, but he strives to improve."
+        },
+        {
+          "kk": "Мен кемшіліктерімді мойындай аламын.",
+          "en": "I can admit my shortcomings."
+        },
+        {
+          "kk": "Ол табандылықпен мақсатына жетеді.",
+          "en": "He achieves his goal with persistence."
+        },
+        {
+          "kk": "Мен жеке дамуыма уақыт бөлемін.",
+          "en": "I dedicate time to my personal development."
+        },
+        {
+          "kk": "Ол өзгелерге жол ашып береді.",
+          "en": "He opens the way for others."
+        },
+        {
+          "kk": "Мен бұл идеяның орынды екеніне сенемін.",
+          "en": "I believe this idea is appropriate."
+        },
+        {
+          "kk": "Ол командада ынтымақтастықты нығайтады.",
+          "en": "He strengthens cooperation within the team."
+        },
+        {
+          "kk": "Мен бұл жолда жалғыз еместігімді сеземін.",
+          "en": "I feel that I am not alone on this path."
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "title": "Inspiring Others & Critical Reading",
+      "titleNative": "Басқаларды шабыттандыру және сыни оқу",
+      "items": [
+        {
+          "kk": "Ол адамдарды шабыттандыра алатын көшбасшы.",
+          "en": "He is a leader who can inspire people."
+        },
+        {
+          "kk": "Мен бұл тәжірибенің менің болашағыма оң ықпал ететініне сенемін.",
+          "en": "I believe this experience will have a positive influence on my future."
+        },
+        {
+          "kk": "Ол мәтінді тез оқып, негізгі идеяны бөліп алады.",
+          "en": "He reads a text quickly and extracts the main idea."
+        },
+        {
+          "kk": "Мен баяндаманы сенімді жеткіздім деп үміттенемін.",
+          "en": "I hope I delivered the report confidently."
+        },
+        {
+          "kk": "Ол пікірлесуде барлық жақты тыңдайды.",
+          "en": "He listens to all sides in a discussion."
+        },
+        {
+          "kk": "Мен талқылау барысында жаңа ой туды.",
+          "en": "A new thought occurred to me during the discussion."
+        },
+        {
+          "kk": "Ол дерекке сүйене отырып, тұжырым жасады.",
+          "en": "He drew a conclusion relying on facts."
+        },
+        {
+          "kk": "Мен мәселенің себептерін анықтауға тырыстым.",
+          "en": "I tried to determine the causes of the problem."
+        },
+        {
+          "kk": "Ол болжамды тәжірибе арқылы тексерді.",
+          "en": "He tested the hypothesis through experiment."
+        },
+        {
+          "kk": "Мен деректердің сенімділігіне күмән келтірдім.",
+          "en": "I doubted the reliability of the data."
+        },
+        {
+          "kk": "Ол зерттеуді жан-жақты жүргізді.",
+          "en": "He conducted the research comprehensively."
+        },
+        {
+          "kk": "Мен ғылыми мақаланы сыни тұрғыдан оқыдым.",
+          "en": "I read the scientific article critically."
+        },
+        {
+          "kk": "Ол шығармашылық арқылы қоршаған ортаны өзгертеді.",
+          "en": "He changes the environment through creativity."
+        },
+        {
+          "kk": "Мен өнер туындыларынан рухани азық табамын.",
+          "en": "I find spiritual nourishment in works of art."
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "title": "Culture, Language & Crossing Borders",
+      "titleNative": "Мәдениет, тіл және шекараны кесіп өту",
+      "items": [
+        {
+          "kk": "Ол музыканы сезіммен орындайды.",
+          "en": "He performs music with feeling."
+        },
+        {
+          "kk": "Мен қазақ ауыз әдебиетін зерттейін деп жоспарлап отырмын.",
+          "en": "I am planning to study Kazakh oral literature."
+        },
+        {
+          "kk": "Ол суреттің мазмұнын терең талдады.",
+          "en": "He deeply analysed the content of the painting."
+        },
+        {
+          "kk": "Мен тілдің мәдениетпен байланысын зерттеймін.",
+          "en": "I study the connection between language and culture."
+        },
+        {
+          "kk": "Ол мәдени мұраны сақтаудың маңыздылығы туралы сөйледі.",
+          "en": "He spoke about the importance of preserving cultural heritage."
+        },
+        {
+          "kk": "Мен дәстүрлі және қазіргі заманғы мәдениетті ұштастырамын.",
+          "en": "I combine traditional and contemporary culture."
+        },
+        {
+          "kk": "Ол ұлттық кимоно кигенін түсіндірді.",
+          "en": "He explained why he wore the national kimono."
+        },
+        {
+          "kk": "Мен тіл арқылы мәдениетті тереңірек түсінемін.",
+          "en": "I understand culture more deeply through language."
+        },
+        {
+          "kk": "Ол шет елге барып, ойлауы өзгерді.",
+          "en": "After going abroad, his thinking changed."
+        },
+        {
+          "kk": "Мен жаңа мәдениетке тез бейімделдім.",
+          "en": "I adapted quickly to the new culture."
+        },
+        {
+          "kk": "Ол екі мәдениет арасындағы көпір рөлін атқарады.",
+          "en": "He plays the role of a bridge between two cultures."
+        },
+        {
+          "kk": "Мен тілдік кедергіні жеңіп, сөйлесе алдым.",
+          "en": "I overcame the language barrier and was able to communicate."
+        },
+        {
+          "kk": "Ол мәдени айырмашылықтарды құрметтейді.",
+          "en": "He respects cultural differences."
+        },
+        {
+          "kk": "Мен шет тілін үйрену арқылы жаңа мүмкіндіктер ашылды.",
+          "en": "New opportunities opened up for me through learning a foreign language."
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "title": "Translation, Focus & Time Management",
+      "titleNative": "Аударма, зейін және уақытты басқару",
+      "items": [
+        {
+          "kk": "Ол аударма жасау кезінде мәнді жоғалтпауға тырысады.",
+          "en": "He tries not to lose meaning when translating."
+        },
+        {
+          "kk": "Мен мәтіннің астарлы мағынасын ашуға тырыстым.",
+          "en": "I tried to uncover the underlying meaning of the text."
+        },
+        {
+          "kk": "Ол екі тілде де жетік жазады.",
+          "en": "He writes fluently in both languages."
+        },
+        {
+          "kk": "Мен тіл — бұл ойлаудың айнасы деп санаймын.",
+          "en": "I consider that language is the mirror of thinking."
+        },
+        {
+          "kk": "Ол өзінің зейінін ұзақ уақыт бойы бір нәрсеге шоғырландыра алады.",
+          "en": "He can concentrate his attention on one thing for a long time."
+        },
+        {
+          "kk": "Мен стресс кезінде де тиімді жұмыс жасай аламын.",
+          "en": "I can work effectively even under stress."
+        },
+        {
+          "kk": "Ол ұйымдастырушылық қабілеті жоғары адам.",
+          "en": "He is a person with high organisational ability."
+        },
+        {
+          "kk": "Мен уақытты тиімді басқаруды үйрендім.",
+          "en": "I learned to manage time effectively."
+        },
+        {
+          "kk": "Ол міндеттерді дұрыс бөлу арқылы жетістікке жетті.",
+          "en": "He achieved success by correctly distributing tasks."
+        },
+        {
+          "kk": "Мен бұл жобада өзімнің барлық мүмкіндігімді пайдаландым.",
+          "en": "I used all my abilities in this project."
+        },
+        {
+          "kk": "Ол мақсатқа бағытталған ойлауды дамытты.",
+          "en": "He developed goal-oriented thinking."
+        },
+        {
+          "kk": "Мен жұмыс пен өмірдің тепе-теңдігін сақтауға тырысамын.",
+          "en": "I try to maintain a work-life balance."
+        },
+        {
+          "kk": "Ол күнделікті шағын жетістіктерді атап өтеді.",
+          "en": "He marks small daily achievements."
+        },
+        {
+          "kk": "Мен алға жылжып жатқанымды сеземін.",
+          "en": "I feel that I am moving forward."
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "title": "Trust, Integrity & Legacy",
+      "titleNative": "Сенім, адалдық және мұра",
+      "items": [
+        {
+          "kk": "Ол адамдарға деген шынайы қызығушылық танытады.",
+          "en": "He shows genuine interest in people."
+        },
+        {
+          "kk": "Мен адамдармен тіл табыса алу — маңызды дағды деп санаймын.",
+          "en": "I consider finding common ground with people to be an important skill."
+        },
+        {
+          "kk": "Ол тыңдаушыны сөйлетіп, пікірін ашуға шебер.",
+          "en": "He is skilled at making listeners speak and open up their opinions."
+        },
+        {
+          "kk": "Мен сенімге негізделген қарым-қатынасты бағалаймын.",
+          "en": "I value relationships built on trust."
+        },
+        {
+          "kk": "Ол айтқанын орындайды.",
+          "en": "He does what he says."
+        },
+        {
+          "kk": "Мен адамдардың ниетін сезіне алатыныма сенемін.",
+          "en": "I believe I can sense people's intentions."
+        },
+        {
+          "kk": "Ол өзгелер үшін жақсылық жасауды мақсат тұтады.",
+          "en": "He makes it his goal to do good for others."
+        },
+        {
+          "kk": "Мен қоғамға пайдалы болуға тырысамын.",
+          "en": "I try to be useful to society."
+        },
+        {
+          "kk": "Ол болашақ ұрпаққа жақсы мұра қалдырғысы келеді.",
+          "en": "He wants to leave a good legacy for future generations."
+        },
+        {
+          "kk": "Мен қазақ тілінде сөйлей алатынымды мақтан тұтамын.",
+          "en": "I am proud that I can speak the Kazakh language."
+        }
+      ]
+    }
+  ]
+}

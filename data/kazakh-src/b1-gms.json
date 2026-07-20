@@ -1,0 +1,682 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "number": 37,
+      "title": "Narrating the Recent Past",
+      "titleNative": "Жақын өткенді әңгімелеу",
+      "items": [
+        {
+          "kk": "Мен жұмысқа кеш қалдым.",
+          "en": "I was late for work."
+        },
+        {
+          "kk": "Ол маған хат жазды.",
+          "en": "She wrote me a letter."
+        },
+        {
+          "kk": "Біз кеше кинотеатрға бардық.",
+          "en": "We went to the cinema yesterday."
+        },
+        {
+          "kk": "Мен оны бұрын көрген емеспін.",
+          "en": "I have never seen him before."
+        },
+        {
+          "kk": "Ол не істеп жатыр?",
+          "en": "What is he doing?"
+        },
+        {
+          "kk": "Ол телефонмен сөйлесіп жатыр.",
+          "en": "He is talking on the phone."
+        },
+        {
+          "kk": "Мен осы кітапты оқып жатырмын.",
+          "en": "I am reading this book."
+        },
+        {
+          "kk": "Олар футбол ойнап жатыр.",
+          "en": "They are playing football."
+        },
+        {
+          "kk": "Мен таңертең жаттығу жасаймын.",
+          "en": "I exercise in the morning."
+        },
+        {
+          "kk": "Ол күнде бір сағат жүгіреді.",
+          "en": "He runs for one hour every day."
+        },
+        {
+          "kk": "Менің досым маған туған күніме сыйлық берді.",
+          "en": "My friend gave me a gift for my birthday."
+        },
+        {
+          "kk": "Мен оған алғыс айттым.",
+          "en": "I thanked him."
+        },
+        {
+          "kk": "Бүгін менің туған күнім.",
+          "en": "Today is my birthday."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "title": "Birthdays, Shopping & Trying Things On",
+      "titleNative": "Туған күн, сауда және киім өлшеп көру",
+      "items": [
+        {
+          "kk": "Сенің туған күнің қашан?",
+          "en": "When is your birthday?"
+        },
+        {
+          "kk": "Менің туған күнім қаңтардың бесінде.",
+          "en": "My birthday is on the fifth of January."
+        },
+        {
+          "kk": "Мен оған гүл сатып алдым.",
+          "en": "I bought her flowers."
+        },
+        {
+          "kk": "Дүкен сағат тоғызда ашылады.",
+          "en": "The shop opens at nine o'clock."
+        },
+        {
+          "kk": "Дүкен кешкі сағат сегізде жабылады.",
+          "en": "The shop closes at eight in the evening."
+        },
+        {
+          "kk": "Маған осы көйлектің басқа өлшемі бар ма?",
+          "en": "Do you have this shirt in a different size?"
+        },
+        {
+          "kk": "Мен оны киіп көре аламын ба?",
+          "en": "Can I try it on?"
+        },
+        {
+          "kk": "Ол маған сай келмейді.",
+          "en": "It does not fit me."
+        },
+        {
+          "kk": "Маған кішірек өлшем керек.",
+          "en": "I need a smaller size."
+        },
+        {
+          "kk": "Сіз қандай түс қалайсыз?",
+          "en": "What color would you like?"
+        },
+        {
+          "kk": "Мен қара түсті аламын.",
+          "en": "I will take the black one."
+        },
+        {
+          "kk": "Қолма-қол ақшамен төлесем бола ма?",
+          "en": "Can I pay in cash?"
+        },
+        {
+          "kk": "Картамен төлей аламын ба?",
+          "en": "Can I pay by card?"
+        },
+        {
+          "kk": "Маған чек беріңіз, өтінемін.",
+          "en": "Please give me a receipt."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "title": "Returns, Warranties & Daily Chores",
+      "titleNative": "Тауар қайтару, кепілдік және үй шаруасы",
+      "items": [
+        {
+          "kk": "Бұл тауар кемшілікті.",
+          "en": "This item is defective."
+        },
+        {
+          "kk": "Мен оны қайтарғым келеді.",
+          "en": "I would like to return it."
+        },
+        {
+          "kk": "Сізде кепілдік бар ма?",
+          "en": "Do you have a warranty?"
+        },
+        {
+          "kk": "Мен үйге қайтқым келеді.",
+          "en": "I want to go home."
+        },
+        {
+          "kk": "Мен шаршадым, ұйықтағым келеді.",
+          "en": "I am tired and want to sleep."
+        },
+        {
+          "kk": "Ол ерте тұрады.",
+          "en": "She gets up early."
+        },
+        {
+          "kk": "Мен кешке кітап оқимын.",
+          "en": "I read books in the evening."
+        },
+        {
+          "kk": "Ол таңертең душ қабылдайды.",
+          "en": "He takes a shower in the morning."
+        },
+        {
+          "kk": "Біз аптасына бір рет кір жуамыз.",
+          "en": "We do laundry once a week."
+        },
+        {
+          "kk": "Мен аптасына екі рет үй жинаймын.",
+          "en": "I clean the house twice a week."
+        },
+        {
+          "kk": "Ол тамақты өзі пісіреді.",
+          "en": "She cooks food herself."
+        },
+        {
+          "kk": "Менің үйім жұмысыма жақын.",
+          "en": "My home is close to my work."
+        },
+        {
+          "kk": "Мен жұмысқа жаяу барамын.",
+          "en": "I walk to work."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "title": "Films, Music & Sharing Opinions",
+      "titleNative": "Фильм, музыка және пікір бөлісу",
+      "items": [
+        {
+          "kk": "Бұл фильм өте қызықты болды.",
+          "en": "This film was very interesting."
+        },
+        {
+          "kk": "Мен оны ұнатпадым.",
+          "en": "I did not like it."
+        },
+        {
+          "kk": "Сенің сүйікті фильмің қайсы?",
+          "en": "What is your favorite film?"
+        },
+        {
+          "kk": "Мен қорқынышты фильмдерді ұнатпаймын.",
+          "en": "I do not like horror films."
+        },
+        {
+          "kk": "Ол музыканы өте жақсы біледі.",
+          "en": "She knows music very well."
+        },
+        {
+          "kk": "Менің сүйікті әнші кім деп ойлайсың?",
+          "en": "Who do you think my favorite singer is?"
+        },
+        {
+          "kk": "Мен концертке барғым келеді.",
+          "en": "I want to go to a concert."
+        },
+        {
+          "kk": "Билет қалды ма?",
+          "en": "Are there any tickets left?"
+        },
+        {
+          "kk": "Билеттер таусылып кетті.",
+          "en": "The tickets are sold out."
+        },
+        {
+          "kk": "Келесі концерт қашан?",
+          "en": "When is the next concert?"
+        },
+        {
+          "kk": "Мен саясатқа қызықпаймын.",
+          "en": "I am not interested in politics."
+        },
+        {
+          "kk": "Сенің пікіріңше, бұл дұрыс па?",
+          "en": "In your opinion, is this correct?"
+        },
+        {
+          "kk": "Мен мұнымен келіспеймін.",
+          "en": "I do not agree with this."
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "title": "Debate, Disagreement & Making Up",
+      "titleNative": "Пікірталас, келіспеушілік және татуласу",
+      "items": [
+        {
+          "kk": "Бұл мәселе өте күрделі.",
+          "en": "This issue is very complex."
+        },
+        {
+          "kk": "Менің ойымша, біз өзгеріс енгізуіміз керек.",
+          "en": "I think we need to make a change."
+        },
+        {
+          "kk": "Ол бұл туралы не ойлайды?",
+          "en": "What does he think about this?"
+        },
+        {
+          "kk": "Олар бізбен келіседі.",
+          "en": "They agree with us."
+        },
+        {
+          "kk": "Бұл шешімді мен қолдаймын.",
+          "en": "I support this decision."
+        },
+        {
+          "kk": "Мен бұған қарсымын.",
+          "en": "I am against this."
+        },
+        {
+          "kk": "Ортақ шешімге келейік.",
+          "en": "Let's reach a common decision."
+        },
+        {
+          "kk": "Ол маған ашуланды.",
+          "en": "He got angry at me."
+        },
+        {
+          "kk": "Мен оған ренжідім.",
+          "en": "I was offended by him."
+        },
+        {
+          "kk": "Біз татуласып кеттік.",
+          "en": "We made up."
+        },
+        {
+          "kk": "Мен оны жіберіп алдым.",
+          "en": "I missed him."
+        },
+        {
+          "kk": "Ол маған өте маңызды.",
+          "en": "He is very important to me."
+        },
+        {
+          "kk": "Мен оны сағындым.",
+          "en": "I missed her."
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "title": "Relationships, Teamwork & Deadlines",
+      "titleNative": "Қарым-қатынас, топпен жұмыс және мерзім",
+      "items": [
+        {
+          "kk": "Сен маған өте керексің.",
+          "en": "I need you very much."
+        },
+        {
+          "kk": "Бізге бір-бірімізді түсіну керек.",
+          "en": "We need to understand each other."
+        },
+        {
+          "kk": "Ол менімен сөйлескісі келмеді.",
+          "en": "She did not want to talk to me."
+        },
+        {
+          "kk": "Мен оны кешірдім.",
+          "en": "I forgave him."
+        },
+        {
+          "kk": "Бұл жобаны біз бірге жасаймыз.",
+          "en": "We will do this project together."
+        },
+        {
+          "kk": "Тапсырманы уақытында орындау керек.",
+          "en": "The task must be completed on time."
+        },
+        {
+          "kk": "Ол жиналысқа кешікті.",
+          "en": "He was late to the meeting."
+        },
+        {
+          "kk": "Есепті дайындап болдым.",
+          "en": "I have finished preparing the report."
+        },
+        {
+          "kk": "Маған осы файлды жіберіңіз.",
+          "en": "Please send me this file."
+        },
+        {
+          "kk": "Жоба мерзімі қашан аяқталады?",
+          "en": "When does the project deadline end?"
+        },
+        {
+          "kk": "Біз мақсатқа жеттік.",
+          "en": "We have reached our goal."
+        },
+        {
+          "kk": "Бұл нәтиже бізді қанағаттандырды.",
+          "en": "This result satisfied us."
+        },
+        {
+          "kk": "Келесі қадам не болу керек?",
+          "en": "What should the next step be?"
+        },
+        {
+          "kk": "Мен бұл жұмысты жалғастырамын.",
+          "en": "I will continue this work."
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "title": "Language Learning & Translation",
+      "titleNative": "Тіл үйрену және аударма",
+      "items": [
+        {
+          "kk": "Ол қазақ тілін жетік біледі.",
+          "en": "He knows the Kazakh language fluently."
+        },
+        {
+          "kk": "Мен орыс тілінде жазамын.",
+          "en": "I write in Russian."
+        },
+        {
+          "kk": "Ол ағылшын тілін үйреніп жатыр.",
+          "en": "She is learning English."
+        },
+        {
+          "kk": "Бұл сөзді қалай айтады?",
+          "en": "How do you say this word?"
+        },
+        {
+          "kk": "Менің аудармам дұрыс па?",
+          "en": "Is my translation correct?"
+        },
+        {
+          "kk": "Бұл сөйлемді қайталаңыз.",
+          "en": "Repeat this sentence."
+        },
+        {
+          "kk": "Мен жаңа сөздерді жаттап алдым.",
+          "en": "I memorised the new words."
+        },
+        {
+          "kk": "Тіл үйрену көп уақытты қажет етеді.",
+          "en": "Learning a language requires a lot of time."
+        },
+        {
+          "kk": "Мен аударманы дұрыс жасадым ба?",
+          "en": "Did I translate it correctly?"
+        },
+        {
+          "kk": "Қазақ тілінің грамматикасы қиын.",
+          "en": "The grammar of the Kazakh language is difficult."
+        },
+        {
+          "kk": "Мен балалық шағымды еске алдым.",
+          "en": "I remembered my childhood."
+        },
+        {
+          "kk": "Ол өзінің туған жерін сағынады.",
+          "en": "He misses his homeland."
+        },
+        {
+          "kk": "Бұл оқиға маған таныс.",
+          "en": "This story is familiar to me."
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "title": "Memories, Childhood & Looking Back",
+      "titleNative": "Естеліктер, балалық шақ және өткенге көз жүгірту",
+      "items": [
+        {
+          "kk": "Мен ол кезде жас едім.",
+          "en": "I was young at that time."
+        },
+        {
+          "kk": "Ол маған туралы айтты.",
+          "en": "He told me about it."
+        },
+        {
+          "kk": "Мен ол жерге бірінші рет бардым.",
+          "en": "I went there for the first time."
+        },
+        {
+          "kk": "Сол кезде мен не істедім?",
+          "en": "What was I doing at that time?"
+        },
+        {
+          "kk": "Ол оқиғаны ешқашан ұмытпаймын.",
+          "en": "I will never forget that event."
+        },
+        {
+          "kk": "Бұл менің өміріmdегі ең жақсы кез болды.",
+          "en": "That was the best time of my life."
+        },
+        {
+          "kk": "Өткенді өзгерте алмаймыз, болашаққа қараймыз.",
+          "en": "We cannot change the past, let's look to the future."
+        },
+        {
+          "kk": "Егер мен ерте тұрсам, жаттығу жасаймын.",
+          "en": "If I get up early, I exercise."
+        },
+        {
+          "kk": "Жаңбыр жаумаса, серуенге шығайық.",
+          "en": "If it doesn't rain, let's go for a walk."
+        },
+        {
+          "kk": "Ол келмесе, мен жалғыз барамын.",
+          "en": "If he doesn't come, I will go alone."
+        },
+        {
+          "kk": "Уақытым болса, саған хабарласамын.",
+          "en": "If I have time, I will contact you."
+        },
+        {
+          "kk": "Ол кешіксе, мен күтемін.",
+          "en": "If he is late, I will wait."
+        },
+        {
+          "kk": "Бұл жобаны мерзімінде бітіру үшін барлығымыз жұмыс істеуіміз керек.",
+          "en": "To finish this project on time, we all need to work."
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "title": "Health Habits & Starting a Business",
+      "titleNative": "Денсаулық әдеттері және бизнес бастау",
+      "items": [
+        {
+          "kk": "Дұрыс тамақтану денсаулыққа пайдалы.",
+          "en": "Eating well is beneficial for health."
+        },
+        {
+          "kk": "Жаттығу жасамасаң, денің нашарлайды.",
+          "en": "If you don't exercise, your health will deteriorate."
+        },
+        {
+          "kk": "Стресс денсаулыққа зиянды.",
+          "en": "Stress is harmful to health."
+        },
+        {
+          "kk": "Мен дәрігердің кеңесін ұстандым.",
+          "en": "I followed the doctor's advice."
+        },
+        {
+          "kk": "Ол өзін жақсы ұстайды.",
+          "en": "He conducts himself well."
+        },
+        {
+          "kk": "Мен жаңа дағдылар игеріп жатырмын.",
+          "en": "I am acquiring new skills."
+        },
+        {
+          "kk": "Бұл мамандық болашақта өте бағалы болады.",
+          "en": "This profession will be very valuable in the future."
+        },
+        {
+          "kk": "Мен жұмыс орнымды ауыстырғым келеді.",
+          "en": "I want to change my workplace."
+        },
+        {
+          "kk": "Ол жаңа компанияда жақсы жұмыс тапты.",
+          "en": "She found a good job at a new company."
+        },
+        {
+          "kk": "Менің арманым — өз бизнесімді ашу.",
+          "en": "My dream is to open my own business."
+        },
+        {
+          "kk": "Бизнес ашу оңай емес.",
+          "en": "Opening a business is not easy."
+        },
+        {
+          "kk": "Мен кәсіпкер болғым келеді.",
+          "en": "I want to become an entrepreneur."
+        },
+        {
+          "kk": "Нарықты зерттеп, жоспар жасадым.",
+          "en": "I researched the market and made a plan."
+        },
+        {
+          "kk": "Табысты бизнес үшін бірнеше жыл керек.",
+          "en": "A successful business takes several years."
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "title": "Kazakhstan: Economy, Tourism & Culture",
+      "titleNative": "Қазақстан: экономика, туризм және мәдениет",
+      "items": [
+        {
+          "kk": "Қазақстанда туризм дамып жатыр.",
+          "en": "Tourism is developing in Kazakhstan."
+        },
+        {
+          "kk": "Елдің экономикасы тұрақты өсуде.",
+          "en": "The country's economy is steadily growing."
+        },
+        {
+          "kk": "Бұл аймақта мұнай өндіріледі.",
+          "en": "Oil is extracted in this region."
+        },
+        {
+          "kk": "Қазақстан Орталық Азияның ең үлкен елі.",
+          "en": "Kazakhstan is the largest country in Central Asia."
+        },
+        {
+          "kk": "Алматы Қазақстанның ең ірі қаласы.",
+          "en": "Almaty is Kazakhstan's largest city."
+        },
+        {
+          "kk": "Нұр-Сұлтан — Қазақстанның астанасы.",
+          "en": "Nur-Sultan is the capital of Kazakhstan."
+        },
+        {
+          "kk": "Қазақтар қонақжайлылығымен белгілі.",
+          "en": "Kazakhs are known for their hospitality."
+        },
+        {
+          "kk": "Наурыз — қазақтың ең маңызды мерекесі.",
+          "en": "Nauryz is the most important Kazakh holiday."
+        },
+        {
+          "kk": "Домбыра — қазақтың ұлттық аспабы.",
+          "en": "The dombra is the national instrument of Kazakhstan."
+        },
+        {
+          "kk": "Қазақ асханасы ет тағамдарымен бай.",
+          "en": "Kazakh cuisine is rich in meat dishes."
+        },
+        {
+          "kk": "Мен оның не айтқысы келгенін түсіндім.",
+          "en": "I understood what he wanted to say."
+        },
+        {
+          "kk": "Ол маған неге ашуланғанын білмеймін.",
+          "en": "I don't know why he got angry at me."
+        },
+        {
+          "kk": "Мен оның кім екенін білмедім.",
+          "en": "I didn't know who he was."
+        },
+        {
+          "kk": "Ол қашан келетінін айтты.",
+          "en": "He told me when he would come."
+        },
+        {
+          "kk": "Мен оның жақсы адам екеніне сенемін.",
+          "en": "I believe that he is a good person."
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "title": "Indirect Speech & Office Communication",
+      "titleNative": "Жанама сөйлеу және кеңседегі қарым-қатынас",
+      "items": [
+        {
+          "kk": "Ол не істеп жатқанын кейін білдім.",
+          "en": "I found out later what he was doing."
+        },
+        {
+          "kk": "Мен бұл жұмысты дұрыс орындаймын деп үміттенемін.",
+          "en": "I hope I will complete this work correctly."
+        },
+        {
+          "kk": "Ол ертең келеді деп ойладым.",
+          "en": "I thought he would come tomorrow."
+        },
+        {
+          "kk": "Мен мұны бұрын естіген едім.",
+          "en": "I had heard this before."
+        },
+        {
+          "kk": "Ол келгенде, мен ұйықтап жатыр едім.",
+          "en": "When he came, I was sleeping."
+        },
+        {
+          "kk": "Мен баяндама жазып жатырмын.",
+          "en": "I am writing a report."
+        },
+        {
+          "kk": "Ол жиналыста сөз сөйледі.",
+          "en": "He gave a speech at the meeting."
+        },
+        {
+          "kk": "Мен оған электрондық пошта жібердім.",
+          "en": "I sent him an email."
+        },
+        {
+          "kk": "Бұл хабарламаны оқыдың ба?",
+          "en": "Did you read this message?"
+        },
+        {
+          "kk": "Мен кеше сенімен хабарласпақшы болдым.",
+          "en": "I was going to contact you yesterday."
+        },
+        {
+          "kk": "Жиналысты ертеңге ауыстырайық.",
+          "en": "Let's move the meeting to tomorrow."
+        },
+        {
+          "kk": "Мен бюджетті тексеріп жатырмын.",
+          "en": "I am checking the budget."
+        },
+        {
+          "kk": "Бізге қосымша қаржы керек.",
+          "en": "We need additional funding."
+        },
+        {
+          "kk": "Жоспарды басшылыққа ұсындым.",
+          "en": "I presented the plan to management."
+        },
+        {
+          "kk": "Шешім келесі аптада қабылданады.",
+          "en": "The decision will be made next week."
+        }
+      ]
+    }
+  ]
+}

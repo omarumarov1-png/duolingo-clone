@@ -1,0 +1,461 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "number": 35,
+      "title": "Everyday People, Places & Simple Descriptions",
+      "titleNative": "Күнделікті адамдар, орындар және сипаттамалар",
+      "items": [
+        {
+          "kk": "Бүгін ауа райы жақсы.",
+          "en": "The weather is nice today."
+        },
+        {
+          "kk": "Мен бай емеспін.",
+          "en": "I am not rich."
+        },
+        {
+          "kk": "Бұл сөмке ауыр.",
+          "en": "This bag is heavy."
+        },
+        {
+          "kk": "Бұл сөмкелер ауыр.",
+          "en": "These bags are heavy."
+        },
+        {
+          "kk": "Қара, мына жерде менің досым бар.",
+          "en": "Look, there is my friend."
+        },
+        {
+          "kk": "Менің ағам екеуміз жақсы теннис ойнаймыз.",
+          "en": "My brother and I are good tennis players."
+        },
+        {
+          "kk": "Оның анасы үйде. Ол мектепте.",
+          "en": "His mother is at home. He is at school."
+        },
+        {
+          "kk": "Оның балалары мектепте.",
+          "en": "Her children are at school."
+        },
+        {
+          "kk": "Мен такси жүргізушісімін.",
+          "en": "I am a taxi driver."
+        },
+        {
+          "kk": "Менің апам медбике.",
+          "en": "My sister is a nurse."
+        },
+        {
+          "kk": "Ол ауру. Ол төсекте жатыр.",
+          "en": "He is sick. He is in bed."
+        },
+        {
+          "kk": "Мен аш емеспін, бірақ шөлдедім.",
+          "en": "I am not hungry, but I am thirsty."
+        },
+        {
+          "kk": "Ол өте қарт адам. Оған тоқсан сегіз жас.",
+          "en": "He is a very old man. He is ninety-eight."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "title": "Weather, Time & Personal Information",
+      "titleNative": "Ауа-райы, уақыт және жеке ақпарат",
+      "items": [
+        {
+          "kk": "Бұл орындықтар әдемі емес, бірақ ыңғайлы.",
+          "en": "These chairs are not beautiful, but comfortable."
+        },
+        {
+          "kk": "Бүгін ауа жылы және күнді.",
+          "en": "The weather is warm and sunny today."
+        },
+        {
+          "kk": "Сен кешіктің. — Жоқ, кешікпедім! Мен ерте келдім.",
+          "en": "You are late. — No! I am early."
+        },
+        {
+          "kk": "Ол үйде жоқ. Ол жұмыста.",
+          "en": "She is not home. She is at work."
+        },
+        {
+          "kk": "Міне, сенің пальтоң.",
+          "en": "Here is your coat."
+        },
+        {
+          "kk": "Сенің атың кім?",
+          "en": "What is your name?"
+        },
+        {
+          "kk": "Менің атым Айбек.",
+          "en": "My name is Aibek."
+        },
+        {
+          "kk": "Сен қайдансың?",
+          "en": "Where are you from?"
+        },
+        {
+          "kk": "Мен Ақтөбеден шыққанмын.",
+          "en": "I am from Aktobe."
+        },
+        {
+          "kk": "Сен нешедесің?",
+          "en": "How old are you?"
+        },
+        {
+          "kk": "Маған жиырма жас.",
+          "en": "I am twenty years old."
+        },
+        {
+          "kk": "Сенің жұмысың не?",
+          "en": "What is your job?"
+        },
+        {
+          "kk": "Мен мұғаліммін.",
+          "en": "I am a teacher."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "title": "Interests, Seasons & How You Feel",
+      "titleNative": "Қызығушылықтар, мезгілдер және көңіл-күй",
+      "items": [
+        {
+          "kk": "Сенің сүйікті түсің қандай?",
+          "en": "What is your favorite color?"
+        },
+        {
+          "kk": "Менің сүйікті түсім көк.",
+          "en": "My favorite color is blue."
+        },
+        {
+          "kk": "Сен неге қызығасың?",
+          "en": "What are you interested in?"
+        },
+        {
+          "kk": "Мен музыкаға қызығамын.",
+          "en": "I am interested in music."
+        },
+        {
+          "kk": "Бүгін ыстық.",
+          "en": "It is hot today."
+        },
+        {
+          "kk": "Бүгін ыстық емес.",
+          "en": "It is not hot today."
+        },
+        {
+          "kk": "Бүгін желді.",
+          "en": "It is windy today."
+        },
+        {
+          "kk": "Бүгін желді емес.",
+          "en": "It is not windy today."
+        },
+        {
+          "kk": "Менің қолдарым суық.",
+          "en": "My hands are cold."
+        },
+        {
+          "kk": "Қазақстан өте үлкен ел.",
+          "en": "Kazakhstan is a very big country."
+        },
+        {
+          "kk": "Бриллиантлар арзан емес.",
+          "en": "Diamonds are not cheap."
+        },
+        {
+          "kk": "Ақтөбе Ресейде емес.",
+          "en": "Aktobe is not in Russia."
+        },
+        {
+          "kk": "Мен шаршадым.",
+          "en": "I am tired."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "title": "Daily Routines: Waking, Commuting & Evenings",
+      "titleNative": "Күнделікті тәртіп: ояну, жол жүру, кеш",
+      "items": [
+        {
+          "kk": "Мен шаршамадым.",
+          "en": "I am not tired."
+        },
+        {
+          "kk": "Менің ішім ашты.",
+          "en": "I am hungry."
+        },
+        {
+          "kk": "Мен аш емеспін.",
+          "en": "I am not hungry."
+        },
+        {
+          "kk": "Ол жақсы жүзеді.",
+          "en": "He is a good swimmer."
+        },
+        {
+          "kk": "Мен саясатқа қызықпаймын.",
+          "en": "I am not interested in politics."
+        },
+        {
+          "kk": "Кофе ыстық.",
+          "en": "The coffee is hot."
+        },
+        {
+          "kk": "Мен әр таңертең кофе ішемін.",
+          "en": "I drink coffee every morning."
+        },
+        {
+          "kk": "Ол шай ішпейді.",
+          "en": "She does not drink tea."
+        },
+        {
+          "kk": "Біз күн сайын нан жейміз.",
+          "en": "We eat bread every day."
+        },
+        {
+          "kk": "Олар қазір түскі ас ішуде.",
+          "en": "They are eating lunch now."
+        },
+        {
+          "kk": "Мен кеше базарға бардым.",
+          "en": "I went to the market yesterday."
+        },
+        {
+          "kk": "Мен сағат жетіде оянамын.",
+          "en": "I wake up at seven o'clock."
+        },
+        {
+          "kk": "Ол автобуспен жұмысқа барады.",
+          "en": "She goes to work by bus."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "title": "Habits, Shopping & Simple Wants",
+      "titleNative": "Әдеттер, сауда және қарапайым тілектер",
+      "items": [
+        {
+          "kk": "Мен кешкі алтыда үйге келемін.",
+          "en": "I come home at six in the evening."
+        },
+        {
+          "kk": "Біз әр кеш теледидар көреміз.",
+          "en": "We watch television every evening."
+        },
+        {
+          "kk": "Сен кітап оқисың ба?",
+          "en": "Do you read books?"
+        },
+        {
+          "kk": "Иә, мен күн сайын кітап оқимын.",
+          "en": "Yes, I read books every day."
+        },
+        {
+          "kk": "Мен теледидар көрмеймін.",
+          "en": "I do not watch television."
+        },
+        {
+          "kk": "Менің әкем кеңседе жұмыс істейді.",
+          "en": "My father works in an office."
+        },
+        {
+          "kk": "Менің анам өте жақсы тамақ пісіреді.",
+          "en": "My mother cooks very well."
+        },
+        {
+          "kk": "Балалар аулада ойнап жатыр.",
+          "en": "The children are playing in the yard."
+        },
+        {
+          "kk": "Маған нан сатып алу керек.",
+          "en": "I need to buy some bread."
+        },
+        {
+          "kk": "Бұл қанша тұрады?",
+          "en": "How much does this cost?"
+        },
+        {
+          "kk": "Бұл бес жүз теңге тұрады.",
+          "en": "It costs five hundred tenge."
+        },
+        {
+          "kk": "Бұл өте қымбат.",
+          "en": "That is too expensive."
+        },
+        {
+          "kk": "Сізде жеңілдік бар ма?",
+          "en": "Do you have a discount?"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "title": "Food, Telling Time & Directions",
+      "titleNative": "Тамақ, уақытты айту және бағыт сұрау",
+      "items": [
+        {
+          "kk": "Мен су ішкім келеді.",
+          "en": "I want to drink water."
+        },
+        {
+          "kk": "Мен бірдеме жегім келеді.",
+          "en": "I want to eat something."
+        },
+        {
+          "kk": "Тамақ өте дәмді.",
+          "en": "The food is delicious."
+        },
+        {
+          "kk": "Мен ащы тамақты ұнатпаймын.",
+          "en": "I do not like spicy food."
+        },
+        {
+          "kk": "Қазір сағат нешеде?",
+          "en": "What time is it now?"
+        },
+        {
+          "kk": "Қазір сағат үштің жарымы.",
+          "en": "It is half past three."
+        },
+        {
+          "kk": "Пойыз сағат тоғызда жүреді.",
+          "en": "The train departs at nine o'clock."
+        },
+        {
+          "kk": "Мен Ақтөбеде туылдым.",
+          "en": "I was born in Aktobe."
+        },
+        {
+          "kk": "Мен мұнда он жыл тұрдым.",
+          "en": "I have lived here for ten years."
+        },
+        {
+          "kk": "Менің пәтерімде үш бөлме бар.",
+          "en": "My apartment has three rooms."
+        },
+        {
+          "kk": "Бұрышта солға бұрылыңыз.",
+          "en": "Turn left at the corner."
+        },
+        {
+          "kk": "Тура жүріңіз.",
+          "en": "Go straight ahead."
+        },
+        {
+          "kk": "Дәріхана банктің жанында.",
+          "en": "The pharmacy is next to the bank."
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "title": "Getting Around & Learning Kazakh",
+      "titleNative": "Жол жүру және қазақ тілін үйрену",
+      "items": [
+        {
+          "kk": "Мұның жанында аурухана бар ма?",
+          "en": "Is there a hospital near here?"
+        },
+        {
+          "kk": "Қала орталығы қаншалықты алыс?",
+          "en": "How far is the city center?"
+        },
+        {
+          "kk": "Мен қазақша аздап сөйлеймін.",
+          "en": "I speak a little Kazakh."
+        },
+        {
+          "kk": "Өтінемін, баяуырақ сөйлеңізші.",
+          "en": "Please speak more slowly."
+        },
+        {
+          "kk": "Мен түсінбеймін.",
+          "en": "I do not understand."
+        },
+        {
+          "kk": "Қайталап айтыңызшы, өтінемін.",
+          "en": "Could you repeat that, please?"
+        },
+        {
+          "kk": "Бұл сөз не дегенді білдіреді?",
+          "en": "What does this word mean?"
+        },
+        {
+          "kk": "Мен қазақ тілін үйренемін.",
+          "en": "I am learning Kazakh."
+        },
+        {
+          "kk": "Қазақша оңай емес, бірақ қызықты.",
+          "en": "Kazakh is not easy, but it is interesting."
+        },
+        {
+          "kk": "Мен күн сайын оқимын.",
+          "en": "I study every day."
+        },
+        {
+          "kk": "Менің досым үш тіл біледі.",
+          "en": "My friend speaks three languages."
+        },
+        {
+          "kk": "Сен қандай тілдерді білесің?",
+          "en": "Which languages do you speak?"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "title": "Weather Forecasts & Feeling Better",
+      "titleNative": "Ауа-райы болжамы және көңіл-күй",
+      "items": [
+        {
+          "kk": "Жаңбыр жауып жатыр.",
+          "en": "It is raining."
+        },
+        {
+          "kk": "Кеше қар жауып жатты.",
+          "en": "It was snowing yesterday."
+        },
+        {
+          "kk": "Ертең ауа райы қандай болады?",
+          "en": "What is the weather like tomorrow?"
+        },
+        {
+          "kk": "Ертең суық болады.",
+          "en": "It will be cold tomorrow."
+        },
+        {
+          "kk": "Мен қыстан жазды жақсы көремін.",
+          "en": "I prefer summer to winter."
+        },
+        {
+          "kk": "Көктем менің сүйікті маусымым.",
+          "en": "Spring is my favorite season."
+        },
+        {
+          "kk": "Менің басым ауырады.",
+          "en": "I have a headache."
+        },
+        {
+          "kk": "Бүгін менің өзімді жаман сезінемін.",
+          "en": "I feel unwell today."
+        },
+        {
+          "kk": "Сен дәрігерге барып көруің керек.",
+          "en": "You should see a doctor."
+        },
+        {
+          "kk": "Қазір маған жақсырақ.",
+          "en": "I feel better now."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "level": "b2",
+  "lessons": [
+    {
+      "number": 48,
+      "title": "Looking to the Future",
+      "titleNative": "Болашаққа деген көзқарас",
+      "context": "Табандылық, тіл үйрену және болашаққа оптимизммен қарау туралы жеке толғаныс.",
+      "paragraphs": [
+        { "kk": "Мен болашаққа оптимизммен қараймын.", "en": "I look at the future with optimism." },
+        { "kk": "Жетістікке жету оңай емес, бірақ табандылықпен және мақсатқа бағытталған ойлаумен кез-келген қиындықты жеңуге болады.", "en": "Achieving success is not easy, but with persistence and goal-oriented thinking, any difficulty can be overcome." },
+        { "kk": "Мен өз қателерімнен сабақ алып, үнемі дамып отырамын.", "en": "I learn from my mistakes and constantly develop." },
+        { "kk": "Тіл үйрену — менің дамуымның маңызды бөлігі.", "en": "Language learning is an important part of my development." },
+        { "kk": "Қазақ тілінде сөйлей алатынымды мақтан тұтамын.", "en": "I am proud that I can speak the Kazakh language." },
+        { "kk": "Мен болашақта өз бизнесімді ашқым келеді және қоғамға пайдалы болуға тырысамын.", "en": "In the future I want to open my own business and try to be useful to society." },
+        { "kk": "Өткенді өзгерте алмаймыз — болашаққа қараймыз.", "en": "We cannot change the past — we look to the future." }
+      ],
+      "questions": [
+        { "question": "How does the narrator view the future?", "options": ["With fear", "With optimism", "With indifference", "With regret"], "answerIndex": 1 },
+        { "question": "According to the text, what helps overcome difficulty?", "options": ["Luck", "Persistence and goal-oriented thinking", "Money alone", "Avoiding challenges"], "answerIndex": 1 },
+        { "question": "What does the narrator learn from?", "options": ["Books only", "Their mistakes", "Other people's failures", "Teachers only"], "answerIndex": 1 },
+        { "question": "What is the narrator proud of?", "options": ["Their job", "Speaking Kazakh", "Their car", "Their house"], "answerIndex": 1 },
+        { "question": "What does the narrator want to do in the future?", "options": ["Retire early", "Open their own business", "Move abroad", "Study medicine"], "answerIndex": 1 }
+      ]
+    }
+  ]
+}

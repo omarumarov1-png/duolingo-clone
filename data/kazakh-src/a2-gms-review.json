@@ -1,0 +1,29 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "number": 46,
+      "title": "My Daily Life",
+      "titleNative": "Менің күнделікті өмірім",
+      "context": "Айбектің өзі туралы қысқаша әңгімесі: тұратын жері, күнделікті тәртібі және отбасы.",
+      "paragraphs": [
+        { "kk": "Менің атым Айбек.", "en": "My name is Aibek." },
+        { "kk": "Мен Ақтөбеде тұрамын.", "en": "I live in Aktobe." },
+        { "kk": "Мен таңертең сағат жетіде оянамын.", "en": "I wake up at seven in the morning." },
+        { "kk": "Душ қабылдап, кофе ішемін.", "en": "I take a shower and drink coffee." },
+        { "kk": "Мен жұмысқа автобуспен барамын.", "en": "I go to work by bus." },
+        { "kk": "Менің әкем кеңседе жұмыс істейді, ал анам мұғалім.", "en": "My father works in an office, and my mother is a teacher." },
+        { "kk": "Кешкісін біз бірге теледидар көреміз.", "en": "In the evenings we watch television together." },
+        { "kk": "Мен кітап оқуды ұнатамын.", "en": "I like reading books." },
+        { "kk": "Менің сүйікті маусымым — жаз, себебі жылы болады.", "en": "My favourite season is summer, because it is warm." }
+      ],
+      "questions": [
+        { "question": "Where does Aibek live?", "options": ["Aktobe", "Almaty", "Astana", "Shymkent"], "answerIndex": 0 },
+        { "question": "What does he drink in the morning?", "options": ["Tea", "Coffee", "Juice", "Water"], "answerIndex": 1 },
+        { "question": "How does he get to work?", "options": ["On foot", "By bus", "By car", "By train"], "answerIndex": 1 },
+        { "question": "What is his mother's profession?", "options": ["Nurse", "Teacher", "Doctor", "Driver"], "answerIndex": 1 },
+        { "question": "What is his favourite season?", "options": ["Winter", "Spring", "Summer", "Autumn"], "answerIndex": 2 }
+      ]
+    }
+  ]
+}

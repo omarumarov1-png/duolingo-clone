@@ -1,0 +1,27 @@
+{
+  "level": "b1plus",
+  "lessons": [
+    {
+      "number": 40,
+      "title": "Kazakh Culture & Hospitality",
+      "titleNative": "Қазақ мәдениеті",
+      "context": "Қазақ халқының қонақжайлылығы, Наурыз мерекесі және домбыра туралы қысқаша мәтін.",
+      "paragraphs": [
+        { "kk": "Қазақтар қонақжайлылығымен белгілі.", "en": "Kazakhs are known for their hospitality." },
+        { "kk": "Үйге қонақ келгенде, оларға міндетті түрде дастархан жайылады.", "en": "When guests come to the house, a table is always laid for them." },
+        { "kk": "Наурыз — қазақтың ең маңызды мерекесі, ол наурыз айының жиырма біршінде тойланады.", "en": "Nauryz is the most important Kazakh holiday, celebrated on the twenty-first of March." },
+        { "kk": "Бұл күні адамдар бір-бірін құттықтайды және наурыз көже ішеді.", "en": "On this day people congratulate each other and drink Nauryz kozhe." },
+        { "kk": "Домбыра — қазақтың ұлттық аспабы.", "en": "The dombra is the national instrument of Kazakhstan." },
+        { "kk": "Оны тарту — ерекше өнер.", "en": "Playing it is a special art." },
+        { "kk": "Қазақ мәдениетін тіл арқылы тереңірек түсінуге болады, сондықтан мен қазақ тілін жетік меңгергім келеді.", "en": "Kazakh culture can be understood more deeply through the language, so I want to master the Kazakh language fluently." }
+      ],
+      "questions": [
+        { "question": "What are Kazakhs known for?", "options": ["Hospitality", "Punctuality", "Athleticism", "Frugality"], "answerIndex": 0 },
+        { "question": "When is Nauryz celebrated?", "options": ["January 1st", "March 21st", "May 9th", "December 16th"], "answerIndex": 1 },
+        { "question": "What do people drink on Nauryz?", "options": ["Kumys", "Nauryz kozhe", "Shubat", "Tea"], "answerIndex": 1 },
+        { "question": "What is the dombra?", "options": ["A traditional dance", "The national instrument", "A type of food", "A holiday"], "answerIndex": 1 },
+        { "question": "Why does the narrator want to master Kazakh?", "options": ["To get a job", "To understand the culture more deeply", "To pass an exam", "To travel abroad"], "answerIndex": 1 }
+      ]
+    }
+  ]
+}

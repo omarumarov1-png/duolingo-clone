@@ -1,0 +1,27 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "number": 48,
+      "title": "Looking for a New Job",
+      "titleNative": "Жұмыс іздеу",
+      "context": "Жаңа жұмыс іздеп жүрген адамның сұхбаттан кейінгі күтуі туралы әңгіме.",
+      "paragraphs": [
+        { "kk": "Мен үш жылдан бері бір компанияда жұмыс істедім.", "en": "I worked at one company for three years." },
+        { "kk": "Бірақ мен жаңа жұмыс іздеп жүрмін, себебі жалақым аз, және мен өзімді дамытқым келеді.", "en": "But I am looking for a new job, because my salary is low and I want to develop myself." },
+        { "kk": "Өткен аптада мен жаңа компанияға өтінім бердім.", "en": "Last week I submitted an application to a new company." },
+        { "kk": "Олар маған қоңырау шалды және сұхбат өтті.", "en": "They called me and an interview took place." },
+        { "kk": "Менің ойымша, мен жақсы жауап бердім.", "en": "In my opinion, I answered well." },
+        { "kk": "Енді мен шешімді күтіп отырмын.", "en": "Now I am waiting for the decision." },
+        { "kk": "Егер жұмысқа алынсам, мен өте қуанамын.", "en": "If I get hired, I will be very happy." }
+      ],
+      "questions": [
+        { "question": "How long did the narrator work at the company?", "options": ["One year", "Two years", "Three years", "Five years"], "answerIndex": 2 },
+        { "question": "Why is the narrator looking for a new job?", "options": ["The commute is too long", "The salary is low and they want to develop themselves", "They were fired", "They are moving abroad"], "answerIndex": 1 },
+        { "question": "What happened last week?", "options": ["They quit their job", "They submitted an application to a new company", "They got promoted", "They started a business"], "answerIndex": 1 },
+        { "question": "What is the narrator doing now?", "options": ["Waiting for the decision", "Ignoring the offer", "Traveling", "Starting a new job"], "answerIndex": 0 },
+        { "question": "How will the narrator feel if hired?", "options": ["Indifferent", "Nervous", "Very happy", "Disappointed"], "answerIndex": 2 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "number": 38,
+      "title": "Family, In-Laws & Marriage",
+      "titleNative": "Отбасы, туыстар және үйлену",
+      "items": [
+        {
+          "kk": "Менің екі ағам және бір апам бар.",
+          "en": "I have two brothers and one sister."
+        },
+        {
+          "kk": "Менің ата-анам Ақтөбеде тұрады.",
+          "en": "My parents live in Aktobe."
+        },
+        {
+          "kk": "Менің әжем жетпіс жаста.",
+          "en": "My grandmother is seventy years old."
+        },
+        {
+          "kk": "Сен үйлендің бе?",
+          "en": "Are you married?"
+        },
+        {
+          "kk": "Мен бес жылдан бері үйлі адаммын.",
+          "en": "I have been married for five years."
+        },
+        {
+          "kk": "Бізде екі бала бар.",
+          "en": "We have two children."
+        },
+        {
+          "kk": "Менің ұлым сегіз жаста.",
+          "en": "My son is eight years old."
+        },
+        {
+          "kk": "Менің қызым университетте оқиды.",
+          "en": "My daughter is studying at university."
+        },
+        {
+          "kk": "Менің ағам өткен жылы үйленді.",
+          "en": "My older brother got married last year."
+        },
+        {
+          "kk": "Менің кішкентай сіңлім әлі мектепте.",
+          "en": "My younger sister is still at school."
+        },
+        {
+          "kk": "Мен компанияда жұмыс істеймін.",
+          "en": "I work in a company."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "title": "Work, Salary & Everyday Calls",
+      "titleNative": "Жұмыс, жалақы және телефон қоңыраулары",
+      "items": [
+        {
+          "kk": "Мен мұнда үш жылдан бері жұмыс істеймін.",
+          "en": "I have been working here for three years."
+        },
+        {
+          "kk": "Менің жалақым ай сайын төленеді.",
+          "en": "My salary is paid monthly."
+        },
+        {
+          "kk": "Мен жаңа жұмыс іздеп жүрмін.",
+          "en": "I am looking for a new job."
+        },
+        {
+          "kk": "Сен қандай жұмыс істейсің?",
+          "en": "What do you do for work?"
+        },
+        {
+          "kk": "Мен программист болып жұмыс істеймін.",
+          "en": "I am a programmer."
+        },
+        {
+          "kk": "Мен Алматыда университетте оқыдым.",
+          "en": "I went to university in Almaty."
+        },
+        {
+          "kk": "Мен үш жыл бұрын бітірдім.",
+          "en": "I graduated three years ago."
+        },
+        {
+          "kk": "Мен жұмысымды ауыстырғым келеді.",
+          "en": "I would like to change jobs."
+        },
+        {
+          "kk": "Кездесу сағат оныда басталады.",
+          "en": "The meeting starts at ten o'clock."
+        },
+        {
+          "kk": "Мен кеше саған қоңырау шалдым.",
+          "en": "I called you yesterday."
+        },
+        {
+          "kk": "Менің телефоным жұмыс істемейді.",
+          "en": "My phone is not working."
+        },
+        {
+          "kk": "Мен саған кейін қайта қоңырау шаламын.",
+          "en": "I will call you back."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "title": "Hobbies, Sport & Free Time",
+      "titleNative": "Хобби, спорт және бос уақыт",
+      "items": [
+        {
+          "kk": "Зарядтағышыңды бере аласың ба?",
+          "en": "Can I borrow your charger?"
+        },
+        {
+          "kk": "Мен әмияным жоғалтып алдым.",
+          "en": "I lost my wallet."
+        },
+        {
+          "kk": "Мен тамақ пісіруді ұнатамын.",
+          "en": "I enjoy cooking."
+        },
+        {
+          "kk": "Мен жүзе білмеймін.",
+          "en": "I do not know how to swim."
+        },
+        {
+          "kk": "Жас кезімде мен футбол ойнайтынмын.",
+          "en": "I used to play football when I was young."
+        },
+        {
+          "kk": "Мен аптасына үш рет спортзалға барамын.",
+          "en": "I go to the gym three times a week."
+        },
+        {
+          "kk": "Сенің хоббиің не?",
+          "en": "What are your hobbies?"
+        },
+        {
+          "kk": "Мен тарихи кітаптар оқуды ұнатамын.",
+          "en": "I enjoy reading historical books."
+        },
+        {
+          "kk": "Ол өте жақсы ән салады.",
+          "en": "She sings very well."
+        },
+        {
+          "kk": "Ол домбыра тартады.",
+          "en": "He plays the dombra."
+        },
+        {
+          "kk": "Мен демалыс күндері фильм көремін.",
+          "en": "I watch films on weekends."
+        },
+        {
+          "kk": "Саяхат жасауды ұнатасың ба?",
+          "en": "Do you like travelling?"
+        },
+        {
+          "kk": "Мен Ресейде екі рет болдым.",
+          "en": "I have been to Russia twice."
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "title": "Opinions, Agreement & Polite Phrases",
+      "titleNative": "Пікір, келісу және сыпайы сөздер",
+      "items": [
+        {
+          "kk": "Мен бір күні Жапонияға барғым келеді.",
+          "en": "I want to visit Japan one day."
+        },
+        {
+          "kk": "Сен барған ең әдемі жер қайсы?",
+          "en": "What is the most beautiful place you have visited?"
+        },
+        {
+          "kk": "Менің ойымша, Алматы — әдемі қала.",
+          "en": "I think Almaty is a beautiful city."
+        },
+        {
+          "kk": "Сенің ойыңша қалай?",
+          "en": "What do you think?"
+        },
+        {
+          "kk": "Мен сенімен келісемін.",
+          "en": "I agree with you."
+        },
+        {
+          "kk": "Мен келіспеймін.",
+          "en": "I do not agree."
+        },
+        {
+          "kk": "Менің ойымша, бұл дұрыс.",
+          "en": "In my opinion, this is correct."
+        },
+        {
+          "kk": "Маған көмектесе аласыз ба, өтінемін?",
+          "en": "Could you help me, please?"
+        },
+        {
+          "kk": "Әрине. Сізге не керек?",
+          "en": "Of course. What do you need?"
+        },
+        {
+          "kk": "Сізге көп рахмет.",
+          "en": "Thank you very much."
+        },
+        {
+          "kk": "Өтінемін. Ештеңе емес.",
+          "en": "You are welcome. It is nothing."
+        },
+        {
+          "kk": "Кешіріңіз, мен кешірім сұраймын.",
+          "en": "Excuse me, I am sorry."
+        },
+        {
+          "kk": "Ештеңе емес. Бәрібір.",
+          "en": "It does not matter."
+        },
+        {
+          "kk": "Жақсы күн болсын!",
+          "en": "Have a good day!"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "title": "At the Restaurant & Ordering Food",
+      "titleNative": "Мейрамханада және тамақ тапсырыс беру",
+      "items": [
+        {
+          "kk": "Бүгін кешке мейрамханаға барайық.",
+          "en": "Let's go to a restaurant tonight."
+        },
+        {
+          "kk": "Екі адамға үстел, өтінемін.",
+          "en": "A table for two, please."
+        },
+        {
+          "kk": "Маған мәзірді бере аласыз ба?",
+          "en": "Could I see the menu?"
+        },
+        {
+          "kk": "Сіз нені ұсынасыз?",
+          "en": "What do you recommend?"
+        },
+        {
+          "kk": "Мен қой етінен жасалған сорпа аламын.",
+          "en": "I will have the lamb soup."
+        },
+        {
+          "kk": "Мұндағы тамақ өте керемет.",
+          "en": "The food here is excellent."
+        },
+        {
+          "kk": "Есепті әкеле аласыз ба, өтінемін?",
+          "en": "Could we have the bill, please?"
+        },
+        {
+          "kk": "Сыйақы қосылған ба?",
+          "en": "Is the tip included?"
+        },
+        {
+          "kk": "Менің жаңғаққа аллергиям бар.",
+          "en": "I am allergic to nuts."
+        },
+        {
+          "kk": "Сізде вегетариандық тағамдар бар ма?",
+          "en": "Do you have vegetarian options?"
+        },
+        {
+          "kk": "Маған банкке баруым керек.",
+          "en": "I need to go to the bank."
+        },
+        {
+          "kk": "Мен шот ашқым келеді.",
+          "en": "I would like to open an account."
+        },
+        {
+          "kk": "Бүгін айырбас бағамы қандай?",
+          "en": "What is the exchange rate today?"
+        },
+        {
+          "kk": "Маған шетелге ақша жіберуім керек.",
+          "en": "I need to send money abroad."
+        },
+        {
+          "kk": "Мұнда қол қойыңыз, өтінемін.",
+          "en": "Please sign here."
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "title": "Health, Banking & Hotel Check-In",
+      "titleNative": "Денсаулық, банк ісі және қонақ үйге кіру",
+      "items": [
+        {
+          "kk": "Маған дәрігерді көруім керек.",
+          "en": "I need to see a doctor."
+        },
+        {
+          "kk": "Менің ішім кешеден бері ауырады.",
+          "en": "My stomach has been hurting since yesterday."
+        },
+        {
+          "kk": "Менің температурам жоғары.",
+          "en": "I have a high temperature."
+        },
+        {
+          "kk": "Бұл дәріні күніне үш рет қабылдаңыз.",
+          "en": "Take this medicine three times a day."
+        },
+        {
+          "kk": "Сізге екі күн демалу керек.",
+          "en": "You need to rest for two days."
+        },
+        {
+          "kk": "Автобус аялдамасы анда.",
+          "en": "The bus stop is over there."
+        },
+        {
+          "kk": "Қала орталығына дейін қанша аялдама?",
+          "en": "How many stops until the city center?"
+        },
+        {
+          "kk": "Бұл автобус темір жол вокзалына барады ма?",
+          "en": "Does this bus go to the railway station?"
+        },
+        {
+          "kk": "Маған Алматыға билет керек.",
+          "en": "I need a ticket to Almaty."
+        },
+        {
+          "kk": "Пойыз жиырма минуттан кейін жүреді.",
+          "en": "The train leaves in twenty minutes."
+        },
+        {
+          "kk": "Маған қонақ үй табу керек.",
+          "en": "I need to find a hotel."
+        },
+        {
+          "kk": "Сізде бос бөлме бар ма?",
+          "en": "Do you have any rooms available?"
+        },
+        {
+          "kk": "Бір түнге бөлме қанша тұрады?",
+          "en": "How much is a room per night?"
+        },
+        {
+          "kk": "Маған көрінісі бар бөлме керек.",
+          "en": "I would like a room with a view."
+        },
+        {
+          "kk": "Шығу уақыты қашан?",
+          "en": "What time is check-out?"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "title": "Conditionals: If, When & Although",
+      "titleNative": "Шартты сөйлемдер: егер, кезде, дегенмен",
+      "items": [
+        {
+          "kk": "Менің ойымша, ертең жаңбыр жауады.",
+          "en": "I think it will rain tomorrow."
+        },
+        {
+          "kk": "Жаңбыр жауса, мен үйде қаламын.",
+          "en": "If it rains, I will stay at home."
+        },
+        {
+          "kk": "Ақшам болса, мен көбірек саяхат жасар едім.",
+          "en": "If I had money, I would travel more."
+        },
+        {
+          "kk": "Жұмысым біткенде, саған қоңырау шаламын.",
+          "en": "When I finish work, I will call you."
+        },
+        {
+          "kk": "Суық болғанына қарамастан, біз серуенге шықтық.",
+          "en": "Although it was cold, we went for a walk."
+        },
+        {
+          "kk": "Ол ағасынан биік.",
+          "en": "She is taller than her brother."
+        },
+        {
+          "kk": "Қазақша орысшадан қиынырақ.",
+          "en": "Kazakh is more difficult than Russian."
+        },
+        {
+          "kk": "Бұл қаладағы ең қымбат дүкен.",
+          "en": "This is the most expensive shop in the city."
+        },
+        {
+          "kk": "Ол менен жылдамырақ жүгіреді.",
+          "en": "She runs faster than me."
+        },
+        {
+          "kk": "Қаншалықты көп жаттықсаң, соншалықты жақсырақ боласың.",
+          "en": "The more you practise, the better you get."
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "title": "Experience & Reported Speech Basics",
+      "titleNative": "Тәжірибе және жанама сөйлеу негіздері",
+      "items": [
+        {
+          "kk": "Мен ешқашан Қытайда болған емеспін.",
+          "en": "I have never been to China."
+        },
+        {
+          "kk": "Сен бұрын жылқы еті жеп көрдің бе?",
+          "en": "Have you ever tried horse meat?"
+        },
+        {
+          "kk": "Мен тамақты әлдеқашан жедім.",
+          "en": "I have already eaten."
+        },
+        {
+          "kk": "Мен әлі тамақтанған жоқпын.",
+          "en": "I have not eaten yet."
+        },
+        {
+          "kk": "Мен келгенде, ол кетіп қойған болатын.",
+          "en": "She had already left when I arrived."
+        },
+        {
+          "kk": "Ол шаршағанын айтты.",
+          "en": "He said that he was tired."
+        },
+        {
+          "kk": "Ол менің қайда тұратынымды сұрады.",
+          "en": "She asked where I lived."
+        },
+        {
+          "kk": "Мен оған күтуін айттым.",
+          "en": "I told him to wait."
+        },
+        {
+          "kk": "Олар бізден кешікпеуімізді өтінді.",
+          "en": "They asked us not to be late."
+        },
+        {
+          "kk": "Маған кездесу бас тартылды деп айтты.",
+          "en": "I was told that the meeting was cancelled."
+        }
+      ]
+    }
+  ]
+}
