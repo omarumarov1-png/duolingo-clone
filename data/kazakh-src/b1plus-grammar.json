@@ -1,0 +1,237 @@
+{
+  "level": "b1plus",
+  "grammarTopics": {
+    "b1plus-habitual-conditional": {
+      "title": "Habitual Conditional: \"Whenever\"",
+      "pattern": "[verb]+-са/-се (habitual sense) = \"whenever X happens\"",
+      "explanation": "The same -са/-се conditional suffix can express a HABITUAL pattern rather than a one-time hypothetical, when paired with a habitual-tense result clause: \"Жаңбыр жауса, көше сулы болады\" (Whenever it rains, the street gets wet) — a general truth, not a single hypothetical event.",
+      "fact": "Context alone tells you whether -са/-се means a one-off hypothetical (\"if\") or a repeated pattern (\"whenever\") — Kazakh doesn't mark this with a different suffix, so the habitual-tense verb in the result clause is your main clue.",
+      "dialogue": [
+        { "sp": "A", "native": "Суық болса, не істейсің?", "en": "Whenever it's cold, what do you do? (informal)" },
+        { "sp": "B", "native": "Жылы киім киемін.", "en": "I wear warm clothes." }
+      ]
+    },
+    "b1plus-comparative-clauses": {
+      "title": "\"The More... The More...\"",
+      "pattern": "[verb/adj]+-ған сайын = \"the more...\"",
+      "explanation": "Kazakh builds a parallel-increase comparison with -ған сайын (\"the more [X happens]\"), often paired with another -ған сайын clause or a simple result: \"Оқыған сайын білім артады\" (The more you study, the more knowledge grows).",
+      "fact": "сайын alone (without -ған) means \"every\" (жыл сайын, every year) — the -ған сайын construction builds on that same \"each time/every\" sense, extended to mean \"with each increment of X\".",
+      "dialogue": [
+        { "sp": "A", "native": "Неге көп оқисың?", "en": "Why do you study so much? (informal)" },
+        { "sp": "B", "native": "Оқыған сайын білім артады.", "en": "The more I study, the more my knowledge grows." }
+      ]
+    },
+    "b1plus-reflexive": {
+      "title": "Reflexive Actions",
+      "pattern": "өзін/өзіне/өзімен + verb = doing something to/for oneself",
+      "explanation": "Kazakh marks a reflexive action with the reflexive pronoun өз (\"self\") taking the appropriate case ending: \"өзін көрді\" (saw himself/herself), \"өзіне сатып алды\" (bought for himself/herself).",
+      "fact": "өз also means \"own\" as a possessive intensifier outside reflexive contexts (\"өз үйім\", my own house) — the same root covers both \"self\" and \"own\", a natural semantic overlap also seen in many other languages.",
+      "dialogue": [
+        { "sp": "A", "native": "Ол өзіне не сатып алды?", "en": "What did he/she buy for himself/herself?" },
+        { "sp": "B", "native": "Жаңа телефон сатып алды.", "en": "He/she bought a new phone." }
+      ]
+    },
+    "b1plus-reciprocal": {
+      "title": "Reciprocal Actions",
+      "pattern": "[verb stem] + -ыс/-іс = \"to do to each other\"",
+      "explanation": "Adding -ыс/-іс to a verb stem turns it reciprocal — an action done mutually between two or more people: көру (to see) → көрісу (to see each other/greet), сөйлеу (to speak) → сөйлесу (to converse). One of the most productive suffixes for describing social interaction.",
+      "fact": "This is the exact suffix family behind сөйлесу, the everyday word for \"to converse\" — its reciprocal meaning is baked in so thoroughly that most speakers don't consciously think of it as a special suffix at all.",
+      "dialogue": [
+        { "sp": "A", "native": "Сендер жиі көрісесіңдер ме?", "en": "Do you two see each other often? (informal)" },
+        { "sp": "B", "native": "Иә, аптасына бір рет.", "en": "Yes, once a week." }
+      ]
+    },
+    "b1plus-degree-adverbs": {
+      "title": "Degree Adverbs",
+      "pattern": "тым (too), әбден (thoroughly), мүлдем (entirely/not at all)",
+      "explanation": "тым intensifies negatively (\"too much\"): тым қымбат (too expensive). әбден means \"thoroughly/quite\": әбден шаршадым (I'm thoroughly tired). мүлдем means \"entirely\", often in negative sentences: мүлдем білмеймін (I don't know at all).",
+      "fact": "мүлдем in a negative sentence works like English \"not... at all\" — it makes the denial total and absolute, useful when you want to firmly rule something out.",
+      "dialogue": [
+        { "sp": "A", "native": "Бұл тым қымбат емес пе?", "en": "Isn't this too expensive?" },
+        { "sp": "B", "native": "Иә, тым қымбат.", "en": "Yes, it's too expensive." }
+      ]
+    },
+    "b1plus-formal-conditional": {
+      "title": "Formal Conditional Connector",
+      "pattern": "егер ... болса = \"if...\" (formal/emphatic framing)",
+      "explanation": "While -са/-се alone can mean \"if\", adding егер at the start of the clause makes the conditional more explicit and formal, common in written or careful speech: \"Егер уақытың болса, келші\" (If you have time, please come).",
+      "fact": "егер itself doesn't carry grammatical meaning on its own — it's purely there to flag \"a conditional is coming\" up front, similar to how English \"if\" announces itself before the rest of the clause unfolds.",
+      "dialogue": [
+        { "sp": "A", "native": "Егер жаңбыр жауса, не істейміз?", "en": "If it rains, what will we do?" },
+        { "sp": "B", "native": "Үйде қаламыз.", "en": "We'll stay home." }
+      ]
+    },
+    "b1plus-time-duration": {
+      "title": "Duration Expressions",
+      "pattern": "бойы (throughout), ішінде (within), аралығында (during/between)",
+      "explanation": "бойы marks a stretch of time something continued throughout: күні бойы (all day long). ішінде marks a deadline/window: бір апта ішінде (within a week). аралығында marks a range: екі мен үш арасында (between two and three).",
+      "fact": "бойы is related to the noun \"бой\" (body/length/extent) — a continuous physical length metaphorically extended to a continuous stretch of TIME, a common metaphor across languages.",
+      "dialogue": [
+        { "sp": "A", "native": "Күні бойы не істедің?", "en": "What did you do all day long? (informal)" },
+        { "sp": "B", "native": "Жұмыс істедім.", "en": "I worked." }
+      ]
+    },
+    "b1plus-consequence": {
+      "title": "Consequence Clauses",
+      "pattern": "нәтижесінде (as a result), салдарынан (because of/as a consequence)",
+      "explanation": "нәтижесінде frames a positive/neutral outcome: \"Тырысудың нәтижесінде жетістікке жетті\" (As a result of the effort, he/she achieved success). салдарынан often frames a negative consequence: \"Немқұрайлылықтың салдарынан қате кетті\" (As a consequence of carelessness, a mistake happened).",
+      "fact": "The choice between them is a subtle register/tone cue — swapping them can make a neutral outcome sound needlessly negative, or a genuine problem sound suspiciously neutral.",
+      "dialogue": [
+        { "sp": "A", "native": "Неге сәтсіздікке ұшырады?", "en": "Why did it fail?" },
+        { "sp": "B", "native": "Дайындықтың жетіспеуінің салдарынан.", "en": "As a consequence of insufficient preparation." }
+      ]
+    },
+    "b1plus-approximation": {
+      "title": "Approximation & Estimation",
+      "pattern": "шамамен (approximately), төңірегінде (around), жуық (nearly/close to)",
+      "explanation": "шамамен hedges any number: шамамен он адам (approximately ten people). төңірегінде also means \"around\" for numbers, slightly more formal. жуық means \"nearly/close to\": мыңға жуық (close to a thousand).",
+      "fact": "төңірегінде literally means \"in the vicinity/surroundings of\" (its concrete sense is spatial) — extending a spatial \"around\" word to numeric approximation is the same metaphor English uses with \"around ten people\".",
+      "dialogue": [
+        { "sp": "A", "native": "Неше адам келді?", "en": "How many people came?" },
+        { "sp": "B", "native": "Шамамен елу адам.", "en": "Approximately fifty people." }
+      ]
+    },
+    "b1plus-reported-commands": {
+      "title": "Reported Commands & Requests",
+      "pattern": "[imperative] + деп + айтты/сұрады/бұйырды = reporting a command",
+      "explanation": "To report someone else's command, Kazakh keeps the imperative form of the original words and wraps it with деп plus a reporting verb: \"Кел деп айтты\" (He/she told me to come, literally \"'Come!' saying, said\"). The same деп pattern as reported speech, applied to commands.",
+      "fact": "Because the ORIGINAL imperative word stays unchanged inside the деп wrapper, reporting a command in Kazakh is often more literal/direct-sounding than English's shift into infinitives (\"told me to come\") — you're quoting the command, not converting its grammatical form.",
+      "dialogue": [
+        { "sp": "A", "native": "Ол саған не деді?", "en": "What did he/she say to you? (informal)" },
+        { "sp": "B", "native": "Ерте кел деп айтты.", "en": "He/she told me to come early." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 1,
+      "title": "Grammar: Habitual Conditional",
+      "titleNative": "Әдеттегі шартты рай",
+      "topicId": "b1plus-habitual-conditional",
+      "items": [
+        { "kk": "Жаңбыр жауса, көше сулы болады.", "en": "Whenever it rains, the street gets wet.", "translit": "jañbır jawsa, köşe suwlı boladı" },
+        { "kk": "Суық болса, жылы киім киемін.", "en": "Whenever it's cold, I wear warm clothes.", "translit": "suwıq bolsa, jılı kïim kïyemin" },
+        { "kk": "Шаршасам, ерте жатамын.", "en": "Whenever I'm tired, I go to bed early.", "translit": "şarşasam, erte jatamın" },
+        { "kk": "Ол ашуланса, үндемейді.", "en": "Whenever he/she gets angry, he/she stays silent.", "translit": "ol aşwlansa, ündemeydi" },
+        { "kk": "Уақыт болса, кітап оқимын.", "en": "Whenever I have time, I read a book.", "translit": "waqıt bolsa, kitap oqïmın" }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Grammar: The More... The More...",
+      "titleNative": "Салыстырмалы өсу",
+      "topicId": "b1plus-comparative-clauses",
+      "items": [
+        { "kk": "Оқыған сайын білім артады.", "en": "The more you study, the more knowledge grows.", "translit": "oqığan sayın bilim artadı" },
+        { "kk": "Жаттыққан сайын жақсы ойнайсың.", "en": "The more you practice, the better you play. (informal)", "translit": "jattıqqan sayın jaqsı oynaysıñ" },
+        { "kk": "Уақыт өткен сайын жеңілдейді.", "en": "As time passes, it gets easier.", "translit": "waqıt ötken sayın jeñildeydi" },
+        { "kk": "Көбірек сөйлескен сайын жақсы түсінесің.", "en": "The more you talk, the better you understand. (informal)", "translit": "köbirek söylesken sayın jaqsı tüsinesiñ" },
+        { "kk": "Жасы ұлғайған сайын ақылды болады.", "en": "The older one gets, the wiser one becomes.", "translit": "jası ulğayğan sayın aqıldı boladı" }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Grammar: Reflexive Actions",
+      "titleNative": "Өздік есімдік",
+      "topicId": "b1plus-reflexive",
+      "items": [
+        { "kk": "Ол өзін айнадан көрді.", "en": "He/she saw himself/herself in the mirror.", "translit": "ol özin aynadan kördi" },
+        { "kk": "Мен өзіме сыйлық сатып алдым.", "en": "I bought myself a gift.", "translit": "men özime swiyliq satıp aldım" },
+        { "kk": "Өзіңе сен.", "en": "Believe in yourself. (informal)", "translit": "öziñe sen" },
+        { "kk": "Ол өзімен-өзі сөйлесті.", "en": "He/she talked to himself/herself.", "translit": "ol özimen-özi söylesti" },
+        { "kk": "Өз үйімде тыныш сезінемін.", "en": "I feel calm in my own home.", "translit": "öz üyimde tınış sezinemin" }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Grammar: Reciprocal Actions",
+      "titleNative": "Ортақтасқан етіс",
+      "topicId": "b1plus-reciprocal",
+      "items": [
+        { "kk": "Сендер жиі көрісесіңдер ме?", "en": "Do you two see each other often? (informal)", "translit": "sender jïi körisesiñder me" },
+        { "kk": "Біз телефон арқылы сөйлесеміз.", "en": "We talk to each other by phone.", "translit": "biz telefon arqılı söylesemiz" },
+        { "kk": "Олар қол алысты.", "en": "They shook hands with each other.", "translit": "olar qol alıstı" },
+        { "kk": "Достар құшақтасты.", "en": "The friends hugged each other.", "translit": "dostar quşaqtastı" },
+        { "kk": "Біз көп жылдан бері танысамыз.", "en": "We've known each other for many years.", "translit": "biz köp jıldan beri tanısamız" }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Grammar: Degree Adverbs",
+      "titleNative": "Дәреже үстеулері",
+      "topicId": "b1plus-degree-adverbs",
+      "items": [
+        { "kk": "Бұл тым қымбат.", "en": "This is too expensive.", "translit": "bul tım qımbat" },
+        { "kk": "Мен әбден шаршадым.", "en": "I am thoroughly tired.", "translit": "men äbden şarşadım" },
+        { "kk": "Ол мүлдем білмейді.", "en": "He/she doesn't know at all.", "translit": "ol müldem bilmeydi" },
+        { "kk": "Бөлме әбден таза болды.", "en": "The room became completely clean.", "translit": "bölme äbden taza boldı" },
+        { "kk": "Мен мүлдем келіспеймін.", "en": "I don't agree at all.", "translit": "men müldem kelispeymin" }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Grammar: Formal Conditional",
+      "titleNative": "Ресми шартты бағыныңқы",
+      "topicId": "b1plus-formal-conditional",
+      "items": [
+        { "kk": "Егер жаңбыр жауса, үйде қаламыз.", "en": "If it rains, we'll stay home.", "translit": "eger jañbır jawsa, üyde qalamız" },
+        { "kk": "Егер уақытың болса, келші.", "en": "If you have time, please come. (informal)", "translit": "eger waqıtıñ bolsa, kelşi" },
+        { "kk": "Егер білмесең, сұра.", "en": "If you don't know, ask. (informal)", "translit": "eger bilmeseñ, sura" },
+        { "kk": "Егер ол келмесе, бастаймыз.", "en": "If he/she doesn't come, we'll start.", "translit": "eger ol kelmese, bastaymız" },
+        { "kk": "Егер мүмкін болса, көмектес.", "en": "If possible, help. (informal)", "translit": "eger mümkin bolsa, kömektes" }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Grammar: Duration Expressions",
+      "titleNative": "Ұзақтық мәні",
+      "topicId": "b1plus-time-duration",
+      "items": [
+        { "kk": "Күні бойы жұмыс істедім.", "en": "I worked all day long.", "translit": "küni boyı jumıs istedim" },
+        { "kk": "Бір апта ішінде дайын болады.", "en": "It will be ready within a week.", "translit": "bir apta işinde dayın boladı" },
+        { "kk": "Екі мен үш арасында келемін.", "en": "I'll come between two and three.", "translit": "eki men üş arasında kelemin" },
+        { "kk": "Ол жыл бойы саяхаттады.", "en": "He/she traveled throughout the year.", "translit": "ol jıl boyı sayaxattadı" },
+        { "kk": "Бес минут ішінде келемін.", "en": "I'll come within five minutes.", "translit": "bes mïnwt işinde kelemin" }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Grammar: Consequence Clauses",
+      "titleNative": "Салдар мәні",
+      "topicId": "b1plus-consequence",
+      "items": [
+        { "kk": "Тырысудың нәтижесінде жетістікке жетті.", "en": "As a result of the effort, he/she achieved success.", "translit": "tırıswdıñ nätïjesinde jetistikke jetti" },
+        { "kk": "Немқұрайлылықтың салдарынан қате кетті.", "en": "As a consequence of carelessness, a mistake happened.", "translit": "nemqurayılıqtıñ saldarınan qate ketti" },
+        { "kk": "Жаттығудың нәтижесінде дене саулығы жақсарды.", "en": "As a result of exercise, health improved.", "translit": "jattığwdıñ nätïjesinde dene sawlığı jaqsardı" },
+        { "kk": "Дауылдың салдарынан жол жабылды.", "en": "As a consequence of the storm, the road was closed.", "translit": "dawıldıñ saldarınan jol jabıldı" },
+        { "kk": "Еңбектің нәтижесінде табыс келді.", "en": "As a result of hard work, success came.", "translit": "eñbektiñ nätïjesinde tabıs keldi" }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Grammar: Approximation",
+      "titleNative": "Болжам мен шамалау",
+      "topicId": "b1plus-approximation",
+      "items": [
+        { "kk": "Шамамен елу адам келді.", "en": "Approximately fifty people came.", "translit": "şamamen elw adam keldi" },
+        { "kk": "Бағасы мың теңге төңірегінде.", "en": "The price is around one thousand tenge.", "translit": "bağası mıñ teñge töñireginde" },
+        { "kk": "Мыңға жуық адам жиналды.", "en": "Close to a thousand people gathered.", "translit": "mıñğa jwıq adam jïnaldı" },
+        { "kk": "Сағат жетінің төңірегінде келемін.", "en": "I'll come around seven o'clock.", "translit": "sağat jetiniñ töñireginde kelemin" },
+        { "kk": "Жүзге жуық жыл бұрын.", "en": "Nearly a hundred years ago.", "translit": "jüzge jwıq jıl burın" }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Grammar: Reported Commands",
+      "titleNative": "Жанама бұйрық",
+      "topicId": "b1plus-reported-commands",
+      "items": [
+        { "kk": "Ерте кел деп айтты.", "en": "He/she told me to come early.", "translit": "erte kel dep aytt" },
+        { "kk": "Дауыстама деп сұрады.", "en": "He/she asked me not to shout.", "translit": "dawıstama dep suradı" },
+        { "kk": "Есікті жап деп бұйырды.", "en": "He/she ordered me to close the door.", "translit": "esikti jap dep buyırdı" },
+        { "kk": "Күте тұр деп айтты.", "en": "He/she told me to wait.", "translit": "küte tur dep aytt" },
+        { "kk": "Асықпа деп ескертті.", "en": "He/she warned me not to rush.", "translit": "asıqpa dep eskertti" }
+      ]
+    }
+  ]
+}
