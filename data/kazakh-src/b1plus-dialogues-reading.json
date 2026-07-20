@@ -1,0 +1,204 @@
+{
+  "level": "b1plus",
+  "lessons": [
+    {
+      "number": 27,
+      "title": "Conversation: At a Music Concert",
+      "titleNative": "Концертте",
+      "items": [
+        { "kk": "Бұл концерт керемет болды!", "en": "This concert was amazing!", "translit": "bul kontsert keremet boldı" },
+        { "kk": "Иә, домбырашы тамаша ойнады.", "en": "Yes, the dombra player played wonderfully.", "translit": "ïä, dombıraşı tamaşa oynadı" },
+        { "kk": "Сен қандай әуенді ұнатасың?", "en": "What kind of music do you like? (informal)", "translit": "sen qanday äwendi unatasıñ" },
+        { "kk": "Мен халық әндерін жақсы көремін.", "en": "I like folk songs.", "translit": "men xalıq änderin jaqsı köremin" },
+        { "kk": "Келесі концертке де барамыз ба?", "en": "Shall we go to the next concert too?", "translit": "kelesi kontsertke de baramız ba" },
+        { "kk": "Әрине, билет алайық.", "en": "Of course, let's get tickets.", "translit": "ärïne, bïlet alayıq" }
+      ]
+    },
+    {
+      "number": 28,
+      "title": "Conversation: Choosing a Film",
+      "titleNative": "Фильм таңдау",
+      "items": [
+        { "kk": "Бүгін не фильм көреміз?", "en": "What film shall we watch today?", "translit": "bügin ne fïl'm köremiz" },
+        { "kk": "Комедия қалай?", "en": "How about a comedy?", "translit": "komedïya qalay" },
+        { "kk": "Мен қорқынышты фильм қалаймын.", "en": "I want a horror film.", "translit": "men qorqınıştı fïl'm qalaymın" },
+        { "kk": "Жарайды, дауыс беруге келісейік.", "en": "Alright, let's agree to vote.", "translit": "jaraydı, dawıs berwge keliseyik" },
+        { "kk": "Комедия жеңді.", "en": "Comedy won.", "translit": "komedïya jeñdi" },
+        { "kk": "Жарайды, попкорн алайық.", "en": "Alright, let's get popcorn.", "translit": "jaraydı, popkorn alayıq" }
+      ]
+    },
+    {
+      "number": 29,
+      "title": "Conversation: Shopping for Clothes",
+      "titleNative": "Киім сатып алу",
+      "items": [
+        { "kk": "Бұл көйлек саған жарасады.", "en": "This dress suits you. (informal)", "translit": "bul köylek sağan jarasadı" },
+        { "kk": "Рахмет, бірақ түсі маған ұнамайды.", "en": "Thanks, but I don't like the color.", "translit": "rahmet, biraq tüsi mağan unamaydı" },
+        { "kk": "Басқа түсі бар ма?", "en": "Is there another color?", "translit": "basqa tüsi bar ma" },
+        { "kk": "Иә, көк пен қызыл бар.", "en": "Yes, there's blue and red.", "translit": "ïä, kök pen qızıl bar" },
+        { "kk": "Көк түсін көрейік.", "en": "Let's see the blue one.", "translit": "kök tüsin köreyik" },
+        { "kk": "Керемет, өте жарасымды.", "en": "Great, it suits you very well.", "translit": "keremet, öte jarasımdı" }
+      ]
+    },
+    {
+      "number": 30,
+      "title": "Conversation: On the Farm",
+      "titleNative": "Фермада",
+      "items": [
+        { "kk": "Сіз не өсіресіз?", "en": "What do you grow? (formal)", "translit": "siz ne ösiresiz" },
+        { "kk": "Бидай мен арпа өсіремін.", "en": "I grow wheat and barley.", "translit": "bïyday men arpa ösiremin" },
+        { "kk": "Малыңыз бар ма?", "en": "Do you have livestock? (formal)", "translit": "malıñız bar ma" },
+        { "kk": "Иә, сиыр мен қой бағамын.", "en": "Yes, I raise cattle and sheep.", "translit": "ïä, sïyır men qoy bağamın" },
+        { "kk": "Жұмыс қиын ба?", "en": "Is the work hard?", "translit": "jumıs qïın ba" },
+        { "kk": "Иә, бірақ маған ұнайды.", "en": "Yes, but I like it.", "translit": "ïä, biraq mağan unaydı" }
+      ]
+    },
+    {
+      "number": 31,
+      "title": "Conversation: Stargazing",
+      "titleNative": "Жұлдыз қарау",
+      "items": [
+        { "kk": "Түнде аспанға қара.", "en": "Look at the sky at night. (informal)", "translit": "tünde aspanğa qara" },
+        { "kk": "Жұлдыздар қандай әдемі!", "en": "The stars are so beautiful!", "translit": "juldızdar qanday ädemi" },
+        { "kk": "Ана жұлдыз ерекше жарық.", "en": "That star is especially bright.", "translit": "ana juldız erekşe jarıq" },
+        { "kk": "Ол планета болуы мүмкін.", "en": "That could be a planet.", "translit": "ol planeta bolwı mümkin" },
+        { "kk": "Ғарыш туралы кітап оқығым келеді.", "en": "I want to read a book about space.", "translit": "ğarış twralı kitap oqığım keledi" },
+        { "kk": "Мен де қосыламын.", "en": "I'll join you too.", "translit": "men de qosılamın" }
+      ]
+    },
+    {
+      "number": 32,
+      "title": "Conversation: Fixing Something at Home",
+      "titleNative": "Үйде жөндеу",
+      "items": [
+        { "kk": "Есік жабылмай тұр.", "en": "The door won't close.", "translit": "esik jabılmay tur" },
+        { "kk": "Құрал-сайманым бар, көрейін.", "en": "I have tools, let me take a look.", "translit": "qural-saymanım bar, köreyin" },
+        { "kk": "Кілт керек пе?", "en": "Do you need a wrench?", "translit": "kilt kerek pe" },
+        { "kk": "Иә, әкелші.", "en": "Yes, please bring it. (informal)", "translit": "ïä, äkelşi" },
+        { "kk": "Міне, түзедім.", "en": "There, I fixed it.", "translit": "mine, tüzedim" },
+        { "kk": "Рахмет, көп көмектестің.", "en": "Thanks, you helped a lot. (informal)", "translit": "rahmet, köp kömektestiñ" }
+      ]
+    },
+    {
+      "number": 33,
+      "title": "Conversation: Planning a Wedding",
+      "titleNative": "Той жоспарлау",
+      "items": [
+        { "kk": "Тойды қашан өткіземіз?", "en": "When shall we hold the wedding?", "translit": "toydı qaşan ötkizemiz" },
+        { "kk": "Жазда болғаны жақсы.", "en": "It would be good in summer.", "translit": "jazda bolğanı jaqsı" },
+        { "kk": "Қанша қонақ шақырамыз?", "en": "How many guests shall we invite?", "translit": "qanşa qonaq şaqıramız" },
+        { "kk": "Шамамен екі жүз адам.", "en": "Approximately two hundred people.", "translit": "şamamen eki jüz adam" },
+        { "kk": "Мейрамхана таңдадың ба?", "en": "Have you chosen a restaurant? (informal)", "translit": "meyramxana tañdadıñ ba" },
+        { "kk": "Иә, қалада жақсы жер тауып алдым.", "en": "Yes, I found a good place in the city.", "translit": "ïä, qalada jaqsı jer tawıp aldım" }
+      ]
+    },
+    {
+      "number": 34,
+      "title": "Conversation: Social Media Habits",
+      "titleNative": "Әлеуметтік желі әдеттері",
+      "items": [
+        { "kk": "Сен әлеуметтік желіні жиі қолданасың ба?", "en": "Do you use social media often? (informal)", "translit": "sen äleumettik jelini jïi qoldanasıñ ba" },
+        { "kk": "Иә, күнделікті.", "en": "Yes, daily.", "translit": "ïä, kündelikti" },
+        { "kk": "Не үшін көбірек қолданасың?", "en": "What do you use it for mostly? (informal)", "translit": "ne üşin köbirek qoldanasıñ" },
+        { "kk": "Достарыммен байланысу үшін.", "en": "To stay in touch with friends.", "translit": "dostarımmen baylanısw üşin" },
+        { "kk": "Тым көп уақыт өткізбе.", "en": "Don't spend too much time on it. (informal)", "translit": "tım köp waqıt ötkizbe" },
+        { "kk": "Дұрыс айтасың, азайтуым керек.", "en": "You're right, I should reduce it.", "translit": "durıs aytasıñ, azaytwım kerek" }
+      ]
+    },
+    {
+      "number": 35,
+      "title": "Kazakh Traditional Music",
+      "titleNative": "Қазақтың дәстүрлі музыкасы",
+      "context": "Қазақтың дәстүрлі музыкасы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазақ халқының байырғы музыкасы бай.", "en": "The traditional music of the Kazakh people is rich." },
+        { "kk": "Домбыра — ең танымал ұлттық аспап.", "en": "The dombra is the most well-known national instrument." },
+        { "kk": "Күй арқылы дала өмірі бейнеленеді.", "en": "Steppe life is depicted through instrumental melodies." },
+        { "kk": "Әр өңірдің өз әуен ерекшелігі бар.", "en": "Each region has its own melodic character." },
+        { "kk": "Жастар бүгінде де осы дәстүрді жалғастыруда.", "en": "Young people today continue this tradition." },
+        { "kk": "Домбыра үні жүрекке жақын.", "en": "The sound of the dombra is close to the heart." }
+      ],
+      "questions": [
+        { "question": "What is the most well-known national instrument?", "options": ["Guitar", "Dombra", "Piano", "Violin"], "answerIndex": 1 },
+        { "question": "What is depicted through instrumental melodies (күй)?", "options": ["City life", "Steppe life", "Ocean life", "Space"], "answerIndex": 1 },
+        { "question": "Who continues this tradition today?", "options": ["No one", "Young people", "Only elders", "Foreigners"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 36,
+      "title": "Life on a Kazakh Farm",
+      "titleNative": "Қазақ фермасындағы өмір",
+      "context": "Айбек есімді фермердің күнделікті өмірі туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Айбек ауылда фермерлікпен айналысады.", "en": "Aibek is engaged in farming in the village." },
+        { "kk": "Ол таңертең ертерек тұрады.", "en": "He gets up early in the morning." },
+        { "kk": "Алдымен малын бағады, содан кейін егіске барады.", "en": "First he tends to his livestock, then goes to the field." },
+        { "kk": "Жаз мезгілі — оның ең жұмысы көп кезі.", "en": "Summer is the time he has the most work." },
+        { "kk": "Күзде астықты жинайды.", "en": "In autumn he harvests the grain." },
+        { "kk": "Ол өз жұмысын жақсы көреді.", "en": "He loves his work." }
+      ],
+      "questions": [
+        { "question": "What does Aibek do?", "options": ["Teaching", "Farming", "Banking", "Medicine"], "answerIndex": 1 },
+        { "question": "What does he do first in the morning?", "options": ["Tends livestock", "Reads news", "Cooks food", "Sleeps more"], "answerIndex": 0 },
+        { "question": "When does he harvest the grain?", "options": ["Spring", "Summer", "Autumn", "Winter"], "answerIndex": 2 }
+      ]
+    },
+    {
+      "number": 37,
+      "title": "A Trip to Learn About Space",
+      "titleNative": "Ғарыш туралы білуге сапар",
+      "context": "Мектеп оқушыларының планетарийге барған сапары туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Мектеп оқушылары планетарийге барды.", "en": "The school students went to the planetarium." },
+        { "kk": "Онда олар жұлдыздар мен планеталар туралы білді.", "en": "There they learned about stars and planets." },
+        { "kk": "Гид оларға Күн жүйесін көрсетті.", "en": "The guide showed them the solar system." },
+        { "kk": "Балалар ғарыш кемелері туралы сұрақ қойды.", "en": "The children asked questions about spacecraft." },
+        { "kk": "Бұл сапар оларға көп қуаныш сыйлады.", "en": "This trip gave them a lot of joy." },
+        { "kk": "Кейбіреулер астронавт болғысы келеді.", "en": "Some of them want to become astronauts." }
+      ],
+      "questions": [
+        { "question": "Where did the students go?", "options": ["A museum", "A planetarium", "A zoo", "A library"], "answerIndex": 1 },
+        { "question": "What did the guide show them?", "options": ["The ocean", "The solar system", "A movie", "A painting"], "answerIndex": 1 },
+        { "question": "What do some children want to become?", "options": ["Doctors", "Astronauts", "Teachers", "Farmers"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 38,
+      "title": "Preparing for a Traditional Wedding",
+      "titleNative": "Дәстүрлі тойға дайындық",
+      "context": "Қазақ тойына дайындалу туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазақ тойы — үлкен әрі салтанатты іс-шара.", "en": "A Kazakh wedding is a big and festive event." },
+        { "kk": "Дайындық бірнеше ай бұрын басталады.", "en": "Preparation begins several months in advance." },
+        { "kk": "Дастархан әртүрлі дәстүрлі тағамдармен толтырылады.", "en": "The table is filled with various traditional dishes." },
+        { "kk": "Қонақтар алыс жерден де келеді.", "en": "Guests come even from far away." },
+        { "kk": "Ән мен би тойдың ажырамас бөлігі.", "en": "Song and dance are an inseparable part of the wedding." },
+        { "kk": "Той — отбасылар үшін үлкен қуаныш.", "en": "The wedding is a great joy for the families." }
+      ],
+      "questions": [
+        { "question": "When does preparation begin?", "options": ["The day before", "Several months in advance", "Never", "One week before"], "answerIndex": 1 },
+        { "question": "What fills the table?", "options": ["Modern snacks only", "Traditional dishes", "Nothing", "Only drinks"], "answerIndex": 1 },
+        { "question": "What is an inseparable part of the wedding?", "options": ["Sports", "Song and dance", "Reading", "Shopping"], "answerIndex": 1 }
+      ]
+    },
+    {
+      "number": 39,
+      "title": "The Impact of Social Media",
+      "titleNative": "Әлеуметтік желінің әсері",
+      "context": "Әлеуметтік желінің қазіргі өмірге әсері туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Әлеуметтік желі қазіргі өмірдің ажырамас бөлігіне айналды.", "en": "Social media has become an inseparable part of modern life." },
+        { "kk": "Ол адамдарды байланыстырады, ақпарат таратады.", "en": "It connects people and spreads information." },
+        { "kk": "Дегенмен, тым көп уақыт өткізу зиянды болуы мүмкін.", "en": "However, spending too much time on it can be harmful." },
+        { "kk": "Кейбір зерттеулер оны ұйқы мәселесімен байланыстырады.", "en": "Some studies link it to sleep problems." },
+        { "kk": "Сондықтан тепе-теңдікті сақтаған жөн.", "en": "Therefore, it's advisable to maintain balance." },
+        { "kk": "Технологияны ақылмен пайдалану маңызды.", "en": "Using technology wisely is important." }
+      ],
+      "questions": [
+        { "question": "What does social media do, per the passage?", "options": ["Isolates people", "Connects people, spreads information", "Nothing", "Only entertains"], "answerIndex": 1 },
+        { "question": "What can too much time on it cause?", "options": ["Better sleep", "Harm", "Nothing", "More energy"], "answerIndex": 1 },
+        { "question": "What is advisable according to the passage?", "options": ["Quitting entirely", "Maintaining balance", "Using it all day", "Ignoring it"], "answerIndex": 1 }
+      ]
+    }
+  ]
+}

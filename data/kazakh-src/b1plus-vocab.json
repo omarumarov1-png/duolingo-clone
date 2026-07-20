@@ -1,0 +1,215 @@
+{
+  "level": "b1plus",
+  "lessons": [
+    {
+      "number": 11,
+      "title": "Music & Instruments",
+      "titleNative": "Музыка мен аспаптар",
+      "items": [
+        { "kk": "ән", "en": "song", "translit": "än" },
+        { "kk": "күй", "en": "instrumental melody", "translit": "küy" },
+        { "kk": "домбыра", "en": "dombra (Kazakh instrument)", "translit": "dombıra" },
+        { "kk": "Мен ән салғанды жақсы көремін.", "en": "I like singing.", "translit": "men än salğandı jaqsı köremin" },
+        { "kk": "Ол домбырада ойнайды.", "en": "He/she plays the dombra.", "translit": "ol dombırada oynaydı" },
+        { "kk": "Бұл күй өте әсерлі.", "en": "This melody is very moving.", "translit": "bul küy öte äserli" },
+        { "kk": "Концертке барамыз ба?", "en": "Shall we go to the concert?", "translit": "kontsertke baramız ba" }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Film & Cinema",
+      "titleNative": "Кино",
+      "items": [
+        { "kk": "фильм", "en": "film", "translit": "fïl'm" },
+        { "kk": "режиссер", "en": "director", "translit": "rejïsser" },
+        { "kk": "актер", "en": "actor", "translit": "akter" },
+        { "kk": "Бұл фильм өте қызық.", "en": "This film is very interesting.", "translit": "bul fïl'm öte qızıq" },
+        { "kk": "Ол әйгілі режиссер.", "en": "He/she is a famous director.", "translit": "ol äygili rejïsser" },
+        { "kk": "Кинотеатрға барайық.", "en": "Let's go to the cinema.", "translit": "kïnoteatrğa barayıq" },
+        { "kk": "Маған қорқынышты фильмдер ұнамайды.", "en": "I don't like horror films.", "translit": "mağan qorqınıştı fil'mder unamaydı" }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Fashion & Style",
+      "titleNative": "Сән",
+      "items": [
+        { "kk": "сән", "en": "fashion/style", "translit": "sän" },
+        { "kk": "үлгі", "en": "design/pattern", "translit": "ülgi" },
+        { "kk": "мата", "en": "fabric", "translit": "mata" },
+        { "kk": "Бұл көйлектің үлгісі әдемі.", "en": "This dress's design is beautiful.", "translit": "bul köylektiñ ülgisi ädemi" },
+        { "kk": "Ол сәнді киінеді.", "en": "He/she dresses fashionably.", "translit": "ol sändi kïyinedi" },
+        { "kk": "Маған классикалық стиль ұнайды.", "en": "I like classic style.", "translit": "mağan klassïkalıq stïl' unaydı" },
+        { "kk": "Бұл мата жұмсақ.", "en": "This fabric is soft.", "translit": "bul mata jumsaq" }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Agriculture & Farming",
+      "titleNative": "Ауыл шаруашылығы",
+      "items": [
+        { "kk": "егіс", "en": "crop/sowing", "translit": "egis" },
+        { "kk": "фермер", "en": "farmer", "translit": "fermer" },
+        { "kk": "астық", "en": "grain", "translit": "astıq" },
+        { "kk": "мал", "en": "livestock", "translit": "mal" },
+        { "kk": "Фермер егін салды.", "en": "The farmer planted crops.", "translit": "fermer egin saldı" },
+        { "kk": "Астық жиналды.", "en": "The grain was harvested.", "translit": "astıq jïnaldı" },
+        { "kk": "Ол малын бағады.", "en": "He/she herds their livestock.", "translit": "ol malın bağadı" }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Space & Astronomy",
+      "titleNative": "Ғарыш пен астрономия",
+      "items": [
+        { "kk": "ғарыш", "en": "space", "translit": "ğarış" },
+        { "kk": "жұлдыз", "en": "star", "translit": "juldız" },
+        { "kk": "галактика", "en": "galaxy", "translit": "galaktïka" },
+        { "kk": "планета", "en": "planet", "translit": "planeta" },
+        { "kk": "Түнде жұлдыздар жарқырайды.", "en": "At night the stars shine.", "translit": "tünde juldızdar jarqıraydı" },
+        { "kk": "Жер — планета.", "en": "Earth is a planet.", "translit": "jer — planeta" },
+        { "kk": "Ғарышты зерттеу қызық.", "en": "Studying space is interesting.", "translit": "ğarıştı zertew qızıq" }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Religion & Spirituality",
+      "titleNative": "Дін мен рухани өмір",
+      "items": [
+        { "kk": "дін", "en": "religion", "translit": "din" },
+        { "kk": "намаз", "en": "prayer", "translit": "namaz" },
+        { "kk": "рухани", "en": "spiritual", "translit": "rwxanï" },
+        { "kk": "Ол дінге сенеді.", "en": "He/she believes in religion.", "translit": "ol dinge senedi" },
+        { "kk": "Рухани өмір маңызды.", "en": "Spiritual life is important.", "translit": "rwxanï ömir mañızdı" },
+        { "kk": "Әр адамның сенімі әртүрлі.", "en": "Every person's faith is different.", "translit": "är adamnıñ senimi ärtürli" }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Military & Defense",
+      "titleNative": "Әскер мен қорғаныс",
+      "items": [
+        { "kk": "әскер", "en": "army/military", "translit": "äsker" },
+        { "kk": "сарбаз", "en": "soldier", "translit": "sarbaz" },
+        { "kk": "қауіпсіздік", "en": "security", "translit": "qawipsizdik" },
+        { "kk": "Ол әскерде қызмет етті.", "en": "He/she served in the army.", "translit": "ol askerde qızmet etti" },
+        { "kk": "Сарбаздар елді қорғайды.", "en": "Soldiers defend the country.", "translit": "sarbazdar eldi qorğaydı" },
+        { "kk": "Қауіпсіздік маңызды мәселе.", "en": "Security is an important issue.", "translit": "qawipsizdik mañızdı mäsele" }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Insects & Wildlife",
+      "titleNative": "Жәндіктер мен жабайы табиғат",
+      "items": [
+        { "kk": "құрт", "en": "insect/worm", "translit": "qurt" },
+        { "kk": "арыстан", "en": "lion", "translit": "arıstan" },
+        { "kk": "қасқыр", "en": "wolf", "translit": "qasqır" },
+        { "kk": "бүркіт", "en": "eagle", "translit": "bürkit" },
+        { "kk": "Арыстан — жануарлар патшасы.", "en": "The lion is the king of animals.", "translit": "arıstan — janwarlar patşası" },
+        { "kk": "Қасқыр орманда тұрады.", "en": "The wolf lives in the forest.", "translit": "qasqır ormanda turadı" },
+        { "kk": "Бүркіт биікте ұшады.", "en": "The eagle flies high.", "translit": "bürkit bïikte uşadı" }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Furniture & Household Items",
+      "titleNative": "Жиһаз бен үй заттары",
+      "items": [
+        { "kk": "диван", "en": "sofa", "translit": "dïvan" },
+        { "kk": "шкаф", "en": "wardrobe/cupboard", "translit": "şkaf" },
+        { "kk": "айна", "en": "mirror", "translit": "ayna" },
+        { "kk": "Бөлмеде жаңа диван бар.", "en": "There is a new sofa in the room.", "translit": "bölmede jaña dïvan bar" },
+        { "kk": "Киімдерім шкафта тұр.", "en": "My clothes are in the wardrobe.", "translit": "kïyimderim şkafta tur" },
+        { "kk": "Айнадан өзіме қарадым.", "en": "I looked at myself in the mirror.", "translit": "aynadan özime qaradım" }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Tools & Equipment",
+      "titleNative": "Құралдар мен жабдықтар",
+      "items": [
+        { "kk": "құрал", "en": "tool", "translit": "qural" },
+        { "kk": "балға", "en": "hammer", "translit": "balğa" },
+        { "kk": "кілт", "en": "key/wrench", "translit": "kilt" },
+        { "kk": "Маған құрал керек.", "en": "I need a tool.", "translit": "mağan qural kerek" },
+        { "kk": "Балғамен шеге қақтым.", "en": "I hammered a nail with a hammer.", "translit": "balğamen şege qaqtım" },
+        { "kk": "Кілтті жоғалттым.", "en": "I lost the key.", "translit": "kiltti joğalttım" }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Time Management",
+      "titleNative": "Уақытты жоспарлау",
+      "items": [
+        { "kk": "кесте", "en": "schedule", "translit": "keste" },
+        { "kk": "мерзім", "en": "deadline", "translit": "merzim" },
+        { "kk": "Менің кестем толы.", "en": "My schedule is full.", "translit": "meniñ kestem tolı" },
+        { "kk": "Мерзімі бітті.", "en": "The deadline has passed.", "translit": "merzimi bitti" },
+        { "kk": "Уақытты тиімді пайдалану керек.", "en": "Time should be used efficiently.", "translit": "waqıttı tïimdi paydalanw kerek" }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Postal Services",
+      "titleNative": "Пошта қызметі",
+      "items": [
+        { "kk": "посылка", "en": "parcel", "translit": "posılka" },
+        { "kk": "мекенжай", "en": "address", "translit": "mekenjay" },
+        { "kk": "Посылкамды алдым.", "en": "I received my parcel.", "translit": "posılkamdı aldım" },
+        { "kk": "Мекенжайыңызды жазыңыз.", "en": "Please write your address. (formal)", "translit": "mekenjayıñızdı jazıñız" },
+        { "kk": "Хат жеткізілді.", "en": "The letter was delivered.", "translit": "xat jetkizildi" }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Gardening & Plants",
+      "titleNative": "Бау-бақша",
+      "items": [
+        { "kk": "өсімдік", "en": "plant", "translit": "ösimdik" },
+        { "kk": "тұқым", "en": "seed", "translit": "tuqım" },
+        { "kk": "гүл", "en": "flower", "translit": "gül" },
+        { "kk": "Мен гүл өсіремін.", "en": "I grow flowers.", "translit": "men gül ösiremin" },
+        { "kk": "Тұқым еккен жақсы.", "en": "It's good to plant seeds.", "translit": "tuqım ekken jaqsı" },
+        { "kk": "Бұл өсімдік суды жақсы көреді.", "en": "This plant likes water.", "translit": "bul ösimdik suwdı jaqsı köredi" }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Social Media & Internet",
+      "titleNative": "Әлеуметтік желі мен интернет",
+      "items": [
+        { "kk": "профиль", "en": "profile", "translit": "profïl'" },
+        { "kk": "лайк", "en": "like (social media)", "translit": "layk" },
+        { "kk": "Мен жаңа профиль аштым.", "en": "I opened a new profile.", "translit": "men jaña profïl' aştım" },
+        { "kk": "Оның бейнесіне көп лайк қойылды.", "en": "His/her video got many likes.", "translit": "onıñ beynesine köp layk qoyıldı" },
+        { "kk": "Хабарламаны оқыдың ба?", "en": "Did you read the message? (informal)", "translit": "xabarlamanı oqıdıñ ba" }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Family Events",
+      "titleNative": "Отбасылық іс-шаралар",
+      "items": [
+        { "kk": "той", "en": "wedding celebration/feast", "translit": "toy" },
+        { "kk": "неке қию", "en": "to get married (wedding ceremony)", "translit": "neke qïyw" },
+        { "kk": "Бүгін тойға барамыз.", "en": "Today we're going to a wedding celebration.", "translit": "bügin toyğa baramız" },
+        { "kk": "Олар неке қиды.", "en": "They got married.", "translit": "olar neke qıdı" },
+        { "kk": "Қонақтарға алғыс айттық.", "en": "We thanked the guests.", "translit": "qonaqtarğa alğıs ayttıq" }
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Measurement & Math",
+      "titleNative": "Өлшем мен математика",
+      "items": [
+        { "kk": "өлшем", "en": "measurement", "translit": "ölşem" },
+        { "kk": "салмақ", "en": "weight", "translit": "salmaq" },
+        { "kk": "ұзындық", "en": "length", "translit": "uzındıq" },
+        { "kk": "Оның салмағы қанша?", "en": "How much does it weigh?", "translit": "onıñ salmağı qanşa" },
+        { "kk": "Бөлменің ұзындығын өлшедім.", "en": "I measured the room's length.", "translit": "bölmeniñ uzındığın ölşedim" },
+        { "kk": "Математика қиын пән.", "en": "Mathematics is a difficult subject.", "translit": "matematïka qïın pän" }
+      ]
+    }
+  ]
+}
