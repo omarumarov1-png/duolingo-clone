@@ -1,0 +1,91 @@
+{
+  "level": "c1",
+  "grammarTopics": {
+    "c1-hedging": {
+      "title": "Academic Hedging Language",
+      "pattern": "[claim] + деп болжауға болады | [claim] + деуге негіз бар",
+      "explanation": "Formal and academic Kazakh softens strong claims with hedging expressions that signal caution rather than certainty. Деп болжауға болады (\"it can be hypothesized that\") frames a claim as a reasoned guess: Бұл құбылыс климатқа байланысты деп болжауға болады. Деуге негіз бар (\"there is grounds to say that\") signals that evidence supports a claim without asserting it outright.",
+      "fact": "In scholarly Kazakh writing, as in English, overusing unhedged, absolute claims reads as naive or unscientific, while careful hedges like болжауға болады are what mark a text as rigorous, evidence-based argumentation rather than casual opinion.",
+      "dialogue": [
+        { "sp": "A", "native": "Бұл зерттеу нәтижесі сенімді ме?", "en": "Are these research results reliable?" },
+        { "sp": "B", "native": "Толық сенімді деп айту қиын, бірақ негіз бар.", "en": "It's hard to say fully reliable, but there is some ground for it." }
+      ]
+    },
+    "c1-historical-narrative": {
+      "title": "Historical Narrative Register",
+      "pattern": "[-ды/-ті simple past] alternating with [-атын/-етін habitual] and [-ып жатты progressive past]",
+      "explanation": "Formal historical writing weaves together multiple past tenses to build a layered narrative: the simple past (-ды/-ті) marks discrete completed events (1991 жылы Қазақстан тәуелсіздік алды), the habitual past (-атын/-етін) frames ongoing background conditions of the era, and the past progressive (-ып жатты) depicts action unfolding at a narrated moment.",
+      "fact": "This tense-layering is what separates a bare timeline from genuine historical narrative — a text using only -ды/-ті reads like a list of dates, while alternating in -атын/-етін for \"what things were generally like\" gives the reader a sense of lived, ongoing texture behind the punctual events.",
+      "dialogue": [
+        { "sp": "A", "native": "Тәуелсіздіктің алғашқы жылдары қандай болды?", "en": "What were the first years of independence like?" },
+        { "sp": "B", "native": "Қиын кез еді, бірақ халық жаңа өмірге бейімделіп жатты.", "en": "It was a difficult time, but the people were adapting to a new life." }
+      ]
+    },
+    "c1-literary-parallelism": {
+      "title": "Literary Parallelism and Rhetorical Devices",
+      "pattern": "[clause A] ..., [structurally mirrored clause B] ... (often with antithesis)",
+      "explanation": "Literary and rhetorical Kazakh — speeches, poetry, formal essays — relies on syntactic parallelism, where clauses share the same grammatical shape to create rhythm and reinforce a contrast: Өткенді өзгерте алмаймыз, болашаққа қараймыз (We cannot change the past, we look to the future) mirrors \"cannot X\" against \"do Y.\" Antithesis (pairing opposites) is a favorite device for building memorable lines.",
+      "fact": "This balanced, mirrored phrasing draws especially on the oral tradition of the zhyrau and akyn poet-singers, whose improvised verse relied on parallel structure to be memorable and easy to hold in memory without writing it down.",
+      "dialogue": [
+        { "sp": "A", "native": "Сіздің өміріңіздегі ең маңызды қағида қандай?", "en": "What is the most important principle in your life?" },
+        { "sp": "B", "native": "Өткенді өзгерте алмаймыз, болашаққа қараймыз.", "en": "We cannot change the past, we look to the future." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 53,
+      "title": "Grammar: Academic Hedging",
+      "titleNative": "Ғылыми жұмсарту тілі",
+      "topicId": "c1-hedging",
+      "items": [
+        { "kk": "Бұл құбылыс климатқа байланысты деп болжауға болады.", "en": "It can be hypothesized that this phenomenon is related to climate." },
+        { "kk": "Нәтижелер дұрыс деуге негіз бар.", "en": "There is reason to say the results are correct." },
+        { "kk": "Бұл теория дәлелденген деп айту қиын.", "en": "It is difficult to say that this theory has been proven." },
+        { "kk": "Зерттеу нәтижелері болжамды растайды деуге болады.", "en": "It can be said that the research results confirm the hypothesis." },
+        { "kk": "Бұл фактор шешуші рөл атқарған болуы мүмкін.", "en": "This factor may have played a decisive role." },
+        { "kk": "Мәліметтер жеткіліксіз деп есептеуге болады.", "en": "It can be considered that the data are insufficient." },
+        { "kk": "Бұл құбылысты толығымен түсіндірді деу қате болар еді.", "en": "It would be a mistake to say this fully explains the phenomenon." },
+        { "kk": "Осы негізде қорытынды жасауға болады.", "en": "On this basis, a conclusion can be drawn." },
+        { "kk": "Бұл нәтиже кездейсоқтық болуы мүмкін.", "en": "This result may be a coincidence." },
+        { "kk": "Дәлелдер жеткілікті деуге негіз жоқ.", "en": "There is no ground to say the evidence is sufficient." }
+      ]
+    },
+    {
+      "number": 54,
+      "title": "Grammar: Historical Narrative Register",
+      "titleNative": "Тарихи баяндау стилі",
+      "topicId": "c1-historical-narrative",
+      "items": [
+        { "kk": "1991 жылы Қазақстан тәуелсіздік алды.", "en": "In 1991, Kazakhstan gained independence." },
+        { "kk": "Ол кездері ел экономикалық қиындық көретін.", "en": "In those days, the country used to face economic difficulties." },
+        { "kk": "Реформалар бірте-бірте жүзеге асырыла бастады.", "en": "Reforms gradually began to be implemented." },
+        { "kk": "Халық жаңа өмірге бейімделіп жатты.", "en": "The people were adapting to a new life." },
+        { "kk": "1997 жылы астана Алматыдан Астанаға көшірілді.", "en": "In 1997, the capital was moved from Almaty to Astana." },
+        { "kk": "Ол уақытта көптеген кәсіпорын жабылатын.", "en": "At that time, many enterprises used to close down." },
+        { "kk": "Ел жаңа заңдарды қабылдай бастады.", "en": "The country began adopting new laws." },
+        { "kk": "Экономика бірте-бірте тұрақтана бастады.", "en": "The economy gradually began to stabilize." },
+        { "kk": "Сол жылдары адамдар жұмыс іздеп жүретін.", "en": "In those years, people used to search for work." },
+        { "kk": "2015 жылы Қазақстан Дүниежүзілік сауда ұйымына мүше болды.", "en": "In 2015, Kazakhstan became a member of the World Trade Organization." }
+      ]
+    },
+    {
+      "number": 55,
+      "title": "Grammar: Literary Parallelism",
+      "titleNative": "Әдеби параллелизм",
+      "topicId": "c1-literary-parallelism",
+      "items": [
+        { "kk": "Өткенді өзгерте алмаймыз, болашаққа қараймыз.", "en": "We cannot change the past, we look to the future." },
+        { "kk": "Білім — жарық, білімсіздік — қараңғылық.", "en": "Knowledge is light, ignorance is darkness." },
+        { "kk": "Тіл — ұлттың жаны, жер — ұлттың тәні.", "en": "Language is the nation's soul, land is the nation's body." },
+        { "kk": "Кешегі күн — тәжірибе, бүгінгі күн — мүмкіндік.", "en": "Yesterday is experience, today is opportunity." },
+        { "kk": "Батыр — елі үшін, ақын — тілі үшін жасайды.", "en": "A hero lives for his country, a poet lives for his language." },
+        { "kk": "Бірлікте — күш, іріткіде — қасірет.", "en": "In unity there is strength, in discord there is sorrow." },
+        { "kk": "Ерте тұрған — ырысқа жетер, кеш тұрған — өкінішке қалар.", "en": "He who rises early attains fortune, he who rises late is left with regret." },
+        { "kk": "Досыңды сынау — қиын емес, досыңды сақтау — қиын.", "en": "Testing your friend is not hard, keeping your friend is hard." },
+        { "kk": "Жастық — от, кәрілік — дана кеңес.", "en": "Youth is fire, old age is wise counsel." },
+        { "kk": "Сөз — күміс, үнсіздік — алтын.", "en": "Speech is silver, silence is golden." }
+      ]
+    }
+  ]
+}

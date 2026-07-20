@@ -1,0 +1,91 @@
+{
+  "level": "b1",
+  "grammarTopics": {
+    "b1-experiential": {
+      "title": "The Experiential (\"Have You Ever...?\")",
+      "pattern": "[verb stem] + -п/-ып/-іп + көру (conjugated)",
+      "explanation": "To ask or state whether someone has ever had the experience of doing something, attach the converb suffix -п (or -ып/-іп after a consonant) to the verb stem, followed by a form of көру (\"to see/try\"). Literally \"to try seeing [having done] X,\" this construction — жеп көрдің бе? — asks \"have you ever eaten [this]?\"",
+      "fact": "The verb көру (\"to see\") doing double duty as \"to try/experience\" is a pattern found elsewhere in Kazakh too — much like English \"try seeing what happens,\" Kazakh treats trying an experience as a kind of \"seeing\" it for yourself.",
+      "dialogue": [
+        { "sp": "A", "native": "Сен бұрын самса пісіріп көрдің бе?", "en": "Have you ever tried baking samsa?" },
+        { "sp": "B", "native": "Жоқ, бірақ көргім келеді.", "en": "No, but I would like to try." }
+      ]
+    },
+    "b1-habitual-past": {
+      "title": "The Habitual Past (\"Used To\")",
+      "pattern": "[verb stem] + -атын/-етін/-йтын + [to-be past]",
+      "explanation": "To describe a repeated or habitual action in the past — the equivalent of English \"used to\" — attach -атын (back-vowel stem), -етін (front-vowel stem), or -йтын (after a vowel) to the verb stem, then typically add a personal ending or a form of еді: ойнайтынмын (I used to play). This frames the action as a repeated habit, not a single completed event.",
+      "fact": "The same -атын/-етін suffix also builds the indirect future/present participle used in reported speech (\"қашан келетінін білмеймін\" — \"I don't know when he will come\"), so this one ending covers both \"used to happen regularly\" and \"is expected to happen,\" depending on context.",
+      "dialogue": [
+        { "sp": "A", "native": "Сен жас кезіңде спортпен айналысатынсың ба?", "en": "Did you use to do sports when you were young?" },
+        { "sp": "B", "native": "Иә, мен жүзуге баратынмын.", "en": "Yes, I used to go swimming." }
+      ]
+    },
+    "b1-necessity-degrees": {
+      "title": "Degrees of Necessity (керек, тиіс, қажет)",
+      "pattern": "[verbal noun/infinitive] + керек / тиіс / қажет",
+      "explanation": "Kazakh has three overlapping words for obligation, each with a different shade of meaning. Керек is neutral and everyday, roughly \"need to/should\" (баруым керек — I need to go). Тиіс carries a stronger sense of duty, common in formal or written contexts (\"must, is obliged to\"). Қажет is closer to \"necessary,\" often used impersonally to describe a general requirement rather than a personal duty.",
+      "fact": "The choice between these three words is a reliable register signal — a spoken request will almost always use керек, a law or regulation will lean on тиіс, and a report describing what a situation \"requires\" will usually reach for қажет.",
+      "dialogue": [
+        { "sp": "A", "native": "Маған не істеу керек?", "en": "What do I need to do?" },
+        { "sp": "B", "native": "Алдымен құжаттарды дайындауың керек.", "en": "First you need to prepare the documents." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 84,
+      "title": "Grammar: The Experiential",
+      "titleNative": "Тәжірибе мәні (-п көру)",
+      "topicId": "b1-experiential",
+      "items": [
+        { "kk": "Сен жылқы еті жеп көрдің бе?", "en": "Have you ever tried horse meat?" },
+        { "kk": "Мен Жапонияға барып көрдім.", "en": "I have been to Japan." },
+        { "kk": "Ол ешқашан ұшақпен ұшып көрген емес.", "en": "He has never flown by plane before." },
+        { "kk": "Біз бұл фильмді көріп көрдік.", "en": "We have watched this film." },
+        { "kk": "Сен қымыз ішіп көрдің бе?", "en": "Have you ever tried kumys?" },
+        { "kk": "Мен бұрын мұны істеп көрген емеспін.", "en": "I have never done this before." },
+        { "kk": "Олар теңізде жүзіп көрді ме?", "en": "Have they ever swum in the sea?" },
+        { "kk": "Мен домбыра тартып көрдім.", "en": "I have tried playing the dombra." },
+        { "kk": "Сен қазақша жазып көрдің бе?", "en": "Have you ever tried writing in Kazakh?" },
+        { "kk": "Ол бұрын мұндай тағам жеп көрмеген.", "en": "He has never eaten such food before." }
+      ]
+    },
+    {
+      "number": 85,
+      "title": "Grammar: The Habitual Past",
+      "titleNative": "Әдеттегі өткен шақ (-атын/-етін)",
+      "topicId": "b1-habitual-past",
+      "items": [
+        { "kk": "Жас кезімде мен футбол ойнайтынмын.", "en": "When I was young, I used to play football." },
+        { "kk": "Ол бұрын күн сайын кітап оқитын.", "en": "He used to read a book every day before." },
+        { "kk": "Біз ауылда тұратынбыз.", "en": "We used to live in the village." },
+        { "kk": "Сен бала кезіңде не істейтінсің?", "en": "What did you used to do as a child?" },
+        { "kk": "Апам маған ертегі айтатын.", "en": "My mother used to tell me fairy tales." },
+        { "kk": "Олар бірге жүзетін.", "en": "They used to swim together." },
+        { "kk": "Мен ерте тұратынмын.", "en": "I used to get up early." },
+        { "kk": "Ол әнұран айтатын.", "en": "She used to sing songs." },
+        { "kk": "Біз демалыс күндері саяхаттайтынбыз.", "en": "We used to travel on weekends." },
+        { "kk": "Ол мектепте жақсы оқитын.", "en": "He used to study well at school." }
+      ]
+    },
+    {
+      "number": 86,
+      "title": "Grammar: Degrees of Necessity",
+      "titleNative": "Қажеттілік дәрежелері",
+      "topicId": "b1-necessity-degrees",
+      "items": [
+        { "kk": "Маған кітапхананы баруым керек.", "en": "I need to go to the library." },
+        { "kk": "Азаматтар заңды сақтауы тиіс.", "en": "Citizens must obey the law." },
+        { "kk": "Бұл мәселені шешу қажет.", "en": "It is necessary to solve this problem." },
+        { "kk": "Оқушылар үй тапсырмасын орындауы тиіс.", "en": "Students are obliged to complete their homework." },
+        { "kk": "Маған су ішуім керек.", "en": "I need to drink water." },
+        { "kk": "Дәрігерге қаралу қажет.", "en": "It is necessary to see a doctor." },
+        { "kk": "Ол өз сөзінде тұруы тиіс.", "en": "He must keep his word." },
+        { "kk": "Саған демалу керек.", "en": "You need to rest." },
+        { "kk": "Қосымша ақпарат қажет.", "en": "Additional information is necessary." },
+        { "kk": "Жұмысшылар ережені сақтауы тиіс.", "en": "Workers must follow the rules." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "number": 43,
+      "title": "School & Classroom Objects",
+      "titleNative": "Мектеп және сынып заттары",
+      "items": [
+        { "kk": "Бұл менің қаламым.", "en": "This is my pen." },
+        { "kk": "Дәптерім үстелде жатыр.", "en": "My notebook is lying on the desk." },
+        { "kk": "Мұғалім тақтаға жазады.", "en": "The teacher writes on the board." },
+        { "kk": "Менің сөмкемде кітаптар бар.", "en": "There are books in my bag." },
+        { "kk": "Оқушылар партада отыр.", "en": "The students are sitting at their desks." },
+        { "kk": "Маған қарындаш керек.", "en": "I need a pencil." },
+        { "kk": "Сынып бөлмесі үлкен.", "en": "The classroom is big." },
+        { "kk": "Бұл өшіргіш сенікі ме?", "en": "Is this eraser yours?" },
+        { "kk": "Біздің мектепте кітапхана бар.", "en": "Our school has a library." },
+        { "kk": "Сабақ тоғызда басталады.", "en": "The lesson starts at nine." }
+      ]
+    },
+    {
+      "number": 44,
+      "title": "Days, Months & Ordinal Numbers",
+      "titleNative": "Күндер, айлар және реттік сандар",
+      "items": [
+        { "kk": "Дүйсенбі — аптаның бірінші күні.", "en": "Monday is the first day of the week." },
+        { "kk": "Бүгін сейсенбі.", "en": "Today is Tuesday." },
+        { "kk": "Менің туған күнім қаңтарда.", "en": "My birthday is in January." },
+        { "kk": "Наурыз — көктемгі ай.", "en": "March is a spring month." },
+        { "kk": "Бұл жылдың бірінші айы.", "en": "This is the first month of the year." },
+        { "kk": "Ол сыныпта екінші болды.", "en": "He came second in the class." },
+        { "kk": "Біз үшінші қабатта тұрамыз.", "en": "We live on the third floor." },
+        { "kk": "Жексенбі — демалыс күні.", "en": "Sunday is a day off." },
+        { "kk": "Желтоқсан — жылдың соңғы айы.", "en": "December is the last month of the year." },
+        { "kk": "Бесінші сабақ математика.", "en": "The fifth lesson is mathematics." }
+      ]
+    },
+    {
+      "number": 45,
+      "title": "Common Adjectives (Opposites)",
+      "titleNative": "Қарама-қарсы сын есімдер",
+      "items": [
+        { "kk": "Бұл үй үлкен, ал анау кішкентай.", "en": "This house is big, and that one is small." },
+        { "kk": "Шай ыстық, су суық.", "en": "The tea is hot, the water is cold." },
+        { "kk": "Жол ұзын, көше қысқа.", "en": "The road is long, the street is short." },
+        { "kk": "Кітап жеңіл, тас ауыр.", "en": "The book is light, the stone is heavy." },
+        { "kk": "Бұл жауап дұрыс, анау қате.", "en": "This answer is correct, that one is wrong." },
+        { "kk": "Терезе ашық, есік жабық.", "en": "The window is open, the door is closed." },
+        { "kk": "Ол жаңа көлік сатып алды.", "en": "He bought a new car." },
+        { "kk": "Менің ағам биік, ал мен аласамын.", "en": "My brother is tall, and I am short." },
+        { "kk": "Бұл тапсырма оңай, анау қиын.", "en": "This task is easy, that one is difficult." },
+        { "kk": "Күн ашық, түн қараңғы.", "en": "The day is bright, the night is dark." }
+      ]
+    }
+  ]
+}

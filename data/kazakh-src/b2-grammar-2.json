@@ -1,0 +1,91 @@
+{
+  "level": "b2",
+  "grammarTopics": {
+    "b2-concessive-nuance": {
+      "title": "\"Even Though\" and \"Despite\" (-са да, ...қарамастан)",
+      "pattern": "[verb/adj] + -са/-се + да (even if/though) | [genitive noun/verbal noun] + қарамастан (despite)",
+      "explanation": "Kazakh expresses concession — \"even though X, Y happens anyway\" — in two common ways. Attaching the conditional -са/-се to the verb and following it with да/де (\"also/even\") builds \"even if/though\": Жаңбыр жауса да, барамын (Even if it rains, I'll go). The postposition қарамастан (\"despite, regardless of\") follows a nominalized clause (often with -ғанына): Суық болғанына қарамастан, шықтық (Despite it being cold, we went out).",
+      "fact": "These two concessive strategies aren't interchangeable in register — -са да is the natural choice in everyday speech and simple written Kazakh, while қарамастан carries a noticeably more formal, almost journalistic weight.",
+      "dialogue": [
+        { "sp": "A", "native": "Ауа-райы нашар ғой, барасың ба?", "en": "The weather is bad, are you still going?" },
+        { "sp": "B", "native": "Жаңбыр жауса да, барамын.", "en": "Even if it rains, I'll go." }
+      ]
+    },
+    "b2-layered-modality": {
+      "title": "Layering Modal Certainty (болуы мүмкін, керек шығар)",
+      "pattern": "[clause] + болуы мүмкін (it's possible that) | [clause] + керек шығар (it probably should be)",
+      "explanation": "Advanced Kazakh often stacks two modal expressions to fine-tune certainty. Болуы мүмкін (\"it may be/it's possible\") attaches after a nominalized clause to hedge a claim: Ол келмеуі мүмкін (It's possible he won't come). Combining a necessity word with the particle шығар (\"perhaps, it seems\") softens an obligation into a guess: Ол үйде керек шығар (He's probably supposed to be at home).",
+      "fact": "Шығар is the 3rd-person future/probable form of болу (\"to be\"), which is why it can attach to almost any word to add a layer of \"I think, but I'm not sure\" — the same job as English \"I guess,\" but grammaticalized into the modal system rather than a separate adverb.",
+      "dialogue": [
+        { "sp": "A", "native": "Ол неге келмеді?", "en": "Why didn't he come?" },
+        { "sp": "B", "native": "Ауырып қалған шығар.", "en": "He's probably gotten sick." }
+      ]
+    },
+    "b2-topic-focus-particles": {
+      "title": "Topic and Focus Particles (да/де, ғой, тек қана)",
+      "pattern": "[word] + да/де (\"also/even\") | ...ғой (emphatic assertion) | тек қана + [word] (\"only\")",
+      "explanation": "Kazakh uses a small set of particles to control which part of a sentence carries emphasis. Да/де attached to a word means \"also/too,\" or in a negative context \"even\": Мен де барамын (I'm going too). Ғой can add emphatic certainty: Ол келеді ғой (He IS coming, after all). Тек қана (\"only, just\") placed before a word narrows focus onto exactly that element: Тек қана сен білесің (Only you know).",
+      "fact": "Because these particles attach to or precede the specific word being emphasized rather than moving the whole sentence around, Kazakh can shift focus onto almost any single word just by placing a particle next to it — a flexibility a fixed-stress language like English usually achieves through vocal emphasis alone.",
+      "dialogue": [
+        { "sp": "A", "native": "Сен де барасың ба?", "en": "Are you going too?" },
+        { "sp": "B", "native": "Иә, мен де барамын.", "en": "Yes, I'm going too." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 60,
+      "title": "Grammar: Even Though and Despite",
+      "titleNative": "Қарсылықты мәндер",
+      "topicId": "b2-concessive-nuance",
+      "items": [
+        { "kk": "Жаңбыр жауса да, серуендейміз.", "en": "Even if it rains, we'll go for a walk." },
+        { "kk": "Шаршасам да, жұмысымды бітірдім.", "en": "Even though I was tired, I finished my work." },
+        { "kk": "Ақшам аз болса да, саяхаттадым.", "en": "Even though I had little money, I traveled." },
+        { "kk": "Суық болғанына қарамастан, олар шықты.", "en": "Despite it being cold, they went out." },
+        { "kk": "Қиын болса да, ол жеңіске жетті.", "en": "Even though it was difficult, he achieved victory." },
+        { "kk": "Ескертуге қарамастан, ол жалғастырды.", "en": "Despite the warning, he continued." },
+        { "kk": "Уақыт аз болса да, біз бітірдік.", "en": "Even though there was little time, we finished." },
+        { "kk": "Кедергілерге қарамастан, олар табысқа жетті.", "en": "Despite the obstacles, they achieved success." },
+        { "kk": "Ол ауырса да, жұмысқа барды.", "en": "Even though he was sick, he went to work." },
+        { "kk": "Сынға қарамастан, ол өз пікірінде қалды.", "en": "Despite the criticism, he stayed with his opinion." }
+      ]
+    },
+    {
+      "number": 61,
+      "title": "Grammar: Layered Modal Certainty",
+      "titleNative": "Модальдіктің қабаттасуы",
+      "topicId": "b2-layered-modality",
+      "items": [
+        { "kk": "Ол ертең келуі мүмкін.", "en": "He may come tomorrow." },
+        { "kk": "Жаңбыр жаууы мүмкін.", "en": "It might rain." },
+        { "kk": "Бұл дұрыс болуы мүмкін.", "en": "This could be correct." },
+        { "kk": "Ол үйде керек шығар.", "en": "He's probably at home." },
+        { "kk": "Бағасы қымбат шығар.", "en": "The price is probably expensive." },
+        { "kk": "Ол шаршаған шығар.", "en": "He's probably tired." },
+        { "kk": "Кездесу кейінге қалуы мүмкін.", "en": "The meeting might be postponed." },
+        { "kk": "Ол мұны білмеуі мүмкін.", "en": "He might not know this." },
+        { "kk": "Ертең суық болар.", "en": "It will probably be cold tomorrow." },
+        { "kk": "Ол дұрыс шешім қабылдаған шығар.", "en": "He probably made the right decision." }
+      ]
+    },
+    {
+      "number": 62,
+      "title": "Grammar: Topic and Focus Particles",
+      "titleNative": "Тақырыптық бөлшектер",
+      "topicId": "b2-topic-focus-particles",
+      "items": [
+        { "kk": "Мен де келемін.", "en": "I'm coming too." },
+        { "kk": "Ол да біледі.", "en": "He knows too." },
+        { "kk": "Ол келеді ғой.", "en": "He IS coming, you know." },
+        { "kk": "Тек қана сен білесің.", "en": "Only you know." },
+        { "kk": "Бұл тек қана бастама.", "en": "This is only the beginning." },
+        { "kk": "Сен де ойлан.", "en": "You think about it too." },
+        { "kk": "Мен мұны да көрдім.", "en": "I saw this too." },
+        { "kk": "Ол тек қана жұмыс туралы ойлайды.", "en": "He only thinks about work." },
+        { "kk": "Біз де қатысамыз.", "en": "We're participating too." },
+        { "kk": "Тек қана уақыт көрсетеді.", "en": "Only time will tell." }
+      ]
+    }
+  ]
+}

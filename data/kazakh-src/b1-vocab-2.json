@@ -1,0 +1,56 @@
+{
+  "level": "b1",
+  "lessons": [
+    {
+      "number": 87,
+      "title": "Job Interviews & Résumés",
+      "titleNative": "Сұхбат және түйіндеме",
+      "items": [
+        { "kk": "Мен түйіндемеме соңғы жұмыс тәжірибемді қостым.", "en": "I added my latest work experience to my résumé." },
+        { "kk": "Сұхбат сағат оннан басталады.", "en": "The interview starts at ten o'clock." },
+        { "kk": "Жұмыс беруші менің біліктілігіме қызығушылық танытты.", "en": "The employer showed interest in my qualifications." },
+        { "kk": "Мен өз күшті және әлсіз жақтарымды атап өттім.", "en": "I mentioned my strengths and weaknesses." },
+        { "kk": "Ұсынылған жалақы менің күткеніме сай келді.", "en": "The offered salary matched my expectations." },
+        { "kk": "Сұхбат кезінде сабырлы болу маңызды.", "en": "It is important to stay calm during the interview." },
+        { "kk": "Компания менің тәжірибемді бағалады.", "en": "The company appreciated my experience." },
+        { "kk": "Маған сынақ мерзімі туралы айтылды.", "en": "I was told about the probationary period." },
+        { "kk": "Ұсынымхат менің өтінімімді күшейтті.", "en": "The recommendation letter strengthened my application." },
+        { "kk": "Екінші кезеңдегі сұхбат келесі аптада.", "en": "The second round of interviews is next week." }
+      ]
+    },
+    {
+      "number": 88,
+      "title": "Real Estate & Renting",
+      "titleNative": "Жылжымайтын мүлік және жалдау",
+      "items": [
+        { "kk": "Біз жаңа пәтер жалдауды жоспарлап отырмыз.", "en": "We are planning to rent a new apartment." },
+        { "kk": "Жалдау ақысы ай сайын төленеді.", "en": "The rent is paid monthly." },
+        { "kk": "Меншік иесі келісімшартқа қол қойды.", "en": "The property owner signed the contract." },
+        { "kk": "Бұл пәтердің коммуналдық төлемдері қосылған ба?", "en": "Are the utility bills included in this apartment?" },
+        { "kk": "Біз кепілдік ақы төледік.", "en": "We paid a security deposit." },
+        { "kk": "Пәтер жарық және ыңғайлы бөлмелерден тұрады.", "en": "The apartment consists of bright and comfortable rooms." },
+        { "kk": "Жылжымайтын мүлік агенті бізге бірнеше нұсқа ұсынды.", "en": "The real estate agent offered us several options." },
+        { "kk": "Үй сатылымға қойылды.", "en": "The house was put up for sale." },
+        { "kk": "Ипотека алу үшін банкке барамын.", "en": "I am going to the bank to get a mortgage." },
+        { "kk": "Жалдау мерзімі бір жылға созылады.", "en": "The lease term lasts for one year." }
+      ]
+    },
+    {
+      "number": 89,
+      "title": "Crime & Law Enforcement",
+      "titleNative": "Қылмыс және құқық қорғау",
+      "items": [
+        { "kk": "Полиция қылмыс орнына жедел жетті.", "en": "The police arrived quickly at the crime scene." },
+        { "kk": "Күдікті сұраққа тартылды.", "en": "The suspect was questioned." },
+        { "kk": "Ұрлық болған жерде куәгерлер болды.", "en": "There were witnesses at the place where the theft occurred." },
+        { "kk": "Сот үкім шығарды.", "en": "The court issued a verdict." },
+        { "kk": "Адвокат клиентінің құқығын қорғады.", "en": "The lawyer defended his client's rights." },
+        { "kk": "Полиция қызметкері жол ережесін бұзушыны тоқтатты.", "en": "The police officer stopped a traffic violator." },
+        { "kk": "Қылмыс статистикасы соңғы жылдары төмендеді.", "en": "Crime statistics have decreased in recent years." },
+        { "kk": "Айыпталушы кінәсіз деп танылды.", "en": "The accused was found not guilty." },
+        { "kk": "Тергеу бірнеше ай жалғасты.", "en": "The investigation lasted several months." },
+        { "kk": "Азаматтар полицияға хабарлауы керек.", "en": "Citizens must report to the police." }
+      ]
+    }
+  ]
+}

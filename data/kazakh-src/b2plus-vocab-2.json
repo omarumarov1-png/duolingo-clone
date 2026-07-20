@@ -1,0 +1,56 @@
+{
+  "level": "b2plus",
+  "lessons": [
+    {
+      "number": 55,
+      "title": "Computer Science & Programming",
+      "titleNative": "Информатика және бағдарламалау",
+      "items": [
+        { "kk": "Бағдарламашы жаңа қолданбаны әзірледі.", "en": "The programmer developed a new application." },
+        { "kk": "Алгоритм деректерді тиімді өңдейді.", "en": "The algorithm processes data efficiently." },
+        { "kk": "Дерекқор қатесіз жұмыс істеуі керек.", "en": "The database must work without errors." },
+        { "kk": "Бағдарламалық қамтамасыз ету жаңартылды.", "en": "The software was updated." },
+        { "kk": "Код сапасын тексеру маңызды кезең.", "en": "Checking code quality is an important stage." },
+        { "kk": "Желілік қауіпсіздік хакерлерден қорғайды.", "en": "Network security protects against hackers." },
+        { "kk": "Жасанды интеллект деректерден үйренеді.", "en": "Artificial intelligence learns from data." },
+        { "kk": "Бұлтты сақтау кеңістігі деректерді сақтайды.", "en": "Cloud storage keeps the data." },
+        { "kk": "Интерфейс пайдаланушыға ыңғайлы болуы тиіс.", "en": "The interface must be user-friendly." },
+        { "kk": "Бағдарламашылар командада жұмыс істейді.", "en": "Programmers work in a team." }
+      ]
+    },
+    {
+      "number": 56,
+      "title": "Medicine & Specializations",
+      "titleNative": "Медицина және мамандықтар",
+      "items": [
+        { "kk": "Кардиолог жүрек ауруларын емдейді.", "en": "A cardiologist treats heart diseases." },
+        { "kk": "Хирург операцияны сәтті аяқтады.", "en": "The surgeon successfully completed the operation." },
+        { "kk": "Педиатр балалардың денсаулығын қадағалайды.", "en": "A pediatrician monitors children's health." },
+        { "kk": "Невропатолог жүйке жүйесін зерттейді.", "en": "A neurologist studies the nervous system." },
+        { "kk": "Стоматолог тісті емдеу процедурасын жасады.", "en": "The dentist performed the tooth treatment procedure." },
+        { "kk": "Онколог қатерлі ісікті емдеу жоспарын жасады.", "en": "The oncologist created a plan to treat the malignant tumor." },
+        { "kk": "Дерматолог тері ауруын анықтады.", "en": "The dermatologist diagnosed the skin disease." },
+        { "kk": "Анестезиолог операция алдында дәрі берді.", "en": "The anesthesiologist administered medication before the operation." },
+        { "kk": "Терапевт жалпы тексеруден өткізді.", "en": "The general practitioner conducted a general checkup." },
+        { "kk": "Медбике пациентке күтім жасады.", "en": "The nurse took care of the patient." }
+      ]
+    },
+    {
+      "number": 57,
+      "title": "Art History & Movements",
+      "titleNative": "Өнер тарихы және бағыттары",
+      "items": [
+        { "kk": "Ренессанс дәуірі өнерде адам бейнесін орталыққа қойды.", "en": "The Renaissance era placed the human figure at the center of art." },
+        { "kk": "Импрессионистер жарық пен түсті жаңаша бейнеледі.", "en": "The Impressionists depicted light and color in a new way." },
+        { "kk": "Кубизм формаларды геометриялық бөліктерге бөлді.", "en": "Cubism broke down forms into geometric parts." },
+        { "kk": "Сюрреализм санадан тыс дүниені зерттеді.", "en": "Surrealism explored the subconscious world." },
+        { "kk": "Абстрактілі өнер нақты бейнесіз сезімді жеткізеді.", "en": "Abstract art conveys feeling without concrete imagery." },
+        { "kk": "Барокко стилі сәнділік пен қозғалысқа бай.", "en": "The Baroque style is rich in ornamentation and movement." },
+        { "kk": "Модернизм дәстүрлі формалардан бас тартты.", "en": "Modernism rejected traditional forms." },
+        { "kk": "Суретші өз стилін жылдар бойы қалыптастырды.", "en": "The artist developed his own style over the years." },
+        { "kk": "Мұражай әр дәуірдің шығармаларын сақтайды.", "en": "The museum preserves works from every era." },
+        { "kk": "Өнер сыншылары жаңа қозғалысты бағалады.", "en": "Art critics evaluated the new movement." }
+      ]
+    }
+  ]
+}

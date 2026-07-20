@@ -1,0 +1,56 @@
+{
+  "level": "b1plus",
+  "lessons": [
+    {
+      "number": 79,
+      "title": "Cooking Techniques & Recipes",
+      "titleNative": "Пісіру тәсілдері және рецепттер",
+      "items": [
+        { "kk": "Етті баяу отта қуыру керек.", "en": "The meat should be fried on low heat." },
+        { "kk": "Көкөністерді ұсақтап турап алыңыз.", "en": "Chop the vegetables finely." },
+        { "kk": "Қамырды жұмсақ болғанша илеу керек.", "en": "Knead the dough until it is soft." },
+        { "kk": "Тағамды дәмдеу үшін дәмдеуіштер қосыңыз.", "en": "Add spices to season the dish." },
+        { "kk": "Суп қайнағанша күте тұрыңыз.", "en": "Wait until the soup boils." },
+        { "kk": "Нанды пеште пісіру керек.", "en": "The bread needs to be baked in the oven." },
+        { "kk": "Тағамды буға пісіру пайдалырақ.", "en": "Steaming food is healthier." },
+        { "kk": "Май қыздырылғаннан кейін ет салыңыз.", "en": "Add the meat after the oil has heated up." },
+        { "kk": "Тұзды мөлшерлеп қосу маңызды.", "en": "It is important to add salt in the right amount." },
+        { "kk": "Дайын тағамды ыстықтай беріңіз.", "en": "Serve the finished dish while hot." }
+      ]
+    },
+    {
+      "number": 80,
+      "title": "Nuanced Emotions",
+      "titleNative": "Нәзік көңіл-күй сезімдері",
+      "items": [
+        { "kk": "Ол күдер үзгендей сезінді.", "en": "He felt as if he had lost all hope." },
+        { "kk": "Мен қысылғанымды жасыра алмадым.", "en": "I couldn't hide my embarrassment." },
+        { "kk": "Оның жүзінде өкініш байқалды.", "en": "Regret was noticeable on his face." },
+        { "kk": "Мен қобалжып, дауыстап сөйлей алмадым.", "en": "I was so anxious that I couldn't speak aloud." },
+        { "kk": "Ол риза болғанын жасыра алмады.", "en": "He couldn't hide his satisfaction." },
+        { "kk": "Маған күдік пайда болды.", "en": "I began to feel suspicion." },
+        { "kk": "Оның көзінде разылық көрінді.", "en": "Contentment showed in his eyes." },
+        { "kk": "Мен қатты ұялдым.", "en": "I felt deeply ashamed." },
+        { "kk": "Ол сағыныштан жүрегі қысылды.", "en": "His heart ached with longing." },
+        { "kk": "Бұл жаңалық мені таң қалдырды.", "en": "This news astonished me." }
+      ]
+    },
+    {
+      "number": 81,
+      "title": "Weddings & Ceremonies",
+      "titleNative": "Той және салт-дәстүрлер",
+      "items": [
+        { "kk": "Той дайындығы бірнеше ай бұрын басталды.", "en": "Wedding preparations began several months in advance." },
+        { "kk": "Қалыңдық ақ көйлек киді.", "en": "The bride wore a white dress." },
+        { "kk": "Күйеу жігіт қалыңдықты алуға келді.", "en": "The groom came to take the bride." },
+        { "kk": "Некеге тұру рәсімі салтанатты өтті.", "en": "The marriage ceremony took place solemnly." },
+        { "kk": "Қонақтар жас жұбайларды құттықтады.", "en": "The guests congratulated the young couple." },
+        { "kk": "Тойда дәстүрлі ән-би болды.", "en": "There was traditional music and dance at the wedding." },
+        { "kk": "Ата-аналар балаларына бата берді.", "en": "The parents gave their blessing to their children." },
+        { "kk": "Дастархан түрлі тағамдарға толы болды.", "en": "The table was full of various dishes." },
+        { "kk": "Жаңа отбасы бақыт тіледі.", "en": "Happiness was wished to the new family." },
+        { "kk": "Той түні ұзаққа созылды.", "en": "The wedding night lasted a long time." }
+      ]
+    }
+  ]
+}

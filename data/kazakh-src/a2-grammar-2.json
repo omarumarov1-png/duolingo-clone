@@ -1,0 +1,91 @@
+{
+  "level": "a2",
+  "grammarTopics": {
+    "a2-postpositions": {
+      "title": "Common Postpositions",
+      "pattern": "[noun] + үшін / туралы / дейін / кейін / бойы / арқылы",
+      "explanation": "Kazakh uses postpositions (words placed after the noun) instead of prepositions. Үшін (\"for, for the sake of\") and туралы (\"about\") follow a bare or possessive-marked noun; дейін (\"until, up to\") and кейін (\"after\") follow the dative case; бойы (\"throughout\") and арқылы (\"through, by means of\") follow the bare noun.",
+      "fact": "Unlike English prepositions, which come before the noun, Kazakh postpositions always come after — this consistently head-final word order mirrors the language's general pattern, where verbs and modifying words trail what they describe or govern.",
+      "dialogue": [
+        { "sp": "A", "native": "Сен неге қатты жұмыс істейсің?", "en": "Why do you work so hard?" },
+        { "sp": "B", "native": "Отбасым үшін, әрине.", "en": "For my family, of course." }
+      ]
+    },
+    "a2-cohortative": {
+      "title": "The Cohortative (\"Let's...\")",
+      "pattern": "[verb stem] + -айық / -ейік",
+      "explanation": "To say \"Let's do X,\" add -айық (back-vowel stems) or -ейік (front-vowel stems) directly to the verb stem: бар- + айық → барайық (\"let's go\"); кел- + ейік → келейік (\"let's come\"). This first-person-plural form functions as the cohortative equivalent of the imperative, used to propose a joint action.",
+      "fact": "The cohortative appears constantly in everyday invitations — \"Кофеге барайық!\" (\"Let's go for coffee!\") — and needs no extra particle like English \"let's\"; the whole suggestion is packed into the verb ending itself.",
+      "dialogue": [
+        { "sp": "A", "native": "Не істейміз бүгін?", "en": "What shall we do today?" },
+        { "sp": "B", "native": "Паркке барайық!", "en": "Let's go to the park!" }
+      ]
+    },
+    "a2-ability": {
+      "title": "Expressing Ability (\"Can/Could\")",
+      "pattern": "[verb stem] + -а/-е/-й + алу (conjugated)",
+      "explanation": "To say \"can\" or \"be able to,\" attach the converb suffix -а/-е (or -й after a vowel) to the verb stem, then follow it with a conjugated form of алу (\"to take/get\"), functioning here as an auxiliary meaning \"to be able\": бару (to go) → бара аламын (I can go); келу (to come) → келе алмаймын (I cannot come).",
+      "fact": "The verb алу literally means \"to take,\" so \"бара аламын\" is built the same way as saying \"I take [the ability] to go\" — ability isn't a separate modal verb like English \"can,\" it's a compound built from an ordinary converb plus the everyday verb \"to take.\"",
+      "dialogue": [
+        { "sp": "A", "native": "Сен пианино ойнай аласың ба?", "en": "Can you play the piano?" },
+        { "sp": "B", "native": "Иә, аздап ойнай аламын.", "en": "Yes, I can play a little." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 47,
+      "title": "Grammar: Common Postpositions",
+      "titleNative": "Септеуліктер",
+      "topicId": "a2-postpositions",
+      "items": [
+        { "kk": "Мен сен үшін бәрін істеймін.", "en": "I will do everything for you." },
+        { "kk": "Ол Қазақстан туралы кітап оқыды.", "en": "He read a book about Kazakhstan." },
+        { "kk": "Мен сағат беске дейін жұмыс істеймін.", "en": "I work until five o'clock." },
+        { "kk": "Кездесуден кейін үйге бардым.", "en": "After the meeting, I went home." },
+        { "kk": "Бүкіл түн бойы жаңбыр жауды.", "en": "It rained throughout the whole night." },
+        { "kk": "Біз паркті интернет арқылы таптық.", "en": "We found the park through the internet." },
+        { "kk": "Ол отбасы үшін жұмыс істейді.", "en": "He works for the sake of his family." },
+        { "kk": "Мектеп туралы не ойлайсың?", "en": "What do you think about the school?" },
+        { "kk": "Ертеңге дейін күте аласың ба?", "en": "Can you wait until tomorrow?" },
+        { "kk": "Сабақтан кейін кездесейік.", "en": "Let's meet after class." }
+      ]
+    },
+    {
+      "number": 48,
+      "title": "Grammar: The Cohortative (Let's...)",
+      "titleNative": "Бірлескен рай",
+      "topicId": "a2-cohortative",
+      "items": [
+        { "kk": "Кинотеатрға барайық.", "en": "Let's go to the cinema." },
+        { "kk": "Дәмханаға барайық па?", "en": "Shall we go to the cafe?" },
+        { "kk": "Бірге тамақтанайық.", "en": "Let's eat together." },
+        { "kk": "Ертең кездесейік.", "en": "Let's meet tomorrow." },
+        { "kk": "Бұл мәселені талқылайық.", "en": "Let's discuss this issue." },
+        { "kk": "Демалыс күні серуендейік.", "en": "Let's take a walk on the weekend." },
+        { "kk": "Қазір бастайық.", "en": "Let's start now." },
+        { "kk": "Үйге қайтайық.", "en": "Let's go back home." },
+        { "kk": "Бір сурет түсірейік.", "en": "Let's take a photo." },
+        { "kk": "Жаңа жоба туралы сөйлесейік.", "en": "Let's talk about the new project." }
+      ]
+    },
+    {
+      "number": 49,
+      "title": "Grammar: Expressing Ability",
+      "titleNative": "Мүмкіндік мәні (алу)",
+      "topicId": "a2-ability",
+      "items": [
+        { "kk": "Мен жүзе аламын.", "en": "I can swim." },
+        { "kk": "Ол қазақша сөйлей алады.", "en": "He can speak Kazakh." },
+        { "kk": "Біз ертең келе аламыз.", "en": "We can come tomorrow." },
+        { "kk": "Сен бұны көтере аласың ба?", "en": "Can you lift this?" },
+        { "kk": "Мен түсіне алмаймын.", "en": "I cannot understand." },
+        { "kk": "Ол жаза алмайды.", "en": "He cannot write." },
+        { "kk": "Біз бұл мәселені шеше аламыз.", "en": "We can solve this problem." },
+        { "kk": "Сіз маған көмектесе аласыз ба?", "en": "Can you help me?" },
+        { "kk": "Мен ерте тұра алмаймын.", "en": "I cannot get up early." },
+        { "kk": "Олар бүгін жұмыс істей алмайды.", "en": "They cannot work today." }
+      ]
+    }
+  ]
+}

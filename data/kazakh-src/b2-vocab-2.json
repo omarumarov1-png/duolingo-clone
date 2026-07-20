@@ -1,0 +1,56 @@
+{
+  "level": "b2",
+  "lessons": [
+    {
+      "number": 63,
+      "title": "Environmental Science",
+      "titleNative": "Қоршаған орта туралы ғылым",
+      "items": [
+        { "kk": "Экожүйенің тепе-теңдігі бұзылып жатыр.", "en": "The balance of the ecosystem is being disrupted." },
+        { "kk": "Парниктік газдар атмосфераны жылытады.", "en": "Greenhouse gases warm the atmosphere." },
+        { "kk": "Биоалуантүрлілікті сақтау — маңызды міндет.", "en": "Preserving biodiversity is an important task." },
+        { "kk": "Қалдықтарды қайта өңдеу қоршаған ортаны қорғайды.", "en": "Recycling waste protects the environment." },
+        { "kk": "Орман кесу климатқа теріс әсер етеді.", "en": "Deforestation has a negative effect on the climate." },
+        { "kk": "Ластану деңгейі қалаларда жоғарылап барады.", "en": "Pollution levels are rising in cities." },
+        { "kk": "Тұрақты дамуды қамтамасыз ету қажет.", "en": "It is necessary to ensure sustainable development." },
+        { "kk": "Судың сапасын бақылау маңызды.", "en": "Monitoring water quality is important." },
+        { "kk": "Экологиялық ізі аз тұтыну ұсынылады.", "en": "Consumption with a small ecological footprint is recommended." },
+        { "kk": "Табиғи ресурстарды үнемдеу болашақ үшін маңызды.", "en": "Conserving natural resources is important for the future." }
+      ]
+    },
+    {
+      "number": 64,
+      "title": "Startups & Entrepreneurship",
+      "titleNative": "Стартаптар және кәсіпкерлік",
+      "items": [
+        { "kk": "Стартап негізін салушылар инвестор іздеуде.", "en": "The startup's founders are looking for an investor." },
+        { "kk": "Бизнес-жоспар нақты және сенімді болуы керек.", "en": "The business plan must be clear and convincing." },
+        { "kk": "Тәуекел капиталы жаңа компанияларды қаржыландырады.", "en": "Venture capital funds new companies." },
+        { "kk": "Нарықты зерттеу алдымен жасалады.", "en": "Market research is done first." },
+        { "kk": "Прототип клиенттердің пікірін білу үшін жасалды.", "en": "A prototype was made to learn customers' opinions." },
+        { "kk": "Компания алғашқы табысын алты айда тапты.", "en": "The company earned its first profit in six months." },
+        { "kk": "Инновациялық идея инвесторларды қызықтырды.", "en": "The innovative idea attracted investors." },
+        { "kk": "Кәсіпкерлер тәуекелге баруы керек.", "en": "Entrepreneurs must take risks." },
+        { "kk": "Команда құру табыстың негізгі факторы.", "en": "Building a team is a key factor of success." },
+        { "kk": "Стартап бәсекелестерден ерекшелену керек.", "en": "A startup must stand out from competitors." }
+      ]
+    },
+    {
+      "number": 65,
+      "title": "Mental Health & Therapy",
+      "titleNative": "Психикалық денсаулық және терапия",
+      "items": [
+        { "kk": "Терапевт клиентпен сенімді қарым-қатынас орнатты.", "en": "The therapist established a trusting relationship with the client." },
+        { "kk": "Мазасыздық бұзылысы жиі кездеседі.", "en": "Anxiety disorder is common." },
+        { "kk": "Психотерапия сеансы апта сайын өтеді.", "en": "Psychotherapy sessions take place weekly." },
+        { "kk": "Депрессия белгілерін ерте анықтау маңызды.", "en": "Early detection of depression symptoms is important." },
+        { "kk": "Медитация стрессті азайтуға көмектеседі.", "en": "Meditation helps reduce stress." },
+        { "kk": "Эмоцияларды тани білу маңызды дағды.", "en": "Recognizing one's emotions is an important skill." },
+        { "kk": "Қолдау тобы адамдарға жеңілдік әкеледі.", "en": "A support group brings relief to people." },
+        { "kk": "Психикалық денсаулық туралы стигманы жою керек.", "en": "The stigma around mental health needs to be eliminated." },
+        { "kk": "Ұйқы бұзылысы көңіл-күйге әсер етеді.", "en": "Sleep disorders affect mood." },
+        { "kk": "Өзін-өзі күту эмоционалдық тепе-теңдікті сақтайды.", "en": "Self-care maintains emotional balance." }
+      ]
+    }
+  ]
+}

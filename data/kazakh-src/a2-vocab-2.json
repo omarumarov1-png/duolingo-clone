@@ -1,0 +1,56 @@
+{
+  "level": "a2",
+  "lessons": [
+    {
+      "number": 50,
+      "title": "At the Pharmacy",
+      "titleNative": "Дәріханада",
+      "items": [
+        { "kk": "Дәріхана түскі үзіліске дейін ашық.", "en": "The pharmacy is open until lunch break." },
+        { "kk": "Маған бассауырдан дәрі керек.", "en": "I need medicine for a headache." },
+        { "kk": "Бұл дәріні тамақтан кейін ішіңіз.", "en": "Take this medicine after eating." },
+        { "kk": "Сізде витамин бар ма?", "en": "Do you have vitamins?" },
+        { "kk": "Фармацевт маған кеңес берді.", "en": "The pharmacist gave me advice." },
+        { "kk": "Бұл дәрінің рецепті керек пе?", "en": "Does this medicine require a prescription?" },
+        { "kk": "Маған пластырь беріңізші.", "en": "Please give me a plaster." },
+        { "kk": "Дене қызуын өлшейтін термометр бар ма?", "en": "Do you have a thermometer to measure body temperature?" },
+        { "kk": "Бұл май тері үшін пайдалы.", "en": "This cream is good for the skin." },
+        { "kk": "Дозасын асырмаңыз.", "en": "Do not exceed the dosage." }
+      ]
+    },
+    {
+      "number": 51,
+      "title": "Weather Phenomena & Natural Disasters",
+      "titleNative": "Ауа-райы құбылыстары және апаттар",
+      "items": [
+        { "kk": "Дауыл терезелерді сындырды.", "en": "The storm broke the windows." },
+        { "kk": "Найзағай мен күн күркіреуі басталды.", "en": "Lightning and thunder began." },
+        { "kk": "Тұман жол көрінбейтіндей қалың болды.", "en": "The fog was so thick the road couldn't be seen." },
+        { "kk": "Боран көшелерді қармен жапты.", "en": "The blizzard covered the streets with snow." },
+        { "kk": "Құрғақшылық егінге зиян тигізді.", "en": "The drought damaged the crops." },
+        { "kk": "Су тасқыны үйлерді бұзды.", "en": "The flood destroyed houses." },
+        { "kk": "Дауыл алдында ауа-райы тынышталады.", "en": "Before a storm, the weather calms down." },
+        { "kk": "Бұршақ жауып жатыр.", "en": "Hail is falling." },
+        { "kk": "Аңызақ жел шаңды көтерді.", "en": "A strong hot wind raised dust." },
+        { "kk": "Жер сілкінісі түнде болды.", "en": "The earthquake happened at night." }
+      ]
+    },
+    {
+      "number": 52,
+      "title": "Public Transportation & Traffic",
+      "titleNative": "Қоғамдық көлік және жол қозғалысы",
+      "items": [
+        { "kk": "Автобус аялдамада бес минутқа кешікті.", "en": "The bus was five minutes late at the stop." },
+        { "kk": "Метрода орын жоқ еді.", "en": "There was no seat on the metro." },
+        { "kk": "Жол қатты кептеліп қалды.", "en": "The traffic was heavily jammed." },
+        { "kk": "Жүргізуші бағдаршамда тоқтады.", "en": "The driver stopped at the traffic light." },
+        { "kk": "Билет автоматтан сатып алуға болады.", "en": "You can buy a ticket from a machine." },
+        { "kk": "Мен таксиді қолданбамен шақырдым.", "en": "I called a taxi using an app." },
+        { "kk": "Троллейбус электр сымдарымен жүреді.", "en": "The trolleybus runs on electric wires." },
+        { "kk": "Жол белгісіне назар аударыңыз.", "en": "Pay attention to the road sign." },
+        { "kk": "Жаяу жүргіншілер жол белгісінде тоқтады.", "en": "Pedestrians stopped at the crossing sign." },
+        { "kk": "Көлік тоқтау орны толы.", "en": "The parking lot is full." }
+      ]
+    }
+  ]
+}

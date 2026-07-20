@@ -1,0 +1,91 @@
+{
+  "level": "b1plus",
+  "grammarTopics": {
+    "b1plus-tag-questions": {
+      "title": "Seeking Confirmation (ғой, ...емес пе?)",
+      "pattern": "[statement] + ғой / [statement], ...емес пе?",
+      "explanation": "To seek agreement or confirmation — like English tag questions (\"..., isn't it?\") — Kazakh uses two common devices. The particle ғой softens a statement into something like \"..., you know / right?\": Ол келеді ғой (He's coming, right?). Attaching ...емес пе? (\"isn't it/aren't you\") to the end of a clause makes an explicit tag question: Сен шаршадың, емес пе? (You're tired, aren't you?)",
+      "fact": "Ғой is one of the most frequent particles in casual Kazakh speech, because it does social work beyond just asking: it signals shared knowledge between speaker and listener, softening a statement so it doesn't sound like a flat assertion.",
+      "dialogue": [
+        { "sp": "A", "native": "Сен бұл кітапты оқыдың ғой?", "en": "You read this book, right?" },
+        { "sp": "B", "native": "Иә, өте қызық болды.", "en": "Yes, it was very interesting." }
+      ]
+    },
+    "b1plus-event-nominalization": {
+      "title": "Turning Verbs into Event Nouns (-у, -уы)",
+      "pattern": "[verb stem] + -у (bare verbal noun) / + -уы (possessive-marked, \"the fact/event of...\")",
+      "explanation": "Adding -у to a verb stem creates a verbal noun naming the action itself: келу (\"coming\"), бару (\"going\"). Adding a possessive suffix on top — келуі (\"his/her coming\") — turns it into a noun phrase that can be the subject or object of another clause, letting Kazakh embed whole events inside a sentence without a separate conjunction like English \"that\": Оның келуі мені қуантты (His coming made me happy).",
+      "fact": "This -у/-уы pattern is the workhorse behind constructions already familiar from simpler grammar points — \"маған баруым керек\" (I need to go) is built exactly this way, with баруым (\"my going\") functioning as the grammatical subject of керек.",
+      "dialogue": [
+        { "sp": "A", "native": "Сенің келуің бәрін қуантты.", "en": "Your coming made everyone happy." },
+        { "sp": "B", "native": "Мен де қуаныштымын.", "en": "I'm happy too." }
+      ]
+    },
+    "b1plus-intensive-reduplication": {
+      "title": "Intensifying Reduplication (жап-жақсы, қап-қара)",
+      "pattern": "[first sound + linking consonant] + [full adjective]",
+      "explanation": "Kazakh intensifies certain adjectives — mostly colors and a handful of common qualities — by reduplicating the first syllable's onset sound plus a linking consonant, then attaching the full adjective: қара (black) → қап-қара (jet black); жақсы (good) → жап-жақсы (really good); жасыл (green) → жап-жасыл (bright green). This is a fixed, closed set of intensifiers, not a productive rule for any adjective.",
+      "fact": "Unlike English \"very,\" which combines freely with any adjective, Kazakh's intensifying reduplication only works for a specific, memorized list of adjectives — the linking consonant is essentially fixed per word rather than predictable from a general rule.",
+      "dialogue": [
+        { "sp": "A", "native": "Аспанды көрдің бе?", "en": "Did you see the sky?" },
+        { "sp": "B", "native": "Иә, қап-қара болып тұр.", "en": "Yes, it's pitch black." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 76,
+      "title": "Grammar: Seeking Confirmation",
+      "titleNative": "Растауды сұрау (ғой)",
+      "topicId": "b1plus-tag-questions",
+      "items": [
+        { "kk": "Сен ертең келесің ғой?", "en": "You're coming tomorrow, right?" },
+        { "kk": "Бұл дұрыс ғой.", "en": "This is correct, you know." },
+        { "kk": "Ол сенің досың ғой.", "en": "He's your friend, isn't he." },
+        { "kk": "Сен шаршадың, емес пе?", "en": "You're tired, aren't you?" },
+        { "kk": "Бұл қиын емес пе?", "en": "Isn't this difficult?" },
+        { "kk": "Сен мұны білесің ғой.", "en": "You know this, right?" },
+        { "kk": "Ертең демалыс, емес пе?", "en": "Tomorrow is a day off, isn't it?" },
+        { "kk": "Ол келеді ғой?", "en": "He's coming, right?" },
+        { "kk": "Сен қазақша сөйлейсің ғой.", "en": "You speak Kazakh, don't you." },
+        { "kk": "Бұл дәмді, емес пе?", "en": "This is tasty, isn't it?" }
+      ]
+    },
+    {
+      "number": 77,
+      "title": "Grammar: Verbs into Event Nouns",
+      "titleNative": "Есімшелену (-у, -уы)",
+      "topicId": "b1plus-event-nominalization",
+      "items": [
+        { "kk": "Оның келуі мені қуантты.", "en": "His arrival made me happy." },
+        { "kk": "Менің баруым қажет емес.", "en": "My going is not necessary." },
+        { "kk": "Ол кетуін айтты.", "en": "He announced his departure." },
+        { "kk": "Балалардың ойнауы естіледі.", "en": "The children's playing can be heard." },
+        { "kk": "Сенің оқуың маңызды.", "en": "Your studying is important." },
+        { "kk": "Оның жеңуі бәрін таң қалдырды.", "en": "His victory surprised everyone." },
+        { "kk": "Мұғалімнің түсіндіруі анық болды.", "en": "The teacher's explanation was clear." },
+        { "kk": "Ана тілін сақтауымыз керек.", "en": "We need to preserve our mother tongue." },
+        { "kk": "Оның жылауы бәрін алаңдатты.", "en": "Her crying worried everyone." },
+        { "kk": "Жұмыстың бітуі көпке созылды.", "en": "The finishing of the work took a long time." }
+      ]
+    },
+    {
+      "number": 78,
+      "title": "Grammar: Intensifying Reduplication",
+      "titleNative": "Күшейткіш қосарлау",
+      "topicId": "b1plus-intensive-reduplication",
+      "items": [
+        { "kk": "Аспан қап-қара болды.", "en": "The sky became jet black." },
+        { "kk": "Бұл жап-жақсы жаңалық.", "en": "This is really good news." },
+        { "kk": "Дала жап-жасыл.", "en": "The steppe is bright green." },
+        { "kk": "Қар аппақ.", "en": "The snow is snow-white." },
+        { "kk": "Күн жап-жарық.", "en": "The sun is very bright." },
+        { "kk": "Су мұп-мұздай.", "en": "The water is ice-cold." },
+        { "kk": "Үй жап-жаңа.", "en": "The house is brand new." },
+        { "kk": "Оның шашы қап-қара.", "en": "Her hair is jet black." },
+        { "kk": "Көйлегі көп-көк.", "en": "Her dress is deep blue." },
+        { "kk": "Бөлме жап-жарық.", "en": "The room is very bright." }
+      ]
+    }
+  ]
+}

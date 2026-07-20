@@ -1,0 +1,56 @@
+{
+  "level": "c1",
+  "lessons": [
+    {
+      "number": 56,
+      "title": "Quantum Physics & Advanced Science",
+      "titleNative": "Кванттық физика және іргелі ғылым",
+      "items": [
+        { "kk": "Кванттық механика субатомдық бөлшектердің қозғалысын сипаттайды.", "en": "Quantum mechanics describes the motion of subatomic particles." },
+        { "kk": "Белгісіздік принципі бөлшектің дәл орны мен жылдамдығын бірге өлшеуге кедергі жасайды.", "en": "The uncertainty principle prevents measuring a particle's exact position and speed simultaneously." },
+        { "kk": "Кванттық компьютерлер параллель есептеулерді жүзеге асыра алады.", "en": "Quantum computers can perform parallel calculations." },
+        { "kk": "Бөлшектердің толқындық-корпускулалық қасиеті ғалымдарды таң қалдырды.", "en": "The wave-particle duality of particles amazed scientists." },
+        { "kk": "Кванттық шатасу екі бөлшек арасындағы байланысты сипаттайды.", "en": "Quantum entanglement describes the connection between two particles." },
+        { "kk": "Теориялық физика әлемнің іргелі заңдылықтарын түсінуге тырысады.", "en": "Theoretical physics seeks to understand the fundamental laws of the universe." },
+        { "kk": "Кванттық криптография деректерді қорғаудың жаңа әдісін ұсынады.", "en": "Quantum cryptography offers a new method of protecting data." },
+        { "kk": "Ғарыштық сәулелену ғаламның пайда болуы туралы мәлімет береді.", "en": "Cosmic radiation provides information about the origin of the universe." },
+        { "kk": "Ғалымдар кванттық аномалияларды түсіндіруге тырысуда.", "en": "Scientists are trying to explain quantum anomalies." },
+        { "kk": "Бұл зерттеу ғылымда жаңа парадигманың негізін қалады.", "en": "This research laid the foundation for a new paradigm in science." }
+      ]
+    },
+    {
+      "number": 57,
+      "title": "International Trade Law",
+      "titleNative": "Халықаралық сауда құқығы",
+      "items": [
+        { "kk": "Халықаралық сауда құқығы елдер арасындағы келісімдерді реттейді.", "en": "International trade law regulates agreements between countries." },
+        { "kk": "Дүниежүзілік сауда ұйымы дауларды шешу тетігін ұсынады.", "en": "The World Trade Organization offers a mechanism for resolving disputes." },
+        { "kk": "Кедендік баждар импортталған тауарларға салынады.", "en": "Customs duties are imposed on imported goods." },
+        { "kk": "Сауда келісімшарттары тараптардың міндеттерін белгілейді.", "en": "Trade contracts establish the obligations of the parties." },
+        { "kk": "Демпингке қарсы шаралар әділетсіз бәсекелестікті болдырмайды.", "en": "Anti-dumping measures prevent unfair competition." },
+        { "kk": "Зияткерлік меншік құқығы халықаралық деңгейде қорғалады.", "en": "Intellectual property rights are protected at the international level." },
+        { "kk": "Еркін сауда аймақтары кедендік кедергілерді жояды.", "en": "Free trade zones eliminate customs barriers." },
+        { "kk": "Санкциялар саяси мақсаттарда экономикалық құрал ретінде қолданылады.", "en": "Sanctions are used as an economic tool for political purposes." },
+        { "kk": "Инвестициялық дауларды халықаралық арбитраж қарайды.", "en": "International arbitration considers investment disputes." },
+        { "kk": "Көпжақты сауда келіссөздері ұзаққа созылуы мүмкін.", "en": "Multilateral trade negotiations can drag on for a long time." }
+      ]
+    },
+    {
+      "number": 58,
+      "title": "Existentialist Philosophy",
+      "titleNative": "Экзистенциализм философиясы",
+      "items": [
+        { "kk": "Экзистенциализм адамның жеке бостандығы мен жауапкершілігіне баса назар аударады.", "en": "Existentialism emphasizes individual freedom and responsibility." },
+        { "kk": "Адам алдымен өмір сүреді, содан кейін өз мәнін анықтайды.", "en": "A person exists first, then determines their own essence." },
+        { "kk": "Абсурд философиясы өмірдің мағынасыздығын мойындаудан басталады.", "en": "The philosophy of the absurd begins with acknowledging the meaninglessness of life." },
+        { "kk": "Таңдау бостандығы адамға үлкен жауапкершілік жүктейді.", "en": "The freedom of choice places great responsibility on a person." },
+        { "kk": "Экзистенциалдық үрей адамды өз болмысына бетпе-бет әкеледі.", "en": "Existential dread confronts a person with their own being." },
+        { "kk": "Аутентті өмір сүру — өз құндылықтарыңа сай өмір сүру.", "en": "Living authentically means living in accordance with one's own values." },
+        { "kk": "Сартр адамды \"бостандыққа мәжбүрленген\" деп сипаттады.", "en": "Sartre described man as \"condemned to be free.\"" },
+        { "kk": "Философтар өмірдің мәнін әрбір адам өзі жасайды деп есептейді.", "en": "Philosophers believe that each person creates the meaning of life themselves." },
+        { "kk": "Экзистенциалистер дәстүрлі моральдық жүйелерге күмәнмен қарады.", "en": "Existentialists viewed traditional moral systems with skepticism." },
+        { "kk": "Бұл философиялық ағым әдебиет пен өнерге терең әсер етті.", "en": "This philosophical movement had a profound influence on literature and art." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "level": "b2plus",
+  "grammarTopics": {
+    "b2plus-quotative": {
+      "title": "Reporting What Others Say (дейді, депті)",
+      "pattern": "[quoted clause] + деп + дейді / депті / деген",
+      "explanation": "To report speech, rumor, or hearsay, Kazakh uses the converb деп (\"saying that\") after the quoted content, followed by a verb of saying. Дейді reports something as commonly said or believed: Ол ауру дейді (They say he's sick). Депті — built on the reportive past — specifically marks the information as secondhand: Ертеде бір хан болыпты депті (Once there was a khan, so the story goes), common in folk tales.",
+      "fact": "Депті layers two evidential markers at once — the -ды/-ті reportive past embedded inside деп + депті — which is why it's the signature ending of Kazakh oral storytelling: opening a tale with \"...болыпты\" instantly signals \"this is a story I'm retelling, not something I witnessed myself.\"",
+      "dialogue": [
+        { "sp": "A", "native": "Ол неге келмеді?", "en": "Why didn't he come?" },
+        { "sp": "B", "native": "Ауырып қалды дейді.", "en": "They say he got sick." }
+      ]
+    },
+    "b2plus-comparative-clauses": {
+      "title": "\"The More... The More...\" Clauses (қаншалықты...соғұрлым)",
+      "pattern": "Қаншалықты + [clause 1], соғұрлым/соншалықты + [clause 2]",
+      "explanation": "To build \"the more X, the more Y\" constructions, Kazakh pairs a question-word-based first clause (қаншалықты, \"however much\") with a correlative second clause introduced by соғұрлым or соншалықты (\"to that same extent\"): Қаншалықты көп жаттықсаң, соғұрлым жақсы боласың (The more you practise, the better you get).",
+      "fact": "This construction already appeared informally at A2 level with соншалықты; at this level the focus is on the fuller, more formal соғұрлым variant, which appears more often in written or rhetorical Kazakh than its everyday counterpart.",
+      "dialogue": [
+        { "sp": "A", "native": "Тілді қалай жақсы үйренуге болады?", "en": "How can one learn a language well?" },
+        { "sp": "B", "native": "Қаншалықты көп сөйлессең, соғұрлым жылдам үйренесің.", "en": "The more you speak it, the faster you learn." }
+      ]
+    },
+    "b2plus-impersonal-passive": {
+      "title": "Impersonal and Generalized Statements",
+      "pattern": "[verb stem] + passive suffix (-ыл/-іл, -л, -н) without a stated agent",
+      "explanation": "Kazakh frequently uses the passive voice to make a general, impersonal statement about how things are done, with no agent implied at all — much like English \"it is said that...\" or \"one doesn't...\": Бұл жерде темекі шегілмейді (Smoking is not done here). The construction reads like a rule or social norm rather than a description of a specific event.",
+      "fact": "Because Kazakh passive morphology doesn't require naming who performs the action, it's the natural home for signage and regulations — \"кіруге болмайды\" (entry is not permitted) sounds authoritative and impersonal in exactly the way English needs a separate \"one\"-construction to achieve.",
+      "dialogue": [
+        { "sp": "A", "native": "Мұнда темекі шегуге бола ма?", "en": "Can one smoke here?" },
+        { "sp": "B", "native": "Жоқ, бұл жерде темекі шегілмейді.", "en": "No, smoking is not done here." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 52,
+      "title": "Grammar: Reporting What Others Say",
+      "titleNative": "Жанама сөйлеу (дейді, депті)",
+      "topicId": "b2plus-quotative",
+      "items": [
+        { "kk": "Ол ауру дейді.", "en": "They say he's sick." },
+        { "kk": "Ертең жиналыс болады дейді.", "en": "They say there will be a meeting tomorrow." },
+        { "kk": "Ертеде бір бай болыпты депті.", "en": "Once upon a time there was a rich man, so the story goes." },
+        { "kk": "Ол қашан келетінін білмейді дейді.", "en": "They say he doesn't know when he'll arrive." },
+        { "kk": "Бағасы қымбат дейді.", "en": "They say the price is expensive." },
+        { "kk": "Ханның үш қызы болыпты депті.", "en": "The khan had three daughters, the tale says." },
+        { "kk": "Ол жаңа жұмыс тапты дейді.", "en": "They say he found a new job." },
+        { "kk": "Ауа-райы нашарлайды дейді.", "en": "They say the weather will worsen." },
+        { "kk": "Ол мұны білмейді дейді.", "en": "They say he doesn't know this." },
+        { "kk": "Бір батыр болыпты депті.", "en": "There once was a hero, the legend goes." }
+      ]
+    },
+    {
+      "number": 53,
+      "title": "Grammar: The More... The More...",
+      "titleNative": "Салыстырмалы бағыныңқы сөйлемдер",
+      "topicId": "b2plus-comparative-clauses",
+      "items": [
+        { "kk": "Қаншалықты көп оқысаң, соғұрлым көп білесің.", "en": "The more you read, the more you know." },
+        { "kk": "Қаншалықты ерте тұрсаң, соғұрлым көп уақытың болады.", "en": "The earlier you get up, the more time you have." },
+        { "kk": "Қаншалықты көп жұмыс істесең, соғұрлым көп табасың.", "en": "The more you work, the more you earn." },
+        { "kk": "Қаншалықты жақсы дайындалсаң, соғұрлым сенімді боласың.", "en": "The better you prepare, the more confident you become." },
+        { "kk": "Қаншалықты көп сұрақ қойсаң, соғұрлым көп түсінесің.", "en": "The more questions you ask, the more you understand." },
+        { "kk": "Қаншалықты жылдам жүрсең, соғұрлым тез жетесің.", "en": "The faster you walk, the sooner you arrive." },
+        { "kk": "Қаншалықты көп тәжірибе жинасаң, соғұрлым шебер боласың.", "en": "The more experience you gather, the more skilled you become." },
+        { "kk": "Қаншалықты аз ұйықтасаң, соғұрлым нашар сезінесің.", "en": "The less you sleep, the worse you feel." },
+        { "kk": "Қаншалықты көп саяхаттасаң, соғұрлым көп үйренесің.", "en": "The more you travel, the more you learn." },
+        { "kk": "Қаншалықты қатты тырыссаң, соғұрлым жақсы нәтижеге жетесің.", "en": "The harder you try, the better result you achieve." }
+      ]
+    },
+    {
+      "number": 54,
+      "title": "Grammar: Impersonal Statements",
+      "titleNative": "Жақсыз сөйлемдер",
+      "topicId": "b2plus-impersonal-passive",
+      "items": [
+        { "kk": "Бұл жерде темекі шегілмейді.", "en": "Smoking is not done here." },
+        { "kk": "Кеңседе қатты сөйлеуге болмайды.", "en": "Speaking loudly is not permitted in the office." },
+        { "kk": "Бұл мәселе жиі талқыланады.", "en": "This issue is often discussed." },
+        { "kk": "Дүкенде ағылшынша сөйлеспейді.", "en": "English is not spoken in the shop." },
+        { "kk": "Бұл жол салынып жатыр.", "en": "This road is being built." },
+        { "kk": "Мұнда суретке түсуге болмайды.", "en": "Photography is not allowed here." },
+        { "kk": "Бұл ереже барлық жерде қолданылады.", "en": "This rule is applied everywhere." },
+        { "kk": "Кітапханада дауыстап сөйлеуге болмайды.", "en": "Speaking loudly is not allowed in the library." },
+        { "kk": "Бұл мәтін көп тілге аударылады.", "en": "This text is translated into many languages." },
+        { "kk": "Бұл жерде абайлап жүру керек.", "en": "One must walk carefully here." }
+      ]
+    }
+  ]
+}
