@@ -1,0 +1,239 @@
+{
+  "level": "b1",
+  "grammarTopics": {
+    "b1-perfect": {
+      "title": "Resultative/Perfect Aspect",
+      "pattern": "[stem]+-ған/-ген/-қан/-кен + бар/жоқ = \"has/hasn't done X\"",
+      "explanation": "Kazakh marks a present-relevant completed action with the past participle plus бар (exists) or жоқ (doesn't exist): \"көрген бар\" (I have seen it, the experience exists) versus the simple past \"көрдім\" (I saw it, just narrating the event). This highlights that the RESULT still matters now.",
+      "fact": "This is genuinely close to English's present perfect (\"I have seen\") versus simple past (\"I saw\") distinction — a useful mental shortcut, even though the literal Kazakh grammar (participle + \"exists/doesn't exist\") works completely differently under the hood.",
+      "dialogue": [
+        { "sp": "A", "native": "Бұл фильмді көрген бар ма?", "en": "Have you ever seen this movie?" },
+        { "sp": "B", "native": "Жоқ, көрген жоқпын.", "en": "No, I haven't seen it." }
+      ]
+    },
+    "b1-past-continuous": {
+      "title": "Past Continuous",
+      "pattern": "[stem]+-ып жатыр + еді = \"was doing X\"",
+      "explanation": "Add \"еді\" (the past-tense copula) after the present continuous (-ып жатыр) to shift the whole \"in the middle of doing X\" meaning into the past: \"мен оқып жатыр едім\" (I was reading, at that time).",
+      "fact": "еді is the same little \"was\" word that turns almost any present-tense construction into its past equivalent throughout Kazakh grammar — you'll meet it again with conditionals and other moods doing exactly this same job.",
+      "dialogue": [
+        { "sp": "A", "native": "Мен қоңырау шалғанда не істеп жатыр едің?", "en": "What were you doing when I called?" },
+        { "sp": "B", "native": "Тамақ пісіріп жатыр едім.", "en": "I was cooking." }
+      ]
+    },
+    "b1-desiderative": {
+      "title": "Desire: \"I Want To...\"",
+      "pattern": "[stem]+-ғым/-гім/-қым/-кім + келеді = \"I want to...\"",
+      "explanation": "Kazakh's \"want to\" construction attaches a possessive-flavored suffix to the verb stem (matching the person who wants) plus келеді (literally \"comes/arises\"): \"барғым келеді\" (I want to go, literally \"my going arises\").",
+      "fact": "The suffix on the verb is technically a possessive form — \"барғым\" is built the same way as \"my book\" possessives you already learned — which is why the wanting person shows up as an ending ON THE VERB rather than as a subject agreeing with келеді itself.",
+      "dialogue": [
+        { "sp": "A", "native": "Не істегің келеді?", "en": "What do you want to do?" },
+        { "sp": "B", "native": "Демалғым келеді.", "en": "I want to rest." }
+      ]
+    },
+    "b1-past-obligation": {
+      "title": "Past Obligation: Should Have",
+      "pattern": "[stem]+-у + керек еді / тиіс еді = \"should have / had to\"",
+      "explanation": "Adding еді after керек or тиіс shifts obligation into the past, usually implying the thing wasn't actually done — much like English \"should have\": \"баруым керек еді\" (\"I should have gone\", but didn't).",
+      "fact": "This same еді-adds-hindsight pattern is why Kazakh speakers often layer regret onto a past-obligation sentence without needing any extra words — the missed obligation is baked right into the grammar.",
+      "dialogue": [
+        { "sp": "A", "native": "Сен неге кешіктің?", "en": "Why were you late?" },
+        { "sp": "B", "native": "Ерте тұруым керек еді.", "en": "I should have gotten up early." }
+      ]
+    },
+    "b1-verbal-nouns": {
+      "title": "Verbal Nouns",
+      "pattern": "[stem]+-у = a noun meaning \"the act of doing X\"",
+      "explanation": "The infinitive -у form doubles as a genuine noun that can be a sentence's subject or object, take case endings, and even take possessive suffixes: \"оқу қызық\" (studying/reading is interesting), \"жүзуді жақсы көремін\" (I like swimming — жүзу+ді, accusative).",
+      "fact": "This is the same -у form you already used inside \"need to\" (-у керек) and \"may I\" (-у бола ма) — not a separate grammar point, just that same infinitive-as-noun idea now standing as a full independent subject or object.",
+      "dialogue": [
+        { "sp": "A", "native": "Сен үшін не қызық?", "en": "What's interesting for you?" },
+        { "sp": "B", "native": "Оқу маған қызық.", "en": "Reading is interesting to me." }
+      ]
+    },
+    "b1-concessive": {
+      "title": "Concession: \"Even If / Although\"",
+      "pattern": "[stem]+-са да = \"even if/although\"; дегенмен = \"however\"",
+      "explanation": "Adding да after the conditional -са/-се flips its meaning from \"if\" to \"even if/although\": \"жаңбыр жауса да, барамын\" (Even if it rains, I'll go). The standalone word дегенмен (\"however/nevertheless\") links two contrasting full sentences instead.",
+      "fact": "This -са да pattern is a nice two-for-one — you already know -са means \"if\", so concession costs you just one extra syllable (да) rather than a whole new suffix family.",
+      "dialogue": [
+        { "sp": "A", "native": "Жаңбыр жауса да барасың ба?", "en": "Will you go even if it rains?" },
+        { "sp": "B", "native": "Иә, жаңбыр жауса да барамын.", "en": "Yes, I'll go even if it rains." }
+      ]
+    },
+    "b1-purpose": {
+      "title": "Purpose Clauses",
+      "pattern": "[noun/verbal noun] + үшін = \"in order to / for the sake of\"",
+      "explanation": "үшін (literally \"for the sake of\") attaches after a noun or a verbal noun (-у form) to express purpose: \"сен үшін\" (for you), \"оқу үшін\" (in order to study).",
+      "fact": "үшін marks purpose for a PERSON (\"for you\") and purpose for an ACTION (\"in order to study\") with the exact same word — English needs two different constructions (\"for\" vs \"in order to\") to cover what Kazakh does with one postposition.",
+      "dialogue": [
+        { "sp": "A", "native": "Неге қазақша үйреніп жатырсың?", "en": "Why are you learning Kazakh?" },
+        { "sp": "B", "native": "Отбасыммен сөйлесу үшін.", "en": "In order to talk with my family." }
+      ]
+    },
+    "b1-equative": {
+      "title": "Equative: \"Like/As ~ As\"",
+      "pattern": "[noun] + -дай/-дей/-тай/-тей = \"like/as ~\"",
+      "explanation": "The equative suffix compares something to a noun directly, no separate word for \"like\" needed: \"арыстандай күшті\" (strong as a lion), \"балдай тәтті\" (sweet as honey).",
+      "fact": "This tight, one-suffix comparison is why Kazakh proverbs and everyday speech are packed with vivid, compact similes that would need a whole extra phrase (\"as ... as a ...\") in English.",
+      "dialogue": [
+        { "sp": "A", "native": "Ол қандай адам?", "en": "What kind of person is he/she?" },
+        { "sp": "B", "native": "Арыстандай батыл.", "en": "Brave as a lion." }
+      ]
+    },
+    "b1-emphatic-particles": {
+      "title": "Emphatic Particles: ғой, тіпті, өзі",
+      "pattern": "ғой (reminder/obviousness), тіпті (even), өзі (itself/even)",
+      "explanation": "Kazakh sprinkles small particles into sentences to add tone rather than new information. ғой softens a statement into a gentle reminder (\"you know, right\"): \"Мен айттым ғой\" (I did tell you, [remember]). тіпті means \"even\": \"тіпті балалар біледі\" (even children know). өзі emphasizes \"itself/the very\": \"бүгін өзі\" (today itself).",
+      "fact": "ғой is one of the most frequent words in casual spoken Kazakh, yet it doesn't translate to any single English word — dropping the right amount of ғой into a sentence is one of the clearest tells of natural, comfortable fluency versus stiff textbook speech.",
+      "dialogue": [
+        { "sp": "A", "native": "Ертең емтихан екенін білесің бе?", "en": "Do you know there's an exam tomorrow?" },
+        { "sp": "B", "native": "Білем ғой!", "en": "I do know, [remember]!" }
+      ]
+    },
+    "b1-negative-pronouns": {
+      "title": "Negative Pronouns",
+      "pattern": "ешкім (nobody), ешқашан (never), ешбір (none), ештеңе (nothing)",
+      "explanation": "Kazakh's \"no-\" pronoun family (еш- + kim/qaşan/bir/teñe) always needs a negated verb alongside it, unlike English which drops verb negation once it has a \"no-\" word: \"ешкім келмеді\" literally \"nobody didn't-come\" = \"nobody came.\"",
+      "fact": "This double-marking (a negative pronoun PLUS a negated verb) is actually the cross-linguistic norm — Standard English is the unusual one for allowing only a single negation per clause; Kazakh's pattern matches Russian, Spanish, and many other languages instead.",
+      "dialogue": [
+        { "sp": "A", "native": "Бөлмеде кім бар?", "en": "Who is in the room?" },
+        { "sp": "B", "native": "Ешкім жоқ.", "en": "Nobody is there." }
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "number": 1,
+      "title": "Grammar: Resultative/Perfect",
+      "titleNative": "Бітпейтін өткен шақ",
+      "topicId": "b1-perfect",
+      "items": [
+        { "kk": "Бұл фильмді көрген бар ма?", "en": "Have you ever seen this movie?", "translit": "bul fil'mdi körgen bar ma" },
+        { "kk": "Жоқ, көрген жоқпын.", "en": "No, I haven't seen it.", "translit": "joq, körgen joqpın" },
+        { "kk": "Мен Түркияға барған бармын.", "en": "I have been to Turkey.", "translit": "men Türkïyağa barğan barmın" },
+        { "kk": "Ол бұл кітапты оқыған жоқ.", "en": "He/she hasn't read this book.", "translit": "ol bul kitaptı oqığan joq" },
+        { "kk": "Сен бұрын осында болған бар ма?", "en": "Have you been here before? (informal)", "translit": "sen burın osında bolğan bar ma" },
+        { "kk": "Иә, мен бұрын келген бармын.", "en": "Yes, I have come here before.", "translit": "ïä, men burın kelgen barmın" }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Grammar: Past Continuous",
+      "titleNative": "Өткендегі шақ созылмалы",
+      "topicId": "b1-past-continuous",
+      "items": [
+        { "kk": "Мен қоңырау шалғанда не істеп жатыр едің?", "en": "What were you doing when I called? (informal)", "translit": "men qoñıraw şalğanda ne istep jatır ediñ" },
+        { "kk": "Тамақ пісіріп жатыр едім.", "en": "I was cooking.", "translit": "tamaq pisirip jatır edim" },
+        { "kk": "Ол кітап оқып жатыр еді.", "en": "He/she was reading a book.", "translit": "ol kitap oqıp jatır edi" },
+        { "kk": "Біз теледидар көріп жатыр едік.", "en": "We were watching TV.", "translit": "biz teledïdar körip jatır edik" },
+        { "kk": "Сен ұйықтап жатыр ма едің?", "en": "Were you sleeping? (informal)", "translit": "sen uyıqtap jatır ma ediñ" }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Grammar: \"I Want To...\"",
+      "titleNative": "Қалау мәні",
+      "topicId": "b1-desiderative",
+      "items": [
+        { "kk": "Не істегің келеді?", "en": "What do you want to do? (informal)", "translit": "ne istegiñ keledi" },
+        { "kk": "Демалғым келеді.", "en": "I want to rest.", "translit": "demalğım keledi" },
+        { "kk": "Саяхаттағым келеді.", "en": "I want to travel.", "translit": "sayaxattağım keledi" },
+        { "kk": "Ол үйге қайтқысы келеді.", "en": "He/she wants to go back home.", "translit": "ol üyge qaytqısı keledi" },
+        { "kk": "Біз тамақ ішкіміз келеді.", "en": "We want to eat.", "translit": "biz tamaq işkimiz keledi" },
+        { "kk": "Сен не жегің келеді?", "en": "What do you want to eat? (informal)", "translit": "sen ne jegiñ keledi" }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Grammar: Past Obligation",
+      "titleNative": "Өткендегі қажеттілік",
+      "topicId": "b1-past-obligation",
+      "items": [
+        { "kk": "Ерте тұруым керек еді.", "en": "I should have gotten up early.", "translit": "erte turwım kerek edi" },
+        { "kk": "Сен маған айтуың керек еді.", "en": "You should have told me. (informal)", "translit": "sen mağan aytwıñ kerek edi" },
+        { "kk": "Біз ертерек келуіміз тиіс еді.", "en": "We should have come earlier.", "translit": "biz erterek kelwimiz tïis edi" },
+        { "kk": "Ол дәрігерге баруы керек еді.", "en": "He/she should have gone to the doctor.", "translit": "ol därigerge barwı kerek edi" },
+        { "kk": "Мен сені күтуім керек пе еді?", "en": "Should I have waited for you?", "translit": "men seni kütwim kerek pe edi" }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Grammar: Verbal Nouns",
+      "titleNative": "Қимыл есімі",
+      "topicId": "b1-verbal-nouns",
+      "items": [
+        { "kk": "Оқу маған қызық.", "en": "Reading is interesting to me.", "translit": "oqw mağan qızıq" },
+        { "kk": "Жүзуді жақсы көремін.", "en": "I like swimming.", "translit": "jüzwdi jaqsı köremin" },
+        { "kk": "Жазу оңай емес.", "en": "Writing is not easy.", "translit": "jazw oñay emes" },
+        { "kk": "Сөйлеу — қиын өнер.", "en": "Speaking is a difficult art.", "translit": "söylew — qïın öner" },
+        { "kk": "Ән айту оны қуантады.", "en": "Singing makes him/her happy.", "translit": "än aytw onı quwantadı" }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Grammar: Concession",
+      "titleNative": "Қарсылық мәні",
+      "topicId": "b1-concessive",
+      "items": [
+        { "kk": "Жаңбыр жауса да барамын.", "en": "I'll go even if it rains.", "translit": "jañbır jawsa da baramın" },
+        { "kk": "Шаршаса да, жұмыс істеді.", "en": "Although tired, he/she worked.", "translit": "şarşasa da, jumıs istedi" },
+        { "kk": "Ол жас болса да, ақылды.", "en": "Although he/she is young, he/she is smart.", "translit": "ol jas bolsa da, aqıldı" },
+        { "kk": "Ақшам аз болса да, саяхаттадым.", "en": "Although I had little money, I traveled.", "translit": "aqşam az bolsa da, sayaxattadım" },
+        { "kk": "Дегенмен, мен келісемін.", "en": "However, I agree.", "translit": "degenmen, men kelisemin" }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Grammar: Purpose Clauses",
+      "titleNative": "Мақсат мәні",
+      "topicId": "b1-purpose",
+      "items": [
+        { "kk": "Отбасыммен сөйлесу үшін.", "en": "In order to talk with my family.", "translit": "otbasımmen söylesw üşin" },
+        { "kk": "Сен үшін бәрін жасаймын.", "en": "I'll do everything for you. (informal)", "translit": "sen üşin bärin jasaymın" },
+        { "kk": "Емтиханға дайындалу үшін оқимын.", "en": "I study in order to prepare for the exam.", "translit": "emtïxanğa dayındalw üşin oqïmın" },
+        { "kk": "Денсаулық үшін спортпен айналысу керек.", "en": "One should do sports for the sake of health.", "translit": "densawlıq üşin sportpen aynalısw kerek" },
+        { "kk": "Ол жұмыс іздеу үшін қалаға келді.", "en": "He/she came to the city in order to look for work.", "translit": "ol jumıs izdew üşin qalağa keldi" }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Grammar: Equative (Like/As)",
+      "titleNative": "Ұқсату мәні",
+      "topicId": "b1-equative",
+      "items": [
+        { "kk": "Арыстандай батыл.", "en": "Brave as a lion.", "translit": "arıstanday batıl" },
+        { "kk": "Балдай тәтті.", "en": "Sweet as honey.", "translit": "balday tätti" },
+        { "kk": "Мұздай суық.", "en": "Cold as ice.", "translit": "muzday suwıq" },
+        { "kk": "Сендей адам сирек кездеседі.", "en": "A person like you is rare. (informal)", "translit": "sendey adam sirek kezdesedi" },
+        { "kk": "Ол мұғалімдей сөйлейді.", "en": "He/she speaks like a teacher.", "translit": "ol muğalimdey söyleydi" }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Grammar: Emphatic Particles",
+      "titleNative": "Күшейткіш демеуліктер",
+      "topicId": "b1-emphatic-particles",
+      "items": [
+        { "kk": "Білем ғой!", "en": "I do know! (informal, reminder tone)", "translit": "bilem ğoy" },
+        { "kk": "Мен айттым ғой.", "en": "I did tell you, remember.", "translit": "men ayttım ğoy" },
+        { "kk": "Тіпті балалар біледі.", "en": "Even children know.", "translit": "tipti balalar biledi" },
+        { "kk": "Бүгін өзі демалыс күн.", "en": "Today itself is a day off.", "translit": "bügin özi demalıs kün" },
+        { "kk": "Ол тіпті келмеді.", "en": "He/she didn't even come.", "translit": "ol tipti kelmedi" }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Grammar: Negative Pronouns",
+      "titleNative": "Болымсыз есімдіктер",
+      "topicId": "b1-negative-pronouns",
+      "items": [
+        { "kk": "Ешкім жоқ.", "en": "Nobody is there.", "translit": "eşkim joq" },
+        { "kk": "Ешкім келмеді.", "en": "Nobody came.", "translit": "eşkim kelmedi" },
+        { "kk": "Мен мұны ешқашан ұмытпаймын.", "en": "I will never forget this.", "translit": "men munı eşqaşan umıtpaymın" },
+        { "kk": "Ешбір кітап маған ұнамады.", "en": "Not a single book pleased me.", "translit": "eşbir kitap mağan unamadı" },
+        { "kk": "Ол ештеңе айтпады.", "en": "He/she said nothing.", "translit": "ol eşteñe aytpadı" }
+      ]
+    }
+  ]
+}
