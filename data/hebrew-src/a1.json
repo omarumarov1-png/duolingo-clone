@@ -1,0 +1,211 @@
+{
+  "level": "a1",
+  "lessons": [
+    {
+      "number": 1,
+      "title": "Work and Read",
+      "titleNative": "עוֹבְדִים וְקוֹרְאִים",
+      "items": [
+        {
+          "he": "אֲנִי עוֹבֵד בְּבַנְק.",
+          "translit": "Ani oved be-vank.",
+          "en": "I work at a bank."
+        },
+        {
+          "he": "הִיא עוֹבֶדֶת בְּבֵית חוֹלִים.",
+          "translit": "Hi ovedet be-veit cholim.",
+          "en": "She works at a hospital."
+        },
+        {
+          "he": "אַתָּה קוֹרֵא סֵפֶר מְעַנְיֵן.",
+          "translit": "Ata kore sefer me'anyen.",
+          "en": "You read an interesting book."
+        },
+        {
+          "he": "אֲנַחְנוּ עוֹבְדִים הַיּוֹם.",
+          "translit": "Anachnu ovdim ha-yom.",
+          "en": "We are working today."
+        },
+        {
+          "he": "הַיְלָדִים קוֹרְאִים עִתּוֹן.",
+          "translit": "Ha-yeladim kor'im iton.",
+          "en": "The children read a newspaper."
+        },
+        {
+          "he": "אַתְּ עוֹבֶדֶת קָשֶׁה.",
+          "translit": "At ovedet kashe.",
+          "en": "You work hard."
+        },
+        {
+          "he": "הוּא לֹא קוֹרֵא כָּעֵת.",
+          "translit": "Hu lo kore ka'et.",
+          "en": "He isn't reading right now."
+        },
+        {
+          "he": "הַנָּשִׁים עוֹבְדוֹת בַּמִּשְׂרָד.",
+          "translit": "Ha-nashim ovdot ba-misrad.",
+          "en": "The women work in the office."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Write and Understand",
+      "titleNative": "כּוֹתְבִים וּמְבִינִים",
+      "items": [
+        {
+          "he": "אֲנִי כּוֹתֵב מִכְתָּב לְאִמָּא שֶׁלִּי.",
+          "translit": "Ani kotev michtav le-ima sheli.",
+          "en": "I am writing a letter to my mom."
+        },
+        {
+          "he": "הִיא כּוֹתֶבֶת בַּיּוֹמָן שֶׁלָּה.",
+          "translit": "Hi kotevet ba-yoman shela.",
+          "en": "She writes in her diary."
+        },
+        {
+          "he": "אַתָּה מֵבִין עִבְרִית?",
+          "translit": "Ata mevin ivrit?",
+          "en": "Do you understand Hebrew?"
+        },
+        {
+          "he": "אֲנִי לֹא מְבִינָה אֶת הַשְּׁאֵלָה.",
+          "translit": "Ani lo mevina et ha-she'ela.",
+          "en": "I don't understand the question."
+        },
+        {
+          "he": "הַתַּלְמִידִים כּוֹתְבִים תַּרְגִּיל.",
+          "translit": "Ha-talmidim kotvim targil.",
+          "en": "The students write an exercise."
+        },
+        {
+          "he": "אֲנַחְנוּ מְבִינִים אֶת הַסֵּרֶט.",
+          "translit": "Anachnu mevinim et ha-seret.",
+          "en": "We understand the movie."
+        },
+        {
+          "he": "אַתְּ כּוֹתֶבֶת יָפֶה מְאֹד.",
+          "translit": "At kotevet yafe me'od.",
+          "en": "You write very nicely."
+        },
+        {
+          "he": "הֵן מְבִינוֹת אַנְגְּלִית טוֹב.",
+          "translit": "Hen mevinot anglit tov.",
+          "en": "They understand English well."
+        }
+      ],
+      "topicId": "a1-piel-hifil-present"
+    },
+    {
+      "number": 3,
+      "title": "Speak Hebrew",
+      "titleNative": "מְדַבְּרִים עִבְרִית",
+      "items": [
+        {
+          "he": "אֲנִי מְדַבֵּר עִבְרִית בָּעֲבוֹדָה.",
+          "translit": "Ani medaber ivrit ba-avoda.",
+          "en": "I speak Hebrew at work."
+        },
+        {
+          "he": "הִיא מְדַבֶּרֶת עִם הַחֲבֵרָה שֶׁלָּה.",
+          "translit": "Hi medaberet im ha-chavera shela.",
+          "en": "She talks with her friend."
+        },
+        {
+          "he": "אֲנַחְנוּ מְדַבְּרִים אַנְגְּלִית בַּבַּיִת.",
+          "translit": "Anachnu medabrim anglit ba-bayit.",
+          "en": "We speak English at home."
+        },
+        {
+          "he": "הוּא עוֹבֵד וְגַם קוֹרֵא הַרְבֵּה סְפָרִים.",
+          "translit": "Hu oved ve-gam kore harbe sfarim.",
+          "en": "He works and also reads a lot of books."
+        },
+        {
+          "he": "אַתֶּם מְדַבְּרִים עִבְרִית טוֹב מְאֹד!",
+          "translit": "Atem medabrim ivrit tov me'od!",
+          "en": "You speak Hebrew very well!"
+        },
+        {
+          "he": "הַיֶּלֶד לֹא מֵבִין אֶת הַשִּׁעוּר.",
+          "translit": "Ha-yeled lo mevin et ha-shi'ur.",
+          "en": "The boy doesn't understand the lesson."
+        },
+        {
+          "he": "מָה אַתְּ כּוֹתֶבֶת עַכְשָׁו?",
+          "translit": "Ma at kotevet achshav?",
+          "en": "What are you writing now?"
+        },
+        {
+          "he": "הֵם מְדַבְּרִים וְעוֹבְדִים בְּיַחַד.",
+          "translit": "Hem medabrim ve-ovdim be-yachad.",
+          "en": "They talk and work together."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "A New Job",
+      "titleNative": "עֲבוֹדָה חֲדָשָׁה",
+      "context": "A short story about Noa, who is learning Hebrew at her new job in Tel Aviv.",
+      "paragraphs": [
+        {
+          "he": "נוֹעָה עוֹבֶדֶת בְּמִשְׂרָד גָּדוֹל בְּתֵל אָבִיב.",
+          "en": "Noa works in a big office in Tel Aviv."
+        },
+        {
+          "he": "בָּעֲבוֹדָה הִיא מְדַבֶּרֶת עִבְרִית עִם הַחֲבֵרִים שֶׁלָּה, אֲבָל הִיא עֲדַיִן לֹא מְבִינָה הַכֹּל.",
+          "en": "At work she speaks Hebrew with her friends, but she still doesn't understand everything."
+        },
+        {
+          "he": "כָּל בֹּקֶר הִיא קוֹרֵאת עִתּוֹן בְּעִבְרִית וְכוֹתֶבֶת מִלִּים חֲדָשׁוֹת בְּמַחְבֶּרֶת.",
+          "en": "Every morning she reads a newspaper in Hebrew and writes new words in a notebook."
+        },
+        {
+          "he": "הַחֲבֵרִים שֶׁלָּה בָּעֲבוֹדָה עוֹזְרִים לָהּ, וְהִיא מְבִינָה יוֹתֵר וְיוֹתֵר כָּל שָׁבוּעַ.",
+          "en": "Her friends at work help her, and she understands more and more every week."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Where does Noa work?",
+          "options": [
+            "In a small store",
+            "In a big office in Tel Aviv",
+            "In a hospital",
+            "In a school"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "What does Noa do every morning?",
+          "options": [
+            "She writes a letter to her mom",
+            "She reads a newspaper and writes new words in a notebook",
+            "She speaks English with her boss",
+            "She reads a book about Tel Aviv"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "According to the passage, how does Noa's Hebrew understanding change over time?",
+          "options": [
+            "It gets worse every week",
+            "It stays the same",
+            "It gets better and better every week",
+            "She stops trying to understand"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    }
+  ],
+  "grammarTopics": {
+    "a1-piel-hifil-present": {
+      "title": "Present tense in Pi'el and Hif'il verbs (בִּנְיָן פִּעֵל וְהִפְעִיל בַּהוֹוֶה)",
+      "pattern": "Pa'al present tense has no prefix (קוֹרֵא, כּוֹתֵב); Pi'el and Hif'il present tense both add the prefix מְ- (מְדַבֵּר, מֵבִין) — and every present-tense verb, in any binyan, still changes for gender and number.",
+      "explanation": "Hebrew verbs belong to different patterns called binyanim. In the present tense, Pa'al verbs like לִקְרוֹא (read) and לִכְתּוֹב (write) use no prefix — the form is just the root with vowels. But Pi'el verbs like לְדַבֵּר (speak) and Hif'il verbs like לְהָבִין (understand) both add a מְ- prefix instead: מְדַבֵּר, מֵבִין. Despite this difference, every present-tense verb still has four forms for masculine/feminine, singular/plural, e.g. מְדַבֵּר / מְדַבֶּרֶת / מְדַבְּרִים / מְדַבְּרוֹת.",
+      "fact": "The מְ- prefix on present-tense Pi'el and Hif'il verbs is actually a fossilized participle marker — the same מ- that appears on Hebrew nouns meaning 'one who does X', like מוֹרֶה (teacher) and מְנַהֵל (manager)."
+    }
+  }
+}

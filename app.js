@@ -11,6 +11,7 @@
   const COURSES = [
     { id: "arabic", file: "data/courses.json", legacyProgressKey: "muhkam-progress-v2", label: "Arabic — العربية", flag: "العربية" },
     { id: "tajik", file: "data/courses-tajik.json", label: "Tajik — Тоҷикӣ", flag: "Тоҷикӣ" },
+    { id: "hebrew", file: "data/courses-hebrew.json", label: "Hebrew — עברית", flag: "עברית" },
   ];
 
   // iOS Safari keeps a tapped <button> focused, which makes the
@@ -183,6 +184,12 @@
       /Negar/i,
     ],
     tg: [],
+    he: [
+      /Carmit.*(Enhanced|Premium)/i,
+      /Carmit/i,
+      /Google עברית/i,
+      /Microsoft (Asaf|Avri).*(Natural|Online)/i,
+    ],
   };
   let _voices = [];
   let _preferredVoiceEn = null;

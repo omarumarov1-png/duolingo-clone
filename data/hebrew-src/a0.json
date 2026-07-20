@@ -1,0 +1,2960 @@
+{
+  "level": "a0",
+  "lessons": [
+    {
+      "number": 1,
+      "title": "Meet the Letters",
+      "titleNative": "הָאָלֶף בֵּית",
+      "items": [
+        {
+          "he": "אָלֶף",
+          "en": "The letter Alef",
+          "translit": "álef"
+        },
+        {
+          "he": "בֵּית",
+          "en": "The letter Bet",
+          "translit": "béit"
+        },
+        {
+          "he": "גִּימֶל",
+          "en": "The letter Gimel",
+          "translit": "gímel"
+        },
+        {
+          "he": "דָּלֶת",
+          "en": "The letter Dalet",
+          "translit": "dálet"
+        },
+        {
+          "he": "הֵא",
+          "en": "The letter Heh",
+          "translit": "hei"
+        },
+        {
+          "he": "וָו",
+          "en": "The letter Vav",
+          "translit": "vav"
+        },
+        {
+          "he": "זַיִן",
+          "en": "The letter Zayin",
+          "translit": "záyin"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Vowel Sounds: Niqqud",
+      "titleNative": "סִימָנֵי נִיקוּד",
+      "items": [
+        {
+          "he": "קָמַץ",
+          "en": "The \"kamatz\" vowel mark (sounds like \"ah\")",
+          "translit": "kamatz"
+        },
+        {
+          "he": "פַּתַח",
+          "en": "The \"patach\" vowel mark (sounds like \"ah\")",
+          "translit": "patach"
+        },
+        {
+          "he": "חִירִיק",
+          "en": "The \"chirik\" vowel mark (sounds like \"ee\")",
+          "translit": "chirik"
+        },
+        {
+          "he": "צֵירֵי",
+          "en": "The \"tzere\" vowel mark (sounds like \"ey\")",
+          "translit": "tzeirei"
+        },
+        {
+          "he": "סֶגּוֹל",
+          "en": "The \"segol\" vowel mark (sounds like \"eh\")",
+          "translit": "segol"
+        },
+        {
+          "he": "חוֹלָם",
+          "en": "The \"cholam\" vowel mark (sounds like \"oh\")",
+          "translit": "cholam"
+        },
+        {
+          "he": "שׁוּרוּק",
+          "en": "The \"shuruk\" vowel mark (sounds like \"oo\")",
+          "translit": "shuruk"
+        }
+      ],
+      "topicId": "a0-niqqud-vowel-points"
+    },
+    {
+      "number": 3,
+      "title": "Tiny Words, Tiny Phrases",
+      "titleNative": "מִלִּים קְטַנּוֹת",
+      "items": [
+        {
+          "he": "זֶה אַבָּא.",
+          "en": "This is Dad.",
+          "translit": "Ze aba."
+        },
+        {
+          "he": "זֹאת אִמָּא.",
+          "en": "This is Mom.",
+          "translit": "Zot ima."
+        },
+        {
+          "he": "אַבָּא גָּדוֹל.",
+          "en": "Dad is big.",
+          "translit": "Aba gadol."
+        },
+        {
+          "he": "אִמָּא טוֹבָה.",
+          "en": "Mom is good.",
+          "translit": "Ima tova."
+        },
+        {
+          "he": "זֶה סֵפֶר.",
+          "en": "This is a book.",
+          "translit": "Ze sefer."
+        },
+        {
+          "he": "זֹאת אוֹת.",
+          "en": "This is a letter.",
+          "translit": "Zot ot."
+        },
+        {
+          "he": "הַסֵּפֶר גָּדוֹל.",
+          "en": "The book is big.",
+          "translit": "Ha-sefer gadol."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Noa Learns the Alphabet",
+      "titleNative": "נֹעָה לוֹמֶדֶת אָלֶף בֵּית",
+      "context": "A short story about a girl learning Hebrew letters with her mom.",
+      "paragraphs": [
+        {
+          "he": "נֹעָה לוֹמֶדֶת אָלֶף בֵּית.",
+          "en": "Noa is learning the aleph-bet."
+        },
+        {
+          "he": "הַסֵּפֶר גָּדוֹל וְטוֹב.",
+          "en": "The book is big and good."
+        },
+        {
+          "he": "אִמָּא קוֹרֵאת אֶת הַסֵּפֶר.",
+          "en": "Mom reads the book."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is Noa learning?",
+          "options": [
+            "The aleph-bet",
+            "Math",
+            "Music",
+            "Numbers"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "How is the book described?",
+          "options": [
+            "Small and bad",
+            "Big and good",
+            "New and expensive",
+            "Old and heavy"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "Who reads the book?",
+          "options": [
+            "Dad",
+            "Noa",
+            "Mom",
+            "The teacher"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Hello and Goodbye",
+      "titleNative": "שָׁלוֹם וּלְהִתְרָאוֹת",
+      "items": [
+        {
+          "he": "שָׁלוֹם! מָה נִשְׁמָע?",
+          "en": "Hi! What's up?",
+          "translit": "shalom! ma nishma?"
+        },
+        {
+          "he": "בֹּקֶר טוֹב לְכֻלָּם!",
+          "en": "Good morning, everyone!",
+          "translit": "boker tov lekulam!"
+        },
+        {
+          "he": "עֶרֶב טוֹב, גְּבֶרֶת כֹּהֵן.",
+          "en": "Good evening, Mrs. Cohen.",
+          "translit": "erev tov, gveret cohen."
+        },
+        {
+          "he": "הוּא אוֹמֵר שָׁלוֹם לַמּוֹרֶה.",
+          "en": "He says hello to the teacher.",
+          "translit": "hu omer shalom lamore."
+        },
+        {
+          "he": "הִיא אוֹמֶרֶת שָׁלוֹם לְאִמָּא.",
+          "en": "She says hello to her mom.",
+          "translit": "hi omeret shalom le'ima."
+        },
+        {
+          "he": "לַיְלָה טוֹב, יְלָדִים!",
+          "en": "Good night, kids!",
+          "translit": "layla tov, yeladim!"
+        },
+        {
+          "he": "לְהִתְרָאוֹת מָחָר!",
+          "en": "See you tomorrow!",
+          "translit": "lehitra'ot machar!"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Please and Thank You",
+      "titleNative": "בְּבַקָּשָׁה וְתוֹדָה",
+      "items": [
+        {
+          "he": "תּוֹדָה רַבָּה!",
+          "en": "Thank you very much!",
+          "translit": "toda raba!"
+        },
+        {
+          "he": "מַיִם, בְּבַקָּשָׁה.",
+          "en": "Water, please.",
+          "translit": "mayim, bevakasha."
+        },
+        {
+          "he": "אֵין בְּעַד מָה!",
+          "en": "You're welcome!",
+          "translit": "ein be'ad ma!"
+        },
+        {
+          "he": "תּוֹדָה עַל הָעֶזְרָה.",
+          "en": "Thanks for the help.",
+          "translit": "toda al ha'ezra."
+        },
+        {
+          "he": "הוּא אוֹמֵר תּוֹדָה לְאַבָּא.",
+          "en": "He says thank you to Dad.",
+          "translit": "hu omer toda le'aba."
+        },
+        {
+          "he": "תּוֹדָה, אַתָּה מְאֹד אָדִיב.",
+          "en": "Thanks, you're very kind. (to a man)",
+          "translit": "toda, ata me'od adiv."
+        },
+        {
+          "he": "תּוֹדָה, אַתְּ מְאֹד נֶחְמָדָה.",
+          "en": "Thanks, you're very nice. (to a woman)",
+          "translit": "toda, at me'od nechmada."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Sorry and How Are You",
+      "titleNative": "סְלִיחָה וּמַה שְּׁלוֹמְךָ",
+      "items": [
+        {
+          "he": "סְלִיחָה!",
+          "en": "Sorry! / Excuse me!",
+          "translit": "slicha!"
+        },
+        {
+          "he": "אֲנִי מִצְטַעֵר.",
+          "en": "I'm sorry. (a man speaking)",
+          "translit": "ani mitstaer."
+        },
+        {
+          "he": "אֲנִי מִצְטַעֶרֶת.",
+          "en": "I'm sorry. (a woman speaking)",
+          "translit": "ani mitstaeret."
+        },
+        {
+          "he": "סְלִיחָה, אֵיפֹה הַשֵּׁרוּתִים?",
+          "en": "Excuse me, where's the bathroom?",
+          "translit": "slicha, eifo hasherutim?"
+        },
+        {
+          "he": "מָה שְׁלוֹמְךָ?",
+          "en": "How are you? (to a man)",
+          "translit": "ma shlomcha?"
+        },
+        {
+          "he": "מָה שְׁלוֹמֵךְ?",
+          "en": "How are you? (to a woman)",
+          "translit": "ma shlomech?"
+        },
+        {
+          "he": "טוֹב מְאֹד, תּוֹדָה!",
+          "en": "Very well, thank you!",
+          "translit": "tov me'od, toda!"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Good Morning at School",
+      "titleNative": "בֹּקֶר טוֹב בַּכִּתָּה",
+      "context": "Dani arrives late to class and greets his teacher.",
+      "paragraphs": [
+        {
+          "he": "דָּנִי נִכְנָס לַכִּתָּה וְאוֹמֵר: \"בֹּקֶר טוֹב לְכֻלָּם!\"",
+          "en": "Dani walks into the classroom and says, \"Good morning, everyone!\""
+        },
+        {
+          "he": "הַמּוֹרָה אוֹמֶרֶת: \"בֹּקֶר טוֹב, דָּנִי, מָה שְׁלוֹמְךָ?\"",
+          "en": "The teacher says, \"Good morning, Dani, how are you?\""
+        },
+        {
+          "he": "דָּנִי אוֹמֵר: \"טוֹב מְאֹד, תּוֹדָה! סְלִיחָה עַל הָאִחוּר.\"",
+          "en": "Dani says, \"Very well, thank you! Sorry I'm late.\""
+        }
+      ],
+      "questions": [
+        {
+          "question": "What does Dani say when he walks into the classroom?",
+          "options": [
+            "Good night, everyone",
+            "Good morning, everyone",
+            "Thank you very much",
+            "See you tomorrow"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "What does the teacher ask Dani?",
+          "options": [
+            "Where is the bathroom?",
+            "What is your name?",
+            "How are you?",
+            "What time is it?"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "question": "Why does Dani apologize?",
+          "options": [
+            "Because he forgot his book",
+            "Because he broke something",
+            "Because he is late",
+            "Because he spoke too loudly"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Counting 0-10",
+      "titleNative": "לִסְפֹּר מֵאֶפֶס עַד עֶשֶׂר",
+      "items": [
+        {
+          "he": "אֶפֶס מַעֲלוֹת בַּחוּץ.",
+          "en": "It's zero degrees outside.",
+          "translit": "Efes ma'alot bachutz."
+        },
+        {
+          "he": "יֵשׁ לִי כֶּלֶב אֶחָד.",
+          "en": "I have one dog.",
+          "translit": "Yesh li kelev echad."
+        },
+        {
+          "he": "יֵשׁ לָנוּ שְׁנֵי חֲתוּלִים.",
+          "en": "We have two cats.",
+          "translit": "Yesh lanu shney chatulim."
+        },
+        {
+          "he": "לְדָוִד יֵשׁ שְׁלוֹשָׁה אַחִים.",
+          "en": "David has three brothers.",
+          "translit": "LeDavid yesh shloshah achim."
+        },
+        {
+          "he": "יֵשׁ בַּכִּתָּה אַרְבָּעָה מוֹרִים.",
+          "en": "There are four teachers in the class.",
+          "translit": "Yesh bakitah arba'ah morim."
+        },
+        {
+          "he": "אֲנִי רוֹאָה חֲמִשָּׁה כְּלָבִים בַּפָּארְק.",
+          "en": "I see five dogs in the park.",
+          "translit": "Ani ro'ah chamishah klavim bapark."
+        },
+        {
+          "he": "יֵשׁ לוֹ עֲשָׂרָה שְׁקָלִים.",
+          "en": "He has ten shekels.",
+          "translit": "Yesh lo asarah shkalim."
+        }
+      ],
+      "topicId": "a0-number-gender-agreement"
+    },
+    {
+      "number": 10,
+      "title": "Ages and Teen Numbers (11-20)",
+      "titleNative": "גִּילִים וּמִסְפָּרִים 11-20",
+      "items": [
+        {
+          "he": "הוּא בֶּן אַחַת עֶשְׂרֵה.",
+          "en": "He is eleven years old.",
+          "translit": "Hu ben achat esreh."
+        },
+        {
+          "he": "הִיא בַּת שְׁתֵּים עֶשְׂרֵה.",
+          "en": "She is twelve years old.",
+          "translit": "Hi bat shteim esreh."
+        },
+        {
+          "he": "אֲנִי בֶּן שְׁלוֹשׁ עֶשְׂרֵה.",
+          "en": "I am thirteen years old.",
+          "translit": "Ani ben shlosh esreh."
+        },
+        {
+          "he": "אֲנִי בַּת אַרְבַּע עֶשְׂרֵה.",
+          "en": "I am fourteen years old.",
+          "translit": "Ani bat arba esreh."
+        },
+        {
+          "he": "הַיֶּלֶד בֶּן חָמֵשׁ עֶשְׂרֵה.",
+          "en": "The boy is fifteen years old.",
+          "translit": "Hayeled ben chamesh esreh."
+        },
+        {
+          "he": "הַיַּלְדָּה בַּת שֵׁשׁ עֶשְׂרֵה.",
+          "en": "The girl is sixteen years old.",
+          "translit": "Hayaldah bat shesh esreh."
+        },
+        {
+          "he": "הַמּוֹרֶה בֶּן עֶשְׂרִים.",
+          "en": "The teacher is twenty years old.",
+          "translit": "Hamoreh ben esrim."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "How Many? Feminine Numbers",
+      "titleNative": "כַּמָּה? מִסְפָּרִים בִּנְקֵבָה",
+      "items": [
+        {
+          "he": "יֵשׁ לִי אָחוֹת אַחַת.",
+          "en": "I have one sister.",
+          "translit": "Yesh li achot achat."
+        },
+        {
+          "he": "יֵשׁ לוֹ שְׁתֵּי בָּנוֹת.",
+          "en": "He has two daughters.",
+          "translit": "Yesh lo shtei banot."
+        },
+        {
+          "he": "בַּסַּל יֵשׁ שָׁלוֹשׁ בַּנָּנוֹת.",
+          "en": "There are three bananas in the basket.",
+          "translit": "Basal yesh shalosh bananot."
+        },
+        {
+          "he": "קָנִיתִי אַרְבַּע חֻלְצוֹת.",
+          "en": "I bought four shirts.",
+          "translit": "Kaniti arba chultsot."
+        },
+        {
+          "he": "יֵשׁ לִי עֶשֶׂר אֶצְבָּעוֹת.",
+          "en": "I have ten fingers.",
+          "translit": "Yesh li eser etzba'ot."
+        },
+        {
+          "he": "כַּמָּה אֲחָיוֹת יֵשׁ לָךְ?",
+          "en": "How many sisters do you have?",
+          "translit": "Kamah achayot yesh lach?"
+        },
+        {
+          "he": "כַּמָּה יְלָדִים יֵשׁ בַּכִּתָּה?",
+          "en": "How many children are there in the class?",
+          "translit": "Kamah yeladim yesh bakitah?"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Dana's Family",
+      "titleNative": "הַמִּשְׁפָּחָה שֶׁל דָּנָה",
+      "context": "A short passage about a girl introducing her age and her siblings' ages.",
+      "paragraphs": [
+        {
+          "he": "שְׁמִי דָּנָה, וַאֲנִי בַּת עֶשֶׂר.",
+          "en": "My name is Dana, and I am ten years old."
+        },
+        {
+          "he": "יֵשׁ לִי שְׁנֵי אַחִים וְאָחוֹת אַחַת.",
+          "en": "I have two brothers and one sister."
+        },
+        {
+          "he": "אָחִי הַגָּדוֹל בֶּן חֲמֵשׁ עֶשְׂרֵה, וְהָאָחוֹת שֶׁלִּי בַּת שֶׁבַע.",
+          "en": "My older brother is fifteen, and my sister is seven."
+        }
+      ],
+      "questions": [
+        {
+          "question": "How old is Dana?",
+          "options": [
+            "Seven",
+            "Ten",
+            "Fifteen",
+            "Two"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "How many brothers does Dana have?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Zero"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "How old is Dana's sister?",
+          "options": [
+            "Ten",
+            "Fifteen",
+            "Seven",
+            "Twelve"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Days of the Week",
+      "titleNative": "יְמֵי הַשָּׁבוּעַ",
+      "items": [
+        {
+          "he": "הַיּוֹם יוֹם רִאשׁוֹן.",
+          "en": "Today is Sunday.",
+          "translit": "HaYom yom rishon."
+        },
+        {
+          "he": "מָחָר יוֹם שֵׁנִי.",
+          "en": "Tomorrow is Monday.",
+          "translit": "Machar yom sheni."
+        },
+        {
+          "he": "הַיּוֹם יוֹם שְׁלִישִׁי.",
+          "en": "Today is Tuesday.",
+          "translit": "HaYom yom shlishi."
+        },
+        {
+          "he": "מָחָר יוֹם רְבִיעִי.",
+          "en": "Tomorrow is Wednesday.",
+          "translit": "Machar yom revi'i."
+        },
+        {
+          "he": "הַיּוֹם יוֹם חֲמִישִׁי.",
+          "en": "Today is Thursday.",
+          "translit": "HaYom yom chamishi."
+        },
+        {
+          "he": "מָחָר יוֹם שִׁישִּׁי.",
+          "en": "Tomorrow is Friday.",
+          "translit": "Machar yom shishi."
+        },
+        {
+          "he": "הַיּוֹם שַׁבָּת.",
+          "en": "Today is Saturday.",
+          "translit": "HaYom Shabbat."
+        }
+      ],
+      "topicId": "a0-on-day-of-week"
+    },
+    {
+      "number": 14,
+      "title": "Morning, Evening, and Night",
+      "titleNative": "בֹּקֶר, עֶרֶב וְלַיְלָה",
+      "items": [
+        {
+          "he": "בַּבֹּקֶר אֲנִי הוֹלֵךְ לָעֲבוֹדָה.",
+          "en": "In the morning I go to work.",
+          "translit": "Baboker ani holech la'avoda."
+        },
+        {
+          "he": "בָּעֶרֶב הִיא קוֹרֵאת סֵפֶר.",
+          "en": "In the evening she reads a book.",
+          "translit": "Ba'erev hi kore'et sefer."
+        },
+        {
+          "he": "בַּבֹּקֶר קַר בַּחוּץ.",
+          "en": "In the morning it's cold outside.",
+          "translit": "Baboker kar bachutz."
+        },
+        {
+          "he": "בָּעֶרֶב אֲנַחְנוּ אוֹכְלִים אֲרוּחַת עֶרֶב.",
+          "en": "In the evening we eat dinner.",
+          "translit": "Ba'erev anachnu ochlim aruchat erev."
+        },
+        {
+          "he": "בַּבֹּקֶר הוּא שׁוֹתֶה תֵּה.",
+          "en": "In the morning he drinks tea.",
+          "translit": "Baboker hu shoteh te."
+        },
+        {
+          "he": "מָה אַתְּ עוֹשָׂה בָּעֶרֶב?",
+          "en": "What are you (f.) doing in the evening?",
+          "translit": "Ma at osa ba'erev?"
+        },
+        {
+          "he": "בַּלַּיְלָה אֲנִי יְשֵׁנָה.",
+          "en": "At night I sleep.",
+          "translit": "Balaila ani yeshena."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "On Which Day?",
+      "titleNative": "בְּאֵיזֶה יוֹם?",
+      "items": [
+        {
+          "he": "בְּיוֹם רִאשׁוֹן אֲנִי הוֹלֶכֶת לָעֲבוֹדָה.",
+          "en": "On Sunday I go to work.",
+          "translit": "Beyom rishon ani holechet la'avoda."
+        },
+        {
+          "he": "בְּיוֹם שֵׁנִי יֵשׁ לָנוּ שִׁעוּר עִבְרִית.",
+          "en": "On Monday we have a Hebrew lesson.",
+          "translit": "Beyom sheni yesh lanu shi'ur ivrit."
+        },
+        {
+          "he": "בְּיוֹם שִׁישִּׁי יֵשׁ אֲרוּחָה גְּדוֹלָה.",
+          "en": "On Friday there's a big meal.",
+          "translit": "Beyom shishi yesh arucha gdola."
+        },
+        {
+          "he": "בְּשַׁבָּת אֲנַחְנוּ לֹא עוֹבְדִים.",
+          "en": "On Shabbat we don't work.",
+          "translit": "Beshabbat anachnu lo ovdim."
+        },
+        {
+          "he": "מָה אַתָּה עוֹשֶׂה בְּיוֹם שְׁלִישִׁי?",
+          "en": "What do you (m.) do on Tuesday?",
+          "translit": "Ma ata oseh beyom shlishi?"
+        },
+        {
+          "he": "בְּסוֹף הַשָּׁבוּעַ אֲנִי נָח.",
+          "en": "On the weekend I rest.",
+          "translit": "Besof hashavua ani nach."
+        },
+        {
+          "he": "בְּיוֹם רְבִיעִי הִיא לוֹמֶדֶת עִבְרִית.",
+          "en": "On Wednesday she studies Hebrew.",
+          "translit": "Beyom revi'i hi lomedet ivrit."
+        }
+      ],
+      "topicId": "a0-on-day-of-week"
+    },
+    {
+      "number": 16,
+      "title": "Dana's Week",
+      "titleNative": "הַשָּׁבוּעַ שֶׁל דָּנָה",
+      "context": "A short passage about Dana's weekly routine — work, Friday dinner, and Shabbat rest.",
+      "paragraphs": [
+        {
+          "he": "בַּבֹּקֶר דָּנָה הוֹלֶכֶת לָעֲבוֹדָה.",
+          "en": "In the morning, Dana goes to work."
+        },
+        {
+          "he": "בְּיוֹם שִׁישִּׁי יֵשׁ אֲרוּחַת עֶרֶב גְּדוֹלָה בַּבַּיִת.",
+          "en": "On Friday there's a big dinner at home."
+        },
+        {
+          "he": "בַּשַּׁבָּת דָּנָה לֹא עוֹבֶדֶת, וְהִיא נָחָה.",
+          "en": "On Shabbat Dana doesn't work, and she rests."
+        }
+      ],
+      "questions": [
+        {
+          "question": "When does Dana go to work?",
+          "options": [
+            "In the morning",
+            "In the evening",
+            "At night",
+            "On Friday"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "What happens on Friday?",
+          "options": [
+            "Dana goes to school",
+            "There's a big dinner at home",
+            "Dana works late",
+            "Dana sleeps all day"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "What does Dana do on Shabbat?",
+          "options": [
+            "She works",
+            "She goes to school",
+            "She rests",
+            "She cooks dinner"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "The Family",
+      "titleNative": "הַמִּשְׁפָּחָה",
+      "items": [
+        {
+          "he": "זֶה אַבָּא.",
+          "en": "This is dad.",
+          "translit": "Ze aba."
+        },
+        {
+          "he": "זֹאת אִמָּא.",
+          "en": "This is mom.",
+          "translit": "Zot ima."
+        },
+        {
+          "he": "זֶה אָח.",
+          "en": "This is a brother.",
+          "translit": "Ze ach."
+        },
+        {
+          "he": "זֹאת אָחוֹת.",
+          "en": "This is a sister.",
+          "translit": "Zot achot."
+        },
+        {
+          "he": "זֶה סַבָּא.",
+          "en": "This is grandpa.",
+          "translit": "Ze saba."
+        },
+        {
+          "he": "זֹאת סַבְתָּא.",
+          "en": "This is grandma.",
+          "translit": "Zot savta."
+        },
+        {
+          "he": "זֹאת הַמִּשְׁפָּחָה.",
+          "en": "This is the family.",
+          "translit": "Zot ha-mishpacha."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "My Family",
+      "titleNative": "הַמִּשְׁפָּחָה שֶׁלִּי",
+      "items": [
+        {
+          "he": "זֶה אַבָּא שֶׁלִּי.",
+          "en": "This is my dad.",
+          "translit": "Ze aba sheli."
+        },
+        {
+          "he": "זֹאת אִמָּא שֶׁלִּי.",
+          "en": "This is my mom.",
+          "translit": "Zot ima sheli."
+        },
+        {
+          "he": "זֶה אָח שֶׁלִּי.",
+          "en": "This is my brother.",
+          "translit": "Ze ach sheli."
+        },
+        {
+          "he": "זֹאת אָחוֹת שֶׁלִּי.",
+          "en": "This is my sister.",
+          "translit": "Zot achot sheli."
+        },
+        {
+          "he": "זֶה סַבָּא שֶׁלִּי.",
+          "en": "This is my grandpa.",
+          "translit": "Ze saba sheli."
+        },
+        {
+          "he": "זֹאת סַבְתָּא שֶׁלִּי.",
+          "en": "This is my grandma.",
+          "translit": "Zot savta sheli."
+        },
+        {
+          "he": "זֹאת הַמִּשְׁפָּחָה שֶׁלִּי.",
+          "en": "This is my family.",
+          "translit": "Zot ha-mishpacha sheli."
+        }
+      ],
+      "topicId": "a0-possessive-sheli"
+    },
+    {
+      "number": 19,
+      "title": "Whose Family? (Yours, His, Hers)",
+      "titleNative": "שֶׁלְּךָ, שֶׁלּוֹ, שֶׁלָּה",
+      "items": [
+        {
+          "he": "זֶה אַבָּא שֶׁלְּךָ?",
+          "en": "Is this your dad?",
+          "translit": "Ze aba shelcha?"
+        },
+        {
+          "he": "זֹאת אִמָּא שֶׁלָּךְ?",
+          "en": "Is this your mom?",
+          "translit": "Zot ima shelach?"
+        },
+        {
+          "he": "זֶה הַדּוֹד שֶׁלּוֹ.",
+          "en": "This is his uncle.",
+          "translit": "Ze ha-dod shelo."
+        },
+        {
+          "he": "זֹאת הַדּוֹדָה שֶׁלָּה.",
+          "en": "This is her aunt.",
+          "translit": "Zot ha-doda shela."
+        },
+        {
+          "he": "זֶה הַבֵּן שֶׁלּוֹ.",
+          "en": "This is his son.",
+          "translit": "Ze ha-ben shelo."
+        },
+        {
+          "he": "זֹאת הַבַּת שֶׁלָּה.",
+          "en": "This is her daughter.",
+          "translit": "Zot ha-bat shela."
+        },
+        {
+          "he": "מִי הַסַּבְתָּא שֶׁלְּךָ?",
+          "en": "Who is your grandma?",
+          "translit": "Mi ha-savta shelcha?"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "A Family Picture",
+      "titleNative": "תְּמוּנָה שֶׁל מִשְׁפָּחָה",
+      "context": "A short passage describing who is in a family photo.",
+      "paragraphs": [
+        {
+          "he": "זֹאת הַמִּשְׁפָּחָה שֶׁלִּי בַּתְּמוּנָה.",
+          "en": "This is my family in the picture."
+        },
+        {
+          "he": "אַבָּא שֶׁלִּי גָּדוֹל, וְהָאָחוֹת שֶׁלִּי קְטַנָּה.",
+          "en": "My dad is big, and my sister is small."
+        },
+        {
+          "he": "הַסַּבָּא וְהַסַּבְתָּא שֶׁלִּי גַּם בַּתְּמוּנָה, עִם הַדּוֹד וְהַדּוֹדָה.",
+          "en": "My grandpa and grandma are also in the picture, with my uncle and aunt."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is the picture of?",
+          "options": [
+            "A house",
+            "My family",
+            "A dog",
+            "A city"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "According to the passage, who is small?",
+          "options": [
+            "Dad",
+            "Mom",
+            "Sister",
+            "Grandma"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "question": "Besides grandma and grandpa, who else appears in the picture?",
+          "options": [
+            "Only friends",
+            "The uncle and aunt",
+            "Nobody else",
+            "The neighbors"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Basic Colors",
+      "titleNative": "צְבָעִים בְּסִיסִיִּים",
+      "items": [
+        {
+          "he": "הַכֶּלֶב שָׁחֹר.",
+          "translit": "ha-kelev shachor.",
+          "en": "The dog is black."
+        },
+        {
+          "he": "הַתַּפּוּחַ אָדֹם.",
+          "translit": "ha-tapuach adom.",
+          "en": "The apple is red."
+        },
+        {
+          "he": "הַסֵּפֶר צָהֹב.",
+          "translit": "ha-sefer tsahov.",
+          "en": "The book is yellow."
+        },
+        {
+          "he": "הַקִּיר לָבָן.",
+          "translit": "ha-kir lavan.",
+          "en": "The wall is white."
+        },
+        {
+          "he": "הָעֵץ יָרֹק.",
+          "translit": "ha'ets yarok.",
+          "en": "The tree is green."
+        },
+        {
+          "he": "הַשֻּׁלְחָן חוּם.",
+          "translit": "ha-shulchan chum.",
+          "en": "The table is brown."
+        },
+        {
+          "he": "הַכִּסֵּא כָּתֹם.",
+          "translit": "ha-kise katom.",
+          "en": "The chair is orange."
+        }
+      ],
+      "topicId": "a0-adjective-agreement"
+    },
+    {
+      "number": 22,
+      "title": "Colors: Feminine Nouns",
+      "titleNative": "צְבָעִים: שֵׁמוֹת נְקֵבָה",
+      "items": [
+        {
+          "he": "הַחֻלְצָה כְּחֻלָּה.",
+          "translit": "ha-chultsa kechula.",
+          "en": "The shirt is blue."
+        },
+        {
+          "he": "הַמְּכוֹנִית אֲדֻמָּה.",
+          "translit": "ha-mechonit aduma.",
+          "en": "The car is red."
+        },
+        {
+          "he": "הַדֶּלֶת יְרֻקָּה.",
+          "translit": "ha-delet yeruka.",
+          "en": "The door is green."
+        },
+        {
+          "he": "הַשִּׂמְלָה צְהֻבָּה.",
+          "translit": "ha-simla tsehuva.",
+          "en": "The dress is yellow."
+        },
+        {
+          "he": "הַחֲתוּלָה לְבָנָה.",
+          "translit": "ha-chatula levana.",
+          "en": "The cat is white."
+        },
+        {
+          "he": "הַמַּחְבֶּרֶת שְׁחֹרָה.",
+          "translit": "ha-machberet shechora.",
+          "en": "The notebook is black."
+        },
+        {
+          "he": "הָעוּגָה חוּמָה.",
+          "translit": "ha'uga chuma.",
+          "en": "The cake is brown."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Big, Small, Good, New",
+      "titleNative": "גָּדוֹל, קָטָן, טוֹב, חָדָשׁ",
+      "items": [
+        {
+          "he": "הַכֶּלֶב גָּדוֹל.",
+          "translit": "ha-kelev gadol.",
+          "en": "The dog is big."
+        },
+        {
+          "he": "הַחֲתוּלָה קְטַנָּה.",
+          "translit": "ha-chatula ktana.",
+          "en": "The cat is small."
+        },
+        {
+          "he": "הַסְּפָרִים חֲדָשִׁים.",
+          "translit": "ha-sfarim chadashim.",
+          "en": "The books are new."
+        },
+        {
+          "he": "הַמְּכוֹנִיּוֹת יְשָׁנוֹת.",
+          "translit": "ha-mechoniyot yeshanot.",
+          "en": "The cars are old."
+        },
+        {
+          "he": "הַתַּפּוּחִים טוֹבִים.",
+          "translit": "ha-tapuchim tovim.",
+          "en": "The apples are good."
+        },
+        {
+          "he": "הַיְּלָדוֹת קְטַנּוֹת.",
+          "translit": "ha-yeladot ktanot.",
+          "en": "The girls are small."
+        },
+        {
+          "he": "הַבַּיִת חָדָשׁ.",
+          "translit": "ha-bayit chadash.",
+          "en": "The house is new."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "The Colorful Store",
+      "titleNative": "הַחֲנוּת הַצִּבְעוֹנִית",
+      "context": "A short description of a small store and the colorful things inside it.",
+      "paragraphs": [
+        {
+          "he": "הַחֲנוּת גְּדוֹלָה וְצִבְעוֹנִית.",
+          "en": "The store is big and colorful."
+        },
+        {
+          "he": "הַתַּפּוּחִים אֲדֻמִּים וְהַבַּנָנוֹת צְהֻבּוֹת.",
+          "en": "The apples are red and the bananas are yellow."
+        },
+        {
+          "he": "הַתִּיקִים בַּחֲנוּת קְטַנִּים, כְּחֻלִּים אוֹ יְרֻקִּים.",
+          "en": "The bags in the store are small, blue or green."
+        }
+      ],
+      "questions": [
+        {
+          "question": "How is the store described?",
+          "options": [
+            "Big and colorful",
+            "Small and white",
+            "Old and black",
+            "New and red"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "What color are the bananas?",
+          "options": [
+            "White",
+            "Red",
+            "Yellow",
+            "Blue"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "question": "What are the bags in the store like?",
+          "options": [
+            "Big and red",
+            "Small, blue or green",
+            "Old and white",
+            "New and black"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Basic Body Parts",
+      "titleNative": "חֶלְקֵי הַגּוּף",
+      "items": [
+        {
+          "he": "זֶה הָרֹאשׁ.",
+          "translit": "Zeh ha-rosh.",
+          "en": "This is the head."
+        },
+        {
+          "he": "זֹאת הַיָּד.",
+          "translit": "Zot ha-yad.",
+          "en": "This is the hand."
+        },
+        {
+          "he": "זֹאת הָרֶגֶל.",
+          "translit": "Zot ha-regel.",
+          "en": "This is the leg."
+        },
+        {
+          "he": "זֶה הַפֶּה.",
+          "translit": "Zeh ha-peh.",
+          "en": "This is the mouth."
+        },
+        {
+          "he": "זֶה הָאַף.",
+          "translit": "Zeh ha-af.",
+          "en": "This is the nose."
+        },
+        {
+          "he": "זֹאת הָעַיִן.",
+          "translit": "Zot ha-ayin.",
+          "en": "This is the eye."
+        },
+        {
+          "he": "זֹאת הָאֹזֶן.",
+          "translit": "Zot ha-ozen.",
+          "en": "This is the ear."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "title": "My Body, Your Body",
+      "titleNative": "הַגּוּף שֶׁלִּי וְשֶׁלְּךָ",
+      "items": [
+        {
+          "he": "הַיָּד שֶׁלִּי גְּדוֹלָה.",
+          "translit": "Ha-yad sheli gdola.",
+          "en": "My hand is big."
+        },
+        {
+          "he": "הָרֹאשׁ שֶׁלְּךָ קָטָן.",
+          "translit": "Ha-rosh shelcha katan.",
+          "en": "Your head is small. (to a man)"
+        },
+        {
+          "he": "הָעַיִן שֶׁלָּךְ יָפָה.",
+          "translit": "Ha-ayin shelach yafa.",
+          "en": "Your eye is pretty. (to a woman)"
+        },
+        {
+          "he": "הָרֶגֶל שֶׁלּוֹ אֲרֻכָּה.",
+          "translit": "Ha-regel shelo aruka.",
+          "en": "His leg is long."
+        },
+        {
+          "he": "הַיָּד שֶׁלָּהּ קְטַנָּה.",
+          "translit": "Ha-yad shela ktana.",
+          "en": "Her hand is small."
+        },
+        {
+          "he": "הָאַף שֶׁל הַיֶּלֶד קָטָן.",
+          "translit": "Ha-af shel ha-yeled katan.",
+          "en": "The boy's nose is small."
+        },
+        {
+          "he": "הַפֶּה שֶׁל הַיַּלְדָּה פָּתוּחַ.",
+          "translit": "Ha-peh shel ha-yalda patuach.",
+          "en": "The girl's mouth is open."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "title": "When It Hurts",
+      "titleNative": "כְּשֶׁכּוֹאֵב",
+      "items": [
+        {
+          "he": "הָרֹאשׁ כּוֹאֵב לִי.",
+          "translit": "Ha-rosh koev li.",
+          "en": "My head hurts."
+        },
+        {
+          "he": "הַבֶּטֶן כּוֹאֶבֶת לוֹ.",
+          "translit": "Ha-beten ko'evet lo.",
+          "en": "His stomach hurts."
+        },
+        {
+          "he": "הַיָּד כּוֹאֶבֶת לָהּ.",
+          "translit": "Ha-yad ko'evet lah.",
+          "en": "Her hand hurts."
+        },
+        {
+          "he": "הָרֶגֶל כּוֹאֶבֶת לְךָ.",
+          "translit": "Ha-regel ko'evet lecha.",
+          "en": "Your leg hurts. (to a man)"
+        },
+        {
+          "he": "הַגַּב כּוֹאֵב לָךְ.",
+          "translit": "Ha-gav koev lach.",
+          "en": "Your back hurts. (to a woman)"
+        },
+        {
+          "he": "הָאֹזֶן כּוֹאֶבֶת לִי.",
+          "translit": "Ha-ozen ko'evet li.",
+          "en": "My ear hurts."
+        },
+        {
+          "he": "הַשֵּׁן כּוֹאֶבֶת לוֹ.",
+          "translit": "Ha-shen ko'evet lo.",
+          "en": "His tooth hurts."
+        }
+      ],
+      "topicId": "a0-hurts-li"
+    },
+    {
+      "number": 28,
+      "title": "Dani Doesn't Feel Well",
+      "titleNative": "דָּנִי לֹא מַרְגִּישׁ טוֹב",
+      "context": "A short story about a boy who stays home because he doesn't feel well.",
+      "paragraphs": [
+        {
+          "he": "הַיּוֹם דָּנִי לֹא הוֹלֵךְ לְבֵית הַסֵּפֶר.",
+          "en": "Today Dani isn't going to school."
+        },
+        {
+          "he": "הָרֹאשׁ כּוֹאֵב לוֹ וְגַם הַבֶּטֶן כּוֹאֶבֶת לוֹ.",
+          "en": "His head hurts, and his stomach hurts too."
+        },
+        {
+          "he": "אִמָּא שֶׁל דָּנִי אוֹמֶרֶת: \"אַתָּה צָרִיךְ לָנוּחַ הַיּוֹם.\"",
+          "en": "Dani's mother says: \"You need to rest today.\""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Why isn't Dani going to school today?",
+          "options": [
+            "He is on vacation.",
+            "His head and stomach hurt.",
+            "He is visiting his grandmother.",
+            "There is no school today."
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "Who speaks to Dani in the story?",
+          "options": [
+            "His teacher",
+            "His friend",
+            "His mother",
+            "The doctor"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "question": "What does Dani's mother tell him to do?",
+          "options": [
+            "Go to school anyway",
+            "Eat breakfast",
+            "Rest today",
+            "Call the doctor"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "title": "What Is This? Food Words",
+      "titleNative": "מָה זֶה? מִלִּים שֶׁל אֹכֶל",
+      "items": [
+        {
+          "he": "זֶה לֶחֶם.",
+          "en": "This is bread.",
+          "translit": "Zeh lechem."
+        },
+        {
+          "he": "זֹאת בֵּיצָה.",
+          "en": "This is an egg.",
+          "translit": "Zot beitzah."
+        },
+        {
+          "he": "זֶה חָלָב.",
+          "en": "This is milk.",
+          "translit": "Zeh chalav."
+        },
+        {
+          "he": "זֹאת עוּגָה.",
+          "en": "This is a cake.",
+          "translit": "Zot ugah."
+        },
+        {
+          "he": "זֶה קָפֶה.",
+          "en": "This is coffee.",
+          "translit": "Zeh kafeh."
+        },
+        {
+          "he": "זֹאת גְּבִינָה.",
+          "en": "This is cheese.",
+          "translit": "Zot gvinah."
+        },
+        {
+          "he": "זֶה תֵּה.",
+          "en": "This is tea.",
+          "translit": "Zeh teh."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "title": "I Like / I Don't Like",
+      "titleNative": "אֲנִי אוֹהֵב / אֲנִי אוֹהֶבֶת",
+      "items": [
+        {
+          "he": "אֲנִי אוֹהֵב תַּפּוּחִים.",
+          "en": "I like apples.",
+          "translit": "Ani ohev tapuchim."
+        },
+        {
+          "he": "אֲנִי אוֹהֶבֶת שׁוֹקוֹלָד.",
+          "en": "I like chocolate.",
+          "translit": "Ani ohevet shokolad."
+        },
+        {
+          "he": "אַתָּה אוֹהֵב פִּיצָה?",
+          "en": "Do you (m) like pizza?",
+          "translit": "Atah ohev pitzah?"
+        },
+        {
+          "he": "אַתְּ אוֹהֶבֶת גְּלִידָה?",
+          "en": "Do you (f) like ice cream?",
+          "translit": "At ohevet glidah?"
+        },
+        {
+          "he": "הוּא אוֹהֵב דָּגִים.",
+          "en": "He likes fish.",
+          "translit": "Hu ohev dagim."
+        },
+        {
+          "he": "הִיא לֹא אוֹהֶבֶת בָּשָׂר.",
+          "en": "She doesn't like meat.",
+          "translit": "Hi lo ohevet basar."
+        },
+        {
+          "he": "אֲנַחְנוּ אוֹהֲבִים עוּגוֹת.",
+          "en": "We like cakes.",
+          "translit": "Anachnu ohavim ugot."
+        }
+      ],
+      "topicId": "a0-verb-gender-agreement"
+    },
+    {
+      "number": 31,
+      "title": "Hungry, Thirsty & I Want",
+      "titleNative": "רָעֵב, צָמֵא וְרוֹצֶה",
+      "items": [
+        {
+          "he": "אֲנִי רָעֵב.",
+          "en": "I'm hungry. (m)",
+          "translit": "Ani ra'ev."
+        },
+        {
+          "he": "אֲנִי רְעֵבָה.",
+          "en": "I'm hungry. (f)",
+          "translit": "Ani re'evah."
+        },
+        {
+          "he": "אַתָּה צָמֵא?",
+          "en": "Are you (m) thirsty?",
+          "translit": "Atah tzame?"
+        },
+        {
+          "he": "אֲנִי רוֹצֶה מַיִם, בְּבַקָּשָׁה.",
+          "en": "I want water, please.",
+          "translit": "Ani rotzeh mayim, bevakashah."
+        },
+        {
+          "he": "הִיא רוֹצָה עוּגָה.",
+          "en": "She wants cake.",
+          "translit": "Hi rotzah ugah."
+        },
+        {
+          "he": "הוּא רוֹצֶה קָפֶה חַם.",
+          "en": "He wants hot coffee.",
+          "translit": "Hu rotzeh kafeh cham."
+        },
+        {
+          "he": "אֲנַחְנוּ רְעֵבִים.",
+          "en": "We are hungry.",
+          "translit": "Anachnu re'evim."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "title": "Dana and Yosi Are Hungry",
+      "titleNative": "דָּנָה וְיוֹסִי רְעֵבִים",
+      "context": "A short story about two friends deciding what to eat.",
+      "paragraphs": [
+        {
+          "he": "דָּנָה וְיוֹסִי רְעֵבִים.",
+          "en": "Dana and Yosi are hungry."
+        },
+        {
+          "he": "דָּנָה רוֹצָה סָלָט, וְיוֹסִי רוֹצֶה מָרָק חַם.",
+          "en": "Dana wants salad, and Yosi wants hot soup."
+        },
+        {
+          "he": "הֵם גַּם אוֹהֲבִים לֶחֶם טָרִי.",
+          "en": "They also like fresh bread."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What does Dana want to eat?",
+          "options": [
+            "Cake",
+            "Salad",
+            "Fish",
+            "Soup"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "What does Yosi want?",
+          "options": [
+            "Hot soup",
+            "Bread",
+            "Cold water",
+            "Cheese"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "What do they both like?",
+          "options": [
+            "Ice cream",
+            "Rice",
+            "Fresh bread",
+            "Hot coffee"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "title": "This Is...",
+      "titleNative": "זֶה וְזֹאת",
+      "items": [
+        {
+          "he": "זֶה שֻׁלְחָן.",
+          "en": "This is a table.",
+          "translit": "Zeh shulchan."
+        },
+        {
+          "he": "זֹאת כּוֹס.",
+          "en": "This is a cup.",
+          "translit": "Zot kos."
+        },
+        {
+          "he": "זֶה סֵפֶר.",
+          "en": "This is a book.",
+          "translit": "Zeh sefer."
+        },
+        {
+          "he": "זֹאת דֶּלֶת.",
+          "en": "This is a door.",
+          "translit": "Zot delet."
+        },
+        {
+          "he": "זֶה כִּסֵּא.",
+          "en": "This is a chair.",
+          "translit": "Zeh kisse."
+        },
+        {
+          "he": "זֹאת מַחְבֶּרֶת.",
+          "en": "This is a notebook.",
+          "translit": "Zot machberet."
+        },
+        {
+          "he": "מָה זֶה?",
+          "en": "What is this?",
+          "translit": "Ma zeh?"
+        }
+      ],
+      "topicId": "a0-demonstratives-here-there"
+    },
+    {
+      "number": 34,
+      "title": "Here and There",
+      "titleNative": "כָּאן וְשָׁם",
+      "items": [
+        {
+          "he": "הַסֵּפֶר כָּאן.",
+          "en": "The book is here.",
+          "translit": "Ha-sefer kan."
+        },
+        {
+          "he": "הַכּוֹס שָׁם.",
+          "en": "The cup is there.",
+          "translit": "Ha-kos sham."
+        },
+        {
+          "he": "אֵיפֹה הַתִּיק?",
+          "en": "Where is the bag?",
+          "translit": "Eifo ha-tik?"
+        },
+        {
+          "he": "הוּא כָּאן.",
+          "en": "It is here.",
+          "translit": "Hu kan."
+        },
+        {
+          "he": "אֵיפֹה הַדֶּלֶת?",
+          "en": "Where is the door?",
+          "translit": "Eifo ha-delet?"
+        },
+        {
+          "he": "הִיא שָׁם.",
+          "en": "It is there.",
+          "translit": "Hi sham."
+        },
+        {
+          "he": "הַמַּפְתֵּחַ לֹא כָּאן.",
+          "en": "The key is not here.",
+          "translit": "Ha-mafteach lo kan."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "title": "This One, That One",
+      "titleNative": "הַזֶּה וְהַהוּא",
+      "items": [
+        {
+          "he": "הַסֵּפֶר הַזֶּה כָּאן.",
+          "en": "This book is here.",
+          "translit": "Ha-sefer ha-zeh kan."
+        },
+        {
+          "he": "הַסֵּפֶר הַהוּא שָׁם.",
+          "en": "That book is there.",
+          "translit": "Ha-sefer ha-hu sham."
+        },
+        {
+          "he": "הַכּוֹס הַזֹּאת כָּאן.",
+          "en": "This cup is here.",
+          "translit": "Ha-kos ha-zot kan."
+        },
+        {
+          "he": "הַכּוֹס הַהִיא שָׁם.",
+          "en": "That cup is there.",
+          "translit": "Ha-kos ha-hi sham."
+        },
+        {
+          "he": "הַחַלּוֹן הַזֶּה כָּאן.",
+          "en": "This window is here.",
+          "translit": "Ha-chalon ha-zeh kan."
+        },
+        {
+          "he": "הַמַּחְבֶּרֶת הַהִיא שָׁם.",
+          "en": "That notebook is there.",
+          "translit": "Ha-machberet ha-hi sham."
+        },
+        {
+          "he": "הַשָּׁעוֹן הַזֶּה כָּאן.",
+          "en": "This watch is here.",
+          "translit": "Ha-shaon ha-zeh kan."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "title": "On the Table",
+      "titleNative": "עַל הַשֻּׁלְחָן",
+      "context": "A quick look at where a few everyday objects are in the room.",
+      "paragraphs": [
+        {
+          "he": "הַסֵּפֶר הַזֶּה עַל הַשֻּׁלְחָן.",
+          "en": "This book is on the table."
+        },
+        {
+          "he": "הַכּוֹס הַזֹּאת עַל הַכִּסֵּא.",
+          "en": "This cup is on the chair."
+        },
+        {
+          "he": "הַתִּיק לֹא כָּאן, הוּא שָׁם.",
+          "en": "The bag is not here, it is there."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Where is the book?",
+          "options": [
+            "On the table.",
+            "On the chair.",
+            "In the bag.",
+            "Under the door."
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "Where is the cup?",
+          "options": [
+            "On the table.",
+            "On the chair.",
+            "On the bed.",
+            "In the room."
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "Where is the bag?",
+          "options": [
+            "Here.",
+            "There.",
+            "On the table.",
+            "On the chair."
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "title": "Yes or No?",
+      "titleNative": "כֵּן אוֹ לֹא?",
+      "items": [
+        {
+          "he": "הַאִם אַתָּה עָיֵף?",
+          "en": "Are you tired?",
+          "translit": "ha'im atah ayef?"
+        },
+        {
+          "he": "הַאִם אַתְּ רְעֵבָה?",
+          "en": "Are you hungry?",
+          "translit": "ha'im at re'evah?"
+        },
+        {
+          "he": "הַאִם הוּא מוֹרֶה?",
+          "en": "Is he a teacher?",
+          "translit": "ha'im hu moreh?"
+        },
+        {
+          "he": "הַאִם הִיא תַּלְמִידָה?",
+          "en": "Is she a student?",
+          "translit": "ha'im hi talmidah?"
+        },
+        {
+          "he": "הַאִם זֶה כֶּלֶב?",
+          "en": "Is this a dog?",
+          "translit": "ha'im zeh kelev?"
+        },
+        {
+          "he": "הַאִם יֵשׁ לְךָ סֵפֶר?",
+          "en": "Do you have a book?",
+          "translit": "ha'im yesh lecha sefer?"
+        },
+        {
+          "he": "הַאִם אַתֶּם צְמֵאִים?",
+          "en": "Are you all thirsty?",
+          "translit": "ha'im atem tzme'im?"
+        }
+      ],
+      "topicId": "a0-questions"
+    },
+    {
+      "number": 38,
+      "title": "What and Who",
+      "titleNative": "מָה וּמִי",
+      "items": [
+        {
+          "he": "מָה זֶה?",
+          "en": "What is this?",
+          "translit": "mah zeh?"
+        },
+        {
+          "he": "מָה זֹאת?",
+          "en": "What is that?",
+          "translit": "mah zot?"
+        },
+        {
+          "he": "מִי אַתָּה?",
+          "en": "Who are you? (to a man)",
+          "translit": "mi atah?"
+        },
+        {
+          "he": "מִי אַתְּ?",
+          "en": "Who are you? (to a woman)",
+          "translit": "mi at?"
+        },
+        {
+          "he": "מָה הַשֵּׁם שֶׁלְּךָ?",
+          "en": "What's your name? (to a man)",
+          "translit": "mah hashem shelcha?"
+        },
+        {
+          "he": "מָה הַשֵּׁם שֶׁלָּךְ?",
+          "en": "What's your name? (to a woman)",
+          "translit": "mah hashem shelach?"
+        },
+        {
+          "he": "מִי הַיֶּלֶד הַזֶּה?",
+          "en": "Who is this boy?",
+          "translit": "mi hayeled hazeh?"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "title": "Where Is It?",
+      "titleNative": "אֵיפֹה זֶה?",
+      "items": [
+        {
+          "he": "אֵיפֹה אַתָּה?",
+          "en": "Where are you? (to a man)",
+          "translit": "eifoh atah?"
+        },
+        {
+          "he": "אֵיפֹה אַתְּ?",
+          "en": "Where are you? (to a woman)",
+          "translit": "eifoh at?"
+        },
+        {
+          "he": "אֵיפֹה הַבַּיִת שֶׁלָּנוּ?",
+          "en": "Where is our house?",
+          "translit": "eifoh habayit shelanu?"
+        },
+        {
+          "he": "אֵיפֹה הַסֵּפֶר שֶׁלִּי?",
+          "en": "Where is my book?",
+          "translit": "eifoh hasefer sheli?"
+        },
+        {
+          "he": "אֵיפֹה אַבָּא?",
+          "en": "Where is Dad?",
+          "translit": "eifoh aba?"
+        },
+        {
+          "he": "אֵיפֹה הַמּוֹרָה?",
+          "en": "Where is the teacher?",
+          "translit": "eifoh hamorah?"
+        },
+        {
+          "he": "אֵיפֹה הַיְלָדִים?",
+          "en": "Where are the children?",
+          "translit": "eifoh hayeladim?"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "title": "A New Friend at School",
+      "titleNative": "חָבֵר חָדָשׁ בְּבֵית הַסֵּפֶר",
+      "context": "Noa meets a new boy at school and asks him a few simple questions.",
+      "paragraphs": [
+        {
+          "he": "נֹעָה רוֹאָה יֶלֶד חָדָשׁ בְּבֵית הַסֵּפֶר.",
+          "en": "Noa sees a new boy at school."
+        },
+        {
+          "he": "הִיא שׁוֹאֶלֶת: \"מָה הַשֵּׁם שֶׁלְּךָ, וּמֵאֵיפֹה אַתָּה?\"",
+          "en": "She asks: \"What's your name, and where are you from?\""
+        },
+        {
+          "he": "הַיֶּלֶד עוֹנֶה: \"שְׁמִי דָּוִד, וַאֲנִי מֵחֵיפָה.\"",
+          "en": "The boy answers: \"My name is David, and I'm from Haifa.\""
+        }
+      ],
+      "questions": [
+        {
+          "question": "Who does Noa see at school?",
+          "options": [
+            "A new boy",
+            "A new girl",
+            "Her teacher",
+            "A dog"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "What does Noa ask the boy?",
+          "options": [
+            "His name and where he is from",
+            "How old he is",
+            "If he has a book",
+            "Where the teacher is"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "Where is David from?",
+          "options": [
+            "Tel Aviv",
+            "Jerusalem",
+            "Haifa",
+            "The school"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "title": "I, You... (Singular Pronouns)",
+      "titleNative": "אֲנִי, אַתָּה, אַתְּ...",
+      "items": [
+        {
+          "he": "אֲנִי מוֹרֶה.",
+          "en": "I am a teacher.",
+          "translit": "ani moreh"
+        },
+        {
+          "he": "אַתָּה עָיֵף.",
+          "en": "You (m.) are tired.",
+          "translit": "atah ayef"
+        },
+        {
+          "he": "אַתְּ יָפָה.",
+          "en": "You (f.) are pretty.",
+          "translit": "at yafa"
+        },
+        {
+          "he": "הוּא רָעֵב.",
+          "en": "He is hungry.",
+          "translit": "hu ra'ev"
+        },
+        {
+          "he": "הִיא שְׂמֵחָה.",
+          "en": "She is happy.",
+          "translit": "hi smecha"
+        },
+        {
+          "he": "אֲנִי תַּלְמִידָה.",
+          "en": "I am a student (f.).",
+          "translit": "ani talmida"
+        },
+        {
+          "he": "אַתָּה חָכָם.",
+          "en": "You (m.) are smart.",
+          "translit": "atah chacham"
+        }
+      ],
+      "topicId": "a0-pronoun-to-be"
+    },
+    {
+      "number": 42,
+      "title": "We, You All, They (Plural Pronouns)",
+      "titleNative": "אֲנַחְנוּ, אַתֶּם, הֵם...",
+      "items": [
+        {
+          "he": "אֲנַחְנוּ חֲבֵרִים.",
+          "en": "We are friends.",
+          "translit": "anachnu chaverim"
+        },
+        {
+          "he": "אַתֶּם עֲסוּקִים.",
+          "en": "You (m.pl.) are busy.",
+          "translit": "atem asukim"
+        },
+        {
+          "he": "אַתֶּן טוֹבוֹת.",
+          "en": "You (f.pl.) are good.",
+          "translit": "aten tovot"
+        },
+        {
+          "he": "הֵם גְּדוֹלִים.",
+          "en": "They (m.) are big.",
+          "translit": "hem gdolim"
+        },
+        {
+          "he": "הֵן קְטַנּוֹת.",
+          "en": "They (f.) are small.",
+          "translit": "hen ktanot"
+        },
+        {
+          "he": "אֲנַחְנוּ רְעֵבִים.",
+          "en": "We are hungry.",
+          "translit": "anachnu re'evim"
+        },
+        {
+          "he": "הֵם מוֹרִים.",
+          "en": "They (m.) are teachers.",
+          "translit": "hem morim"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "title": "Not... and Who...? (Negation & Questions)",
+      "titleNative": "לֹא... וּמִי...?",
+      "items": [
+        {
+          "he": "אֲנִי לֹא עָיֵף.",
+          "en": "I am not tired.",
+          "translit": "ani lo ayef"
+        },
+        {
+          "he": "הִיא לֹא פֹּה.",
+          "en": "She is not here.",
+          "translit": "hi lo po"
+        },
+        {
+          "he": "מִי אַתָּה?",
+          "en": "Who are you (m.)?",
+          "translit": "mi atah"
+        },
+        {
+          "he": "אֵיפֹה אַתְּ?",
+          "en": "Where are you (f.)?",
+          "translit": "eifo at"
+        },
+        {
+          "he": "אֲנַחְנוּ לֹא עֲסוּקִים.",
+          "en": "We are not busy.",
+          "translit": "anachnu lo asukim"
+        },
+        {
+          "he": "הוּא לֹא גָּדוֹל.",
+          "en": "He is not tall.",
+          "translit": "hu lo gadol"
+        },
+        {
+          "he": "מִי הֵם?",
+          "en": "Who are they?",
+          "translit": "mi hem"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "title": "Two Friends",
+      "titleNative": "שְׁנֵי חֲבֵרִים",
+      "context": "A short introduction to two friends, Shlomit and David.",
+      "paragraphs": [
+        {
+          "he": "שְׁלוֹמִית הִיא מוֹרָה, וְדָוִיד הוּא תַּלְמִיד.",
+          "en": "Shlomit is a teacher, and David is a student."
+        },
+        {
+          "he": "הֵם חֲבֵרִים טוֹבִים, וְהֵם לֹא עֲסוּקִים הַיּוֹם.",
+          "en": "They are good friends, and they are not busy today."
+        },
+        {
+          "he": "\"אֲנִי שְׂמֵחָה,\" אוֹמֶרֶת שְׁלוֹמִית, \"כִּי אַתָּה חָכָם וְנֶחְמָד.\"",
+          "en": "\"I am happy,\" says Shlomit, \"because you are smart and nice.\""
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is Shlomit's job?",
+          "options": [
+            "Teacher",
+            "Doctor",
+            "Student",
+            "Friend"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "Are David and Shlomit busy today?",
+          "options": [
+            "Yes, they are very busy",
+            "No, they are not busy",
+            "Only David is busy",
+            "Only Shlomit is busy"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "Why does Shlomit say she is happy?",
+          "options": [
+            "Because David is a teacher",
+            "Because David is smart and nice",
+            "Because she is a student",
+            "Because they are not friends"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "title": "Going and Eating",
+      "titleNative": "הוֹלְכִים וְאוֹכְלִים",
+      "items": [
+        {
+          "he": "אֲנִי הוֹלֵךְ הַבַּיְתָה.",
+          "en": "I'm going home.",
+          "translit": "ani holech habaita"
+        },
+        {
+          "he": "הִיא הוֹלֶכֶת לְבֵית הַסֵּפֶר.",
+          "en": "She is going to school.",
+          "translit": "hi holechet le'veit hasefer"
+        },
+        {
+          "he": "הוּא אוֹכֵל תַּפּוּחַ.",
+          "en": "He is eating an apple.",
+          "translit": "hu ochel tapuach"
+        },
+        {
+          "he": "אֲנִי אוֹכֶלֶת אֲרוּחַת בֹּקֶר.",
+          "en": "I'm eating breakfast.",
+          "translit": "ani ochelet aruchat boker"
+        },
+        {
+          "he": "אַתָּה הוֹלֵךְ לָעֲבוֹדָה?",
+          "en": "Are you going to work?",
+          "translit": "ata holech la'avoda?"
+        },
+        {
+          "he": "אַתְּ אוֹכֶלֶת עוּגָה?",
+          "en": "Are you eating cake?",
+          "translit": "at ochelet uga?"
+        },
+        {
+          "he": "הוּא לֹא הוֹלֵךְ הַיּוֹם.",
+          "en": "He isn't going today.",
+          "translit": "hu lo holech hayom"
+        }
+      ],
+      "topicId": "a0-present-tense-verbs"
+    },
+    {
+      "number": 46,
+      "title": "Drinking and Living",
+      "titleNative": "שׁוֹתִים וְגָרִים",
+      "items": [
+        {
+          "he": "אֲנַחְנוּ שׁוֹתִים מַיִם.",
+          "en": "We're drinking water.",
+          "translit": "anachnu shotim mayim"
+        },
+        {
+          "he": "הִיא שׁוֹתָה קָפֶה בַּבֹּקֶר.",
+          "en": "She drinks coffee in the morning.",
+          "translit": "hi shota kafe baboker"
+        },
+        {
+          "he": "אֲנִי גָּר בְּתֵל אָבִיב.",
+          "en": "I live in Tel Aviv.",
+          "translit": "ani gar be'tel aviv"
+        },
+        {
+          "he": "הִיא גָּרָה בִּירוּשָׁלַיִם.",
+          "en": "She lives in Jerusalem.",
+          "translit": "hi gara birushalayim"
+        },
+        {
+          "he": "אַתֶּם שׁוֹתִים תֵּה?",
+          "en": "Are you all drinking tea?",
+          "translit": "atem shotim te?"
+        },
+        {
+          "he": "אֲנַחְנוּ גָּרִים בְּיִשְׂרָאֵל.",
+          "en": "We live in Israel.",
+          "translit": "anachnu garim be'yisrael"
+        },
+        {
+          "he": "הוּא שׁוֹתֶה מִיץ תַּפּוּזִים.",
+          "en": "He is drinking orange juice.",
+          "translit": "hu shote mitz tapuzim"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "title": "Studying Every Day",
+      "titleNative": "לוֹמְדִים כָּל יוֹם",
+      "items": [
+        {
+          "he": "אֲנִי לוֹמֵד עִבְרִית.",
+          "en": "I'm studying Hebrew.",
+          "translit": "ani lomed ivrit"
+        },
+        {
+          "he": "הִיא לוֹמֶדֶת בְּאוּנִיבֶרְסִיטָה.",
+          "en": "She studies at a university.",
+          "translit": "hi lomedet be'universita"
+        },
+        {
+          "he": "הֵם לוֹמְדִים בְּבֵית הַסֵּפֶר.",
+          "en": "They study at school.",
+          "translit": "hem lomdim be'veit hasefer"
+        },
+        {
+          "he": "הֵן הוֹלְכוֹת לָעֲבוֹדָה בַּבֹּקֶר.",
+          "en": "They go to work in the morning.",
+          "translit": "hen holchot la'avoda baboker"
+        },
+        {
+          "he": "אֲנַחְנוּ אוֹכְלִים אֲרוּחַת עֶרֶב.",
+          "en": "We're eating dinner.",
+          "translit": "anachnu ochlim aruchat erev"
+        },
+        {
+          "he": "הַיְלָדִים שׁוֹתִים חָלָב.",
+          "en": "The children are drinking milk.",
+          "translit": "hayeladim shotim chalav"
+        },
+        {
+          "he": "אַתֶּן לוֹמְדוֹת עִבְרִית?",
+          "en": "Are you all studying Hebrew?",
+          "translit": "aten lomdot ivrit?"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "title": "Dana's Day",
+      "titleNative": "הַיּוֹם שֶׁל דָּנָה",
+      "context": "A short passage about Dana's daily routine — where she lives, what she studies, and what she does in the morning.",
+      "paragraphs": [
+        {
+          "he": "דָּנָה גָּרָה בְּחֵיפָה וְלוֹמֶדֶת בְּאוּנִיבֶרְסִיטָה.",
+          "en": "Dana lives in Haifa and studies at a university."
+        },
+        {
+          "he": "בַּבֹּקֶר הִיא שׁוֹתָה קָפֶה וְאוֹכֶלֶת לֶחֶם.",
+          "en": "In the morning she drinks coffee and eats bread."
+        },
+        {
+          "he": "אַחַר כָּךְ הִיא הוֹלֶכֶת לְשִׁעוּרִים בְּאוֹטוֹבּוּס.",
+          "en": "Afterward, she goes to class by bus."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Where does Dana live?",
+          "options": [
+            "Tel Aviv",
+            "Jerusalem",
+            "Haifa",
+            "Eilat"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "question": "What does Dana drink in the morning?",
+          "options": [
+            "Tea",
+            "Coffee",
+            "Orange juice",
+            "Water"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "How does Dana get to class?",
+          "options": [
+            "By car",
+            "On foot",
+            "By bus",
+            "By train"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "title": "Rooms in the House",
+      "titleNative": "חֲדָרִים בַּבַּיִת",
+      "items": [
+        {
+          "he": "זֶה הַבַּיִת שֶׁלִּי.",
+          "translit": "Zeh ha-bayit sheli.",
+          "en": "This is my house."
+        },
+        {
+          "he": "זֶה הַחֶדֶר שֶׁלְּךָ.",
+          "translit": "Zeh ha-cheder shelcha.",
+          "en": "This is your room."
+        },
+        {
+          "he": "זֹאת הַמִּרְפֶּסֶת שֶׁלָּהּ.",
+          "translit": "Zot ha-mirpeset shelah.",
+          "en": "This is her balcony."
+        },
+        {
+          "he": "זֶה הַסָּלוֹן שֶׁלָּנוּ.",
+          "translit": "Zeh ha-salon shelanu.",
+          "en": "This is our living room."
+        },
+        {
+          "he": "זֹאת הַגִּנָּה שֶׁל הַיְלָדִים.",
+          "translit": "Zot ha-ginah shel ha-yeladim.",
+          "en": "This is the children's garden."
+        },
+        {
+          "he": "זֶה חֲדַר הַשֵּׁנָה שֶׁל אִמָּא.",
+          "translit": "Zeh chadar ha-sheinah shel ima.",
+          "en": "This is mom's bedroom."
+        },
+        {
+          "he": "זֹאת הָאַמְבַּטְיָה שֶׁלָּכֶם.",
+          "translit": "Zot ha-ambatia shelachem.",
+          "en": "This is your bathroom."
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "title": "What's in Each Room",
+      "titleNative": "מַה יֵּשׁ בְּכָל חֶדֶר",
+      "items": [
+        {
+          "he": "יֵשׁ שֻׁלְחָן בַּמִּטְבָּח.",
+          "translit": "Yesh shulchan ba-mitbach.",
+          "en": "There is a table in the kitchen."
+        },
+        {
+          "he": "יֵשׁ מִיטָה בַּחֶדֶר שֶׁלִּי.",
+          "translit": "Yesh mitah ba-cheder sheli.",
+          "en": "There is a bed in my room."
+        },
+        {
+          "he": "יֵשׁ סַפָּה גְּדוֹלָה בַּסָּלוֹן.",
+          "translit": "Yesh sapah gedolah ba-salon.",
+          "en": "There is a big couch in the living room."
+        },
+        {
+          "he": "יֵשׁ מְקָרֵר חָדָשׁ בַּמִּטְבָּח.",
+          "translit": "Yesh mekarer chadash ba-mitbach.",
+          "en": "There is a new fridge in the kitchen."
+        },
+        {
+          "he": "אֵין כִּסֵּא בַּחֶדֶר.",
+          "translit": "Ein kise ba-cheder.",
+          "en": "There is no chair in the room."
+        },
+        {
+          "he": "יֵשׁ שְׁנֵי חַלּוֹנוֹת בַּסָּלוֹן.",
+          "translit": "Yesh shnei chalonot ba-salon.",
+          "en": "There are two windows in the living room."
+        },
+        {
+          "he": "יֵשׁ אָרוֹן גָּדוֹל בַּחֶדֶר שֶׁלָּנוּ.",
+          "translit": "Yesh aron gadol ba-cheder shelanu.",
+          "en": "There is a big closet in our room."
+        }
+      ],
+      "topicId": "a0-yesh-there-is"
+    },
+    {
+      "number": 51,
+      "title": "Where Are Things?",
+      "titleNative": "אֵיפֹה הַדְּבָרִים?",
+      "items": [
+        {
+          "he": "אֵיפֹה הֶחָתוּל?",
+          "translit": "Eifo ha-chatul?",
+          "en": "Where is the cat?"
+        },
+        {
+          "he": "הֶחָתוּל עַל הַסַּפָּה.",
+          "translit": "Ha-chatul al ha-sapah.",
+          "en": "The cat is on the couch."
+        },
+        {
+          "he": "הַכֶּלֶב מִתַּחַת לַשֻּׁלְחָן.",
+          "translit": "Ha-kelev mitachat la-shulchan.",
+          "en": "The dog is under the table."
+        },
+        {
+          "he": "הַתִּיק שֶׁלִּי לְיַד הַדֶּלֶת.",
+          "translit": "Ha-tik sheli leyad ha-delet.",
+          "en": "My bag is next to the door."
+        },
+        {
+          "he": "הַסֵּפֶר עַל הַמִּטָּה.",
+          "translit": "Ha-sefer al ha-mitah.",
+          "en": "The book is on the bed."
+        },
+        {
+          "he": "אֵיפֹה הַיְלָדִים? הֵם בַּחֶדֶר.",
+          "translit": "Eifo ha-yeladim? Hem ba-cheder.",
+          "en": "Where are the children? They are in the room."
+        },
+        {
+          "he": "אֲנַחְנוּ בַּמִּטְבָּח עַכְשָׁיו.",
+          "translit": "Anachnu ba-mitbach achshav.",
+          "en": "We are in the kitchen now."
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "title": "A Visit to Dana's House",
+      "titleNative": "בִּקּוּר בַּבַּיִת שֶׁל דָּנָה",
+      "context": "A short look inside Dana and Yosi's home and who is sleeping where.",
+      "paragraphs": [
+        {
+          "he": "זֶה הַבַּיִת שֶׁל דָּנָה וְשֶׁל יוֹסִי.",
+          "en": "This is the house of Dana and Yosi."
+        },
+        {
+          "he": "בַּבַּיִת יֵשׁ מִטְבָּח, סָלוֹן, וּשְׁנֵי חַדְרֵי שֵׁנָה.",
+          "en": "In the house there is a kitchen, a living room, and two bedrooms."
+        },
+        {
+          "he": "הַיֶּלֶד יָשֵׁן בַּחֶדֶר, וְהֶחָתוּל יָשֵׁן עַל הַסַּפָּה.",
+          "en": "The boy is sleeping in the room, and the cat is sleeping on the couch."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Whose house is described in the passage?",
+          "options": [
+            "Dana and Yosi's house",
+            "Only Yosi's house",
+            "The children's grandparents' house",
+            "A hotel"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "How many bedrooms are in the house?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "Where is the cat sleeping?",
+          "options": [
+            "On the bed",
+            "In the kitchen",
+            "On the couch",
+            "Under the table"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "title": "What's the Weather?",
+      "titleNative": "מֶה מֶזֶג הָאֲוִיר?",
+      "items": [
+        {
+          "he": "מֶה מֶזֶג הָאֲוִיר הַיּוֹם?",
+          "en": "What's the weather like today?",
+          "translit": "ma mezeg ha-avir ha-yom?"
+        },
+        {
+          "he": "הַיּוֹם חַם מְאֹד.",
+          "en": "It's very hot today.",
+          "translit": "ha-yom cham me'od."
+        },
+        {
+          "he": "עַכְשָׁיו קַר בַּחוּץ.",
+          "en": "It's cold outside now.",
+          "translit": "achshav kar ba-chutz."
+        },
+        {
+          "he": "מֶזֶג הָאֲוִיר נָעִים הַיּוֹם.",
+          "en": "The weather is nice today.",
+          "translit": "mezeg ha-avir na'im ha-yom."
+        },
+        {
+          "he": "הַשָּׁמַיִם כְּחֻלִּים הַיּוֹם.",
+          "en": "The sky is blue today.",
+          "translit": "ha-shamayim kchulim ha-yom."
+        },
+        {
+          "he": "בָּעֶרֶב קָרִיר.",
+          "en": "In the evening it's cool.",
+          "translit": "ba-erev karir."
+        },
+        {
+          "he": "אֲנִי אוֹהֶבֶת מֶזֶג אֲוִיר חַם.",
+          "en": "I like hot weather.",
+          "translit": "ani ohevet mezeg avir cham."
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "title": "The Four Seasons",
+      "titleNative": "אַרְבַּע הָעוֹנוֹת",
+      "items": [
+        {
+          "he": "יֵשׁ אַרְבַּע עוֹנוֹת בַּשָּׁנָה.",
+          "en": "There are four seasons in the year.",
+          "translit": "yesh arba onot ba-shana."
+        },
+        {
+          "he": "הַקַּיִץ חַם וְיָבֵשׁ.",
+          "en": "Summer is hot and dry.",
+          "translit": "ha-kayitz cham ve-yavesh."
+        },
+        {
+          "he": "הַחֹרֶף קַר וְגָשׁוּם.",
+          "en": "Winter is cold and rainy.",
+          "translit": "ha-choref kar ve-gashum."
+        },
+        {
+          "he": "אֲנִי אוֹהֵב אֶת הָאָבִיב.",
+          "en": "I like spring.",
+          "translit": "ani ohev et ha-aviv."
+        },
+        {
+          "he": "הִיא אוֹהֶבֶת אֶת הַסְּתָיו.",
+          "en": "She likes autumn.",
+          "translit": "hi ohevet et ha-stav."
+        },
+        {
+          "he": "הָעוֹנָה הָאֲהוּבָה עָלַי הִיא הַקַּיִץ.",
+          "en": "My favorite season is summer.",
+          "translit": "ha-ona ha-ahuva alai hi ha-kayitz."
+        },
+        {
+          "he": "בָּאָבִיב יֵשׁ פְּרָחִים רַבִּים.",
+          "en": "In spring there are many flowers.",
+          "translit": "ba-aviv yesh prachim rabim."
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "title": "Rain, Sun, and Wind",
+      "titleNative": "גֶּשֶׁם, שֶׁמֶשׁ וְרוּחַ",
+      "items": [
+        {
+          "he": "הַיּוֹם יוֹרֵד גֶּשֶׁם.",
+          "en": "It's raining today.",
+          "translit": "ha-yom yored geshem."
+        },
+        {
+          "he": "יֵשׁ שֶׁמֶשׁ בַּשָּׁמַיִם.",
+          "en": "There is sun in the sky.",
+          "translit": "yesh shemesh ba-shamayim."
+        },
+        {
+          "he": "בַּחֹרֶף יוֹרֵד שֶׁלֶג בֶּהָרִים.",
+          "en": "In winter, snow falls in the mountains.",
+          "translit": "ba-choref yored sheleg be-harim."
+        },
+        {
+          "he": "הָרוּחַ חֲזָקָה הַיּוֹם.",
+          "en": "The wind is strong today.",
+          "translit": "ha-ru'ach chazaka ha-yom."
+        },
+        {
+          "he": "קַר לִי מְאֹד עַכְשָׁיו.",
+          "en": "I'm very cold now.",
+          "translit": "kar li me'od achshav."
+        },
+        {
+          "he": "חַם לוֹ בַּשֶּׁמֶשׁ.",
+          "en": "He's hot in the sun.",
+          "translit": "cham lo ba-shemesh."
+        },
+        {
+          "he": "נָעִים לָנוּ בַּצֵּל.",
+          "en": "We're comfortable in the shade.",
+          "translit": "na'im lanu ba-tzel."
+        }
+      ],
+      "topicId": "a0-dative-feelings-weather"
+    },
+    {
+      "number": 56,
+      "title": "Dana's Favorite Season",
+      "titleNative": "הָעוֹנָה הָאֲהוּבָה עַל דָּנָה",
+      "context": "A short passage about what kind of weather Dana enjoys and why.",
+      "paragraphs": [
+        {
+          "he": "דָּנָה אוֹהֶבֶת אֶת הַחֹרֶף.",
+          "en": "Dana loves winter."
+        },
+        {
+          "he": "הִיא אוֹמֶרֶת: \"קַר לִי, אֲבָל זֶה נָעִים!\"",
+          "en": "She says: \"I'm cold, but it's nice!\""
+        },
+        {
+          "he": "בַּקַּיִץ חַם מְאֹד, וְדָנָה מַעֲדִיפָה אֶת הַגֶּשֶׁם וְאֶת הַשֶּׁלֶג.",
+          "en": "In summer it's very hot, and Dana prefers the rain and the snow."
+        }
+      ],
+      "questions": [
+        {
+          "question": "Which season does Dana love?",
+          "options": [
+            "Summer",
+            "Winter",
+            "Spring",
+            "Autumn"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "What does Dana say about how she feels in winter?",
+          "options": [
+            "She's cold, but she likes it",
+            "She's hot and dislikes it",
+            "She's cold and dislikes it",
+            "She's warm and comfortable"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "What does Dana prefer instead of summer heat?",
+          "options": [
+            "Wind and clouds",
+            "Rain and snow",
+            "Sun and flowers",
+            "Nothing about summer"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "title": "Turn Right or Left",
+      "titleNative": "יָמִינָה אוֹ שְׂמֹאלָה",
+      "items": [
+        {
+          "he": "פְּנֵה יָמִינָה עַכְשָׁו.",
+          "en": "Turn right now. (to a man)",
+          "translit": "p'neh yamina achshav"
+        },
+        {
+          "he": "פְּנִי שְׂמֹאלָה עַכְשָׁו.",
+          "en": "Turn left now. (to a woman)",
+          "translit": "p'ni smola achshav"
+        },
+        {
+          "he": "הַבַּיִת שֶׁלִּי מִיָּמִין.",
+          "en": "My house is on the right.",
+          "translit": "habayit sheli miyamin"
+        },
+        {
+          "he": "הַחֲנוּת שֶׁלָּנוּ מִשְּׂמֹאל.",
+          "en": "Our store is on the left.",
+          "translit": "hachanut shelanu missmol"
+        },
+        {
+          "he": "אֲנִי פּוֹנֶה יָמִינָה.",
+          "en": "I'm turning right. (male speaker)",
+          "translit": "ani poneh yamina"
+        },
+        {
+          "he": "הִיא פּוֹנָה שְׂמֹאלָה.",
+          "en": "She's turning left.",
+          "translit": "hi ponah smola"
+        },
+        {
+          "he": "אֲנַחְנוּ פּוֹנִים יָמִינָה עַכְשָׁו.",
+          "en": "We're turning right now.",
+          "translit": "anachnu ponim yamina achshav"
+        }
+      ],
+      "topicId": "a0-directional-heh"
+    },
+    {
+      "number": 58,
+      "title": "Near and Far",
+      "titleNative": "קָרוֹב וְרָחוֹק",
+      "items": [
+        {
+          "he": "הַבַּנְק קָרוֹב לְכָאן.",
+          "en": "The bank is near here.",
+          "translit": "habank karov le'chan"
+        },
+        {
+          "he": "הַתַּחֲנָה רְחוֹקָה מִכָּאן.",
+          "en": "The station is far from here.",
+          "translit": "hatachana rechoka mikan"
+        },
+        {
+          "he": "הַמִּסְעָדָה קְרוֹבָה לַבַּיִת שֶׁלִּי.",
+          "en": "The restaurant is near my house.",
+          "translit": "hamis'ada krova labayit sheli"
+        },
+        {
+          "he": "הַגַּן הַזֶּה רָחוֹק מְאוֹד.",
+          "en": "This park is very far.",
+          "translit": "hagan hazeh rachok me'od"
+        },
+        {
+          "he": "הַחֲנוּת לְיַד הַבַּיִת.",
+          "en": "The store is next to the house.",
+          "translit": "hachanut leyad habayit"
+        },
+        {
+          "he": "אֲנַחְנוּ קְרוֹבִים לַיָּם.",
+          "en": "We are close to the sea.",
+          "translit": "anachnu krovim layam"
+        },
+        {
+          "he": "הוּא רָחוֹק מְאוֹד מִפֹּה.",
+          "en": "He is very far from here.",
+          "translit": "hu rachok me'od mipo"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "title": "Straight Ahead",
+      "titleNative": "יָשָׁר קָדִימָה",
+      "items": [
+        {
+          "he": "לֵךְ יָשָׁר, בְּבַקָּשָׁה.",
+          "en": "Go straight, please. (to a man)",
+          "translit": "lech yashar, bevakasha"
+        },
+        {
+          "he": "לְכִי יָשָׁר עַד הַפִּנָּה.",
+          "en": "Go straight to the corner. (to a woman)",
+          "translit": "l'chi yashar ad hapina"
+        },
+        {
+          "he": "פְּנֵה שְׂמֹאלָה כָּאן.",
+          "en": "Turn left here. (to a man)",
+          "translit": "p'neh smola kan"
+        },
+        {
+          "he": "הַמִּשְׂרָד נִמְצָא שָׁם, לְיַד הַפִּנָּה.",
+          "en": "The office is there, next to the corner.",
+          "translit": "hamisrad nimtsa sham, leyad hapina"
+        },
+        {
+          "he": "הָרְחוֹב הַזֶּה יָשָׁר וְלֹא רָחוֹק.",
+          "en": "This street is straight and not far.",
+          "translit": "harechov hazeh yashar velo rachok"
+        },
+        {
+          "he": "סְלִיחָה, אֵיפֹה הַבַּנְק?",
+          "en": "Excuse me, where's the bank?",
+          "translit": "slicha, eifo habank"
+        },
+        {
+          "he": "הוּא כָּאן, יָשָׁר קָדִימָה.",
+          "en": "It's here, straight ahead.",
+          "translit": "hu kan, yashar kadima"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "title": "Looking for the Market",
+      "titleNative": "מְחַפֶּשֶׂת אֶת הַשּׁוּק",
+      "context": "Dana is walking in the city and asks a stranger for directions to the market.",
+      "paragraphs": [
+        {
+          "he": "דָּנָה מְחַפֶּשֶׂת אֶת הַשּׁוּק בָּעִיר.",
+          "en": "Dana is looking for the market in the city."
+        },
+        {
+          "he": "אִישׁ אוֹמֵר לָהּ: \"לְכִי יָשָׁר וּפְנִי יָמִינָה.\"",
+          "en": "A man tells her: \"Go straight and turn right.\""
+        },
+        {
+          "he": "הַשּׁוּק לֹא רָחוֹק, הוּא קָרוֹב לַפִּנָּה.",
+          "en": "The market is not far, it's near the corner."
+        }
+      ],
+      "questions": [
+        {
+          "question": "What is Dana looking for?",
+          "options": [
+            "The bank",
+            "The market",
+            "The station",
+            "The park"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "What directions does the man give Dana?",
+          "options": [
+            "Go straight and turn left",
+            "Turn right immediately",
+            "Go straight and turn right",
+            "Go back the way she came"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "question": "Where exactly is the market located?",
+          "options": [
+            "Far from the corner",
+            "Near the corner",
+            "Next to the bank",
+            "Inside the station"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "title": "Greetings & Introductions",
+      "titleNative": "בִּרְכוֹת שָׁלוֹם וְהַכָּרוּת",
+      "items": [
+        {
+          "he": "שָׁלוֹם, מָה שְׁלוֹמְךָ?",
+          "en": "Hello, how are you? (to a male)",
+          "translit": "shalom, ma shlomcha?"
+        },
+        {
+          "he": "שְׁלוֹמִי טוֹב, תּוֹדָה.",
+          "en": "I'm fine, thank you.",
+          "translit": "shlomi tov, toda."
+        },
+        {
+          "he": "אֵיךְ קוֹרְאִים לָךְ?",
+          "en": "What is your name? (to a female)",
+          "translit": "eich kor'im lach?"
+        },
+        {
+          "he": "קוֹרְאִים לִי דָּנָה.",
+          "en": "My name is Dana.",
+          "translit": "kor'im li Dana."
+        },
+        {
+          "he": "מֵאַיִן אַתָּה?",
+          "en": "Where are you from? (to a male)",
+          "translit": "me'ayin ata?"
+        },
+        {
+          "he": "אֲנִי מִיִּשְׂרָאֵל.",
+          "en": "I am from Israel.",
+          "translit": "ani mi-Yisra'el."
+        },
+        {
+          "he": "נָעִים מְאֹד לְהַכִּיר אוֹתְךָ.",
+          "en": "Very nice to meet you. (to a male)",
+          "translit": "na'im me'od lehakir otcha."
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "title": "Family & Daily Life",
+      "titleNative": "מִשְׁפָּחָה וְחַיֵּי יוֹם-יוֹם",
+      "items": [
+        {
+          "he": "יֵשׁ לִי אָח קָטָן.",
+          "en": "I have a little brother.",
+          "translit": "yesh li ach katan."
+        },
+        {
+          "he": "הִיא אוֹהֶבֶת לֶאֱכֹל תַּפּוּחִים.",
+          "en": "She likes to eat apples.",
+          "translit": "hi ohevet le'echol tapuchim."
+        },
+        {
+          "he": "אֲנַחְנוּ גָּרִים בְּתֵל אָבִיב.",
+          "en": "We live in Tel Aviv.",
+          "translit": "anachnu garim be-Tel Aviv."
+        },
+        {
+          "he": "הַיֶּלֶד רוֹצֶה מַיִם.",
+          "en": "The boy wants water.",
+          "translit": "hayeled rotze mayim."
+        },
+        {
+          "he": "אֲנִי הוֹלֵךְ לְבֵית סֵפֶר.",
+          "en": "I go to school. (male speaker)",
+          "translit": "ani holech le-veit sefer."
+        },
+        {
+          "he": "הֵם אוֹכְלִים אֲרוּחַת בֹּקֶר.",
+          "en": "They (m) eat breakfast.",
+          "translit": "hem ochlim aruchat boker."
+        },
+        {
+          "he": "אַתְּ קוֹרֵאת סֵפֶר יָפֶה.",
+          "en": "You (f) are reading a nice book.",
+          "translit": "at kore'et sefer yafe."
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "title": "Questions & Everyday Situations",
+      "titleNative": "שְׁאֵלוֹת וּמַצָּבִים יוֹמְיוֹמִיִּים",
+      "items": [
+        {
+          "he": "כַּמָּה זֶה עוֹלֶה?",
+          "en": "How much does this cost?",
+          "translit": "kama ze ole?"
+        },
+        {
+          "he": "אֵיפֹה הַשֵּׁרוּתִים?",
+          "en": "Where is the bathroom?",
+          "translit": "eifo hasherutim?"
+        },
+        {
+          "he": "מָתַי הָאוֹטוֹבּוּס מַגִּיעַ?",
+          "en": "When does the bus arrive?",
+          "translit": "matai ha-otobus magi'a?"
+        },
+        {
+          "he": "אֲנִי צָרִיךְ עֶזְרָה, בְּבַקָּשָׁה.",
+          "en": "I need help, please. (male speaker)",
+          "translit": "ani tzarich ezra, bevakasha."
+        },
+        {
+          "he": "הִיא לֹא מְדַבֶּרֶת עִבְרִית טוֹב.",
+          "en": "She doesn't speak Hebrew well.",
+          "translit": "hi lo medaberet ivrit tov."
+        },
+        {
+          "he": "סְלִיחָה, אֵיפֹה הַתַּחֲנָה?",
+          "en": "Excuse me, where is the station?",
+          "translit": "slicha, eifo hatachana?"
+        },
+        {
+          "he": "לְהִתְרָאוֹת מָחָר!",
+          "en": "See you tomorrow!",
+          "translit": "lehitra'ot machar!"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "title": "An Ordinary Day",
+      "titleNative": "יוֹם רָגִיל",
+      "context": "A short story about Dana's daily routine, tying together greetings, family, and everyday phrases from this level.",
+      "paragraphs": [
+        {
+          "he": "בַּבֹּקֶר דָּנָה קָמָה וְאוֹכֶלֶת אֲרוּחַת בֹּקֶר עִם הַמִּשְׁפָּחָה שֶׁלָּהּ.",
+          "en": "In the morning, Dana gets up and eats breakfast with her family."
+        },
+        {
+          "he": "אַחַר כָּךְ הִיא הוֹלֶכֶת לְבֵית הַסֵּפֶר וּפוֹגֶשֶׁת אֶת הַחֲבֵרָה הַטּוֹבָה שֶׁלָּהּ.",
+          "en": "Afterwards she goes to school and meets her good friend."
+        },
+        {
+          "he": "בָּעֶרֶב הֵן חוֹזְרוֹת הַבַּיְתָה וְאוֹמְרוֹת: \"לְהִתְרָאוֹת מָחָר!\"",
+          "en": "In the evening they return home and say: \"See you tomorrow!\""
+        }
+      ],
+      "questions": [
+        {
+          "question": "When does Dana eat breakfast?",
+          "options": [
+            "In the morning",
+            "In the evening",
+            "At night",
+            "At noon"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "question": "Who does Dana meet at school?",
+          "options": [
+            "Her brother",
+            "Her good friend",
+            "Her teacher",
+            "Her mother"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "question": "What do they say to each other in the evening?",
+          "options": [
+            "Good morning",
+            "Thank you",
+            "See you tomorrow",
+            "How are you"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    }
+  ],
+  "grammarTopics": {
+    "a0-niqqud-vowel-points": {
+      "title": "Niqqud – Vowel Points (נִיקוּד)",
+      "pattern": "consonant letter + niqqud mark = one syllable (e.g. בָּ = \"ba\", בִּ = \"bi\", בּוֹ = \"bo\")",
+      "explanation": "Hebrew letters are mostly consonants — vowels usually aren't written as separate letters, but as small dots and dashes called niqqud, placed above, below, or inside a letter. Each niqqud mark has its own name (kamatz, patach, chirik...) and tells you which vowel sound to add to the consonant right before it. Once you know the niqqud signs, you can sound out almost any Hebrew word, even one you've never seen before.",
+      "fact": "Modern Israelis barely use niqqud in everyday writing — newspapers, novels, street signs, and text messages are printed almost entirely without it, and native readers simply infer the vowels from context and habit. Niqqud survives mainly in prayer books, poetry, dictionaries, and books for children or new readers — which is exactly why this course starts with full niqqud on every word, like training wheels for reading Hebrew."
+    },
+    "a0-your-suffix-pronouns": {
+      "title": "\"Your\" attached to a noun: -ךָ / -ךְ (כִּנּוּיֵי קִנְיָן)",
+      "pattern": "noun + ־ךָ (talking to a man) / noun + ־ךְ (talking to a woman) = \"your ___\"",
+      "explanation": "Hebrew's \"how are you?\" is literally \"what is your welfare?\" — but \"your\" isn't a separate word here, it's a suffix glued straight onto the noun שָׁלוֹם (welfare/peace). Speaking to a man you add ־ךָ, giving שְׁלוֹמְךָ (shlomcha); speaking to a woman you add ־ךְ, giving שְׁלוֹמֵךְ (shlomech). This is your first taste of Hebrew's possessive suffixes, which later attach to many other nouns the same way.",
+      "fact": "Instead of a separate possessive word like English \"your,\" Hebrew fuses the pronoun directly onto the end of the noun — a pattern going back over 3,000 years to Biblical Hebrew, and shared with Arabic's similar suffixes -ak/-ik."
+    },
+    "a0-number-gender-agreement": {
+      "title": "Numbers Match Gender (הַתְאָמַת מִסְפָּרִים בְּמִגְדָּר)",
+      "pattern": "מִסְפָּר (זָכָר/נְקֵבָה) + שֵׁם עֶצֶם",
+      "explanation": "Hebrew numbers 1–10 have two forms: one for masculine nouns and one for feminine nouns. 'Three' is שְׁלוֹשָׁה (shloshah) before a masculine noun like יְלָדִים (boys), but שָׁלוֹשׁ (shalosh) before a feminine noun like בָּנוֹת (girls). Curiously, the masculine form of the number often carries a feminine-looking ה ending, and the feminine form often looks 'bare' — the opposite of what you'd expect. Numbers 11-19 follow the same pattern in their units digit, while 20 (עֶשְׂרִים) stays the same for both genders.",
+      "fact": "This swap is called 'gender polarity,' and Hebrew is one of the few languages where cardinal numbers systematically invert gender markers with the nouns they count — a masculine noun takes a number that looks feminine, and a feminine noun takes a number that looks masculine."
+    },
+    "a0-on-day-of-week": {
+      "title": "Saying 'On Sunday' (בְּ + יוֹם)",
+      "pattern": "בְּ + יוֹם + [day name] = 'on [day]'",
+      "explanation": "To say something happens on a certain day, attach the prefix בְּ ('be-', meaning on/in/at) directly onto יוֹם plus the day's name, e.g. בְּיוֹם רִאשׁוֹן ('on Sunday'). Shabbat is the exception — it doesn't take יוֹם, so you simply say בְּשַׁבָּת ('on Shabbat'). The very same בְּ prefix is also used for parts of the day: בַּבֹּקֶר ('in the morning'), בָּעֶרֶב ('in the evening').",
+      "fact": "Hebrew doesn't have unique names for most weekdays — Sunday through Thursday are literally 'Day One' (יוֹם רִאשׁוֹן) through 'Day Five' (יוֹם חֲמִישִׁי), counted from the day after Shabbat, the only day of the week with a true name of its own."
+    },
+    "a0-possessive-sheli": {
+      "title": "Possessive Pronouns with שֶׁל (\"Mine, Yours, His, Hers\")",
+      "pattern": "Noun + שֶׁלִּי / שֶׁלְּךָ / שֶׁלָּךְ / שֶׁלּוֹ / שֶׁלָּה",
+      "explanation": "Hebrew shows possession by placing the noun first and adding a form of שֶׁל (\"of, belonging to\") right after it, with a pronoun ending attached: שֶׁלִּי (my), שֶׁלְּךָ (your, to a man), שֶׁלָּךְ (your, to a woman), שֶׁלּוֹ (his), שֶׁלָּה (her). Unlike English \"my dad,\" Hebrew literally says \"dad of-mine\": אַבָּא שֶׁלִּי. Close family words like אבא/אמא usually stay without \"the,\" while other nouns often keep the definite article before them: הַדּוֹד שֶׁלּוֹ (\"his uncle\").",
+      "fact": "שֶׁל is a fairly late fusion in Hebrew's history — it grew out of the older phrase אֲשֶׁר לְ (\"that which belongs to\"), which speakers gradually compressed over the centuries into the single tiny word שֶׁל that's used constantly in Modern Hebrew today."
+    },
+    "a0-adjective-agreement": {
+      "title": "Adjectives Follow the Noun & Match Its Gender (הַתְאָמַת שֵׁם תֹּאַר)",
+      "pattern": "noun + adjective — the adjective comes right after the noun and changes its ending to match the noun's gender and number",
+      "explanation": "In Hebrew, a describing word (adjective) is placed after the noun it describes, so 'a red apple' is literally 'apple red' — תַּפּוּחַ אָדֹם. Adjectives also change form to agree with the noun: masculine singular nouns take the plain form (אָדֹם), feminine singular nouns usually add ה- at the end (אֲדֻמָּה), and plural nouns add ים- or ות- (אֲדֻמִּים / אֲדֻמּוֹת). This rule applies to color words and to almost all other Hebrew adjectives, like 'big' and 'new'.",
+      "fact": "Some Hebrew color words are ancient — אָדֹם (red) and לָבָן (white) appear already in the Bible — while others like כָּתֹם (orange) and סָגֹל (purple) are much newer, coined or standardized only during the modern revival of Hebrew in the 19th–20th centuries."
+    },
+    "a0-hurts-li": {
+      "title": "Expressing pain: כּוֹאֵב לִי (it hurts me)",
+      "pattern": "[body part] + כּוֹאֵב / כּוֹאֶבֶת + לִי / לְךָ / לָךְ / לוֹ / לָהּ",
+      "explanation": "Hebrew doesn't say 'my head hurts' the way English does. Instead, the body part is the grammatical subject, and the person feeling the pain is marked with the word לְ ('to') plus a pronoun ending, attached after the verb. So 'my head hurts' is literally 'the head hurts to-me' (הָרֹאשׁ כּוֹאֵב לִי). The verb כּוֹאֵב/כּוֹאֶבֶת always agrees in gender with the body part, not with the person who feels the pain.",
+      "fact": "This 'to me it hurts' pattern is called a dative-experiencer construction, and Hebrew uses the exact same לִי/לְךָ/לוֹ/לָהּ pattern for liking things, being cold, and needing something — so learning it here for body parts unlocks a whole family of everyday Hebrew sentences."
+    },
+    "a0-verb-gender-agreement": {
+      "title": "Present-tense verbs agree with gender: אוֹהֵב / אוֹהֶבֶת (to like)",
+      "pattern": "m. singular: אוֹהֵב | f. singular: אוֹהֶבֶת | plural (any gender mix): אוֹהֲבִים",
+      "explanation": "In Hebrew, present-tense verbs change their ending to match the gender and number of the subject, not the tense. The verb for 'like/love' becomes אוֹהֵב after a masculine subject (אֲנִי, אַתָּה, הוּא) but אוֹהֶבֶת after a feminine subject (אֲנִי, אַתְּ, הִיא) — the same word 'אֲנִי' can trigger either form depending on the speaker's gender. For plural subjects, the form is אוֹהֲבִים regardless of gender mix. This same gender-agreement pattern applies to almost every Hebrew verb in the present tense.",
+      "fact": "Hebrew present-tense verbs are historically participles (בֵּינוֹנִי), which is exactly why they agree with gender and number like adjectives do — English 'I like / she likes' changes for person, but Hebrew verbs don't care about person at all, only about gender and number."
+    },
+    "a0-demonstratives-here-there": {
+      "title": "This/That & Here/There (זֶה / זֹאת / כָּאן / שָׁם)",
+      "pattern": "זֶה / זֹאת + noun = \"this is __\"; noun + הַזֶּה / הַזֹּאת / הַהוּא / הַהִיא = \"this/that __\"; כָּאן / שָׁם = here / there",
+      "explanation": "Hebrew has two words for 'this': זֶה for masculine nouns and זֹאת for feminine nouns — the word must match the gender of the noun it points to, not the gender of the speaker. When 'this' or 'that' describes a noun rather than just pointing at it, it moves after the noun and gets its own -הַ, as in הַסֵּפֶר הַזֶּה ('this book') or הַכּוֹס הַהִיא ('that cup'). The location words כָּאן (here) and שָׁם (there) never change form, no matter the gender or number of what they describe.",
+      "fact": "In everyday spoken Hebrew, זֶה is one of the most overused words in the language — beyond meaning 'this', Israelis sprinkle it into sentences the way English speakers use 'so' or 'like', as in זֶה... אֲנִי לֹא יוֹדֵעַ ('so... I don't know')."
+    },
+    "a0-questions": {
+      "title": "Yes/No and Wh-Questions (הַאִם, מָה, מִי, אֵיפֹה)",
+      "pattern": "הַאִם + statement = yes/no question; מָה / מִי / אֵיפֹה + statement = wh-question",
+      "explanation": "To turn a statement into a yes/no question in Hebrew, add הַאִם ('is it that...') to the front, or simply raise your voice at the end and add a question mark — Hebrew doesn't reorder the words the way English does. To ask for specific information, start with a question word — מָה ('what'), מִי ('who'), or אֵיפֹה ('where') — followed by the rest of the sentence in normal statement word order.",
+      "fact": "In everyday spoken Hebrew, הַאִם is very often dropped entirely — \"אַתָּה עָיֵף?\" (\"You're tired?\") said with rising intonation is just as correct and common as \"הַאִם אַתָּה עָיֵף?\", especially in casual conversation."
+    },
+    "a0-pronoun-to-be": {
+      "title": "Personal Pronouns as 'To Be' (מִשְׁפָּט שֵׁמִי / Nominal Sentence)",
+      "pattern": "Pronoun + Noun/Adjective (no separate word for 'am/is/are')",
+      "explanation": "Hebrew has no present-tense verb for 'to be'. To say 'I am tired' or 'She is a teacher', you just put the subject pronoun directly next to the adjective or noun: אֲנִי עָיֵף literally reads 'I tired' but means 'I am tired'. The verb לִהְיוֹת (to be) only shows up in the past and future tenses — the present tense sentence needs no verb at all.",
+      "fact": "This verbless 'is/am/are' structure is called a מִשְׁפָּט שֵׁמִי (nominal sentence) and has existed since Biblical Hebrew — you'll see the exact same pattern in Genesis 3 millennia ago."
+    },
+    "a0-present-tense-verbs": {
+      "title": "Present Tense Verbs (הֹוֶה)",
+      "pattern": "subject + verb (verb agrees with gender & number only, not person)",
+      "explanation": "Hebrew present-tense verbs don't change for 'I / you / he' the way English verbs sometimes do — they only change for gender (masculine/feminine) and number (singular/plural), just like adjectives do. That means אֲנִי, אַתָּה, and הוּא can all share the exact same verb form (e.g. הוֹלֵךְ), while אֲנִי and הִיא use different forms (הוֹלֵךְ vs. הוֹלֶכֶת) purely because of gender. There is also no separate word for 'am/is/are' — the verb itself already carries that meaning.",
+      "fact": "Hebrew's present tense actually developed from an ancient participle (similar to English '-ing' forms), which is why it behaves grammatically like an adjective — agreeing with gender and number — instead of conjugating for person the way the past and future tenses do."
+    },
+    "a0-yesh-there-is": {
+      "title": "There is / There are (יֵשׁ)",
+      "pattern": "יֵשׁ / אֵין + noun (+ location)",
+      "explanation": "Hebrew uses one small word, יֵשׁ, to say 'there is' or 'there are' — it never changes for gender or number like verbs do. To say something doesn't exist, swap in אֵין instead. Add a location with the prefix בְּ ('in') to say where something is, as in יֵשׁ שֻׁלְחָן בַּמִּטְבָּח ('there is a table in the kitchen').",
+      "fact": "יֵשׁ and אֵין aren't verbs at all — they're invisible in the past and future tense, where Hebrew switches to forms of הָיָה ('was'), so beginners only meet this handy shortcut in the present."
+    },
+    "a0-dative-feelings-weather": {
+      "title": "Feeling Hot or Cold: The \"To Me\" Pattern (קַר לִי / חַם לוֹ)",
+      "pattern": "[weather adjective] + לְ + pronoun suffix  (e.g. קַר לִי, חַם לָהּ, נָעִים לָנוּ)",
+      "explanation": "To say you feel hot, cold, or comfortable, Hebrew does not use a normal subject + \"to be\" sentence like English \"I am cold.\" Instead, it puts the adjective first and attaches the feeling to a person using לְ (\"to\") plus a pronoun ending: קַר לִי literally means \"cold to-me.\" The person who feels it is marked by the preposition, not by a subject pronoun — so לִי, לְךָ, לָהּ, לוֹ, לָנוּ each swap in depending on who feels the weather.",
+      "fact": "This same \"to-me\" pattern shows up all over Hebrew feelings and needs — חָסֵר לִי (\"I'm missing something\"), כּוֹאֵב לִי (\"it hurts me\") — and it closely parallels constructions in Spanish (tengo frío-style logic), Russian, and Yiddish, where the person experiencing a sensation is grammatically a receiver rather than a doer."
+    },
+    "a0-directional-heh": {
+      "title": "The Directional Suffix -ה (ה' הַכִּוּוּן)",
+      "pattern": "direction word + ה (unstressed) = movement toward it: יָמִין → יָמִינָה, שְׂמֹאל → שְׂמֹאלָה",
+      "explanation": "Adding an unstressed ה at the end of certain Hebrew words turns them into 'toward' words — it answers the question 'to where?' instead of 'where?'. So יָמִין (\"right\") becomes יָמִינָה (\"to the right\"), and שְׂמֹאל (\"left\") becomes שְׂמֹאלָה (\"to the left\"). This final ה is not the feminine ending — it's silent-ish and unstressed, and it only ever attaches to nouns/directions to show motion toward them.",
+      "fact": "This is one of the oldest surviving features of Hebrew grammar: the very same directional heh shows up in the Bible, where מִצְרַיִם (\"Egypt\") becomes מִצְרַיְמָה, meaning \"to Egypt\" — the exact same trick used today in ימינה and שמאלה."
+    }
+  }
+}
