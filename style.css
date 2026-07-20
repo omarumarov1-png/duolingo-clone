@@ -324,10 +324,20 @@ button.stat:hover { color: var(--teal); }
 /* min-width: 0 overrides the flex-item default of min-width: auto, which
    otherwise refuses to shrink below the content's natural intrinsic width —
    that's what was silently blowing the whole page out and pushing roadmap
-   content off-screen on narrow viewports instead of wrapping/clipping. */
+   content off-screen on narrow viewports instead of wrapping/clipping.
+   width/max-width/margin here duplicate .app's own 760px centering as a
+   defensive fallback: .screen has no constraint of its own otherwise, so
+   if .app's centering rule is ever lost (stale/partial cached stylesheet,
+   a cascade conflict), .screen silently stretches to the full viewport
+   width and its flex children default to the left edge — a centered
+   header sitting above a roadmap column crammed left with a huge empty
+   void on the right, instead of the intended centered column. */
 .screen {
   flex: 1;
   min-width: 0;
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
   padding: 28px 20px 60px;
 }
 
