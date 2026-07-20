@@ -1,0 +1,257 @@
+{
+  "level": "b2plus",
+  "lessons": [
+    {
+      "number": 40,
+      "title": "Abai's Philosophy",
+      "titleNative": "Абайдың философиясы",
+      "context": "Абай Құнанбайұлының философиялық мұрасы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Абай Құнанбайұлы — қазақ халқының ұлы ойшылы әрі ағартушысы.", "en": "Abai Kunanbaiuly is the great thinker and enlightener of the Kazakh people." },
+        { "kk": "Оның \"Қара сөздер\" атты еңбегі философиялық толғаныстарға толы.", "en": "His work titled \"Words of Wisdom\" (Kara Sozder) is full of philosophical reflections." },
+        { "kk": "Абай білім мен еңбекті адамгершіліктің негізі деп есептеді.", "en": "Abai considered knowledge and labour to be the foundation of morality." },
+        { "kk": "Ол өз халқының рухани дамуына үлкен мән берді.", "en": "He placed great importance on the spiritual development of his people." },
+        { "kk": "Абайдың шығармалары адамды өзін-өзі тануға, сыни ойлауға шақырады.", "en": "Abai's works call on people to know themselves and think critically." },
+        { "kk": "Ол еуропалық және шығыс мәдениеттерін терең зерттеді.", "en": "He deeply studied both European and Eastern cultures." },
+        { "kk": "Бүгінгі күні де оның идеялары өзектілігін жоғалтқан жоқ.", "en": "Even today, his ideas have not lost their relevance." }
+      ],
+      "questions": [
+        { "question": "What is Abai Kunanbaiuly known as?", "options": ["The great thinker and enlightener of the Kazakh people", "A modern politician", "A foreign diplomat", "An unknown poet"], "answerIndex": 0 },
+        { "question": "What is \"Kara Sozder\"?", "options": ["A work full of philosophical reflections", "A cookbook", "A modern novel", "A children's story"], "answerIndex": 0 },
+        { "question": "What did Abai consider the foundation of morality?", "options": ["Knowledge and labour", "Wealth alone", "Fame", "Power"], "answerIndex": 0 },
+        { "question": "What do his works call on people to do?", "options": ["Know themselves and think critically", "Avoid education", "Ignore culture", "Stop thinking"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 41,
+      "title": "Transition to a Market Economy",
+      "titleNative": "Нарықтық экономикаға көшу",
+      "context": "Қазақстанның тәуелсіздіктен кейінгі экономикалық реформалары туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Тәуелсіздік алғаннан кейін Қазақстан жоспарлы экономикадан нарықтық экономикаға көшті.", "en": "After gaining independence, Kazakhstan transitioned from a planned economy to a market economy." },
+        { "kk": "Бұл процесс құрылымдық реформалар мен жекешелендіруді қамтыды.", "en": "This process included structural reforms and privatisation." },
+        { "kk": "Шетелдік инвестицияларды тарту үшін заңнама жетілдірілді.", "en": "Legislation was improved to attract foreign investment." },
+        { "kk": "Мұнай мен газ саласы экономикалық өсудің негізгі қозғаушысы болды.", "en": "The oil and gas sector became the main driver of economic growth." },
+        { "kk": "Дегенмен, үкімет экономиканы әртараптандыруға тырысуда.", "en": "Nevertheless, the government is trying to diversify the economy." },
+        { "kk": "Шағын және орта бизнесті қолдау жұмыспен қамтуды арттырады.", "en": "Supporting small and medium businesses increases employment." },
+        { "kk": "Экономикалық тұрақтылық ұлттық қауіпсіздіктің маңызды құрамдас бөлігі.", "en": "Economic stability is an important component of national security." }
+      ],
+      "questions": [
+        { "question": "What did Kazakhstan transition to after independence?", "options": ["A market economy", "A purely agricultural economy", "No economy at all", "A barter system"], "answerIndex": 0 },
+        { "question": "What did this process include?", "options": ["Structural reforms and privatisation", "Nothing", "Only military reform", "Closing all businesses"], "answerIndex": 0 },
+        { "question": "What became the main driver of economic growth?", "options": ["The oil and gas sector", "Tourism alone", "Agriculture alone", "Fishing"], "answerIndex": 0 },
+        { "question": "What is the government trying to do, according to the text?", "options": ["Diversify the economy", "Rely only on oil forever", "Reduce all investment", "Close small businesses"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 42,
+      "title": "Melting of Mountain Glaciers",
+      "titleNative": "Таулы мұздықтардың еруі",
+      "context": "Тянь-Шань мен Алтай тауларындағы мұздықтардың еруі туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Тянь-Шань мен Алтай тауларындағы мұздықтар жылдам еруде.", "en": "The glaciers in the Tian Shan and Altai mountains are melting rapidly." },
+        { "kk": "Бұл құбылыс климаттың жаһандық жылынуымен тікелей байланысты.", "en": "This phenomenon is directly related to global climate warming." },
+        { "kk": "Мұздықтар өзендердің негізгі су көзі болып табылады.", "en": "Glaciers are the main source of water for rivers." },
+        { "kk": "Олардың кемуі суару жүйелері мен ауыз судың жетіспеушілігіне әкелуі мүмкін.", "en": "Their reduction could lead to a shortage of irrigation systems and drinking water." },
+        { "kk": "Ғалымдар спутниктік суреттер арқылы мұздықтардың жағдайын бақылайды.", "en": "Scientists monitor the condition of glaciers using satellite images." },
+        { "kk": "Кейбір болжамдар бойынша, ғасыр соңына қарай кейбір мұздықтар толығымен жойылуы мүмкін.", "en": "According to some forecasts, some glaciers may disappear completely by the end of the century." },
+        { "kk": "Бұл мәселе аймақтық деңгейде шұғыл шешімдерді талап етеді.", "en": "This issue requires urgent solutions at the regional level." }
+      ],
+      "questions": [
+        { "question": "Where are glaciers melting rapidly, according to the text?", "options": ["The Tian Shan and Altai mountains", "The Ural mountains", "The Alps", "The Himalayas"], "answerIndex": 0 },
+        { "question": "What is this phenomenon related to?", "options": ["Global climate warming", "A local drought only", "Nothing", "Increased snowfall"], "answerIndex": 0 },
+        { "question": "What could the reduction of glaciers lead to?", "options": ["A shortage of water for irrigation and drinking", "More water than needed", "No effect at all", "Cooler summers"], "answerIndex": 0 },
+        { "question": "How do scientists monitor glaciers?", "options": ["Using satellite images", "By guessing", "They don't monitor them", "Through old maps only"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 43,
+      "title": "The Ethics of Artificial Intelligence",
+      "titleNative": "Жасанды интеллект этикасы",
+      "context": "Жасанды интеллекттің дамуымен туындайтын этикалық мәселелер туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Жасанды интеллекттің қарқынды дамуы этикалық сұрақтар туғызуда.", "en": "The rapid development of artificial intelligence is raising ethical questions." },
+        { "kk": "Алгоритмдер шешім қабылдау кезінде жасырын бейімділікті көрсетуі мүмкін.", "en": "Algorithms can display hidden bias when making decisions." },
+        { "kk": "Дербес деректердің қорғалуы аса маңызды мәселеге айналды.", "en": "The protection of personal data has become an extremely important issue." },
+        { "kk": "Жасанды интеллекттің жауапкершілігі туралы заңдар әлі қалыптасу үстінде.", "en": "Laws regarding the accountability of artificial intelligence are still being formed." },
+        { "kk": "Кейбір мамандар технологияның жұмыс орындарын жоятынынан алаңдайды.", "en": "Some experts are concerned that the technology will eliminate jobs." },
+        { "kk": "Дегенмен, дұрыс реттелген жасанды интеллект адамзатқа көп пайда әкелуі мүмкін.", "en": "Nevertheless, properly regulated artificial intelligence can bring great benefit to humanity." },
+        { "kk": "Философтар мен инженерлер бірлесіп әділ ережелер жасауы керек.", "en": "Philosophers and engineers must work together to create fair rules." }
+      ],
+      "questions": [
+        { "question": "What is the rapid development of AI raising, according to the text?", "options": ["Ethical questions", "No concerns at all", "Only economic questions", "Nothing new"], "answerIndex": 0 },
+        { "question": "What can algorithms display?", "options": ["Hidden bias", "Perfect fairness always", "Nothing", "Random errors only"], "answerIndex": 0 },
+        { "question": "What has become an extremely important issue?", "options": ["The protection of personal data", "Ignoring privacy", "Selling data freely", "Nothing"], "answerIndex": 0 },
+        { "question": "Who must work together to create fair rules?", "options": ["Philosophers and engineers", "Only politicians", "No one", "Only businesses"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 44,
+      "title": "Multilingual Education Policy",
+      "titleNative": "Көптілді білім беру саясаты",
+      "context": "Қазақстандағы үш тілде оқыту саясаты туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазақстанның білім беру жүйесі үш тілде оқытуды дамытуда: қазақ, орыс және ағылшын.", "en": "Kazakhstan's education system is developing trilingual instruction: Kazakh, Russian, and English." },
+        { "kk": "Бұл саясат оқушыларды жаһандық еңбек нарығына дайындауды мақсат етеді.", "en": "This policy aims to prepare students for the global labour market." },
+        { "kk": "Дегенмен, кейбір мұғалімдер үш тілде сапалы білім беруде қиындықтарға тап болады.", "en": "However, some teachers face difficulties providing quality education in three languages." },
+        { "kk": "Ата-аналардың арасында бұл саясатқа қатысты әртүрлі пікірлер бар.", "en": "There are various opinions among parents regarding this policy." },
+        { "kk": "Зерттеулер көптілділіктің танымдық қабілеттерге оң әсер ететінін көрсетеді.", "en": "Studies show that multilingualism has a positive effect on cognitive abilities." },
+        { "kk": "Мемлекет мұғалімдерді қайта даярлауға және оқулықтар әзірлеуге қаржы бөледі.", "en": "The state allocates funding for retraining teachers and developing textbooks." },
+        { "kk": "Ана тілін сақтау мен жаһандық тілдерді меңгеру арасындағы теңгерім маңызды.", "en": "The balance between preserving the mother tongue and mastering global languages is important." }
+      ],
+      "questions": [
+        { "question": "Which three languages is Kazakhstan's education system developing instruction in?", "options": ["Kazakh, Russian, and English", "Kazakh, Chinese, and French", "Only Kazakh", "Only English"], "answerIndex": 0 },
+        { "question": "What does this policy aim to do?", "options": ["Prepare students for the global labour market", "Isolate students from the world", "Eliminate Kazakh language teaching", "Reduce education quality"], "answerIndex": 0 },
+        { "question": "What do studies show about multilingualism?", "options": ["It has a positive effect on cognitive abilities", "It harms the brain", "It has no effect", "It confuses children permanently"], "answerIndex": 0 },
+        { "question": "What balance is described as important?", "options": ["Preserving the mother tongue and mastering global languages", "Ignoring all languages", "Speaking only one language", "Avoiding education"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 45,
+      "title": "The Psychology of Decision-Making",
+      "titleNative": "Шешім қабылдау психологиясы",
+      "context": "Адамдардың шешім қабылдау процесінің психологиялық негіздері туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Адамдар күн сайын жүздеген шешім қабылдайды, көбіне мұны байқамайды.", "en": "People make hundreds of decisions every day, often without noticing it." },
+        { "kk": "Психологтар екі ойлау жүйесін ажыратады: жылдам, интуитивті және баяу, аналитикалық.", "en": "Psychologists distinguish two thinking systems: fast, intuitive, and slow, analytical." },
+        { "kk": "Эмоциялар шешім қабылдау процесіне айтарлықтай әсер етеді.", "en": "Emotions significantly influence the decision-making process." },
+        { "kk": "Когнитивтік бейімділіктер объективті бағалауды бұрмалауы мүмкін.", "en": "Cognitive biases can distort objective evaluation." },
+        { "kk": "Шамадан тыс таңдау адамды шешім қабылдаудан бас тартуға мәжбүр етуі мүмкін.", "en": "Excessive choice can force a person to refuse to make a decision." },
+        { "kk": "Күрделі шешімдерді бөліктерге бөлу процесті жеңілдетеді.", "en": "Breaking complex decisions into parts simplifies the process." },
+        { "kk": "Өзін-өзі тану дұрыс шешім қабылдау дағдысын дамытады.", "en": "Self-awareness develops the skill of making the right decisions." }
+      ],
+      "questions": [
+        { "question": "How many decisions do people make every day, according to the text?", "options": ["Hundreds", "None", "Only one", "A thousand exactly"], "answerIndex": 0 },
+        { "question": "What two thinking systems do psychologists distinguish?", "options": ["Fast, intuitive and slow, analytical", "Only fast thinking", "Only slow thinking", "Random and structured"], "answerIndex": 0 },
+        { "question": "What can distort objective evaluation?", "options": ["Cognitive biases", "Perfect logic always", "Nothing", "Sleep"], "answerIndex": 0 },
+        { "question": "What simplifies the process of making complex decisions?", "options": ["Breaking them into parts", "Ignoring them", "Rushing", "Avoiding thought"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 46,
+      "title": "Green Architecture",
+      "titleNative": "Жасыл сәулет",
+      "context": "Экологиялық таза құрылыс пен жасыл сәулет технологиялары туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Жасыл сәулет — қоршаған ортаға зиянды азайтуға бағытталған дизайн философиясы.", "en": "Green architecture is a design philosophy aimed at reducing harm to the environment." },
+        { "kk": "Ғимараттар күн панельдері мен жаңбыр суын жинау жүйелерімен жабдықталады.", "en": "Buildings are equipped with solar panels and rainwater collection systems." },
+        { "kk": "Табиғи желдету энергия тұтынуды айтарлықтай азайтады.", "en": "Natural ventilation significantly reduces energy consumption." },
+        { "kk": "Қайта өңделген материалдарды пайдалану құрылыс қалдықтарын кемітеді.", "en": "Using recycled materials reduces construction waste." },
+        { "kk": "Жасыл шатырлар қала жылуын азайтып, ауа сапасын жақсартады.", "en": "Green roofs reduce urban heat and improve air quality." },
+        { "kk": "Дегенмен, мұндай құрылыс жобалары бастапқыда қымбатырақ болуы мүмкін.", "en": "However, such construction projects may initially be more expensive." },
+        { "kk": "Ұзақ мерзімді перспективада үнемдеу инвестицияны толығымен ақтайды.", "en": "In the long term, the savings fully justify the investment." }
+      ],
+      "questions": [
+        { "question": "What is green architecture aimed at?", "options": ["Reducing harm to the environment", "Increasing pollution", "Ignoring energy use", "Nothing specific"], "answerIndex": 0 },
+        { "question": "What are buildings equipped with?", "options": ["Solar panels and rainwater collection systems", "Only decorative lights", "Nothing new", "More concrete"], "answerIndex": 0 },
+        { "question": "What do green roofs do?", "options": ["Reduce urban heat and improve air quality", "Increase pollution", "Do nothing", "Raise energy costs only"], "answerIndex": 0 },
+        { "question": "What may such construction projects be initially?", "options": ["More expensive", "Always cheaper", "Illegal", "Impossible"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 47,
+      "title": "Global Trade and Kazakhstan",
+      "titleNative": "Жаһандық сауда және Қазақстан",
+      "context": "Қазақстанның халықаралық сауда ұйымдарына қатысуы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазақстан Дүниежүзілік сауда ұйымына 2015 жылы мүше болды.", "en": "Kazakhstan became a member of the World Trade Organization in 2015." },
+        { "kk": "Бұл мүшелік елдің экспорт мүмкіндіктерін кеңейтті.", "en": "This membership expanded the country's export opportunities." },
+        { "kk": "Еуразиялық экономикалық одаққа қатысу көрші елдермен сауданы жеңілдетеді.", "en": "Participation in the Eurasian Economic Union facilitates trade with neighbouring countries." },
+        { "kk": "Шикізатқа тәуелділікті азайту үшін өңдеуші өнеркәсіп дамытылуда.", "en": "The processing industry is being developed to reduce dependence on raw materials." },
+        { "kk": "Логистикалық инфрақұрылымға инвестиция экспорттық шығындарды төмендетеді.", "en": "Investment in logistics infrastructure lowers export costs." },
+        { "kk": "Сауда келісімдері жаңа нарықтарға қол жеткізуге мүмкіндік береді.", "en": "Trade agreements provide access to new markets." },
+        { "kk": "Экономикалық әртараптандыру ұзақ мерзімді тұрақтылықтың кепілі.", "en": "Economic diversification is the guarantee of long-term stability." }
+      ],
+      "questions": [
+        { "question": "When did Kazakhstan join the World Trade Organization?", "options": ["2015", "2000", "2020", "1995"], "answerIndex": 0 },
+        { "question": "What does participation in the Eurasian Economic Union do?", "options": ["Facilitates trade with neighbouring countries", "Isolates Kazakhstan", "Nothing", "Increases tariffs only"], "answerIndex": 0 },
+        { "question": "Why is the processing industry being developed?", "options": ["To reduce dependence on raw materials", "To increase raw material exports only", "To close factories", "To reduce jobs"], "answerIndex": 0 },
+        { "question": "What is described as the guarantee of long-term stability?", "options": ["Economic diversification", "Relying on one resource", "Ignoring trade", "Isolation"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 48,
+      "title": "Endangered Languages",
+      "titleNative": "Жойылу қаупі бар тілдер",
+      "context": "Дүние жүзіндегі жойылу қаупі бар тілдер мен оларды сақтау шаралары туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Дүние жүзінде мыңдаған тіл жойылу қаупінде тұр.", "en": "Thousands of languages around the world are at risk of extinction." },
+        { "kk": "Тілдің жойылуымен бірге бірегей мәдени білім де жоғалады.", "en": "Along with the extinction of a language, unique cultural knowledge is also lost." },
+        { "kk": "Жаһандану кіші тілдерге демографиялық қысым жасайды.", "en": "Globalisation puts demographic pressure on minority languages." },
+        { "kk": "Лингвистер жойылу қаупіндегі тілдерді құжаттауға және сақтауға тырысады.", "en": "Linguists strive to document and preserve endangered languages." },
+        { "kk": "Цифрлық технологиялар тілдерді сақтаудың жаңа құралдарын ұсынады.", "en": "Digital technologies offer new tools for language preservation." },
+        { "kk": "Жергілікті қауымдастықтардың белсенділігі тілдің тірі қалуында шешуші рөл атқарады.", "en": "The activity of local communities plays a decisive role in the survival of a language." },
+        { "kk": "Тілдік әртүрлілік — адамзаттың рухани байлығы.", "en": "Linguistic diversity is humanity's spiritual wealth." }
+      ],
+      "questions": [
+        { "question": "What are thousands of languages at risk of, according to the text?", "options": ["Extinction", "Becoming more popular", "Nothing", "Merging together"], "answerIndex": 0 },
+        { "question": "What is lost along with a language's extinction?", "options": ["Unique cultural knowledge", "Nothing important", "Only vocabulary lists", "Money"], "answerIndex": 0 },
+        { "question": "What do linguists try to do with endangered languages?", "options": ["Document and preserve them", "Ignore them", "Destroy them faster", "Forget them"], "answerIndex": 0 },
+        { "question": "What plays a decisive role in a language's survival?", "options": ["The activity of local communities", "Foreign governments only", "Nothing", "Random chance"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 49,
+      "title": "Media Literacy",
+      "titleNative": "Медиасауаттылық",
+      "context": "Цифрлық дәуірдегі медиасауаттылықтың маңызы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Цифрлық дәуірде медиасауаттылық маңызды өмірлік дағдыға айналды.", "en": "In the digital age, media literacy has become an important life skill." },
+        { "kk": "Ол ақпарат көздерін сыни тұрғыдан бағалау қабілетін қамтиды.", "en": "It includes the ability to critically evaluate sources of information." },
+        { "kk": "Жалған жаңалықтар әлеуметтік желілер арқылы жылдам таралады.", "en": "Fake news spreads quickly through social media." },
+        { "kk": "Мектептер оқушыларға дереккөздерді тексеруді үйретуі керек.", "en": "Schools must teach students to verify sources." },
+        { "kk": "Алгоритмдер пайдаланушыларға олардың көзқарасына сәйкес мазмұн ұсынады.", "en": "Algorithms offer users content that matches their views." },
+        { "kk": "Бұл құбылыс «ақпараттық көпіршік» деп аталады.", "en": "This phenomenon is called an \"information bubble.\"" },
+        { "kk": "Сыни ойлау азаматтарды манипуляциядан қорғайтын негізгі құрал.", "en": "Critical thinking is the main tool that protects citizens from manipulation." }
+      ],
+      "questions": [
+        { "question": "What has media literacy become in the digital age?", "options": ["An important life skill", "An unnecessary skill", "Only for journalists", "A rare talent"], "answerIndex": 0 },
+        { "question": "What spreads quickly through social media?", "options": ["Fake news", "Only verified facts", "Nothing", "Silence"], "answerIndex": 0 },
+        { "question": "What must schools teach students to do?", "options": ["Verify sources", "Ignore all news", "Avoid the internet completely", "Believe everything they read"], "answerIndex": 0 },
+        { "question": "What is called an \"information bubble\"?", "options": ["Algorithms showing content matching users' views", "A type of software virus", "A weather phenomenon", "A type of news channel"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 50,
+      "title": "Youth Unemployment",
+      "titleNative": "Жастар арасындағы жұмыссыздық",
+      "context": "Жастар арасындағы жұмыссыздық мәселесі мен оны шешу жолдары туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Жастар арасындағы жұмыссыздық көптеген елдерде өзекті мәселе болып қалуда.", "en": "Youth unemployment remains a pressing issue in many countries." },
+        { "kk": "Университет бітірушілердің біліктілігі мен нарық талаптары арасында алшақтық бар.", "en": "There is a gap between graduates' qualifications and market demands." },
+        { "kk": "Тәжірибе жетіспеушілігі жастарды жұмысқа орналастыруда негізгі кедергі.", "en": "Lack of experience is the main obstacle for young people finding jobs." },
+        { "kk": "Мемлекеттік бағдарламалар тағылымдама мен кәсіптік оқытуды қолдайды.", "en": "State programs support internships and vocational training." },
+        { "kk": "Кәсіпкерлік жастарға дербес табыс табудың балама жолын ұсынады.", "en": "Entrepreneurship offers young people an alternative way to earn independent income." },
+        { "kk": "Цифрлық дағдылар жаңа мамандықтарда бәсекеге қабілеттілікті арттырады.", "en": "Digital skills increase competitiveness in new professions." },
+        { "kk": "Жұмыс берушілер мен білім беру мекемелерінің ынтымақтастығы бұл алшақтықты азайта алады.", "en": "Cooperation between employers and educational institutions can reduce this gap." }
+      ],
+      "questions": [
+        { "question": "What remains a pressing issue in many countries?", "options": ["Youth unemployment", "Overemployment", "Too many entry-level jobs", "Nothing"], "answerIndex": 0 },
+        { "question": "What gap does the text describe?", "options": ["Between graduates' qualifications and market demands", "Between rich and poor countries only", "Between old and new technology", "Between cities and villages"], "answerIndex": 0 },
+        { "question": "What is the main obstacle for young people finding jobs?", "options": ["Lack of experience", "Too much experience", "Overqualification", "Nothing"], "answerIndex": 0 },
+        { "question": "What does entrepreneurship offer young people?", "options": ["An alternative way to earn independent income", "Guaranteed failure", "Nothing", "Only debt"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 51,
+      "title": "Cultural Diplomacy",
+      "titleNative": "Мәдени дипломатия",
+      "context": "Қазақстанның мәдени дипломатия арқылы халықаралық имиджін нығайтуы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Мәдени дипломатия — елдер арасындағы қарым-қатынасты нығайтудың жұмсақ күш құралы.", "en": "Cultural diplomacy is a soft-power tool for strengthening relations between countries." },
+        { "kk": "Қазақстан халықаралық фестивальдер мен көрмелер арқылы өз мәдениетін таныстырады.", "en": "Kazakhstan presents its culture through international festivals and exhibitions." },
+        { "kk": "Домбыра өнері мен қазақ әдебиеті шетелдік аудиторияға таныстырылуда.", "en": "Dombra art and Kazakh literature are being introduced to foreign audiences." },
+        { "kk": "Білім алмасу бағдарламалары студенттер арасында мәдени түсіністікті арттырады.", "en": "Student exchange programs increase cultural understanding among students." },
+        { "kk": "Мұндай бастамалар экономикалық серіктестікке де жол ашады.", "en": "Such initiatives also open the way to economic partnership." },
+        { "kk": "Мәдени дипломатия әскери немесе экономикалық қысымсыз ықпал ету құралы болып саналады.", "en": "Cultural diplomacy is considered a tool of influence without military or economic pressure." },
+        { "kk": "Ол елдің халықаралық имиджін жақсартуда маңызды рөл атқарады.", "en": "It plays an important role in improving a country's international image." }
+      ],
+      "questions": [
+        { "question": "What is cultural diplomacy described as?", "options": ["A soft-power tool for strengthening relations between countries", "A military strategy", "An economic sanction", "A form of isolation"], "answerIndex": 0 },
+        { "question": "How does Kazakhstan present its culture?", "options": ["Through international festivals and exhibitions", "By closing its borders", "Through military parades only", "It doesn't"], "answerIndex": 0 },
+        { "question": "What do student exchange programs increase?", "options": ["Cultural understanding among students", "Isolation", "Conflict", "Nothing"], "answerIndex": 0 },
+        { "question": "What does cultural diplomacy improve, according to the text?", "options": ["A country's international image", "Military strength only", "Nothing", "Trade tariffs"], "answerIndex": 0 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "level": "c1",
+  "lessons": [
+    {
+      "number": 41,
+      "title": "Escaping Oil Dependency",
+      "titleNative": "Мұнайға тәуелділіктен арылу",
+      "context": "Қазақстан экономикасының мұнайға тәуелділіктен арылу стратегиясы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазақстан экономикасы ондаған жылдар бойы мұнай экспортына тәуелді болды.", "en": "Kazakhstan's economy has been dependent on oil exports for decades." },
+        { "kk": "Әлемдік мұнай бағасының құбылмалылығы ұлттық бюджеттің тұрақсыздығына әкеледі.", "en": "The volatility of world oil prices leads to instability in the national budget." },
+        { "kk": "Билік соңғы жылдары экономиканы әртараптандыруды стратегиялық басымдыққа айналдырды.", "en": "In recent years, the authorities have made economic diversification a strategic priority." },
+        { "kk": "Ауыл шаруашылығы, туризм және IT саласы баламалы өсу көздері ретінде қарастырылуда.", "en": "Agriculture, tourism, and the IT sector are being considered as alternative sources of growth." },
+        { "kk": "Ұлттық қордың қаражаты болашақ ұрпаққа арналған сақтық қор ретінде жинақталады.", "en": "The National Fund's resources are accumulated as a reserve fund intended for future generations." },
+        { "kk": "Дегенмен, құрылымдық реформаларды жүзеге асыру ұзақ уақыт пен саяси еркіндікті талап етеді.", "en": "Nevertheless, implementing structural reforms requires a long time and political will." },
+        { "kk": "Сарапшылардың пікірінше, экономикалық тұрақтылық тек әртараптандыру арқылы қол жеткізіледі.", "en": "According to experts, economic stability is achieved only through diversification." }
+      ],
+      "questions": [
+        { "question": "What has Kazakhstan's economy been dependent on for decades?", "options": ["Oil exports", "Tourism only", "Agriculture only", "Fishing"], "answerIndex": 0 },
+        { "question": "What does the volatility of oil prices lead to?", "options": ["Instability in the national budget", "Permanent stability", "Higher wages always", "Nothing"], "answerIndex": 0 },
+        { "question": "What has the government made a strategic priority?", "options": ["Economic diversification", "Increasing oil dependency", "Closing all industries", "Ignoring the economy"], "answerIndex": 0 },
+        { "question": "What is the National Fund's resources accumulated for?", "options": ["Future generations", "Immediate spending only", "Foreign aid", "Nothing"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 42,
+      "title": "The Philosophy of Nomadism and Sedentary Life",
+      "titleNative": "Көшпелілік пен отырықшылық философиясы",
+      "context": "Көшпелі және отырықшы өркениеттердің дүниетанымдық айырмашылықтары туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Көшпелі өркениет табиғатпен үйлесімді қарым-қатынасқа негізделген дүниетанымды қалыптастырды.", "en": "Nomadic civilization formed a worldview based on a harmonious relationship with nature." },
+        { "kk": "Кеңістік пен уақытты қабылдау көшпенділер мен отырықшы халықтар арасында айтарлықтай ерекшеленеді.", "en": "The perception of space and time differs significantly between nomads and sedentary peoples." },
+        { "kk": "Жайлау мен қыстаудың арасындағы циклдік қозғалыс адамның табиғи ырғаққа бейімделуін көрсетеді.", "en": "The cyclical movement between summer and winter pastures reflects humanity's adaptation to natural rhythms." },
+        { "kk": "Отырықшы мәдениет мемлекеттік құрылымдар мен жазба дәстүрдің дамуына жол ашты.", "en": "Sedentary culture paved the way for the development of state structures and written tradition." },
+        { "kk": "Дегенмен, көшпелі дәстүр икемділік пен ұжымдық ынтымақтастықтың бай мұрасын қалдырды.", "en": "Nevertheless, nomadic tradition left behind a rich heritage of adaptability and collective cooperation." },
+        { "kk": "Қазіргі қазақ мәдениеті екі дүниетанымның синтезін бойында сақтайды.", "en": "Modern Kazakh culture retains a synthesis of both worldviews within itself." },
+        { "kk": "Бұл философиялық мұраны зерттеу ұлттық сәйкестікті терең түсінуге мүмкіндік береді.", "en": "Studying this philosophical heritage allows for a deep understanding of national identity." }
+      ],
+      "questions": [
+        { "question": "What did nomadic civilization form, according to the text?", "options": ["A worldview based on harmony with nature", "A worldview based on conquest", "No worldview at all", "A purely urban culture"], "answerIndex": 0 },
+        { "question": "What does the cyclical movement between pastures reflect?", "options": ["Adaptation to natural rhythms", "Random wandering", "Economic failure", "War"], "answerIndex": 0 },
+        { "question": "What did sedentary culture pave the way for?", "options": ["State structures and written tradition", "The end of civilization", "Nomadism", "Nothing"], "answerIndex": 0 },
+        { "question": "What does modern Kazakh culture retain, according to the text?", "options": ["A synthesis of both worldviews", "Only the nomadic worldview", "Only the sedentary worldview", "Neither worldview"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 43,
+      "title": "Constitutional Reforms",
+      "titleNative": "Конституциялық реформалар",
+      "context": "2022 жылғы конституциялық референдум мен саяси реформалар туралы мәтін.",
+      "paragraphs": [
+        { "kk": "2022 жылғы конституциялық референдум Қазақстанның саяси жүйесіне елеулі өзгерістер енгізді.", "en": "The 2022 constitutional referendum introduced significant changes to Kazakhstan's political system." },
+        { "kk": "Президенттік билікті шектеу және парламенттің рөлін күшейту реформаның негізгі бағыттары болды.", "en": "Limiting presidential power and strengthening the role of parliament were the main directions of the reform." },
+        { "kk": "Конституциялық сот қайта құрылып, азаматтардың құқықтарын қорғау тетігі кеңейтілді.", "en": "The Constitutional Court was re-established, and the mechanism for protecting citizens' rights was expanded." },
+        { "kk": "Жергілікті өзін-өзі басқаруды дамыту орталықтандырылған биліктен бас тартуды білдіреді.", "en": "Developing local self-government signifies a move away from centralised power." },
+        { "kk": "Сарапшылар бұл реформаларды нақты демократияландыру қадамы ретінде бағалайды.", "en": "Experts assess these reforms as a genuine step towards democratisation." },
+        { "kk": "Дегенмен, сыншылар реформалардың іс жүзінде қаншалықты тиімді жүзеге асатынына күмән келтіреді.", "en": "However, critics express doubt about how effectively the reforms will actually be implemented in practice." },
+        { "kk": "Азаматтық қоғамның белсенділігі реформалардың табысты болуының шешуші факторы болып қала береді.", "en": "The activity of civil society remains a decisive factor in the success of the reforms." }
+      ],
+      "questions": [
+        { "question": "What did the 2022 constitutional referendum introduce?", "options": ["Significant political changes", "No changes at all", "Only economic reforms", "A new currency"], "answerIndex": 0 },
+        { "question": "What were the main directions of the reform?", "options": ["Limiting presidential power and strengthening parliament", "Increasing presidential power only", "Abolishing parliament", "Nothing specific"], "answerIndex": 0 },
+        { "question": "What does developing local self-government signify?", "options": ["A move away from centralised power", "More centralisation", "Nothing", "The end of government"], "answerIndex": 0 },
+        { "question": "What do critics doubt, according to the text?", "options": ["How effectively the reforms will be implemented", "Whether the reforms happened at all", "The existence of the constitution", "Nothing"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 44,
+      "title": "The Consequences of the Aral Crisis",
+      "titleNative": "Арал дағдарысының салдары",
+      "context": "Арал теңізінің тартылуының әлеуметтік-экономикалық салдарлары туралы терең мәтін.",
+      "paragraphs": [
+        { "kk": "Арал теңізінің тартылуы жай ғана экологиялық апат емес, тұтас өңірдің әлеуметтік-экономикалық құрылымын өзгертті.", "en": "The shrinking of the Aral Sea was not merely an ecological disaster; it transformed the socio-economic structure of an entire region." },
+        { "kk": "Бұрынғы теңіз түбінен көтерілген тұзды шаң алыс аймақтарға дейін таралып, ауыл шаруашылығына зиян келтіреді.", "en": "Salty dust rising from the former seabed spreads to distant regions, harming agriculture." },
+        { "kk": "Балық аулау өнеркәсібінің құлдырауы мыңдаған адамды жұмыссыз қалдырды.", "en": "The collapse of the fishing industry left thousands of people unemployed." },
+        { "kk": "Халықтың денсаулық көрсеткіштері, әсіресе тыныс алу жолдарының аурулары, айтарлықтай нашарлады.", "en": "The health indicators of the population, especially respiratory diseases, significantly worsened." },
+        { "kk": "Халықаралық ұйымдар өңірді қалпына келтіру жобаларына қаржы бөлуде.", "en": "International organisations are allocating funding for regional restoration projects." },
+        { "kk": "Қазақстандық бөлігінде салынған Көкарал бөгеті солтүстік Аралдың су деңгейін ішінара қалпына келтірді.", "en": "The Kokaral dam, built on the Kazakh side, partially restored the water level of the North Aral." },
+        { "kk": "Дегенмен, толық қалпына келтіру ондаған жылдарды және орасан зор инвестицияны талап етеді.", "en": "Nevertheless, full restoration requires decades and enormous investment." }
+      ],
+      "questions": [
+        { "question": "What did the shrinking of the Aral Sea transform, according to the text?", "options": ["The socio-economic structure of the region", "Nothing significant", "Only the local climate", "The country's borders"], "answerIndex": 0 },
+        { "question": "What does the salty dust from the former seabed harm?", "options": ["Agriculture", "Only tourism", "Nothing", "The fishing industry alone"], "answerIndex": 0 },
+        { "question": "What happened to the fishing industry?", "options": ["It collapsed, leaving thousands unemployed", "It grew rapidly", "Nothing changed", "It moved to another country"], "answerIndex": 0 },
+        { "question": "What did the Kokaral dam partially restore?", "options": ["The water level of the North Aral", "The fishing industry fully", "The climate entirely", "Nothing"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 45,
+      "title": "The Golden Age of Kazakh Literature",
+      "titleNative": "Қазақ әдебиетінің алтын ғасыры",
+      "context": "ХХ ғасыр басындағы қазақ әдебиетінің ұлттық сананы қалыптастырудағы рөлі туралы мәтін.",
+      "paragraphs": [
+        { "kk": "ХХ ғасырдың басы қазақ әдебиетінің ұлттық сананы қалыптастырудағы рөлінің шарықтау шегі болды.", "en": "The early 20th century was the pinnacle of Kazakh literature's role in shaping national consciousness." },
+        { "kk": "Алаш қозғалысының өкілдері әдебиетті саяси және мәдени құрал ретінде пайдаланды.", "en": "Representatives of the Alash movement used literature as a political and cultural tool." },
+        { "kk": "Абайдың дәстүрін жалғастырған жазушылар халықтың рухани мұрасын жаңғыртуға тырысты.", "en": "Writers who continued Abai's tradition sought to revive the people's spiritual heritage." },
+        { "kk": "Кеңестік цензура кейбір авторлардың шығармаларына тыйым салғанымен, олардың идеялары құпия түрде таралды.", "en": "Although Soviet censorship banned the works of some authors, their ideas spread secretly." },
+        { "kk": "Мұхтар Әуезовтің \"Абай жолы\" эпопеясы қазақ прозасының шыңы деп саналады.", "en": "Mukhtar Auezov's epic \"The Path of Abai\" is considered the pinnacle of Kazakh prose." },
+        { "kk": "Бұл дәуірдің әдеби мұрасы қазіргі қазақстандық сәйкестікті қалыптастыруда әлі де маңызды рөл атқарады.", "en": "The literary heritage of this era still plays an important role in shaping modern Kazakhstani identity." },
+        { "kk": "Зерттеушілер бұл кезеңді ұлттық өзін-өзі тану процесінің шешуші кезеңі деп бағалайды.", "en": "Researchers regard this period as a decisive stage in the process of national self-awareness." }
+      ],
+      "questions": [
+        { "question": "What was the early 20th century for Kazakh literature?", "options": ["The pinnacle of its role in shaping national consciousness", "An unimportant period", "The end of Kazakh literature", "A period with no writers"], "answerIndex": 0 },
+        { "question": "How did representatives of the Alash movement use literature?", "options": ["As a political and cultural tool", "Only for entertainment", "They avoided literature", "As a foreign import"], "answerIndex": 0 },
+        { "question": "What is considered the pinnacle of Kazakh prose?", "options": ["Mukhtar Auezov's \"The Path of Abai\"", "A foreign novel", "A modern film", "Nothing significant"], "answerIndex": 0 },
+        { "question": "How do researchers regard this period?", "options": ["A decisive stage in national self-awareness", "An unimportant era", "A foreign influence only", "A period of decline"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 46,
+      "title": "The Geopolitics of Central Asia",
+      "titleNative": "Орталық Азия геосаясаты",
+      "context": "Орталық Азия аймағындағы ірі державалардың мүдделері мен аймақтық ынтымақтастық туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Орталық Азия аймағы тарихи тұрғыдан ірі державалардың мүдделер қиылысында орналасқан.", "en": "The Central Asian region has historically been located at the intersection of great powers' interests." },
+        { "kk": "Ресей, Қытай және Батыс елдері аймақтағы ықпалын кеңейтуге тырысады.", "en": "Russia, China, and Western countries strive to expand their influence in the region." },
+        { "kk": "Энергетикалық ресурстар мен транзиттік дәліздер геосаяси бәсекелестіктің негізгі себептеріне айналды.", "en": "Energy resources and transit corridors have become the main causes of geopolitical competition." },
+        { "kk": "Аймақтық елдер тепе-теңдік саясатын ұстанып, ешбір державаға толық тәуелді болудан аулақ болуға тырысады.", "en": "Regional countries pursue a balancing policy, trying to avoid becoming fully dependent on any single power." },
+        { "kk": "Орталық Азия елдерінің өзара ынтымақтастығы соңғы жылдары айтарлықтай тереңдеді.", "en": "Cooperation among Central Asian countries has deepened significantly in recent years." },
+        { "kk": "Су ресурстарын бөлу мәселесі әлі де аймақтық шиеленістің әлеуетті көзі болып қалуда.", "en": "The issue of water resource allocation still remains a potential source of regional tension." },
+        { "kk": "Сарапшылар аймақтың келешегі көп жақты дипломатия мен экономикалық ықпалдасуға байланысты деп есептейді.", "en": "Experts believe the region's future depends on multilateral diplomacy and economic integration." }
+      ],
+      "questions": [
+        { "question": "Where has Central Asia historically been located, according to the text?", "options": ["At the intersection of great powers' interests", "In complete isolation", "Outside any geopolitical interest", "Under a single power's control"], "answerIndex": 0 },
+        { "question": "What have become the main causes of geopolitical competition?", "options": ["Energy resources and transit corridors", "Only cultural differences", "Nothing", "Religious disputes alone"], "answerIndex": 0 },
+        { "question": "What policy do regional countries pursue, according to the text?", "options": ["A balancing policy avoiding full dependence on one power", "Complete alliance with one power", "Total isolation", "Ignoring all foreign powers"], "answerIndex": 0 },
+        { "question": "What remains a potential source of regional tension?", "options": ["The issue of water resource allocation", "Trade agreements", "Cultural exchange", "Tourism"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 47,
+      "title": "Digital Economy and Blockchain",
+      "titleNative": "Цифрлық экономика және блокчейн",
+      "context": "Блокчейн технологиясының Қазақстан экономикасына әсері туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Блокчейн технологиясы орталықтандырылмаған және мөлдір транзакцияларды қамтамасыз ететін жүйе ретінде танылды.", "en": "Blockchain technology has become recognised as a system that ensures decentralised and transparent transactions." },
+        { "kk": "Бұл технология криптовалютадан бөлек, жеткізу тізбегін бақылау мен мемлекеттік қызметтерде де қолданылады.", "en": "Beyond cryptocurrency, this technology is also used in supply chain tracking and government services." },
+        { "kk": "Қазақстан арзан электр энергиясының арқасында криптовалюта өндірушілердің аймақтық орталығына айналды.", "en": "Thanks to cheap electricity, Kazakhstan has become a regional hub for cryptocurrency miners." },
+        { "kk": "Дегенмен, реттеуші органдар цифрлық активтерге қатысты нақты құқықтық негіз әзірлеуде қиындықтарға тап болуда.", "en": "However, regulatory bodies are facing difficulties developing a clear legal framework for digital assets." },
+        { "kk": "Ақылды келісімшарттар делдалдарсыз мәмілелерді автоматтандыруға мүмкіндік береді.", "en": "Smart contracts make it possible to automate transactions without intermediaries." },
+        { "kk": "Цифрлық валюталардың пайда болуы дәстүрлі банк жүйесіне балама ұсынуда.", "en": "The emergence of digital currencies is offering an alternative to the traditional banking system." },
+        { "kk": "Сарапшылар бұл технологияның қаржы секторын түбегейлі өзгертетінін болжайды.", "en": "Experts predict that this technology will fundamentally transform the financial sector." }
+      ],
+      "questions": [
+        { "question": "What has blockchain technology become recognised as?", "options": ["A system ensuring decentralised and transparent transactions", "A centralised banking tool", "An outdated technology", "A physical currency"], "answerIndex": 0 },
+        { "question": "What has Kazakhstan become a regional hub for, thanks to cheap electricity?", "options": ["Cryptocurrency mining", "Oil refining only", "Textile manufacturing", "Tourism"], "answerIndex": 0 },
+        { "question": "What difficulties do regulatory bodies face?", "options": ["Developing a clear legal framework for digital assets", "Nothing, everything is already regulated", "Banning all technology", "Reducing electricity prices"], "answerIndex": 0 },
+        { "question": "What do smart contracts make possible?", "options": ["Automating transactions without intermediaries", "Only manual paperwork", "Slower transactions", "Nothing new"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 48,
+      "title": "Neuroscience and Language Acquisition",
+      "titleNative": "Нейроғылым және тіл меңгеру",
+      "context": "Тіл меңгеру процесінің нейроғылыми негіздері туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Нейроғылымдағы соңғы зерттеулер тіл меңгеру процесінің миымыздың бірнеше аймағын біріктіретінін көрсетеді.", "en": "Recent neuroscience research shows that the language acquisition process engages several areas of our brain." },
+        { "kk": "Балалық шақтағы миымыздың икемділігі ересек кезеңге қарағанда тілді меңгеруді жеңілдетеді.", "en": "The brain's plasticity in childhood makes language acquisition easier compared to adulthood." },
+        { "kk": "Дегенмен, ересектердің саналы түрде оқу стратегиясын қолдана алу қабілеті бұл кемшілікті ішінара өтейді.", "en": "Nevertheless, adults' ability to consciously use learning strategies partially compensates for this disadvantage." },
+        { "kk": "Екі тілде сөйлейтін адамдардың миында атқарушы функцияларды басқаратын аймақтар күшейе түседі.", "en": "In bilingual people's brains, the areas that govern executive functions become strengthened." },
+        { "kk": "Тілдік ортаға толық енгізу — ми үшін ең тиімді меңгеру әдісі болып саналады.", "en": "Full immersion in a language environment is considered the most effective learning method for the brain." },
+        { "kk": "Ұйқы жаңа тілдік ақпаратты ұзақ мерзімді жадыда бекітуде маңызды рөл атқарады.", "en": "Sleep plays an important role in consolidating new linguistic information into long-term memory." },
+        { "kk": "Бұл зерттеулер тіл үйрету әдістемесін түбегейлі қайта қарауға негіз болуда.", "en": "This research is providing grounds for a fundamental reconsideration of language teaching methodology." }
+      ],
+      "questions": [
+        { "question": "What does the language acquisition process engage, according to recent research?", "options": ["Several areas of the brain", "Only one part of the brain", "No part of the brain", "Only the ears"], "answerIndex": 0 },
+        { "question": "What makes language acquisition easier in childhood?", "options": ["The brain's plasticity", "A lack of interest", "Slower thinking", "Nothing"], "answerIndex": 0 },
+        { "question": "What strengthens in bilingual people's brains?", "options": ["Areas governing executive functions", "Nothing", "Only memory of vocabulary", "Physical strength"], "answerIndex": 0 },
+        { "question": "What plays an important role in consolidating new linguistic information?", "options": ["Sleep", "Ignoring the language", "Avoiding practice", "Stress"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 49,
+      "title": "Sustainable Development Goals",
+      "titleNative": "Тұрақты даму мақсаттары",
+      "context": "БҰҰ-ның тұрақты даму мақсаттары мен Қазақстанның осы бағдарламаға қатысуы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Біріккен Ұлттар Ұйымы 2015 жылы қабылдаған тұрақты даму мақсаттары 2030 жылға дейінгі жаһандық бағдарды белгілейді.", "en": "The Sustainable Development Goals adopted by the United Nations in 2015 set the global direction until 2030." },
+        { "kk": "Бұл мақсаттар кедейлікті жою, сапалы білім және климатты қорғауды қамтитын он жеті бағытты біріктіреді.", "en": "These goals unite seventeen directions, including eradicating poverty, quality education, and protecting the climate." },
+        { "kk": "Қазақстан ұлттық даму жоспарларын осы жаһандық бағдарламамен үйлестіруге тырысады.", "en": "Kazakhstan strives to align its national development plans with this global program." },
+        { "kk": "Мақсаттардың өзара байланысы бір саладағы прогрестің басқа салаларға оң әсер ететінін білдіреді.", "en": "The interconnection of the goals means that progress in one area positively affects other areas." },
+        { "kk": "Дегенмен, кейбір мемлекеттер қаржылық ресурстардың жетіспеушілігіне байланысты мақсаттарға толық жете алмай отыр.", "en": "However, some states are unable to fully achieve the goals due to a lack of financial resources." },
+        { "kk": "Жеке сектордың қатысуы мақсаттарды жүзеге асыруда шешуші фактор болып саналады.", "en": "The involvement of the private sector is considered a decisive factor in implementing the goals." },
+        { "kk": "Сарапшылар қазіргі қарқынмен көптеген мақсаттың 2030 жылға дейін толық орындалмайтынын ескертеді.", "en": "Experts warn that at the current pace, many goals will not be fully achieved by 2030." }
+      ],
+      "questions": [
+        { "question": "When were the Sustainable Development Goals adopted by the UN?", "options": ["2015", "2000", "2030", "1990"], "answerIndex": 0 },
+        { "question": "How many directions do the goals unite?", "options": ["Seventeen", "Five", "Ten", "Twenty-five"], "answerIndex": 0 },
+        { "question": "What does the interconnection of the goals mean?", "options": ["Progress in one area positively affects other areas", "Each goal is completely independent", "Nothing", "Only economic goals matter"], "answerIndex": 0 },
+        { "question": "What do experts warn about?", "options": ["Many goals will not be fully achieved by 2030", "All goals will easily be achieved early", "The goals are unnecessary", "Nothing"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 50,
+      "title": "The Future of Higher Education",
+      "titleNative": "Жоғары білімнің болашағы",
+      "context": "Цифрлық технологиялардың жоғары білім беру моделіне әсері туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Цифрлық технологиялардың дамуы жоғары білім беру моделін түбегейлі қайта қарауға мәжбүр етуде.", "en": "The development of digital technologies is forcing a fundamental reconsideration of the higher education model." },
+        { "kk": "Онлайн курстар мен ашық білім беру платформалары дәстүрлі университеттік білімге балама ұсынады.", "en": "Online courses and open education platforms offer an alternative to traditional university education." },
+        { "kk": "Жұмыс берушілер дипломнан гөрі нақты дағдылар мен тәжірибеге көбірек көңіл бөле бастады.", "en": "Employers have begun to pay more attention to actual skills and experience rather than diplomas." },
+        { "kk": "Университеттер бейімделмесе, өз өзектілігін жоғалту қаупіне тап болады.", "en": "If universities do not adapt, they risk losing their relevance." },
+        { "kk": "Өмір бойы білім алу тұжырымдамасы қазіргі еңбек нарығының қажеттілігіне айналуда.", "en": "The concept of lifelong learning is becoming a necessity of the modern labour market." },
+        { "kk": "Жасанды интеллект оқыту процесін жекелендіруге және оқушының қажеттіліктеріне бейімдеуге мүмкіндік береді.", "en": "Artificial intelligence makes it possible to personalise the learning process and adapt it to a student's needs." },
+        { "kk": "Дегенмен, дәстүрлі университеттер зерттеу мен сыни ойлауды дамытудағы рөлін әлі де сақтап отыр.", "en": "Nevertheless, traditional universities still retain their role in developing research and critical thinking." }
+      ],
+      "questions": [
+        { "question": "What is forcing a reconsideration of the higher education model?", "options": ["The development of digital technologies", "A decline in student numbers", "Nothing new", "Government bans"], "answerIndex": 0 },
+        { "question": "What are employers paying more attention to, according to the text?", "options": ["Actual skills and experience rather than diplomas", "Only diplomas", "Nothing", "Only university reputation"], "answerIndex": 0 },
+        { "question": "What risk do universities face if they do not adapt?", "options": ["Losing their relevance", "Gaining more students automatically", "Nothing", "Becoming mandatory"], "answerIndex": 0 },
+        { "question": "What role do traditional universities still retain, according to the text?", "options": ["Developing research and critical thinking", "No role at all", "Only administrative tasks", "Entertainment only"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 51,
+      "title": "Demographic Trends",
+      "titleNative": "Демографиялық үрдістер",
+      "context": "Қазақстанның демографиялық құрылымындағы өзгерістер туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазақстанның демографиялық құрылымы соңғы жылдары айтарлықтай өзгерістерге ұшырады.", "en": "Kazakhstan's demographic structure has undergone significant changes in recent years." },
+        { "kk": "Туу деңгейінің біртіндеп төмендеуі дамыған елдерге тән үрдіспен ұштасады.", "en": "The gradual decline in the birth rate coincides with a trend typical of developed countries." },
+        { "kk": "Қалаларға көші-қон жастар арасындағы демографиялық теңгерімсіздікті тереңдетеді.", "en": "Migration to cities deepens the demographic imbalance among young people." },
+        { "kk": "Халықтың қартаюы зейнетақы жүйесі мен денсаулық сақтауға түсетін жүктемені арттырады.", "en": "The aging of the population increases the burden on the pension system and healthcare." },
+        { "kk": "Мемлекет отбасыларды қолдау бағдарламалары арқылы туу деңгейін ынталандыруға тырысады.", "en": "The state tries to stimulate the birth rate through family support programs." },
+        { "kk": "Сыртқы көші-қон еңбек нарығындағы жұмыс күшінің құрылымына әсер етеді.", "en": "External migration affects the structure of the labour force in the job market." },
+        { "kk": "Демографиялық болжамдар ұзақ мерзімді экономикалық жоспарлауда шешуші рөл атқарады.", "en": "Demographic forecasts play a decisive role in long-term economic planning." }
+      ],
+      "questions": [
+        { "question": "What has Kazakhstan's demographic structure undergone, according to the text?", "options": ["Significant changes", "No changes at all", "Only positive changes", "Complete stability"], "answerIndex": 0 },
+        { "question": "What does migration to cities deepen?", "options": ["Demographic imbalance among young people", "Rural population growth", "Nothing", "Economic equality"], "answerIndex": 0 },
+        { "question": "What does the aging population increase the burden on?", "options": ["The pension system and healthcare", "Only tourism", "Nothing", "Foreign trade"], "answerIndex": 0 },
+        { "question": "How does the state try to stimulate the birth rate?", "options": ["Through family support programs", "By banning migration", "By ignoring the issue", "By raising taxes only"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 52,
+      "title": "The Kazakh Diaspora",
+      "titleNative": "Қазақ диаспорасы",
+      "context": "Шетелдегі этникалық қазақтардың тарихы мен тарихи отанмен байланысы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Тарихи оқиғалардың салдарынан миллионнан астам этникалық қазақ шетелде тұрады.", "en": "As a result of historical events, more than a million ethnic Kazakhs live abroad." },
+        { "kk": "Қытай, Моңғолия және Өзбекстан ірі қазақ диаспорасы шоғырланған елдер қатарына жатады.", "en": "China, Mongolia, and Uzbekistan are among the countries where large Kazakh diasporas are concentrated." },
+        { "kk": "«Нұрлы көш» бағдарламасы этникалық қазақтардың тарихи отанына оралуын жеңілдетуге бағытталған.", "en": "The \"Nurly Kosh\" program is aimed at facilitating the return of ethnic Kazakhs to their historical homeland." },
+        { "kk": "Оралмандар тілдік және мәдени бейімделу кезінде әртүрлі қиындықтарға тап болады.", "en": "Repatriates (oralman) face various difficulties during linguistic and cultural adaptation." },
+        { "kk": "Диаспора өкілдері тарихи отанмен мәдени және экономикалық байланысты сақтауға тырысады.", "en": "Diaspora representatives try to preserve cultural and economic ties with their historical homeland." },
+        { "kk": "Ана тілін сақтау диаспора қауымдастықтарының ұлттық сәйкестігін нығайтудың негізгі құралы.", "en": "Preserving the mother tongue is the main tool for strengthening the diaspora communities' national identity." },
+        { "kk": "Мемлекет диаспорамен байланысты нығайту үшін мәдени және білім беру бастамаларын қолдайды.", "en": "The state supports cultural and educational initiatives to strengthen ties with the diaspora." }
+      ],
+      "questions": [
+        { "question": "How many ethnic Kazakhs live abroad, according to the text?", "options": ["More than a million", "A few thousand", "None", "Ten million"], "answerIndex": 0 },
+        { "question": "Which countries have large concentrated Kazakh diasporas?", "options": ["China, Mongolia, and Uzbekistan", "Only the United States", "Only European countries", "Only Russia"], "answerIndex": 0 },
+        { "question": "What is the \"Nurly Kosh\" program aimed at?", "options": ["Facilitating the return of ethnic Kazakhs to their homeland", "Encouraging emigration", "Banning return migration", "Nothing specific"], "answerIndex": 0 },
+        { "question": "What do repatriates (oralman) face during adaptation?", "options": ["Various linguistic and cultural difficulties", "No difficulties at all", "Only financial success", "Immediate full integration"], "answerIndex": 0 }
+      ]
+    }
+  ]
+}

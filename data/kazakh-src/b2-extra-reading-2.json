@@ -1,0 +1,237 @@
+{
+  "level": "b2",
+  "lessons": [
+    {
+      "number": 49,
+      "title": "Remote Work",
+      "titleNative": "Қашықтан жұмыс істеу",
+      "context": "Пандемиядан кейінгі қашықтан жұмыс істеу тәжірибесі туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Пандемиядан кейін қашықтан жұмыс істеу қалыпты жағдайға айналды.", "en": "After the pandemic, working remotely became a normal situation." },
+        { "kk": "Көптеген компаниялар қызметкерлеріне үйден жұмыс істеуге рұқсат береді.", "en": "Many companies allow their employees to work from home." },
+        { "kk": "Бұл жол жүру уақытын үнемдейді және икемді кесте ұсынады.", "en": "This saves commuting time and offers a flexible schedule." },
+        { "kk": "Дегенмен, кейбір қызметкерлер жалғыздық сезінеді.", "en": "However, some employees feel lonely." },
+        { "kk": "Тиімді байланыс үшін бейнеконференция бағдарламалары қолданылады.", "en": "Video conferencing programs are used for effective communication." },
+        { "kk": "Кейбір мамандар кеңседегі жұмысты артық көреді, себебі әріптестерімен тікелей қарым-қатынас жасайды.", "en": "Some professionals prefer office work because they interact directly with their colleagues." },
+        { "kk": "Гибридті жұмыс моделі — екі әлемнің үздігін біріктіреді.", "en": "The hybrid work model combines the best of both worlds." },
+        { "kk": "Болашақта жұмыс орны түсінігі одан әрі өзгереді деп күтілуде.", "en": "In the future, the concept of a workplace is expected to change further." }
+      ],
+      "questions": [
+        { "question": "What became normal after the pandemic?", "options": ["Remote work", "Longer commutes", "Fewer jobs", "Nothing changed"], "answerIndex": 0 },
+        { "question": "What does remote work save?", "options": ["Commuting time", "Money on rent only", "Nothing", "Vacation days"], "answerIndex": 0 },
+        { "question": "Why do some employees feel lonely?", "options": ["Because they work from home without colleagues nearby", "Because they work too little", "Because of low pay", "Because of long commutes"], "answerIndex": 0 },
+        { "question": "What does the hybrid model combine?", "options": ["The best of both office and remote work", "Nothing useful", "Only disadvantages", "Two different companies"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 50,
+      "title": "Water Scarcity in Central Asia",
+      "titleNative": "Орталық Азиядағы су тапшылығы",
+      "context": "Орталық Азия елдеріндегі су ресурстары мәселесі туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Орталық Азия елдері су тапшылығы мәселесімен бетпе-бет келуде.", "en": "Central Asian countries are facing the problem of water scarcity." },
+        { "kk": "Мұздықтардың еруі өзендердегі су мөлшерін азайтады.", "en": "The melting of glaciers reduces the amount of water in rivers." },
+        { "kk": "Ауыл шаруашылығы суды ең көп тұтынатын сала.", "en": "Agriculture is the sector that consumes the most water." },
+        { "kk": "Елдер арасында су ресурстарын бөлу туралы келіссөздер жүреді.", "en": "Negotiations are held between countries about the distribution of water resources." },
+        { "kk": "Тиімді суару жүйелерін енгізу судың ысырабын азайтады.", "en": "Introducing efficient irrigation systems reduces water waste." },
+        { "kk": "Халықтың өсуі суға деген сұранысты арттырады.", "en": "Population growth increases the demand for water." },
+        { "kk": "Аймақтық ынтымақтастық бұл мәселені шешудің жалғыз жолы.", "en": "Regional cooperation is the only way to solve this problem." }
+      ],
+      "questions": [
+        { "question": "What problem are Central Asian countries facing?", "options": ["Water scarcity", "Too much rain", "Overpopulation only", "Cold winters"], "answerIndex": 0 },
+        { "question": "What reduces the amount of water in rivers?", "options": ["The melting of glaciers", "New dams only", "Nothing", "More rainfall"], "answerIndex": 0 },
+        { "question": "Which sector consumes the most water?", "options": ["Agriculture", "Tourism", "Manufacturing", "Mining"], "answerIndex": 0 },
+        { "question": "What is described as the only way to solve this problem?", "options": ["Regional cooperation", "Ignoring the issue", "War", "Individual effort alone"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 51,
+      "title": "Urbanization",
+      "titleNative": "Урбандалу",
+      "context": "Қазақстандағы урбандалу процесі мен оның салдарлары туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Соңғы онжылдықтарда Қазақстанда урбандалу процесі жеделдеді.", "en": "In recent decades, the process of urbanization has accelerated in Kazakhstan." },
+        { "kk": "Ауылдық жерлерден қалаларға көшу үрдісі жалғасуда.", "en": "The trend of moving from rural areas to cities continues." },
+        { "kk": "Қалалар жұмыс орындарын, білім мен денсаулық сақтауды ұсынады.", "en": "Cities offer jobs, education, and healthcare." },
+        { "kk": "Дегенмен, тығыздық көлік жүктемесі мен тұрғын үй бағасының өсуіне әкеледі.", "en": "However, density leads to traffic congestion and rising housing prices." },
+        { "kk": "Қала жоспарлаушылары тұрақты даму стратегияларын әзірлеуде.", "en": "City planners are developing sustainable development strategies." },
+        { "kk": "Жасыл кеңістіктер тұрғындардың өмір сапасын жақсартады.", "en": "Green spaces improve residents' quality of life." },
+        { "kk": "Ақылды қала технологиялары қала өмірін тиімдірек етеді.", "en": "Smart city technologies make urban life more efficient." }
+      ],
+      "questions": [
+        { "question": "What has accelerated in Kazakhstan in recent decades?", "options": ["Urbanization", "Depopulation", "Deforestation", "Nothing"], "answerIndex": 0 },
+        { "question": "What do cities offer, according to the text?", "options": ["Jobs, education, and healthcare", "Only farmland", "Nothing", "Only tourism"], "answerIndex": 0 },
+        { "question": "What does density lead to?", "options": ["Traffic congestion and rising housing prices", "Lower prices", "Less traffic", "More farmland"], "answerIndex": 0 },
+        { "question": "What improves residents' quality of life?", "options": ["Green spaces", "More traffic", "Higher taxes", "Fewer schools"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 52,
+      "title": "Mental Health",
+      "titleNative": "Психикалық денсаулық",
+      "context": "Психикалық денсаулықтың маңызы мен қоғамдағы көзқарастың өзгеруі туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Психикалық денсаулық дене денсаулығы сияқты маңызды.", "en": "Mental health is just as important as physical health." },
+        { "kk": "Қазіргі қоғамда стресс пен алаңдаушылық жиі кездеседі.", "en": "Stress and anxiety are common in modern society." },
+        { "kk": "Психологқа қаралу бұрын ұят саналатын, бірақ бұл көзқарас өзгеруде.", "en": "Seeing a psychologist used to be considered shameful, but this view is changing." },
+        { "kk": "Жұмыс пен өмірдің тепе-теңдігін сақтау эмоционалдық хал-жағдайға оң әсер етеді.", "en": "Maintaining a work-life balance has a positive effect on emotional well-being." },
+        { "kk": "Достармен және отбасымен қарым-қатынас қолдау көзі болады.", "en": "Communication with friends and family becomes a source of support." },
+        { "kk": "Ұйықтау режимі мен физикалық белсенділік психикалық денсаулықты нығайтады.", "en": "A sleep routine and physical activity strengthen mental health." },
+        { "kk": "Мемлекет психикалық денсаулық қызметтеріне қол жетімділікті кеңейтуде.", "en": "The state is expanding access to mental health services." }
+      ],
+      "questions": [
+        { "question": "How important is mental health, according to the text?", "options": ["As important as physical health", "Not important", "Only important for adults", "Unimportant compared to physical health"], "answerIndex": 0 },
+        { "question": "What used to be considered shameful?", "options": ["Seeing a psychologist", "Being healthy", "Exercising", "Sleeping well"], "answerIndex": 0 },
+        { "question": "What has a positive effect on emotional well-being?", "options": ["Maintaining a work-life balance", "Working constantly", "Ignoring stress", "Avoiding friends"], "answerIndex": 0 },
+        { "question": "What is the state expanding, according to the text?", "options": ["Access to mental health services", "Working hours", "Taxes", "Nothing"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 53,
+      "title": "The Changing Role of Women in Society",
+      "titleNative": "Әйелдердің қоғамдағы рөлінің өзгеруі",
+      "context": "Қазақстандағы әйелдердің қоғамдық рөлінің өзгеруі туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Соңғы онжылдықтарда әйелдердің қоғамдағы рөлі айтарлықтай өзгерді.", "en": "In recent decades, the role of women in society has changed considerably." },
+        { "kk": "Көбірек әйелдер жоғары білім алып, кәсіби мансап құруда.", "en": "More women are getting higher education and building professional careers." },
+        { "kk": "Басқарушы қызметтердегі әйелдер саны бірте-бірте артуда.", "en": "The number of women in leadership positions is gradually increasing." },
+        { "kk": "Дегенмен, жалақы теңсіздігі әлі де маңызды мәселе болып қалады.", "en": "However, wage inequality still remains an important issue." },
+        { "kk": "Отбасы мен жұмыс арасындағы теңгерімді табу қиын міндет.", "en": "Finding a balance between family and work is a difficult task." },
+        { "kk": "Мемлекеттік саясат әйелдердің құқықтарын қорғауға бағытталған.", "en": "State policy is aimed at protecting women's rights." },
+        { "kk": "Жас қыздар үлгі тұтатын әйел көшбасшылардан шабыт алады.", "en": "Young girls draw inspiration from female leaders they look up to." }
+      ],
+      "questions": [
+        { "question": "What has changed considerably in recent decades?", "options": ["The role of women in society", "Nothing", "Only men's roles", "Traditional clothing"], "answerIndex": 0 },
+        { "question": "What is gradually increasing?", "options": ["The number of women in leadership positions", "The number of unemployed women", "Nothing", "Wage inequality only"], "answerIndex": 0 },
+        { "question": "What issue still remains important?", "options": ["Wage inequality", "Overpopulation", "Illiteracy", "Water scarcity"], "answerIndex": 0 },
+        { "question": "What is state policy aimed at?", "options": ["Protecting women's rights", "Ignoring gender issues", "Limiting education", "Reducing employment"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 54,
+      "title": "Social Media's Impact on Youth",
+      "titleNative": "Әлеуметтік желінің жастарға әсері",
+      "context": "Әлеуметтік желілердің жастардың өміріне оң және теріс әсері туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Әлеуметтік желілер жастардың күнделікті өмірінің ажырамас бөлігіне айналды.", "en": "Social media has become an integral part of young people's daily lives." },
+        { "kk": "Олар достарымен байланыста болу және ақпарат алмасу үшін пайдаланылады.", "en": "They are used to stay in touch with friends and exchange information." },
+        { "kk": "Дегенмен, экранда тым көп уақыт өткізу ұйқы сапасына теріс әсер етеді.", "en": "However, spending too much time on screens negatively affects sleep quality." },
+        { "kk": "Салыстыру мәдениеті кейбір жастарда өзін-өзі бағалауды төмендетеді.", "en": "A culture of comparison lowers self-esteem in some young people." },
+        { "kk": "Сонымен қатар, әлеуметтік желілер кәсіпкерлік пен шығармашылыққа жаңа мүмкіндіктер ашады.", "en": "At the same time, social media opens new opportunities for entrepreneurship and creativity." },
+        { "kk": "Цифрлық сауаттылық жастарды жалған ақпараттан қорғайды.", "en": "Digital literacy protects young people from false information." },
+        { "kk": "Тепе-теңдікті сақтау — денсаулықты сақтаудың кілті.", "en": "Maintaining balance is the key to preserving health." }
+      ],
+      "questions": [
+        { "question": "What has social media become for young people?", "options": ["An integral part of daily life", "Completely unimportant", "Only for adults", "A rare tool"], "answerIndex": 0 },
+        { "question": "What negatively affects sleep quality?", "options": ["Spending too much time on screens", "Reading books", "Exercising", "Eating healthy food"], "answerIndex": 0 },
+        { "question": "What does a culture of comparison do?", "options": ["Lowers self-esteem in some young people", "Raises self-esteem always", "Has no effect", "Improves sleep"], "answerIndex": 0 },
+        { "question": "What protects young people from false information?", "options": ["Digital literacy", "Ignoring the internet completely", "Nothing", "Watching more videos"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 55,
+      "title": "The Zheti Zhargy",
+      "titleNative": "Жеті Жарғы",
+      "context": "Қазақ халқының дәстүрлі заң жинағы Жеті Жарғы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Жеті Жарғы — қазақ халқының дәстүрлі заң жинағы.", "en": "The Zheti Zhargy is the traditional legal code of the Kazakh people." },
+        { "kk": "Оны Тәуке хан XVII ғасырда қалыптастырды.", "en": "It was formulated by Tauke Khan in the 17th century." },
+        { "kk": "Заң жинағы жер дауларын, отбасылық мәселелерді және қылмыстық жазаларды реттеді.", "en": "The legal code regulated land disputes, family matters, and criminal punishments." },
+        { "kk": "Ол ауызша дәстүр арқылы ұрпақтан ұрпаққа жеткізілді.", "en": "It was passed down from generation to generation through oral tradition." },
+        { "kk": "Билер — заңды түсіндіретін және дауларды шешетін даналар болған.", "en": "The biys were wise men who interpreted the law and resolved disputes." },
+        { "kk": "Жеті Жарғы қазақ қоғамының әлеуметтік тәртібін сақтауға көмектесті.", "en": "The Zheti Zhargy helped maintain the social order of Kazakh society." },
+        { "kk": "Бүгінде тарихшылар оны құқықтық мұраның маңызды бөлігі деп санайды.", "en": "Today, historians consider it an important part of the legal heritage." }
+      ],
+      "questions": [
+        { "question": "What is the Zheti Zhargy?", "options": ["The traditional legal code of the Kazakh people", "A modern law", "A religious text only", "A type of poetry"], "answerIndex": 0 },
+        { "question": "Who formulated it?", "options": ["Tauke Khan", "Abai Kunanbaiuly", "Abylai Khan", "Kenesary Khan"], "answerIndex": 0 },
+        { "question": "How was it passed down?", "options": ["Through oral tradition", "Only in written books", "It was lost", "Through foreign scholars"], "answerIndex": 0 },
+        { "question": "Who were the biys?", "options": ["Wise men who interpreted the law", "Foreign ambassadors", "Soldiers only", "Merchants"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 56,
+      "title": "The New Silk Road",
+      "titleNative": "Жаңа Жібек жолы",
+      "context": "Қазақстанның транзиттік дәліз ретіндегі дамуы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазақстан өзінің географиялық орналасуын экономикалық артықшылыққа айналдыруда.", "en": "Kazakhstan is turning its geographical location into an economic advantage." },
+        { "kk": "Ел Азия мен Еуропаны байланыстыратын транзиттік дәліз ретінде дамуда.", "en": "The country is developing as a transit corridor connecting Asia and Europe." },
+        { "kk": "Жаңа теміржолдар мен автомобиль жолдары сауда ағынын жеделдетеді.", "en": "New railways and roads accelerate the flow of trade." },
+        { "kk": "Қытайдың \"Бір белдеу, бір жол\" бастамасы бұл дамуда маңызды рөл атқарады.", "en": "China's \"Belt and Road\" initiative plays an important role in this development." },
+        { "kk": "Логистикалық орталықтар шекара маңындағы қалаларда салынуда.", "en": "Logistics centres are being built in cities near the border." },
+        { "kk": "Бұл жоба жұмыс орындарын құрып, шетелдік инвестицияны тартады.", "en": "This project creates jobs and attracts foreign investment." },
+        { "kk": "Сарапшылар Қазақстанды аймақтың келешегі зор экономикалық хабы деп бағалайды.", "en": "Experts assess Kazakhstan as a highly promising economic hub of the region." }
+      ],
+      "questions": [
+        { "question": "What is Kazakhstan turning into an economic advantage?", "options": ["Its geographical location", "Its climate", "Its population size", "Its currency"], "answerIndex": 0 },
+        { "question": "What is Kazakhstan developing as?", "options": ["A transit corridor connecting Asia and Europe", "An isolated country", "A tourist destination only", "A military base"], "answerIndex": 0 },
+        { "question": "What initiative plays an important role in this development?", "options": ["China's \"Belt and Road\" initiative", "A local Kazakh project only", "A European Union program", "Nothing"], "answerIndex": 0 },
+        { "question": "What does this project attract, according to the text?", "options": ["Foreign investment", "Fewer jobs", "Less trade", "Isolation"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 57,
+      "title": "E-Government Services",
+      "titleNative": "Электронды үкімет қызметтері",
+      "context": "Қазақстандағы электронды үкімет қызметтерінің дамуы туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Қазақстан электронды үкімет қызметтерін дамытуда алдыңғы қатарда тұр.", "en": "Kazakhstan is at the forefront of developing e-government services." },
+        { "kk": "Азаматтар құжаттарды үйден шықпай-ақ онлайн ресімдей алады.", "en": "Citizens can process documents online without leaving home." },
+        { "kk": "eGov.kz порталы жүздеген мемлекеттік қызметке қол жетімділік береді.", "en": "The eGov.kz portal provides access to hundreds of government services." },
+        { "kk": "Бұл жүйе бюрократияны азайтып, уақытты үнемдейді.", "en": "This system reduces bureaucracy and saves time." },
+        { "kk": "Цифрлық қолтаңба құжаттарды заңды түрде растауға мүмкіндік береді.", "en": "A digital signature allows documents to be legally verified." },
+        { "kk": "Дегенмен, кейбір ауылдық жерлерде интернетке қол жетімділік шектеулі.", "en": "However, in some rural areas internet access is limited." },
+        { "kk": "Мемлекет цифрлық алшақтықты азайту үшін инфрақұрылымға инвестиция салуда.", "en": "The state is investing in infrastructure to reduce the digital divide." }
+      ],
+      "questions": [
+        { "question": "What is Kazakhstan at the forefront of?", "options": ["Developing e-government services", "Traditional paper bureaucracy", "Ignoring technology", "Closing government offices"], "answerIndex": 0 },
+        { "question": "What does the eGov.kz portal provide?", "options": ["Access to hundreds of government services", "Only tax payments", "Nothing useful", "Only weather information"], "answerIndex": 0 },
+        { "question": "What does a digital signature allow?", "options": ["Legal verification of documents", "Nothing", "Free internet", "Faster trains"], "answerIndex": 0 },
+        { "question": "What is limited in some rural areas?", "options": ["Internet access", "Food supply", "Electricity only", "Nothing"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 58,
+      "title": "The Freelance Economy",
+      "titleNative": "Фриланс экономикасы",
+      "context": "Фриланс экономикасының өсуі мен фрилансерлердің қиындықтары туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Фриланс экономикасы дүние жүзінде жылдам өсуде.", "en": "The freelance economy is growing rapidly worldwide." },
+        { "kk": "Көптеген адамдар тұрақты жұмыс орнынан гөрі икемді кестені таңдайды.", "en": "Many people choose a flexible schedule over a permanent job." },
+        { "kk": "Онлайн платформалар фрилансерлер мен тапсырыс берушілерді байланыстырады.", "en": "Online platforms connect freelancers with clients." },
+        { "kk": "Дизайн, бағдарламалау және жазу — ең сұранысқа ие фриланс мамандықтары.", "en": "Design, programming, and writing are the most in-demand freelance professions." },
+        { "kk": "Фрилансерлер табысының тұрақсыздығымен күресуге тура келеді.", "en": "Freelancers have to deal with income instability." },
+        { "kk": "Әлеуметтік сақтандыру мен зейнетақы жинағы жеке жауапкершілікке айналады.", "en": "Social insurance and pension savings become a personal responsibility." },
+        { "kk": "Дегенмен, тәуелсіздік пен икемділік көптеген адамдарды осы жолды таңдауға итермелейді.", "en": "Nevertheless, independence and flexibility push many people to choose this path." }
+      ],
+      "questions": [
+        { "question": "What is growing rapidly worldwide?", "options": ["The freelance economy", "Traditional office work", "Manufacturing jobs", "Farming"], "answerIndex": 0 },
+        { "question": "What do many people choose over a permanent job?", "options": ["A flexible schedule", "A fixed salary only", "Nothing", "Longer hours"], "answerIndex": 0 },
+        { "question": "What are the most in-demand freelance professions?", "options": ["Design, programming, and writing", "Farming and mining", "Only teaching", "Only law"], "answerIndex": 0 },
+        { "question": "What do freelancers have to deal with?", "options": ["Income instability", "Guaranteed income", "No responsibilities", "Free healthcare"], "answerIndex": 0 }
+      ]
+    },
+    {
+      "number": 59,
+      "title": "Food Security",
+      "titleNative": "Азық-түлік қауіпсіздігі",
+      "context": "Азық-түлік қауіпсіздігінің маңызы мен Қазақстанның бидай экспорты туралы мәтін.",
+      "paragraphs": [
+        { "kk": "Азық-түлік қауіпсіздігі — әрбір мемлекеттің стратегиялық басымдығы.", "en": "Food security is a strategic priority for every state." },
+        { "kk": "Қазақстан бидай экспорттаушы алдыңғы қатарлы елдердің бірі.", "en": "Kazakhstan is one of the leading wheat-exporting countries." },
+        { "kk": "Ауыл шаруашылығының өнімділігін арттыру үшін заманауи технологиялар қолданылады.", "en": "Modern technologies are used to increase agricultural productivity." },
+        { "kk": "Климаттың өзгеруі егіннің түсіміне қауіп төндіреді.", "en": "Climate change poses a risk to crop yields." },
+        { "kk": "Азық-түлік қоймалары төтенше жағдайларда маңызды рөл атқарады.", "en": "Food storage facilities play an important role in emergencies." },
+        { "kk": "Тұрақты ауыл шаруашылығы әдістері топырақтың құнарлылығын сақтайды.", "en": "Sustainable farming methods preserve soil fertility." },
+        { "kk": "Азық-түлік қауіпсіздігін қамтамасыз ету — халықаралық ынтымақтастықты талап етеді.", "en": "Ensuring food security requires international cooperation." }
+      ],
+      "questions": [
+        { "question": "What is food security for every state?", "options": ["A strategic priority", "An unimportant issue", "A foreign concept", "A temporary concern"], "answerIndex": 0 },
+        { "question": "What is Kazakhstan a leading exporter of?", "options": ["Wheat", "Oil only", "Coffee", "Rice"], "answerIndex": 0 },
+        { "question": "What poses a risk to crop yields?", "options": ["Climate change", "Modern technology", "International trade", "Nothing"], "answerIndex": 0 },
+        { "question": "What do sustainable farming methods preserve?", "options": ["Soil fertility", "Nothing", "Only profits", "Water pollution"], "answerIndex": 0 }
+      ]
+    }
+  ]
+}
